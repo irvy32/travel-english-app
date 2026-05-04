@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
+import vue from '@vue/plugin-vue'
 
+// https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react(), tailwindcss()],
-  base: '/travel-english-app/',
+  plugins: [vue()],
+  base: '/travel-english-app/', // 加上這一行，必須與您的儲存庫名稱一致
 })
