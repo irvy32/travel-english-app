@@ -1,0 +1,18 @@
+[
+  {
+    "id": "travel",
+    "name": "旅遊英文",
+    "icon": "✈️",
+    "chaptersPath": "travel",
+    "totalChapters": 14,
+    "available": true
+  },
+  {
+    "id": "social",
+    "name": "社交英文",
+    "icon": "🤝",
+    "chaptersPath": "social",
+    "totalChapters": 0,
+    "available": false
+  }
+]

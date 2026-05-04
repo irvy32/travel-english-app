@@ -1,0 +1,463 @@
+{
+  "chapter_id": "09",
+  "chapter_name": "購物與退稅",
+  "sentences": [
+    {
+      "id": "09-001",
+      "en": "How much does this cost?",
+      "keywords": [
+        {
+          "word": "cost",
+          "kk": "/kɔst/",
+          "zh": "成本"
+        }
+      ],
+      "zh": "這個多少錢？",
+      "level": "A2",
+      "tags": [
+        "shopping",
+        "price",
+        "inquiry"
+      ],
+      "tips": "購物時最基本的問價句型。也可以說：What's the price of this?（這個的價格是多少？）或 How much is this?（這個多少錢？）三種都很常用。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-002",
+      "en": "Do you have this in a larger size?",
+      "keywords": [
+        {
+          "word": "larger",
+          "kk": "/ˈlɑrdʒɚ/",
+          "zh": "更大"
+        }
+      ],
+      "zh": "這個有大一點的尺寸嗎？",
+      "level": "A2",
+      "tags": [
+        "shopping",
+        "size",
+        "clothing"
+      ],
+      "tips": "尺碼詢問：larger（大一碼）、smaller（小一碼）。也可以直接說尺碼：Do you have this in a medium / large / XL?（你們有這個中/大/加大碼嗎？）",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-003",
+      "en": "Can I try this on?",
+      "keywords": [
+        {
+          "word": "try on",
+          "kk": "/traɪ ɑn/",
+          "zh": "試穿"
+        }
+      ],
+      "zh": "我可以試穿這件嗎？",
+      "level": "A2",
+      "tags": [
+        "shopping",
+        "fitting",
+        "clothing"
+      ],
+      "tips": "try on 是片語動詞，意思是「試穿（衣物）」。試鞋時也用同一個片語。試穿室（fitting room）通常在店後方，可以問：Where is the fitting room?（試穿室在哪裡？）",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-004",
+      "en": "Do you offer a tax refund for tourists?",
+      "keywords": [
+        {
+          "word": "tax refund",
+          "kk": "/tæks ˈriːfʌnd/",
+          "zh": "退稅"
+        }
+      ],
+      "zh": "你們有提供旅客退稅服務嗎？",
+      "level": "B1",
+      "tags": [
+        "shopping",
+        "tax refund",
+        "tourist"
+      ],
+      "tips": "tax refund（退稅）是許多國家提供給觀光客的福利，購買特定金額以上商品，離境時可以退回消費稅（VAT / GST）。需要出示護照並索取退稅單（tax refund form）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-005",
+      "en": "Where do I go to claim my tax refund at the airport?",
+      "keywords": [
+        {
+          "word": "claim",
+          "kk": "/kleɪm/",
+          "zh": "宣稱"
+        }
+      ],
+      "zh": "我要在機場的哪裡辦理退稅？",
+      "level": "B1",
+      "tags": [
+        "shopping",
+        "tax refund",
+        "airport"
+      ],
+      "tips": "claim 是「申請、領取（應得的東西）」。機場退稅通常在出境安檢前的退稅窗口（VAT refund counter）辦理，需出示退稅單、購物收據、護照和商品（有時需要）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-006",
+      "en": "Could I get a receipt, please?",
+      "keywords": [
+        {
+          "word": "receipt",
+          "kk": "/rɪˈsiːt/",
+          "zh": "收據"
+        }
+      ],
+      "zh": "可以給我收據嗎？",
+      "level": "A2",
+      "tags": [
+        "shopping",
+        "receipt",
+        "payment"
+      ],
+      "tips": "receipt（收據）的 p 不發音。退稅時必須出示購物收據，因此每次購物後一定要記得索取並妥善保存，不要丟棄。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-007",
+      "en": "Is this on sale?",
+      "keywords": [
+        {
+          "word": "on sale",
+          "kk": "/ɑn seɪl/",
+          "zh": "出售"
+        }
+      ],
+      "zh": "這個有在特價嗎？",
+      "level": "A2",
+      "tags": [
+        "shopping",
+        "discount",
+        "sale"
+      ],
+      "tips": "on sale 有兩種意思：在美式英語多指「特價、打折中」；在英式英語有時指「有在賣（販售中）」。看到 Sale 標牌通常代表有折扣。詢問折扣也可說：Is there a discount?（有折扣嗎？）",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-008",
+      "en": "Can I pay by credit card?",
+      "keywords": [
+        {
+          "word": "credit card",
+          "kk": "/ˈkrɛdɪt kɑrd/",
+          "zh": "信用卡"
+        }
+      ],
+      "zh": "我可以刷信用卡嗎？",
+      "level": "A2",
+      "tags": [
+        "shopping",
+        "payment",
+        "credit card"
+      ],
+      "tips": "在詢問是否可刷卡之前，留意收銀台附近是否有 Visa、Mastercard 等貼紙，若有通常代表接受刷卡。部分小店或市場只收現金（cash only）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-009",
+      "en": "I'd like to return this item. I have the receipt.",
+      "keywords": [
+        {
+          "word": "return",
+          "kk": "/rɪˈtɜrn/",
+          "zh": "返回"
+        },
+        {
+          "word": "item",
+          "kk": "/ˈaɪtəm/",
+          "zh": "物品"
+        }
+      ],
+      "zh": "我想退貨，我有收據。",
+      "level": "B1",
+      "tags": [
+        "shopping",
+        "return",
+        "refund"
+      ],
+      "tips": "return 在此作動詞，意思是「退貨」。各店家的退換貨政策（return policy）不同，有的需要在購買後 30 天內，有的需要商品未開封。購物前可以先確認 return policy。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "09-010",
+      "en": "This item is defective. Could I exchange it?",
+      "keywords": [
+        {
+          "word": "defective",
+          "kk": "/dɪˈfɛktɪv/",
+          "zh": "有缺陷的"
+        },
+        {
+          "word": "exchange",
+          "kk": "/ɪksˈtʃeɪndʒ/",
+          "zh": "交換"
+        }
+      ],
+      "zh": "這件商品有瑕疵，可以換一件嗎？",
+      "level": "B1",
+      "tags": [
+        "shopping",
+        "defective",
+        "exchange"
+      ],
+      "tips": "defective 是「有缺陷的、瑕疵品」。exchange 是「換貨」，refund 是「退款」。換貨比退款更容易被接受，如果只是想換同款無瑕疵品，先提換貨。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-011",
+      "en": "Do you have this in a different color?",
+      "keywords": [
+        {
+          "word": "color",
+          "kk": "/ˈkʌlɚ/",
+          "zh": "顏色"
+        }
+      ],
+      "zh": "這個有不同顏色嗎？",
+      "level": "A2",
+      "tags": [
+        "shopping",
+        "color",
+        "preference"
+      ],
+      "tips": "color 是美式拼法；英式英語拼作 colour。購物時常用顏色詞彙：black（黑）、white（白）、navy（深藍）、beige（米色）、burgundy（酒紅）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-012",
+      "en": "How do I fill out the tax refund form?",
+      "keywords": [
+        {
+          "word": "fill out",
+          "kk": "/fɪl aʊt/",
+          "zh": "填寫"
+        }
+      ],
+      "zh": "退稅單要怎麼填？",
+      "level": "B1",
+      "tags": [
+        "shopping",
+        "tax refund",
+        "form"
+      ],
+      "tips": "fill out 是「填寫（表格）」，也可以說 fill in。退稅單通常需要填寫：姓名、護照號碼、航班號碼、銀行帳號或信用卡號碼（用於退款）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-013",
+      "en": "I'm just browsing, thank you.",
+      "keywords": [
+        {
+          "word": "browsing",
+          "kk": "/ˈbraʊzɪŋ/",
+          "zh": "瀏覽"
+        }
+      ],
+      "zh": "我只是隨便看看，謝謝。",
+      "level": "A2",
+      "tags": [
+        "shopping",
+        "casual",
+        "response"
+      ],
+      "tips": "browsing 是「隨便瀏覽、隨便逛逛」。當店員上前詢問 Can I help you?（需要幫忙嗎？）而你只是想自己看看，用這句話可以禮貌地婉拒，不傷感情。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "09-014",
+      "en": "Could you gift wrap this for me?",
+      "keywords": [
+        {
+          "word": "gift wrap",
+          "kk": "/ɡɪft ræp/",
+          "zh": "禮品包裝"
+        }
+      ],
+      "zh": "可以幫我包裝成禮物嗎？",
+      "level": "B1",
+      "tags": [
+        "shopping",
+        "gift",
+        "service"
+      ],
+      "tips": "gift wrap 是「禮品包裝」，通常需要支付少許費用或在特定店家才有提供。如果是買來送人，也可以說：It's a gift. Could you wrap it?（這是要送人的，可以包裝嗎？）",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "09-015",
+      "en": "What is the minimum purchase amount for a tax refund?",
+      "keywords": [
+        {
+          "word": "minimum",
+          "kk": "/ˈmɪnɪməm/",
+          "zh": "最低限度"
+        },
+        {
+          "word": "purchase",
+          "kk": "/ˈpɜrtʃɪs/",
+          "zh": "購買"
+        }
+      ],
+      "zh": "退稅的最低消費金額是多少？",
+      "level": "B1",
+      "tags": [
+        "shopping",
+        "tax refund",
+        "amount"
+      ],
+      "tips": "各國退稅最低消費門檻（minimum purchase amount）不同，例如：歐盟約 €50-€175（依國家而異）、日本為 ¥5,000。購物前先查詢可以更有計畫地消費。",
+      "audio": null,
+      "type": "question"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q09-mc-001",
+        "question": "You want to try on a pair of jeans. What do you say?",
+        "options": [
+          {
+            "en": "Can I try this on?",
+            "zh": "我可以試試這個嗎？"
+          },
+          {
+            "en": "Can I borrow this?",
+            "zh": "我可以藉這個嗎？"
+          },
+          {
+            "en": "Can I test this?",
+            "zh": "我可以測試一下嗎？"
+          },
+          {
+            "en": "Can I wear this?",
+            "zh": "我可以穿這個嗎？"
+          }
+        ],
+        "answer": "Can I try this on?"
+      },
+      {
+        "id": "q09-mc-002",
+        "question": "A shop assistant approaches you and you just want to look around. What do you say?",
+        "options": [
+          {
+            "en": "I need help, please.",
+            "zh": "我需要幫助，請。"
+          },
+          {
+            "en": "I'm just browsing, thank you.",
+            "zh": "我只是瀏覽一下，謝謝。"
+          },
+          {
+            "en": "I'd like to buy something.",
+            "zh": "我想買東西。"
+          },
+          {
+            "en": "I'm looking for a discount.",
+            "zh": "我正在尋找折扣。"
+          }
+        ],
+        "answer": "I'm just browsing, thank you."
+      },
+      {
+        "id": "q09-mc-003",
+        "question": "You want to ask if a store has tax refund service. What do you ask?",
+        "options": [
+          {
+            "en": "Do you have free gift wrapping?",
+            "zh": "你們有免費禮品包裝嗎？"
+          },
+          {
+            "en": "Do you offer international shipping?",
+            "zh": "你們提供國際運送嗎？"
+          },
+          {
+            "en": "Do you offer tax refund for tourists?",
+            "zh": "你們提供旅客退稅嗎？"
+          },
+          {
+            "en": "Do you have a loyalty program?",
+            "zh": "你們有忠誠度計畫嗎？"
+          }
+        ],
+        "answer": "Do you offer tax refund for tourists?"
+      },
+      {
+        "id": "q09-mc-004",
+        "question": "What documents do you typically need for tax refund at the airport?",
+        "options": [
+          {
+            "en": "Your passport only",
+            "zh": "僅您的護照"
+          },
+          {
+            "en": "Your boarding pass only",
+            "zh": "僅您的登機證"
+          },
+          {
+            "en": "Your tax refund form and receipt",
+            "zh": "您的退稅表格和收據"
+          },
+          {
+            "en": "Your travel insurance card",
+            "zh": "您的旅遊保險卡"
+          }
+        ],
+        "answer": "Your tax refund form and receipt"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q09-fi-001",
+        "question": "Can I ________ this on? (我可以試穿這件嗎？)",
+        "answer": "try"
+      },
+      {
+        "id": "q09-fi-002",
+        "question": "Do you offer a tax ________ for tourists? (你們有提供旅客退稅服務嗎？)",
+        "answer": "refund"
+      },
+      {
+        "id": "q09-fi-003",
+        "question": "This item is ________. Could I exchange it? (這件商品有瑕疵，可以換一件嗎？)",
+        "answer": "defective"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q09-li-001",
+        "sentence_id": "09-001"
+      },
+      {
+        "id": "q09-li-002",
+        "sentence_id": "09-008"
+      },
+      {
+        "id": "q09-li-003",
+        "sentence_id": "09-013"
+      }
+    ]
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "chapter_id": "06",
+  "chapter_name": "機場交通",
+  "sentences": [
+    {
+      "id": "06-001",
+      "en": "Where can I catch the airport express train?",
+      "keywords": [
+        {
+          "word": "airport express",
+          "kk": "/ˈɛrpɔrt ɪkˈsprɛs/",
+          "zh": "機場快線"
+        }
+      ],
+      "zh": "我在哪裡可以搭乘機場快線？",
+      "level": "A2",
+      "tags": [
+        "transportation",
+        "train",
+        "airport"
+      ],
+      "tips": "airport express train 是「機場快線（捷運）」，通常是前往市區最快、最方便的交通方式。出口處（exit）一般會有明顯標示，也可詢問服務台（information desk）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-002",
+      "en": "How much is the taxi fare to downtown?",
+      "keywords": [
+        {
+          "word": "taxi fare",
+          "kk": "/ˈtæksi fɛr/",
+          "zh": "出租車費"
+        }
+      ],
+      "zh": "到市中心的計程車費是多少？",
+      "level": "A2",
+      "tags": [
+        "transportation",
+        "taxi",
+        "fare"
+      ],
+      "tips": "fare 是「（交通工具的）票價、費用」，特別用於計程車、公車、火車等。詢問費用也可說：How much does it cost to get to downtown by taxi?",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-003",
+      "en": "Please take me to the Marriott Hotel.",
+      "keywords": [
+        {
+          "word": "Marriott",
+          "kk": "/ˈmæriɑt/",
+          "zh": "萬豪酒店"
+        }
+      ],
+      "zh": "請送我到萬豪酒店。",
+      "level": "A2",
+      "tags": [
+        "transportation",
+        "taxi",
+        "destination"
+      ],
+      "tips": "搭計程車時直接告知目的地即可。也可以準備好飯店地址的紙本或手機截圖，避免因口音問題造成誤解。在某些國家，出示地址比說出地名更可靠。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "06-004",
+      "en": "Could you put my luggage in the trunk, please?",
+      "keywords": [
+        {
+          "word": "trunk",
+          "kk": "/trʌŋk/",
+          "zh": "樹幹"
+        }
+      ],
+      "zh": "可以請您把我的行李放進後車廂嗎？",
+      "level": "A2",
+      "tags": [
+        "transportation",
+        "taxi",
+        "luggage"
+      ],
+      "tips": "trunk 是美式英語的「後車廂」；英式英語說 boot。搭計程車攜帶大件行李時，司機通常會主動協助，但禮貌詢問也是好習慣。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-005",
+      "en": "Where is the bus stop for the city center?",
+      "keywords": [
+        {
+          "word": "bus stop",
+          "kk": "/bʌs stɑp/",
+          "zh": "巴士站"
+        },
+        {
+          "word": "city center",
+          "kk": "/ˈsɪti ˈsɛntɚ/",
+          "zh": "市中心"
+        }
+      ],
+      "zh": "去市中心的公車站在哪裡？",
+      "level": "A2",
+      "tags": [
+        "transportation",
+        "bus",
+        "navigation"
+      ],
+      "tips": "city center（英式）或 downtown（美式）都是「市中心」的說法。在陌生的機場，前往市區的巴士站通常位於入境大廳（arrivals hall）外的地面層（ground floor）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-006",
+      "en": "Is there a direct bus to the city center from the airport?",
+      "keywords": [
+        {
+          "word": "direct",
+          "kk": "/dɪˈrɛkt/",
+          "zh": "直接的"
+        }
+      ],
+      "zh": "有從機場直達市中心的巴士嗎？",
+      "level": "A2",
+      "tags": [
+        "transportation",
+        "bus",
+        "airport"
+      ],
+      "tips": "direct 是「直達的、不需轉車的」。搭乘直達車雖然可能稍慢，但不需換車，對攜帶大件行李的旅客較方便。相反詞為 indirect 或 with transfers（需轉車）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-007",
+      "en": "Could I book a taxi in advance?",
+      "keywords": [
+        {
+          "word": "book",
+          "kk": "/bʊk/",
+          "zh": "書"
+        },
+        {
+          "word": "in advance",
+          "kk": "/ɪn ədˈvæns/",
+          "zh": "提早"
+        }
+      ],
+      "zh": "我可以提前預約計程車嗎？",
+      "level": "B1",
+      "tags": [
+        "transportation",
+        "taxi",
+        "reservation"
+      ],
+      "tips": "book 除了「書本」外，也是「預訂」的動詞，可用於預訂計程車、飯店、餐廳等。也可說 reserve a taxi。現在也可使用 Uber、Grab 等叫車 App，更方便且透明。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-008",
+      "en": "Does this bus stop at Shinjuku Station?",
+      "keywords": [
+        {
+          "word": "station",
+          "kk": "/ˈsteɪʃən/",
+          "zh": "車站"
+        }
+      ],
+      "zh": "這班公車有停新宿站嗎？",
+      "level": "A2",
+      "tags": [
+        "transportation",
+        "bus",
+        "destination"
+      ],
+      "tips": "確認公車路線時，可以問 Does this bus go to / stop at [地名]? 也可以直接出示目的地讓司機確認，這種方式在語言不通時特別有用。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-009",
+      "en": "How long does it take to get to the city by train?",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "拿"
+        }
+      ],
+      "zh": "搭火車去市區需要多久？",
+      "level": "A2",
+      "tags": [
+        "transportation",
+        "train",
+        "duration"
+      ],
+      "tips": "句型 How long does it take to + 動詞 是詢問所需時間的常用結構。回答：It takes about 30 minutes.（大約需要 30 分鐘。）",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-010",
+      "en": "Please turn on the meter.",
+      "keywords": [
+        {
+          "word": "meter",
+          "kk": "/ˈmiːtɚ/",
+          "zh": "儀表"
+        }
+      ],
+      "zh": "請打開計費表。",
+      "level": "B1",
+      "tags": [
+        "transportation",
+        "taxi",
+        "payment"
+      ],
+      "tips": "meter（計費表）是計程車用來計算費用的裝置。若司機未開啟，應禮貌地要求。在某些國家，計程車可能提出不用計費表的固定價格（flat rate），上車前要確認清楚。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "06-011",
+      "en": "Where can I rent a car near the airport?",
+      "keywords": [
+        {
+          "word": "rent",
+          "kk": "/rɛnt/",
+          "zh": "租"
+        }
+      ],
+      "zh": "機場附近哪裡可以租車？",
+      "level": "A2",
+      "tags": [
+        "transportation",
+        "car rental",
+        "airport"
+      ],
+      "tips": "大型國際機場的入境大廳（arrivals hall）通常設有各大租車公司（car rental agencies）的服務台，如 Hertz、Avis、Enterprise 等。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-012",
+      "en": "Could you drop me off at the main entrance?",
+      "keywords": [
+        {
+          "word": "drop off",
+          "kk": "/drɑp ɔf/",
+          "zh": "下車"
+        },
+        {
+          "word": "entrance",
+          "kk": "/ˈɛntrəns/",
+          "zh": "入口"
+        }
+      ],
+      "zh": "可以讓我在正門下車嗎？",
+      "level": "B1",
+      "tags": [
+        "transportation",
+        "taxi",
+        "destination"
+      ],
+      "tips": "drop off 是「讓某人在某處下車」。pick up 是相反的「接人、接送」。這個片語也用於行李：I'll drop off my luggage first.（我先去放行李。）",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-013",
+      "en": "I need a receipt for this taxi ride.",
+      "keywords": [
+        {
+          "word": "receipt",
+          "kk": "/rɪˈsiːt/",
+          "zh": "收據"
+        }
+      ],
+      "zh": "我需要這趟計程車的收據。",
+      "level": "B1",
+      "tags": [
+        "transportation",
+        "taxi",
+        "payment"
+      ],
+      "tips": "receipt 是「收據」，注意 p 不發音。若需要報帳或記錄費用，記得下車前索取。目前使用叫車 App 的話，收據通常會自動發送至 email。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "06-014",
+      "en": "Which platform does the train to Osaka depart from?",
+      "keywords": [
+        {
+          "word": "platform",
+          "kk": "/ˈplætˌfɔrm/",
+          "zh": "平台"
+        }
+      ],
+      "zh": "前往大阪的火車從哪個月台出發？",
+      "level": "B1",
+      "tags": [
+        "transportation",
+        "train",
+        "navigation"
+      ],
+      "tips": "platform 是「月台、站台」。在英國，也說 track（軌道）。大型火車站可能有多個月台，要確認月台號碼（platform number）並注意時刻表（timetable）上的發車時間。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "06-015",
+      "en": "Do you accept credit cards or cash only?",
+      "keywords": [
+        {
+          "word": "accept",
+          "kk": "/əkˈsɛpt/",
+          "zh": "接受"
+        }
+      ],
+      "zh": "你們收信用卡還是只收現金？",
+      "level": "A2",
+      "tags": [
+        "transportation",
+        "payment",
+        "taxi"
+      ],
+      "tips": "部分國家的計程車只收現金（cash only）。上車前確認付款方式可以避免到達目的地後的困窘。現在許多地方也接受行動支付（mobile payment）如 Apple Pay、Google Pay。",
+      "audio": null,
+      "type": "question"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q06-mc-001",
+        "question": "You want to ask how much a taxi costs to get to the city. What do you ask?",
+        "options": [
+          {
+            "en": "How much is the taxi meter?",
+            "zh": "計程車計價器多少錢？"
+          },
+          {
+            "en": "How much is the taxi fare to downtown?",
+            "zh": "到市中心的計程車費是多少？"
+          },
+          {
+            "en": "What is the taxi schedule?",
+            "zh": "計程車時刻表是怎樣的？"
+          },
+          {
+            "en": "Where is the taxi platform?",
+            "zh": "計程車月台在哪裡？"
+          }
+        ],
+        "answer": "How much is the taxi fare to downtown?"
+      },
+      {
+        "id": "q06-mc-002",
+        "question": "In American English, what is the back storage area of a car called?",
+        "options": [
+          {
+            "en": "Boot",
+            "zh": "開機"
+          },
+          {
+            "en": "Cabinet",
+            "zh": "內閣"
+          },
+          {
+            "en": "Trunk",
+            "zh": "樹幹"
+          },
+          {
+            "en": "Compartment",
+            "zh": "隔間"
+          }
+        ],
+        "answer": "Trunk"
+      },
+      {
+        "id": "q06-mc-003",
+        "question": "You're in a taxi and notice the meter isn't running. What do you say?",
+        "options": [
+          {
+            "en": "Please drive faster.",
+            "zh": "請開快一點。"
+          },
+          {
+            "en": "Please turn on the meter.",
+            "zh": "請打開計價器。"
+          },
+          {
+            "en": "Please take the highway.",
+            "zh": "請走高速公路。"
+          },
+          {
+            "en": "Please go to the city center.",
+            "zh": "請前往市中心。"
+          }
+        ],
+        "answer": "Please turn on the meter."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q06-fi-001",
+        "question": "How much is the taxi ________ to downtown? (到市中心的計程車費是多少？)",
+        "answer": "fare"
+      },
+      {
+        "id": "q06-fi-002",
+        "question": "Could you put my luggage in the ________, please? (可以請您把我的行李放進後車廂嗎？)",
+        "answer": "trunk"
+      },
+      {
+        "id": "q06-fi-003",
+        "question": "Which ________ does the train to Osaka depart from? (前往大阪的火車從哪個月台出發？)",
+        "answer": "platform"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q06-li-001",
+        "sentence_id": "06-001"
+      },
+      {
+        "id": "q06-li-002",
+        "sentence_id": "06-009"
+      },
+      {
+        "id": "q06-li-003",
+        "sentence_id": "06-015"
+      }
+    ]
+  }
+}

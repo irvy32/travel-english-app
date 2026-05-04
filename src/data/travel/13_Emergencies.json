@@ -1,0 +1,435 @@
+{
+  "chapter_id": "13",
+  "chapter_name": "緊急狀況",
+  "sentences": [
+    {
+      "id": "13-001",
+      "en": "Help! Call an ambulance, please!",
+      "keywords": [
+        {
+          "word": "ambulance",
+          "kk": "/ˈæmbjələns/",
+          "zh": "救護車"
+        }
+      ],
+      "zh": "救命！請叫救護車！",
+      "level": "A2",
+      "tags": [
+        "emergency",
+        "medical"
+      ],
+      "tips": "美國緊急電話是 911，英國是 999，歐盟通用 112，出發前請記下目的地的緊急號碼。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "13-002",
+      "en": "I've lost my passport. Where is the nearest embassy?",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        },
+        {
+          "word": "embassy",
+          "kk": "/ˈɛmbəsɪ/",
+          "zh": "大使館"
+        }
+      ],
+      "zh": "我的護照遺失了，最近的大使館在哪裡？",
+      "level": "B1",
+      "tags": [
+        "emergency",
+        "passport",
+        "embassy"
+      ],
+      "tips": "護照遺失應立即向當地警察局報案取得報案證明，再持證明前往我國大使館或辦事處申請補發。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "13-003",
+      "en": "I think I'm having an allergic reaction.",
+      "keywords": [
+        {
+          "word": "allergic",
+          "kk": "/əˈlɝdʒɪk/",
+          "zh": "過敏的"
+        },
+        {
+          "word": "reaction",
+          "kk": "/rɪˈækʃən/",
+          "zh": "反應"
+        }
+      ],
+      "zh": "我覺得我有過敏反應。",
+      "level": "B1",
+      "tags": [
+        "emergency",
+        "medical",
+        "allergy"
+      ],
+      "tips": "有食物或藥物過敏史者，建議隨身攜帶寫有過敏資訊的英文卡片，並自備抗組織胺或腎上腺素筆。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "13-004",
+      "en": "My wallet has been stolen.",
+      "keywords": [
+        {
+          "word": "stolen",
+          "kk": "/ˈstolən/",
+          "zh": "被盜"
+        }
+      ],
+      "zh": "我的錢包被偷了。",
+      "level": "A2",
+      "tags": [
+        "emergency",
+        "theft"
+      ],
+      "tips": "遭竊後請立即：1. 向警方報案；2. 通知銀行掛失信用卡；3. 聯絡旅遊保險公司申請理賠。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "13-005",
+      "en": "I need to see a doctor. I have a high fever.",
+      "keywords": [
+        {
+          "word": "fever",
+          "kk": "/ˈfivɚ/",
+          "zh": "發燒"
+        }
+      ],
+      "zh": "我需要看醫生，我發高燒。",
+      "level": "A2",
+      "tags": [
+        "emergency",
+        "medical"
+      ],
+      "tips": "出國前請購買旅遊醫療保險，並保存保單號碼與緊急聯絡電話，看診時出示保險卡可能免先付款。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "13-006",
+      "en": "Please call the police. There's been an accident.",
+      "keywords": [
+        {
+          "word": "police",
+          "kk": "/pəˈlis/",
+          "zh": "警察"
+        },
+        {
+          "word": "accident",
+          "kk": "/ˈæksɪdənt/",
+          "zh": "意外事故"
+        }
+      ],
+      "zh": "請報警，這裡發生了事故。",
+      "level": "A2",
+      "tags": [
+        "emergency",
+        "accident",
+        "police"
+      ],
+      "tips": "遇到交通事故，不論責任歸屬，都應先報警並保留現場，等候警察製作事故報告。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "13-007",
+      "en": "I'm allergic to penicillin.",
+      "keywords": [
+        {
+          "word": "allergic",
+          "kk": "/əˈlɝdʒɪk/",
+          "zh": "過敏的"
+        },
+        {
+          "word": "penicillin",
+          "kk": "/ˌpɛnɪˈsɪlɪn/",
+          "zh": "青黴素"
+        }
+      ],
+      "zh": "我對盤尼西林過敏。",
+      "level": "B1",
+      "tags": [
+        "emergency",
+        "medical",
+        "allergy"
+      ],
+      "tips": "就醫時務必主動告知醫護人員過敏藥物，避免誤用造成嚴重後果。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "13-008",
+      "en": "I need to make an emergency call to Taiwan.",
+      "keywords": [
+        {
+          "word": "emergency",
+          "kk": "/ɪˈmɝdʒənsɪ/",
+          "zh": "緊急狀況"
+        }
+      ],
+      "zh": "我需要緊急致電台灣。",
+      "level": "A2",
+      "tags": [
+        "emergency",
+        "communication"
+      ],
+      "tips": "從海外撥打台灣請先加國碼 +886，再去掉區號或手機號碼前的 0。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "13-009",
+      "en": "Can you tell me where the nearest hospital is?",
+      "keywords": [
+        {
+          "word": "hospital",
+          "kk": "/ˈhɑspɪtl/",
+          "zh": "醫院"
+        }
+      ],
+      "zh": "你能告訴我最近的醫院在哪裡嗎？",
+      "level": "A2",
+      "tags": [
+        "emergency",
+        "medical",
+        "directions"
+      ],
+      "tips": "情況不危急時，也可先前往 Urgent Care（緊急診所），費用比急診室低，且等候時間通常較短。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "13-010",
+      "en": "I have travel insurance. Here is my policy number.",
+      "keywords": [
+        {
+          "word": "insurance",
+          "kk": "/ɪnˈʃʊrəns/",
+          "zh": "保險"
+        },
+        {
+          "word": "policy",
+          "kk": "/ˈpɑləsɪ/",
+          "zh": "政策"
+        }
+      ],
+      "zh": "我有旅遊保險，這是我的保單號碼。",
+      "level": "B1",
+      "tags": [
+        "emergency",
+        "insurance"
+      ],
+      "tips": "建議將保單號碼與緊急救援電話截圖存於手機，或抄寫在紙上隨身攜帶，以防手機沒電或遺失。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "13-011",
+      "en": "I lost my luggage. I need to file a lost baggage report.",
+      "keywords": [
+        {
+          "word": "luggage",
+          "kk": "/ˈlʌɡɪdʒ/",
+          "zh": "行李"
+        },
+        {
+          "word": "report",
+          "kk": "/rɪˈpɔrt/",
+          "zh": "報告"
+        }
+      ],
+      "zh": "我的行李遺失了，我需要填寫行李遺失報告。",
+      "level": "B1",
+      "tags": [
+        "emergency",
+        "luggage",
+        "airline"
+      ],
+      "tips": "行李遺失請立即在機場行李服務櫃台（Baggage Service Counter）填寫 PIR（財產不規則報告）。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "13-012",
+      "en": "I feel dizzy and I can't breathe well.",
+      "keywords": [
+        {
+          "word": "dizzy",
+          "kk": "/ˈdɪzɪ/",
+          "zh": "暈眩的"
+        },
+        {
+          "word": "breathe",
+          "kk": "/brið/",
+          "zh": "呼吸"
+        }
+      ],
+      "zh": "我感到頭暈，而且呼吸不順。",
+      "level": "B1",
+      "tags": [
+        "emergency",
+        "medical",
+        "symptoms"
+      ],
+      "tips": "描述症狀時越具體越好，例如說明發病時間、持續多久、有無服藥，方便醫師快速診斷。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "13-012",
+      "en": "I need to see a doctor. I have a high fever.",
+      "keywords": [
+        {
+          "word": "fever",
+          "kk": "/ˈfivɚ/",
+          "zh": "發燒"
+        }
+      ],
+      "zh": "我需要看醫生，我發高燒。",
+      "level": "A2",
+      "tags": [
+        "emergency",
+        "medical"
+      ],
+      "tips": "出國前請購買旅遊醫療保險，並保存保單號碼與緊急聯絡電話，看診時出示保險卡可能免先付款。",
+      "audio": null,
+      "type": "statement"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q13-mc-001",
+        "question": "What is the universal emergency number used in the European Union?",
+        "options": [
+          {
+            "en": "911",
+            "zh": "911"
+          },
+          {
+            "en": "999",
+            "zh": "999"
+          },
+          {
+            "en": "112",
+            "zh": "112"
+          },
+          {
+            "en": "000",
+            "zh": "000"
+          }
+        ],
+        "answer": "112"
+      },
+      {
+        "id": "q13-mc-002",
+        "question": "Your wallet was taken from your bag on the subway. What do you say?",
+        "options": [
+          {
+            "en": "I've lost my passport.",
+            "zh": "我弄丟了我的護照。"
+          },
+          {
+            "en": "My wallet has been stolen.",
+            "zh": "我的錢包被偷了。"
+          },
+          {
+            "en": "I need roadside assistance.",
+            "zh": "我需要路邊援助。"
+          },
+          {
+            "en": "I have a high fever.",
+            "zh": "我發高燒了。"
+          }
+        ],
+        "answer": "My wallet has been stolen."
+      },
+      {
+        "id": "q13-mc-003",
+        "question": "You're at a doctor's office and need to describe your symptoms. What should you say?",
+        "options": [
+          {
+            "en": "I feel dizzy.",
+            "zh": "我感覺頭昏眼花。"
+          },
+          {
+            "en": "I'm allergic to penicillin.",
+            "zh": "我對青黴素過敏。"
+          },
+          {
+            "en": "I have a high fever.",
+            "zh": "我發高燒了。"
+          },
+          {
+            "en": "I need to make an emergency call to Taiwan.",
+            "zh": "我需要緊急致電台灣。"
+          }
+        ],
+        "answer": "I'm allergic to penicillin."
+      },
+      {
+        "id": "q13-mc-004",
+        "question": "You arrive but your suitcase didn't. What should you do first?",
+        "options": [
+          {
+            "en": "Wait outside the terminal",
+            "zh": "在航廈外等候"
+          },
+          {
+            "en": "File a lost baggage report at the Baggage Service Counter",
+            "zh": "在行李服務櫃檯提交行李遺失報告"
+          },
+          {
+            "en": "Call the police",
+            "zh": "打電話叫警察"
+          },
+          {
+            "en": "Buy new clothes immediately",
+            "zh": "立即購買新衣服"
+          }
+        ],
+        "answer": "File a lost baggage report at the Baggage Service Counter"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q13-fi-001",
+        "question": "Help! Call an ______, please!",
+        "answer": "ambulance"
+      },
+      {
+        "id": "q13-fi-002",
+        "question": "I've lost my passport. Where is the nearest ______?",
+        "answer": "embassy"
+      },
+      {
+        "id": "q13-fi-003",
+        "question": "I have travel ______. Here is my policy number.",
+        "answer": "insurance"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q13-li-001",
+        "sentence_id": "13-001"
+      },
+      {
+        "id": "q13-li-002",
+        "sentence_id": "13-006"
+      },
+      {
+        "id": "q13-li-003",
+        "sentence_id": "13-012"
+      }
+    ]
+  }
+}

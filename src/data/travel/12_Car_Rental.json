@@ -1,0 +1,413 @@
+{
+  "chapter_id": "12",
+  "chapter_name": "租車相關",
+  "sentences": [
+    {
+      "id": "12-001",
+      "en": "I have a reservation under the name Johnson.",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzɚˈveʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "zh": "我有預訂，名字是 Johnson。",
+      "level": "A2",
+      "tags": [
+        "car rental",
+        "reservation"
+      ],
+      "tips": "取車時請出示預訂確認信、護照與信用卡，三者缺一不可。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "12-002",
+      "en": "I'd like to rent a compact car for three days.",
+      "keywords": [
+        {
+          "word": "rent",
+          "kk": "/rɛnt/",
+          "zh": "租"
+        },
+        {
+          "word": "compact",
+          "kk": "/ˈkɑmpækt/",
+          "zh": "袖珍的"
+        }
+      ],
+      "zh": "我想租一輛小型車，租三天。",
+      "level": "A2",
+      "tags": [
+        "car rental",
+        "vehicle type"
+      ],
+      "tips": "Compact car（小型車）省油且容易停車，適合城市旅遊；SUV 則適合需要越野或多行李的旅程。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "12-003",
+      "en": "Does the rental include unlimited mileage?",
+      "keywords": [
+        {
+          "word": "unlimited",
+          "kk": "/ʌnˈlɪmɪtɪd/",
+          "zh": "無限"
+        },
+        {
+          "word": "mileage",
+          "kk": "/ˈmaɪlɪdʒ/",
+          "zh": "里程"
+        }
+      ],
+      "zh": "租金包含無限里程嗎？",
+      "level": "B1",
+      "tags": [
+        "car rental",
+        "mileage"
+      ],
+      "tips": "部分方案限制每日里程數，超過需額外付費，出發前務必確認。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "12-004",
+      "en": "What kind of insurance is included?",
+      "keywords": [
+        {
+          "word": "insurance",
+          "kk": "/ɪnˈʃʊrəns/",
+          "zh": "保險"
+        }
+      ],
+      "zh": "包含哪種保險？",
+      "level": "B1",
+      "tags": [
+        "car rental",
+        "insurance"
+      ],
+      "tips": "基本保險通常包含 CDW（碰撞損失豁免），建議加購 TP（竊盜保險）以獲得更完整保障。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "12-005",
+      "en": "Is there an additional driver fee?",
+      "keywords": [
+        {
+          "word": "additional",
+          "kk": "/əˈdɪʃənl/",
+          "zh": "額外的"
+        },
+        {
+          "word": "fee",
+          "kk": "/fi/",
+          "zh": "費用"
+        }
+      ],
+      "zh": "加掛駕駛人需要額外收費嗎？",
+      "level": "B1",
+      "tags": [
+        "car rental",
+        "additional driver"
+      ],
+      "tips": "若旅伴也要開車，必須事先登記為 additional driver，否則出事保險可能無效。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "12-006",
+      "en": "Can I return the car at a different location?",
+      "keywords": [
+        {
+          "word": "return",
+          "kk": "/rɪˈtɝn/",
+          "zh": "返回"
+        },
+        {
+          "word": "location",
+          "kk": "/loˈkeʃən/",
+          "zh": "地點"
+        }
+      ],
+      "zh": "我可以在不同地點還車嗎？",
+      "level": "B1",
+      "tags": [
+        "car rental",
+        "drop-off"
+      ],
+      "tips": "異地還車（One-way rental）通常需要額外費用，請提前告知租車公司。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "12-007",
+      "en": "Please explain the fuel policy.",
+      "keywords": [
+        {
+          "word": "fuel",
+          "kk": "/fjʊəl/",
+          "zh": "燃料"
+        },
+        {
+          "word": "policy",
+          "kk": "/ˈpɑləsɪ/",
+          "zh": "政策"
+        }
+      ],
+      "zh": "請說明燃油政策。",
+      "level": "B1",
+      "tags": [
+        "car rental",
+        "fuel"
+      ],
+      "tips": "最常見的政策是「Full-to-Full」，即取車滿油、還車也要滿油，否則補差額且計管理費。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "12-008",
+      "en": "Does this car have GPS navigation?",
+      "keywords": [
+        {
+          "word": "navigation",
+          "kk": "/ˌnævɪˈɡeʃən/",
+          "zh": "導航"
+        }
+      ],
+      "zh": "這輛車有 GPS 導航嗎？",
+      "level": "A2",
+      "tags": [
+        "car rental",
+        "GPS"
+      ],
+      "tips": "租車公司的 GPS 租金較高，建議自備手機支架搭配 Google Maps 或離線地圖，更經濟實惠。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "12-009",
+      "en": "There is a scratch on the bumper. Can you note it down?",
+      "keywords": [
+        {
+          "word": "scratch",
+          "kk": "/skrætʃ/",
+          "zh": "刮痕"
+        },
+        {
+          "word": "bumper",
+          "kk": "/ˈbʌmpɚ/",
+          "zh": "保險桿"
+        }
+      ],
+      "zh": "保險桿上有一道刮痕，可以幫我記錄下來嗎？",
+      "level": "B1",
+      "tags": [
+        "car rental",
+        "damage inspection"
+      ],
+      "tips": "取車時務必與工作人員一同檢查車身，並拍照留存，避免還車時被索賠事先存在的損傷。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "12-010",
+      "en": "I'd like to pay with a credit card.",
+      "keywords": [
+        {
+          "word": "credit card",
+          "kk": "/ˈkrɛdɪt kɑrd/",
+          "zh": "信用卡"
+        }
+      ],
+      "zh": "我要用信用卡付款。",
+      "level": "A2",
+      "tags": [
+        "car rental",
+        "payment"
+      ],
+      "tips": "租車通常需要信用卡預授權（hold）一筆金額作為押金，還車後才會解除。金額依車型而異。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "12-011",
+      "en": "What is the speed limit on the highway here?",
+      "keywords": [
+        {
+          "word": "speed limit",
+          "kk": "/spid ˈlɪmɪt/",
+          "zh": "速度極限"
+        },
+        {
+          "word": "highway",
+          "kk": "/ˈhaɪˌwe/",
+          "zh": "公路"
+        }
+      ],
+      "zh": "這裡高速公路的速限是多少？",
+      "level": "A2",
+      "tags": [
+        "car rental",
+        "driving rules"
+      ],
+      "tips": "各國速限不同，美國州際公路通常為 65–75 mph，歐洲高速公路則多為 120–130 km/h。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "12-012",
+      "en": "My car broke down. I need roadside assistance.",
+      "keywords": [
+        {
+          "word": "broke down",
+          "kk": "/brok daʊn/",
+          "zh": "崩潰了"
+        },
+        {
+          "word": "roadside assistance",
+          "kk": "/ˈrodsaɪd əˈsɪstəns/",
+          "zh": "路邊援助"
+        }
+      ],
+      "zh": "我的車拋錨了，我需要道路救援。",
+      "level": "B1",
+      "tags": [
+        "car rental",
+        "emergency"
+      ],
+      "tips": "租車時會附上道路救援電話，請存入手機備用，並告知正確位置（可參考附近路牌或 GPS 座標）。",
+      "audio": null,
+      "type": "statement"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q12-mc-001",
+        "question": "You want to ask if the rental price covers unlimited driving distance. What do you say?",
+        "options": [
+          {
+            "en": "Does the rental include unlimited mileage?",
+            "zh": "租車是否包含無限里程？"
+          },
+          {
+            "en": "Can I drive as fast as I want?",
+            "zh": "我可以隨心所欲地開車嗎？"
+          },
+          {
+            "en": "Is there a GPS in the car?",
+            "zh": "車上有GPS嗎？"
+          },
+          {
+            "en": "Do I need insurance?",
+            "zh": "我需要保險嗎？"
+          }
+        ],
+        "answer": "Does the rental include unlimited mileage?"
+      },
+      {
+        "id": "q12-mc-002",
+        "question": "What does 'CDW' stand for in car rental insurance?",
+        "options": [
+          {
+            "en": "Car Damage Warranty",
+            "zh": "車損保固"
+          },
+          {
+            "en": "Collision Damage Waiver",
+            "zh": "碰撞損壞豁免"
+          },
+          {
+            "en": "Complete Driver's Workshop",
+            "zh": "完整的駕駛員研討會"
+          },
+          {
+            "en": "Compact Drive Way",
+            "zh": "緊湊型驅動方式"
+          }
+        ],
+        "answer": "Collision Damage Waiver"
+      },
+      {
+        "id": "q12-mc-003",
+        "question": "You notice a small scratch on the rental car before driving away. What should you do?",
+        "options": [
+          {
+            "en": "Ignore it and hope they don't notice",
+            "zh": "忽略它，希望他們不會注意到"
+          },
+          {
+            "en": "Ask the agent to note it down and take photos",
+            "zh": "請仲介記下並拍照"
+          },
+          {
+            "en": "Pay for it immediately",
+            "zh": "立即付款"
+          },
+          {
+            "en": "Call the police",
+            "zh": "打電話叫警察"
+          }
+        ],
+        "answer": "Ask the agent to note it down and take photos"
+      },
+      {
+        "id": "q12-mc-004",
+        "question": "Which sentence means your car stopped working on the road?",
+        "options": [
+          {
+            "en": "I need a GPS device.",
+            "zh": "I need a GPS device."
+          },
+          {
+            "en": "My car broke down.",
+            "zh": "我的車壞了。"
+          },
+          {
+            "en": "I'd like a compact car.",
+            "zh": "我想要一輛緊湊型車。"
+          },
+          {
+            "en": "Can I return the car here?",
+            "zh": "我可以在這裡還車嗎？"
+          }
+        ],
+        "answer": "My car broke down."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q12-fi-001",
+        "question": "I have a ______ under the name Johnson.",
+        "answer": "reservation"
+      },
+      {
+        "id": "q12-fi-002",
+        "question": "Please explain the ______ policy before I drive.",
+        "answer": "fuel"
+      },
+      {
+        "id": "q12-fi-003",
+        "question": "I need roadside ______ — my car won't start.",
+        "answer": "assistance"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q12-li-001",
+        "sentence_id": "12-003"
+      },
+      {
+        "id": "q12-li-002",
+        "sentence_id": "12-007"
+      },
+      {
+        "id": "q12-li-003",
+        "sentence_id": "12-012"
+      }
+    ]
+  }
+}

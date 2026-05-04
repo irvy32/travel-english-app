@@ -1,0 +1,450 @@
+{
+  "chapter_id": "04",
+  "chapter_name": "機上對話",
+  "sentences": [
+    {
+      "id": "04-001",
+      "en": "Excuse me, I think you're in my seat.",
+      "keywords": [
+        {
+          "word": "excuse me",
+          "kk": "/ɪkˈskjuːz miː/",
+          "zh": "打擾一下"
+        }
+      ],
+      "zh": "不好意思，我想您坐到我的位置了。",
+      "level": "A2",
+      "tags": [
+        "inflight",
+        "seat",
+        "conversation"
+      ],
+      "tips": "Excuse me 是有禮貌地引起對方注意的用語，適用於各種場合。找座位時，先確認自己的座位號碼（seat number）再說，可以出示登機證（boarding pass）確認。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "04-002",
+      "en": "Could I have a blanket and a pillow, please?",
+      "keywords": [
+        {
+          "word": "blanket",
+          "kk": "/ˈblæŋkɪt/",
+          "zh": "毯子"
+        },
+        {
+          "word": "pillow",
+          "kk": "/ˈpɪloʊ/",
+          "zh": "枕頭"
+        }
+      ],
+      "zh": "可以給我一條毯子和一個枕頭嗎？",
+      "level": "A2",
+      "tags": [
+        "inflight",
+        "amenities",
+        "cabin crew"
+      ],
+      "tips": "機上毛毯（blanket）和枕頭（pillow）通常提供給長途航班的旅客。按下座位上方的呼叫鈕（call button）即可呼叫空服員（flight attendant）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "04-003",
+      "en": "Could I have a glass of orange juice, please?",
+      "keywords": [
+        {
+          "word": "orange juice",
+          "kk": "/ˈɔrɪndʒ dʒuːs/",
+          "zh": "柳橙汁"
+        }
+      ],
+      "zh": "可以給我一杯柳橙汁嗎？",
+      "level": "A2",
+      "tags": [
+        "inflight",
+        "drinks",
+        "meal service"
+      ],
+      "tips": "機上飲料通常包含：water（水）、orange juice（柳橙汁）、apple juice（蘋果汁）、Coke（可樂）、coffee（咖啡）、tea（茶）。長途航班也可能提供酒類（alcohol）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "04-004",
+      "en": "Would you like chicken or fish for your meal?",
+      "keywords": [
+        {
+          "word": "meal",
+          "kk": "/miːl/",
+          "zh": "一頓飯"
+        }
+      ],
+      "zh": "您的餐點要雞肉還是魚肉？",
+      "level": "A2",
+      "tags": [
+        "inflight",
+        "meal",
+        "cabin crew"
+      ],
+      "tips": "這是空服員詢問餐點選擇的常見用語。如有特殊飲食需求（如素食、清真食品），應在訂票時提前選擇特別餐（special meal），不能臨時要求。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "04-005",
+      "en": "Could you please lower your voice? I'm trying to sleep.",
+      "keywords": [
+        {
+          "word": "lower",
+          "kk": "/ˈloʊɚ/",
+          "zh": "降低"
+        }
+      ],
+      "zh": "可以請您小聲一點嗎？我想睡覺。",
+      "level": "B1",
+      "tags": [
+        "inflight",
+        "etiquette",
+        "conversation"
+      ],
+      "tips": "lower your voice 是「降低音量、小聲一點」。長途飛行時，尊重其他乘客的休息需求是機上禮儀（in-flight etiquette）的重要一環。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "04-006",
+      "en": "Could I recline my seat?",
+      "keywords": [
+        {
+          "word": "recline",
+          "kk": "/rɪˈklaɪn/",
+          "zh": "橫臥"
+        }
+      ],
+      "zh": "我可以把椅背往後調嗎？",
+      "level": "B1",
+      "tags": [
+        "inflight",
+        "seat",
+        "etiquette"
+      ],
+      "tips": "recline 是「把椅背往後傾斜」。在調整前，習慣上會先詢問後方乘客或告知一聲。用餐期間（meal service）通常不宜往後調。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "04-007",
+      "en": "I'm feeling a bit airsick. Do you have any medicine?",
+      "keywords": [
+        {
+          "word": "airsick",
+          "kk": "/ˈɛrˌsɪk/",
+          "zh": "暈機"
+        },
+        {
+          "word": "medicine",
+          "kk": "/ˈmɛdɪsɪn/",
+          "zh": "藥物"
+        }
+      ],
+      "zh": "我有點暈機。你們有藥嗎？",
+      "level": "B1",
+      "tags": [
+        "inflight",
+        "health",
+        "emergency"
+      ],
+      "tips": "airsick 是「暈機」，seasick 是「暈船」，carsick 是「暈車」。機上通常備有暈機袋（airsickness bag）和基本藥品。如果嚴重不適，可以請空服員協助。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "04-008",
+      "en": "Please fasten your seatbelt. We are experiencing some turbulence.",
+      "keywords": [
+        {
+          "word": "fasten",
+          "kk": "/ˈfæsn/",
+          "zh": "系"
+        },
+        {
+          "word": "turbulence",
+          "kk": "/ˈtɜrbjələns/",
+          "zh": "湍流"
+        }
+      ],
+      "zh": "請繫好安全帶，我們遇到一些亂流。",
+      "level": "B1",
+      "tags": [
+        "inflight",
+        "safety",
+        "announcement"
+      ],
+      "tips": "turbulence 是「亂流」，是飛行中的正常氣流擾動，通常不危險。遇到亂流時應保持冷靜，依指示扣好安全帶（fasten seatbelt）。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "04-009",
+      "en": "Could I get some extra napkins?",
+      "keywords": [
+        {
+          "word": "napkins",
+          "kk": "/ˈnæpkɪnz/",
+          "zh": "餐巾紙"
+        }
+      ],
+      "zh": "可以多給我一些餐巾紙嗎？",
+      "level": "A2",
+      "tags": [
+        "inflight",
+        "meal",
+        "cabin crew"
+      ],
+      "tips": "napkin 是「餐巾、餐巾紙」。機上的紙餐巾也可以用 tissue（紙巾）替代。用餐時發生灑漏，直接告知空服員，他們會提供協助。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "04-010",
+      "en": "How much longer until we land?",
+      "keywords": [
+        {
+          "word": "land",
+          "kk": "/lænd/",
+          "zh": "土地"
+        }
+      ],
+      "zh": "我們還有多久才降落？",
+      "level": "A2",
+      "tags": [
+        "inflight",
+        "arrival",
+        "conversation"
+      ],
+      "tips": "land 是動詞「降落」，名詞為 landing。可以查看座位前的螢幕（seat-back screen）上的飛行資訊，通常會顯示剩餘飛行時間（time remaining）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "04-011",
+      "en": "Could you help me put my bag in the overhead compartment?",
+      "keywords": [
+        {
+          "word": "overhead compartment",
+          "kk": "/ˈoʊvɚhɛd kəmˈpɑrtmənt/",
+          "zh": "頭頂行李艙"
+        }
+      ],
+      "zh": "可以幫我把包包放進頭頂置物箱嗎？",
+      "level": "A2",
+      "tags": [
+        "inflight",
+        "luggage",
+        "cabin crew"
+      ],
+      "tips": "overhead compartment 是「頭頂置物艙」。行李應放在自己座位正上方的置物艙，以便降落後取回。若置物艙已滿，空服員會協助另覓空間。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "04-012",
+      "en": "The in-flight entertainment system isn't working on my seat.",
+      "keywords": [
+        {
+          "word": "in-flight entertainment",
+          "kk": "/ɪn flaɪt ˌɛntɚˈteɪnmənt/",
+          "zh": "機上娛樂"
+        }
+      ],
+      "zh": "我座位的機上娛樂系統壞了。",
+      "level": "B1",
+      "tags": [
+        "inflight",
+        "entertainment",
+        "complaint"
+      ],
+      "tips": "in-flight entertainment（IFE）是「機上娛樂系統」，提供電影、音樂、地圖等。若螢幕故障，可請空服員重新啟動，或詢問能否換座位。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "04-013",
+      "en": "Please return your tray table to the upright position.",
+      "keywords": [
+        {
+          "word": "tray table",
+          "kk": "/treɪ ˈteɪbl/",
+          "zh": "托盤桌"
+        },
+        {
+          "word": "upright",
+          "kk": "/ˈʌpraɪt/",
+          "zh": "直立"
+        }
+      ],
+      "zh": "請將您的折疊餐桌收回直立位置。",
+      "level": "B1",
+      "tags": [
+        "inflight",
+        "safety",
+        "landing"
+      ],
+      "tips": "tray table 是座椅背後翻下來的「折疊餐桌」。起飛和降落前必須收起（stow），椅背也需調回直立（upright position），這是安全規定。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "04-014",
+      "en": "Is there a vegetarian option available?",
+      "keywords": [
+        {
+          "word": "vegetarian",
+          "kk": "/ˌvɛdʒɪˈtɛriən/",
+          "zh": "素食主義者"
+        }
+      ],
+      "zh": "有素食餐點嗎？",
+      "level": "A2",
+      "tags": [
+        "inflight",
+        "meal",
+        "diet"
+      ],
+      "tips": "vegetarian（素食）指不含肉類但可能含蛋奶的飲食。vegan（純素）不含任何動物產品。特殊飲食需求建議在訂票時選擇特別餐（special meal）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "04-015",
+      "en": "We will be landing at Narita Airport in approximately forty minutes.",
+      "keywords": [
+        {
+          "word": "landing",
+          "kk": "/ˈlændɪŋ/",
+          "zh": "降落"
+        },
+        {
+          "word": "approximately",
+          "kk": "/əˈprɑksɪmɪtli/",
+          "zh": "大約"
+        }
+      ],
+      "zh": "我們將在約四十分鐘後降落成田機場。",
+      "level": "B1",
+      "tags": [
+        "inflight",
+        "announcement",
+        "arrival"
+      ],
+      "tips": "approximately 是「大約、約莫」，比 about 更正式。這是機上廣播的常用句型。landing 是「降落」，takeoff 是「起飛」。",
+      "audio": null,
+      "type": "statement"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q04-mc-001",
+        "question": "You feel cold on the plane. What do you ask the flight attendant for?",
+        "options": [
+          {
+            "en": "A pillow and headphones",
+            "zh": "一個枕頭和耳機"
+          },
+          {
+            "en": "A blanket and a pillow",
+            "zh": "一條毯子和一個枕頭"
+          },
+          {
+            "en": "Extra napkins",
+            "zh": "額外的餐巾紙"
+          },
+          {
+            "en": "A glass of water",
+            "zh": "一杯水"
+          }
+        ],
+        "answer": "A blanket and a pillow"
+      },
+      {
+        "id": "q04-mc-002",
+        "question": "The flight attendant announces turbulence. What should you do?",
+        "options": [
+          {
+            "en": "Stand up and stretch",
+            "zh": "站起來並伸展身體"
+          },
+          {
+            "en": "Go to the bathroom",
+            "zh": "去洗手間"
+          },
+          {
+            "en": "Fasten your seatbelt",
+            "zh": "繫好安全帶"
+          },
+          {
+            "en": "Recline your seat",
+            "zh": "傾斜你的座位"
+          }
+        ],
+        "answer": "Fasten your seatbelt"
+      },
+      {
+        "id": "q04-mc-003",
+        "question": "What should you do with your seatback before takeoff and landing?",
+        "options": [
+          {
+            "en": "Recline it fully",
+            "zh": "將其完全向後傾斜"
+          },
+          {
+            "en": "Return it to the upright position",
+            "zh": "將其恢復到直立位置"
+          },
+          {
+            "en": "Remove the headrest",
+            "zh": "取下頭枕"
+          },
+          {
+            "en": "Ask the cabin crew to remove it",
+            "zh": "Ask the cabin crew to remove it"
+          }
+        ],
+        "answer": "Return it to the upright position"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q04-fi-001",
+        "question": "Could I have a ________ and a pillow, please? (可以給我一條毯子和一個枕頭嗎？)",
+        "answer": "blanket"
+      },
+      {
+        "id": "q04-fi-002",
+        "question": "I'm feeling a bit ________. Do you have any medicine? (我有點暈機。你們有藥嗎？)",
+        "answer": "airsick"
+      },
+      {
+        "id": "q04-fi-003",
+        "question": "Could I ________ my seat? (我可以把椅背往後調嗎？)",
+        "answer": "recline"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q04-li-001",
+        "sentence_id": "04-003"
+      },
+      {
+        "id": "q04-li-002",
+        "sentence_id": "04-008"
+      },
+      {
+        "id": "q04-li-003",
+        "sentence_id": "04-010"
+      }
+    ]
+  }
+}

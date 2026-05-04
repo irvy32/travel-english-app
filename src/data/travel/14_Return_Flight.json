@@ -1,0 +1,408 @@
+{
+  "chapter_id": "14",
+  "chapter_name": "回程與前台",
+  "sentences": [
+    {
+      "id": "14-001",
+      "en": "I'd like to check out, please.",
+      "keywords": [
+        {
+          "word": "check out",
+          "kk": "/tʃek aʊt/",
+          "zh": "查看"
+        }
+      ],
+      "zh": "我要辦理退房。",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "checkout",
+        "departure"
+      ],
+      "tips": "退房時間（Check-out time）通常為上午 11 點至中午 12 點。若需要延遲退房，請提前向前台詢問。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "14-002",
+      "en": "Can I have a late check-out until 2 p.m.?",
+      "keywords": [
+        {
+          "word": "late check-out",
+          "kk": "/let tʃek aʊt/",
+          "zh": "延遲退房"
+        }
+      ],
+      "zh": "我可以延遲退房到下午兩點嗎？",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "checkout",
+        "late checkout"
+      ],
+      "tips": "延遲退房通常需要額外付費，但持有飯店會員卡或信用卡白金卡等級以上的旅客可能可以免費申請。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "14-003",
+      "en": "Can I leave my luggage here until my flight this evening?",
+      "keywords": [
+        {
+          "word": "luggage",
+          "kk": "/ˈlʌɡɪdʒ/",
+          "zh": "行李"
+        }
+      ],
+      "zh": "我今晚的班機，可以把行李寄放在這裡嗎？",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "luggage storage",
+        "departure"
+      ],
+      "tips": "大多數飯店提供免費行李寄放服務，稱為 luggage storage 或 baggage hold，退房後仍可繼續外出遊覽。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "14-004",
+      "en": "Could you itemize the bill for me?",
+      "keywords": [
+        {
+          "word": "itemize",
+          "kk": "/ˈaɪtəˌmaɪz/",
+          "zh": "逐項列出"
+        },
+        {
+          "word": "bill",
+          "kk": "/bɪl/",
+          "zh": "帳單"
+        }
+      ],
+      "zh": "可以幫我列出帳單明細嗎？",
+      "level": "B1",
+      "tags": [
+        "hotel",
+        "checkout",
+        "billing"
+      ],
+      "tips": "退房時仔細確認帳單，特別留意 minibar 使用費、電話費及服務費等是否有誤。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "14-005",
+      "en": "I think there's a mistake on my bill.",
+      "keywords": [
+        {
+          "word": "mistake",
+          "kk": "/mɪˈstek/",
+          "zh": "錯誤"
+        }
+      ],
+      "zh": "我覺得帳單上有誤。",
+      "level": "B1",
+      "tags": [
+        "hotel",
+        "checkout",
+        "billing"
+      ],
+      "tips": "發現帳單錯誤時保持冷靜，禮貌地提出，可說：'I didn't use the minibar.' 或 'This charge doesn't look right.'",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "14-006",
+      "en": "I'd like to confirm my return flight.",
+      "keywords": [
+        {
+          "word": "confirm",
+          "kk": "/kənˈfɝm/",
+          "zh": "確認"
+        },
+        {
+          "word": "return flight",
+          "kk": "/rɪˈtɝn flaɪt/",
+          "zh": "回程班機"
+        }
+      ],
+      "zh": "我想確認我的回程班機。",
+      "level": "A2",
+      "tags": [
+        "return flight",
+        "airline"
+      ],
+      "tips": "出發前 24 小時可至航空公司官網或 App 辦理線上報到（Online Check-in），選好座位並存好登機證。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "14-007",
+      "en": "Which terminal does my flight depart from?",
+      "keywords": [
+        {
+          "word": "terminal",
+          "kk": "/ˈtɝmənl/",
+          "zh": "終端"
+        },
+        {
+          "word": "depart",
+          "kk": "/dɪˈpɑrt/",
+          "zh": "離開"
+        }
+      ],
+      "zh": "我的班機從哪個航廈出發？",
+      "level": "A2",
+      "tags": [
+        "return flight",
+        "airport",
+        "terminal"
+      ],
+      "tips": "大型機場有多個航廈（Terminal），請先確認航廈後再前往，不同航廈間可能需搭乘接駁車，須預留時間。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "14-008",
+      "en": "Can I check this bag in? It weighs about 23 kilograms.",
+      "keywords": [
+        {
+          "word": "check in",
+          "kk": "/tʃek ɪn/",
+          "zh": "報到"
+        },
+        {
+          "word": "kilograms",
+          "kk": "/ˈkɪləˌɡræmz/",
+          "zh": "公斤"
+        }
+      ],
+      "zh": "我可以托運這個包嗎？它大約重 23 公斤。",
+      "level": "A2",
+      "tags": [
+        "return flight",
+        "baggage",
+        "check-in"
+      ],
+      "tips": "經濟艙托運行李限重通常為 20–23 公斤，超重需繳額外費用。建議出發前使用行李秤確認重量。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "14-009",
+      "en": "My flight has been delayed. When is the new departure time?",
+      "keywords": [
+        {
+          "word": "delayed",
+          "kk": "/dɪˈled/",
+          "zh": "延遲"
+        },
+        {
+          "word": "departure",
+          "kk": "/dɪˈpɑrtʃɚ/",
+          "zh": "離開"
+        }
+      ],
+      "zh": "我的班機延誤了，新的起飛時間是幾點？",
+      "level": "B1",
+      "tags": [
+        "return flight",
+        "delay"
+      ],
+      "tips": "班機延誤超過一定時數（歐盟為 2 小時以上），航空公司需提供餐食或飯店住宿，可主動向地勤人員詢問。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "14-010",
+      "en": "Is there a duty-free shop in this terminal?",
+      "keywords": [
+        {
+          "word": "duty-free",
+          "kk": "/ˈdjutɪˌfri/",
+          "zh": "免稅"
+        }
+      ],
+      "zh": "這個航廈有免稅店嗎？",
+      "level": "A2",
+      "tags": [
+        "return flight",
+        "shopping",
+        "duty-free"
+      ],
+      "tips": "免稅購物一般在通過安全檢查後才能進入。酒類與香菸等商品有數量限制，請留意入境台灣的相關規定。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "14-011",
+      "en": "I'd like to apply for a tax refund before I leave.",
+      "keywords": [
+        {
+          "word": "apply",
+          "kk": "/əˈplaɪ/",
+          "zh": "申請"
+        },
+        {
+          "word": "tax refund",
+          "kk": "/tæks ˈrifʌnd/",
+          "zh": "退稅"
+        }
+      ],
+      "zh": "我在離境前想申請退稅。",
+      "level": "B1",
+      "tags": [
+        "return flight",
+        "tax refund"
+      ],
+      "tips": "退稅流程：1. 出示商品與收據；2. 在退稅服務台蓋章；3. 在機場退稅窗口或自助機辦理退款，可選現金或信用卡入帳。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "14-012",
+      "en": "Thank you for everything. This has been a wonderful trip!",
+      "keywords": [
+        {
+          "word": "wonderful",
+          "kk": "/ˈwʌndɚfəl/",
+          "zh": "精彩的"
+        }
+      ],
+      "zh": "感謝您的一切，這是一趟美好的旅程！",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "departure",
+        "gratitude"
+      ],
+      "tips": "對服務滿意時，可以在 Google Maps 或 TripAdvisor 留下評論，對飯店和下一位旅客都是很大的幫助。",
+      "audio": null,
+      "type": "statement"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q14-mc-001",
+        "question": "What does 'late check-out' mean?",
+        "options": [
+          {
+            "en": "Checking in after midnight",
+            "zh": "午夜後入住"
+          },
+          {
+            "en": "Leaving the hotel room later than the standard checkout time",
+            "zh": "晚於標準退房時間離開飯店房間"
+          },
+          {
+            "en": "Booking a room at the last minute",
+            "zh": "在最後一刻預訂房間"
+          },
+          {
+            "en": "Paying the bill late",
+            "zh": "遲付帳單"
+          }
+        ],
+        "answer": "Leaving the hotel room later than the standard checkout time"
+      },
+      {
+        "id": "q14-mc-002",
+        "question": "You want to know the detailed breakdown of your hotel bill. What do you ask?",
+        "options": [
+          {
+            "en": "Can I leave my luggage here?",
+            "zh": "我可以把行李寄在這裡嗎？"
+          },
+          {
+            "en": "Could you itemize the bill for me?",
+            "zh": "你能幫我詳細列出帳單嗎？"
+          },
+          {
+            "en": "Is there a duty-free shop here?",
+            "zh": "這裡有免稅店嗎？"
+          },
+          {
+            "en": "My flight has been delayed.",
+            "zh": "我的航班延誤了。"
+          }
+        ],
+        "answer": "Could you itemize the bill for me?"
+      },
+      {
+        "id": "q14-mc-003",
+        "question": "When should you go through security for your return flight?",
+        "options": [
+          {
+            "en": "At the ticket counter",
+            "zh": "在售票櫃檯"
+          },
+          {
+            "en": "After passing through security",
+            "zh": "通過安檢後"
+          },
+          {
+            "en": "At the baggage claim area",
+            "zh": "在行李領取處"
+          }
+        ],
+        "answer": "After passing through security"
+      },
+      {
+        "id": "q14-mc-004",
+        "question": "Your bag weighs 25 kg, but the limit is 23 kg. What is likely to happen?",
+        "options": [
+          {
+            "en": "The airline will carry it for free",
+            "zh": "航空公司將免費承運"
+          },
+          {
+            "en": "You will need to pay an overweight baggage fee",
+            "zh": "您需要支付超重行李費"
+          },
+          {
+            "en": "They will upgrade your seat",
+            "zh": "他們將為您升級座位"
+          },
+          {
+            "en": "You can carry it on board",
+            "zh": "您可以攜帶上飛機"
+          }
+        ],
+        "answer": "You will need to pay an overweight baggage fee"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q14-fi-001",
+        "question": "I'd like to ______ ______, please. (退房)",
+        "answer": "check out"
+      },
+      {
+        "id": "q14-fi-002",
+        "question": "My flight has been ______. When is the new departure time?",
+        "answer": "delayed"
+      },
+      {
+        "id": "q14-fi-003",
+        "question": "I'd like to apply for a tax ______ before I leave.",
+        "answer": "refund"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q14-li-001",
+        "sentence_id": "14-003"
+      },
+      {
+        "id": "q14-li-002",
+        "sentence_id": "14-007"
+      },
+      {
+        "id": "q14-li-003",
+        "sentence_id": "14-012"
+      }
+    ]
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "chapter_id": "03",
+  "chapter_name": "安檢與登機口",
+  "sentences": [
+    {
+      "id": "03-001",
+      "en": "Please remove your shoes and belt before going through security.",
+      "keywords": [
+        {
+          "word": "remove",
+          "kk": "/rɪˈmuːv/",
+          "zh": "消除"
+        },
+        {
+          "word": "security",
+          "kk": "/sɪˈkjʊrɪti/",
+          "zh": "安全"
+        }
+      ],
+      "zh": "通過安檢前請脫掉鞋子和皮帶。",
+      "level": "A2",
+      "tags": [
+        "security",
+        "airport",
+        "screening"
+      ],
+      "tips": "security（安全檢查）是登機前的必要程序。除鞋子和皮帶外，外套、筆電、液體物品也需要從隨身行李中取出，分開放入塑膠籃（tray）。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "03-002",
+      "en": "All liquids must be under 100ml and placed in a clear plastic bag.",
+      "keywords": [
+        {
+          "word": "liquids",
+          "kk": "/ˈlɪkwɪdz/",
+          "zh": "液體"
+        }
+      ],
+      "zh": "所有液體必須在 100ml 以下，並放入透明塑膠袋中。",
+      "level": "A2",
+      "tags": [
+        "security",
+        "liquids",
+        "rules"
+      ],
+      "tips": "這是國際機場的 3-1-1 液體規定：每件液體不超過 100ml，裝入一個容量 1 公升的夾鏈袋（zip-lock bag），每人限帶 1 袋。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "03-003",
+      "en": "Please place all metal items in the tray.",
+      "keywords": [
+        {
+          "word": "metal",
+          "kk": "/ˈmɛtl/",
+          "zh": "金屬"
+        },
+        {
+          "word": "tray",
+          "kk": "/treɪ/",
+          "zh": "托盤"
+        }
+      ],
+      "zh": "請把所有金屬物品放到托盤裡。",
+      "level": "A2",
+      "tags": [
+        "security",
+        "screening",
+        "items"
+      ],
+      "tips": "金屬物品（metal items）包含：硬幣、鑰匙、皮帶扣、手錶等。為了加快安檢流程，建議在排隊等候時就先整理好，放入隨身包包或口袋再取出。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "03-004",
+      "en": "Could you step to the side for an additional check?",
+      "keywords": [
+        {
+          "word": "additional",
+          "kk": "/əˈdɪʃənl/",
+          "zh": "額外的"
+        }
+      ],
+      "zh": "可以請您到旁邊接受額外的檢查嗎？",
+      "level": "B1",
+      "tags": [
+        "security",
+        "screening",
+        "inspection"
+      ],
+      "tips": "這是安檢人員請旅客接受進一步檢查的說法。通常是安檢儀器警報（alarm）觸發或行李 X 光有疑問物品。保持冷靜配合即可，說明物品用途通常能順利通關。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "03-005",
+      "en": "Please put your laptop in a separate tray.",
+      "keywords": [
+        {
+          "word": "laptop",
+          "kk": "/ˈlæptɑp/",
+          "zh": "筆記型電腦"
+        },
+        {
+          "word": "separate",
+          "kk": "/ˈsɛpərɪt/",
+          "zh": "分離"
+        }
+      ],
+      "zh": "請把您的筆記型電腦放到單獨的托盤中。",
+      "level": "A2",
+      "tags": [
+        "security",
+        "electronics",
+        "screening"
+      ],
+      "tips": "筆電（laptop）和其他大型電子設備必須從包包中取出單獨接受 X 光掃描。平板（tablet）依機場規定不同，有些也需要取出。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "03-006",
+      "en": "The gate for my flight is Gate B12.",
+      "keywords": [
+        {
+          "word": "gate",
+          "kk": "/ɡeɪt/",
+          "zh": "門"
+        }
+      ],
+      "zh": "我的班機登機門是 B12 號。",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "gate",
+        "navigation"
+      ],
+      "tips": "登機門（gate）號碼印在登機證上，但偶爾會臨時更改，建議時常留意機場廣播（announcement）和資訊看板（information board）。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "03-007",
+      "en": "Boarding will begin in thirty minutes.",
+      "keywords": [
+        {
+          "word": "boarding",
+          "kk": "/ˈbɔrdɪŋ/",
+          "zh": "登機"
+        }
+      ],
+      "zh": "登機將在三十分鐘後開始。",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "gate",
+        "boarding"
+      ],
+      "tips": "boarding 是「登機」的動作。航空公司通常按照艙等或座位區域（zone）分批登機，頭等艙、商務艙或有幼童的旅客優先。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "03-008",
+      "en": "This is the last call for passengers on flight CI-008 to Tokyo.",
+      "keywords": [
+        {
+          "word": "last call",
+          "kk": "/læst kɔl/",
+          "zh": "最後一次通話"
+        },
+        {
+          "word": "passengers",
+          "kk": "/ˈpæsɪndʒɚz/",
+          "zh": "乘客"
+        }
+      ],
+      "zh": "這是前往東京 CI-008 班機旅客的最後廣播。",
+      "level": "B1",
+      "tags": [
+        "airport",
+        "announcement",
+        "boarding"
+      ],
+      "tips": "last call 是「最後廣播、最後通知」。如果聽到這個廣播，代表班機即將關閉登機門（close the gate），需要立刻前往。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "03-009",
+      "en": "Can I bring this water bottle through security?",
+      "keywords": [
+        {
+          "word": "through",
+          "kk": "/θruː/",
+          "zh": "透過"
+        }
+      ],
+      "zh": "我可以帶這瓶水通過安檢嗎？",
+      "level": "A2",
+      "tags": [
+        "security",
+        "liquids",
+        "rules"
+      ],
+      "tips": "一般情況下，超過 100ml 的水瓶在安檢前必須喝完或丟棄。通過安檢後，在候機室（departure lounge）可以在免稅店或餐廳重新購買飲料。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "03-010",
+      "en": "Do I need to take off my jacket at security?",
+      "keywords": [
+        {
+          "word": "jacket",
+          "kk": "/ˈdʒækɪt/",
+          "zh": "夾克"
+        }
+      ],
+      "zh": "我在安檢時需要脫外套嗎？",
+      "level": "A2",
+      "tags": [
+        "security",
+        "clothing",
+        "screening"
+      ],
+      "tips": "大多數機場的安檢規定需要脫下外套並放入托盤。建議穿著方便穿脫的衣物，盡量減少金屬配件，以加快通關速度。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "03-011",
+      "en": "Where can I find the duty-free shops?",
+      "keywords": [
+        {
+          "word": "duty-free",
+          "kk": "/ˈdjuːti friː/",
+          "zh": "免稅"
+        }
+      ],
+      "zh": "免稅店在哪裡？",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "shopping",
+        "duty-free"
+      ],
+      "tips": "duty-free shops（免稅店）位於通過安檢後的管制區內（secure area）。常見商品有：香水、化妝品、酒類、菸草、精品。購買時需出示護照和登機證。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "03-012",
+      "en": "My carry-on bag set off the alarm. What do I do?",
+      "keywords": [
+        {
+          "word": "alarm",
+          "kk": "/əˈlɑrm/",
+          "zh": "警報"
+        }
+      ],
+      "zh": "我的手提行李觸發了警報。我該怎麼辦？",
+      "level": "B1",
+      "tags": [
+        "security",
+        "alarm",
+        "screening"
+      ],
+      "tips": "set off the alarm 是「觸發警報」。遇到這種情況，請冷靜等待安檢人員指示，通常他們會用手持掃描儀再次確認，或是打開行李檢查。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "03-013",
+      "en": "Is there a family lane for security screening?",
+      "keywords": [
+        {
+          "word": "lane",
+          "kk": "/leɪn/",
+          "zh": "車道"
+        },
+        {
+          "word": "screening",
+          "kk": "/ˈskriːnɪŋ/",
+          "zh": "篩選"
+        }
+      ],
+      "zh": "安檢有家庭專用通道嗎？",
+      "level": "B1",
+      "tags": [
+        "security",
+        "family",
+        "airport"
+      ],
+      "tips": "許多大型機場設有家庭通道（family lane）或特殊需求旅客通道（special assistance lane），讓帶幼童或行動不便的旅客能更從容地通過安檢。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "03-014",
+      "en": "Please walk through the metal detector.",
+      "keywords": [
+        {
+          "word": "metal detector",
+          "kk": "/ˈmɛtl dɪˈtɛktɚ/",
+          "zh": "金屬探測器"
+        }
+      ],
+      "zh": "請走過金屬探測門。",
+      "level": "A2",
+      "tags": [
+        "security",
+        "screening",
+        "instruction"
+      ],
+      "tips": "metal detector 是「金屬探測器/安檢門」。走過時身上不應有任何金屬物品。現代機場也常使用全身掃描儀（body scanner）取代傳統安檢門。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "03-015",
+      "en": "We are now boarding rows 20 to 35. Please have your boarding pass ready.",
+      "keywords": [
+        {
+          "word": "boarding pass",
+          "kk": "/ˈbɔrdɪŋ pæs/",
+          "zh": "登機證"
+        }
+      ],
+      "zh": "我們現在開放 20 至 35 排登機，請準備好您的登機證。",
+      "level": "B1",
+      "tags": [
+        "airport",
+        "boarding",
+        "announcement"
+      ],
+      "tips": "航空公司通常按排數（row）分批登機，從後排開始（back rows first），讓旅客能順暢入座，減少通道擁擠。注意自己的排數，在對的時間排隊。",
+      "audio": null,
+      "type": "statement"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q03-mc-001",
+        "question": "What must you do with liquids over 100ml at airport security?",
+        "options": [
+          {
+            "en": "Put them in your checked baggage",
+            "zh": "將它們放入托運行李中"
+          },
+          {
+            "en": "Declare them at the counter",
+            "zh": "在櫃檯申報"
+          },
+          {
+            "en": "Drink them or throw them away",
+            "zh": "喝掉它們或丟掉它們"
+          },
+          {
+            "en": "Seal them in a plastic bag",
+            "zh": "將它們密封在塑膠袋中"
+          }
+        ],
+        "answer": "Drink them or throw them away"
+      },
+      {
+        "id": "q03-mc-002",
+        "question": "The airport announces 'last call' for your flight. What should you do?",
+        "options": [
+          {
+            "en": "Go shopping in the duty-free store",
+            "zh": "去免稅店購物"
+          },
+          {
+            "en": "Head to the gate immediately",
+            "zh": "立即前往大門"
+          },
+          {
+            "en": "Check your luggage allowance",
+            "zh": "檢查您的行李限額"
+          },
+          {
+            "en": "Ask the airline to wait",
+            "zh": "請航空公司等待"
+          }
+        ],
+        "answer": "Head to the gate immediately"
+      },
+      {
+        "id": "q03-mc-003",
+        "question": "Which electronic device must you remove from your bag at security?",
+        "options": [
+          {
+            "en": "Your smartphone",
+            "zh": "您的智慧型手機"
+          },
+          {
+            "en": "Your tablet",
+            "zh": "您的平板電腦"
+          },
+          {
+            "en": "Your laptop",
+            "zh": "您的筆記型電腦"
+          },
+          {
+            "en": "Your boarding pass",
+            "zh": "您的登機證"
+          }
+        ],
+        "answer": "Your laptop"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q03-fi-001",
+        "question": "Please ________ your shoes and belt before going through security. (通過安檢前請脫掉鞋子和皮帶。)",
+        "answer": "remove"
+      },
+      {
+        "id": "q03-fi-002",
+        "question": "All ________ must be under 100ml and placed in a clear plastic bag. (所有液體必須在 100ml 以下，並放入透明塑膠袋中。)",
+        "answer": "liquids"
+      },
+      {
+        "id": "q03-fi-003",
+        "question": "Please walk through the metal ________. (請走過金屬探測門。)",
+        "answer": "detector"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q03-li-001",
+        "sentence_id": "03-001"
+      },
+      {
+        "id": "q03-li-002",
+        "sentence_id": "03-007"
+      },
+      {
+        "id": "q03-li-003",
+        "sentence_id": "03-008"
+      }
+    ]
+  }
+}

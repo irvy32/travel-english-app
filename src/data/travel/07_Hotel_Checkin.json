@@ -1,0 +1,473 @@
+{
+  "chapter_id": "07",
+  "chapter_name": "飯店 Check-in",
+  "sentences": [
+    {
+      "id": "07-001",
+      "en": "I'd like to check in, please.",
+      "keywords": [
+        {
+          "word": "check in",
+          "kk": "/tʃɛk ɪn/",
+          "zh": "報到"
+        }
+      ],
+      "zh": "我要辦理入住。",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "arrival",
+        "check-in"
+      ],
+      "tips": "抵達飯店最常說的第一句話。通常下午 2～3 點之後才開放 Check-in，建議事先確認。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "07-002",
+      "en": "I have a reservation under the name Johnson.",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzɚˈveʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "zh": "我有預約，訂房姓名是 Johnson。",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "reservation",
+        "check-in"
+      ],
+      "tips": "說 under the name 後接訂房的姓名。如果訂房時用英文名，記得使用與護照相同的拼音。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "07-003",
+      "en": "Could I see your passport and credit card, please?",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæspɔrt/",
+          "zh": "護照"
+        },
+        {
+          "word": "credit card",
+          "kk": "/ˈkrɛdɪt kɑrd/",
+          "zh": "信用卡"
+        }
+      ],
+      "zh": "請問可以看您的護照和信用卡嗎？",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "check-in",
+        "documents"
+      ],
+      "tips": "這是飯店人員（front desk staff）通常會說的話。Check-in 時幾乎都需要出示護照與信用卡（作為押金擔保）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "07-004",
+      "en": "Here is your room key card. Your room is on the fifth floor.",
+      "keywords": [
+        {
+          "word": "key card",
+          "kk": "/kiː kɑrd/",
+          "zh": "鑰匙卡"
+        }
+      ],
+      "zh": "這是您的房卡。您的房間在五樓。",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "check-in",
+        "room"
+      ],
+      "tips": "現代飯店大多使用感應式 key card，不是傳統鑰匙。收到時確認樓層與房號（room number）是否正確。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "07-005",
+      "en": "What time is checkout tomorrow?",
+      "keywords": [
+        {
+          "word": "checkout",
+          "kk": "/ˈtʃɛkaʊt/",
+          "zh": "查看"
+        }
+      ],
+      "zh": "明天幾點退房？",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "checkout",
+        "time"
+      ],
+      "tips": "一般飯店退房時間（checkout time）為中午 12 點。提早確認可以避免被收取額外費用（late checkout fee）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "07-006",
+      "en": "Is breakfast included in the room rate?",
+      "keywords": [
+        {
+          "word": "included",
+          "kk": "/ɪnˈkluːdɪd/",
+          "zh": "包括"
+        },
+        {
+          "word": "room rate",
+          "kk": "/ruːm reɪt/",
+          "zh": "房價"
+        }
+      ],
+      "zh": "房費有包含早餐嗎？",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "breakfast",
+        "amenities"
+      ],
+      "tips": "room rate 是每晚房費。有些飯店提供含早方案（bed and breakfast / B&B），訂房時請確認。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "07-007",
+      "en": "Could I request a room with a sea view?",
+      "keywords": [
+        {
+          "word": "request",
+          "kk": "/rɪˈkwɛst/",
+          "zh": "要求"
+        },
+        {
+          "word": "sea view",
+          "kk": "/siː vjuː/",
+          "zh": "海景"
+        }
+      ],
+      "zh": "我可以要求一間有海景的房間嗎？",
+      "level": "B1",
+      "tags": [
+        "hotel",
+        "room preference",
+        "upgrade"
+      ],
+      "tips": "request 是「請求、要求」，比 ask for 更正式。常見景觀選項：sea view（海景）、city view（城市景）、garden view（花園景）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "07-008",
+      "en": "The room hasn't been cleaned yet. Could you send housekeeping?",
+      "keywords": [
+        {
+          "word": "housekeeping",
+          "kk": "/ˈhaʊsˌkiːpɪŋ/",
+          "zh": "家政"
+        }
+      ],
+      "zh": "房間還沒有打掃。可以請客房服務來嗎？",
+      "level": "B1",
+      "tags": [
+        "hotel",
+        "complaint",
+        "service"
+      ],
+      "tips": "housekeeping 是飯店的客房清潔部門。若需要補充毛巾或備品也可以說：Could you send housekeeping to bring extra towels?",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "07-009",
+      "en": "I'd like to extend my stay for one more night.",
+      "keywords": [
+        {
+          "word": "extend",
+          "kk": "/ɪkˈstɛnd/",
+          "zh": "延長"
+        },
+        {
+          "word": "stay",
+          "kk": "/steɪ/",
+          "zh": "停留"
+        }
+      ],
+      "zh": "我想多住一晚。",
+      "level": "B1",
+      "tags": [
+        "hotel",
+        "extension",
+        "reservation"
+      ],
+      "tips": "extend my stay 是「延長住宿」。若當天有客滿（fully booked）的情況，飯店可能無法同意，建議盡早提出。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "07-010",
+      "en": "Could you store my luggage until this afternoon?",
+      "keywords": [
+        {
+          "word": "store",
+          "kk": "/stɔr/",
+          "zh": "店鋪"
+        },
+        {
+          "word": "luggage",
+          "kk": "/ˈlʌɡɪdʒ/",
+          "zh": "行李"
+        }
+      ],
+      "zh": "可以幫我保管行李到今天下午嗎？",
+      "level": "B1",
+      "tags": [
+        "hotel",
+        "luggage",
+        "service"
+      ],
+      "tips": "退房後若班機較晚，可以請飯店代為保管行李（luggage storage）。luggage 是不可數名詞，不說 a luggage，要說 a piece of luggage。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "07-011",
+      "en": "Is there a shuttle bus to the airport?",
+      "keywords": [
+        {
+          "word": "shuttle bus",
+          "kk": "/ˈʃʌtl bʌs/",
+          "zh": "穿梭巴士"
+        }
+      ],
+      "zh": "有機場接駁巴士嗎？",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "transport",
+        "airport"
+      ],
+      "tips": "許多機場附近的飯店提供免費接駁服務（complimentary shuttle）。如需預約，記得詢問 What time does the shuttle leave?",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "07-012",
+      "en": "The air conditioner in my room isn't working.",
+      "keywords": [
+        {
+          "word": "air conditioner",
+          "kk": "/ɛr kənˈdɪʃənɚ/",
+          "zh": "空調"
+        }
+      ],
+      "zh": "我房間的冷氣壞了。",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "complaint",
+        "maintenance"
+      ],
+      "tips": "回報房間設備故障時，句型為 The [設備] isn't working / doesn't work。其他常見設備：Wi-Fi、hot water（熱水）、TV。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "07-013",
+      "en": "Could you give me a wake-up call at six o'clock tomorrow morning?",
+      "keywords": [
+        {
+          "word": "wake-up call",
+          "kk": "/ˈweɪk ʌp kɔl/",
+          "zh": "叫醒電話"
+        }
+      ],
+      "zh": "可以在明天早上六點幫我叫醒嗎？",
+      "level": "B1",
+      "tags": [
+        "hotel",
+        "service",
+        "morning"
+      ],
+      "tips": "wake-up call 是飯店提供的電話叫醒服務。現代旅客多使用手機鬧鐘，但重要班機前請兩者並用，以防萬一。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "07-014",
+      "en": "Is the Wi-Fi free for guests?",
+      "keywords": [
+        {
+          "word": "guests",
+          "kk": "/ɡɛsts/",
+          "zh": "客人"
+        }
+      ],
+      "zh": "住客的 Wi-Fi 是免費的嗎？",
+      "level": "A2",
+      "tags": [
+        "hotel",
+        "wifi",
+        "amenities"
+      ],
+      "tips": "詢問 Wi-Fi 密碼（password）可說：What's the Wi-Fi password? 部分飯店的公共區域與房間 Wi-Fi 帳號不同，需要分別詢問。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "07-015",
+      "en": "I accidentally left my key card inside the room.",
+      "keywords": [
+        {
+          "word": "accidentally",
+          "kk": "/ˌæksɪˈdɛntlɪ/",
+          "zh": "偶然"
+        }
+      ],
+      "zh": "我不小心把房卡鎖在房間裡了。",
+      "level": "B1",
+      "tags": [
+        "hotel",
+        "problem",
+        "key card"
+      ],
+      "tips": "accidentally 是「不小心地、意外地」。遇到這種情況，前往櫃台出示護照，工作人員會幫你重新製作一張房卡。",
+      "audio": null,
+      "type": "statement"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q07-mc-001",
+        "question": "When you arrive at a hotel and want to begin the check-in process, what do you say?",
+        "options": [
+          {
+            "en": "I'd like to check out, please.",
+            "zh": "我想檢查一下，請。"
+          },
+          {
+            "en": "I'd like to check in, please.",
+            "zh": "我想辦理入住手續，請。"
+          },
+          {
+            "en": "I'd like to book a room, please.",
+            "zh": "我想預訂一個房間，請。"
+          },
+          {
+            "en": "I'd like to extend my stay, please.",
+            "zh": "我想延長我的停留時間。"
+          }
+        ],
+        "answer": "I'd like to check in, please."
+      },
+      {
+        "id": "q07-mc-002",
+        "question": "The hotel staff asks you for identification. Which two items will they most likely request?",
+        "options": [
+          {
+            "en": "Ticket and boarding pass",
+            "zh": "機票和登機證"
+          },
+          {
+            "en": "Driver's license and cash",
+            "zh": "駕駛執照和現金"
+          },
+          {
+            "en": "Passport and credit card",
+            "zh": "護照和信用卡"
+          },
+          {
+            "en": "Membership card and phone number",
+            "zh": "會員卡及電話號碼"
+          }
+        ],
+        "answer": "Passport and credit card"
+      },
+      {
+        "id": "q07-mc-003",
+        "question": "You need to leave your luggage temporarily after check-out. What do you ask?",
+        "options": [
+          {
+            "en": "Can I borrow a cart?",
+            "zh": "我可以借一輛推車嗎？"
+          },
+          {
+            "en": "Can I store my luggage?",
+            "zh": "我可以寄放行李嗎？"
+          },
+          {
+            "en": "Can I use the elevator?",
+            "zh": "我可以使用電梯嗎？"
+          },
+          {
+            "en": "Can I have a late check-out?",
+            "zh": "我可以晚點退房嗎？"
+          }
+        ],
+        "answer": "Can I store my luggage?"
+      },
+      {
+        "id": "q07-mc-004",
+        "question": "You want to stay one more night. What do you say?",
+        "options": [
+          {
+            "en": "I'd like to cancel my reservation.",
+            "zh": "我想取消我的預訂。"
+          },
+          {
+            "en": "I'd like to change my room.",
+            "zh": "我想換個房間。"
+          },
+          {
+            "en": "I'd like to extend my stay for one more night.",
+            "zh": "我想多住一晚。"
+          },
+          {
+            "en": "I'd like to check out now.",
+            "zh": "我想現在退房。"
+          }
+        ],
+        "answer": "I'd like to extend my stay for one more night."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q07-fi-001",
+        "question": "I have a ________ under the name Johnson. (我有預約，訂房姓名是 Johnson。)",
+        "answer": "reservation"
+      },
+      {
+        "id": "q07-fi-002",
+        "question": "Could you store my ________ until this afternoon? (可以幫我保管行李到今天下午嗎？)",
+        "answer": "luggage"
+      },
+      {
+        "id": "q07-fi-003",
+        "question": "The air ________ in my room isn't working. (我房間的冷氣壞了。)",
+        "answer": "conditioner"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q07-li-001",
+        "sentence_id": "07-002"
+      },
+      {
+        "id": "q07-li-002",
+        "sentence_id": "07-005"
+      },
+      {
+        "id": "q07-li-003",
+        "sentence_id": "07-011"
+      }
+    ]
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "chapter_id": "02",
+  "chapter_name": "機場報到",
+  "sentences": [
+    {
+      "id": "02-001",
+      "en": "Where is the check-in counter for China Airlines?",
+      "keywords": [
+        {
+          "word": "check-in counter",
+          "kk": "/tʃɛk ɪn ˈkaʊntɚ/",
+          "zh": "報到櫃檯"
+        }
+      ],
+      "zh": "中華航空的報到櫃台在哪裡？",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "check-in",
+        "navigation"
+      ],
+      "tips": "check-in counter 是機場的「報到/值機櫃台」。現代機場也設有自助值機亭（self-check-in kiosk），可提前完成並選位。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "02-002",
+      "en": "I'd like a window seat, please.",
+      "keywords": [
+        {
+          "word": "window seat",
+          "kk": "/ˈwɪndoʊ siːt/",
+          "zh": "靠窗的座位"
+        }
+      ],
+      "zh": "我想要靠窗的座位。",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "check-in",
+        "seat"
+      ],
+      "tips": "機艙座位類型：window seat（靠窗）、middle seat（中間）、aisle seat（靠走道，aisle 發音為 /aɪl/，l 不發音）。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "02-003",
+      "en": "How many bags are you checking in today?",
+      "keywords": [
+        {
+          "word": "checking in",
+          "kk": "/ˈtʃɛkɪŋ ɪn/",
+          "zh": "入住"
+        }
+      ],
+      "zh": "您今天要托運幾件行李？",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "baggage",
+        "check-in"
+      ],
+      "tips": "check in bags / luggage 是「托運行李」。隨身帶上飛機的是 carry-on baggage（手提行李），大多限制重量為 7-10 公斤。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "02-004",
+      "en": "My suitcase is overweight. How much is the extra fee?",
+      "keywords": [
+        {
+          "word": "overweight",
+          "kk": "/ˌoʊvɚˈweɪt/",
+          "zh": "超重"
+        },
+        {
+          "word": "extra fee",
+          "kk": "/ˈɛkstrə fiː/",
+          "zh": "額外費用"
+        }
+      ],
+      "zh": "我的行李箱超重了。超重費是多少？",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "baggage",
+        "fee"
+      ],
+      "tips": "overweight 在此指「行李超重」。超重費（excess baggage fee）依航空公司與超重公斤數而異，事先了解規定可避免臨時費用。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "02-005",
+      "en": "Here is my boarding pass and passport.",
+      "keywords": [
+        {
+          "word": "boarding pass",
+          "kk": "/ˈbɔrdɪŋ pæs/",
+          "zh": "登機證"
+        }
+      ],
+      "zh": "這是我的登機證和護照。",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "documents",
+        "check-in"
+      ],
+      "tips": "boarding pass 是登機時必備的「登機證」，印有座位號碼、登機門（gate）和登機時間（boarding time）等重要資訊。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "02-006",
+      "en": "Is my flight on time?",
+      "keywords": [
+        {
+          "word": "on time",
+          "kk": "/ɑn taɪm/",
+          "zh": "準時"
+        }
+      ],
+      "zh": "我的航班準時嗎？",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "flight",
+        "status"
+      ],
+      "tips": "on time 是「準時」。反義是 delayed（延誤）。如果班機延誤，工作人員可能會說 Your flight has been delayed by two hours.（您的班機延誤兩小時。）",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "02-007",
+      "en": "Which gate does my flight depart from?",
+      "keywords": [
+        {
+          "word": "gate",
+          "kk": "/ɡeɪt/",
+          "zh": "門"
+        },
+        {
+          "word": "depart",
+          "kk": "/dɪˈpɑrt/",
+          "zh": "離開"
+        }
+      ],
+      "zh": "我的班機從哪個登機門出發？",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "gate",
+        "flight"
+      ],
+      "tips": "depart 是「出發、啟程」，名詞是 departure（出發）。機場出發層為 departures，抵達層為 arrivals。登機門號碼（gate number）在登機證上可以查到。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "02-008",
+      "en": "I'd like to upgrade to business class if possible.",
+      "keywords": [
+        {
+          "word": "upgrade",
+          "kk": "/ˈʌpɡreɪd/",
+          "zh": "升級"
+        },
+        {
+          "word": "business class",
+          "kk": "/ˈbɪznɪs klæs/",
+          "zh": "商務艙"
+        }
+      ],
+      "zh": "如果可以的話，我想升等到商務艙。",
+      "level": "B1",
+      "tags": [
+        "airport",
+        "check-in",
+        "upgrade"
+      ],
+      "tips": "艙等由低到高：economy class（經濟艙）、premium economy（豪華經濟艙）、business class（商務艙）、first class（頭等艙）。機場升等有時比線上購買便宜。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "02-009",
+      "en": "Can I check in my carry-on bag? It's too large.",
+      "keywords": [
+        {
+          "word": "carry-on",
+          "kk": "/ˈkæri ɑn/",
+          "zh": "繼續"
+        }
+      ],
+      "zh": "我的手提行李可以托運嗎？它太大了。",
+      "level": "B1",
+      "tags": [
+        "airport",
+        "baggage",
+        "check-in"
+      ],
+      "tips": "carry-on bag 是「手提行李」，必須符合航空公司規定的尺寸與重量。若超出限制，工作人員可能要求以托運方式處理（gate-check）。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "02-010",
+      "en": "My flight has been delayed by two hours.",
+      "keywords": [
+        {
+          "word": "delayed",
+          "kk": "/dɪˈleɪd/",
+          "zh": "延遲"
+        }
+      ],
+      "zh": "我的班機延誤了兩個小時。",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "flight",
+        "delay"
+      ],
+      "tips": "delay 可作動詞或名詞。班機延誤時，請至航空公司服務台（airline service desk）詢問是否有餐食補償（meal voucher）或轉機安排。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "02-011",
+      "en": "Do I have enough time to make my connecting flight?",
+      "keywords": [
+        {
+          "word": "connecting flight",
+          "kk": "/kəˈnɛktɪŋ flaɪt/",
+          "zh": "轉機航班"
+        }
+      ],
+      "zh": "我有足夠的時間趕上轉機嗎？",
+      "level": "B1",
+      "tags": [
+        "airport",
+        "transit",
+        "flight"
+      ],
+      "tips": "connecting flight 是「轉機班機」，transit 是「過境、轉機」。一般建議在同一機場轉機的時間至少預留 1.5 到 2 小時，避免來不及。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "02-012",
+      "en": "Please place your luggage on the scale.",
+      "keywords": [
+        {
+          "word": "scale",
+          "kk": "/skeɪl/",
+          "zh": "規模"
+        }
+      ],
+      "zh": "請將您的行李放到磅秤上。",
+      "level": "A2",
+      "tags": [
+        "airport",
+        "baggage",
+        "check-in"
+      ],
+      "tips": "scale 在此是「磅秤」。這是值機人員的常用語，把行李放上去後，螢幕會顯示重量，再確認是否符合免費托運限重。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "02-013",
+      "en": "I'd like to select my seat in advance.",
+      "keywords": [
+        {
+          "word": "select",
+          "kk": "/sɪˈlɛkt/",
+          "zh": "選擇"
+        },
+        {
+          "word": "in advance",
+          "kk": "/ɪn ədˈvæns/",
+          "zh": "提早"
+        }
+      ],
+      "zh": "我想提前選位。",
+      "level": "B1",
+      "tags": [
+        "airport",
+        "seat",
+        "check-in"
+      ],
+      "tips": "in advance 是「提前、預先」。許多航空公司在訂票時就能線上選位，部分特殊座位（如緊急出口排、前排）需要額外付費。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "02-014",
+      "en": "Is there a lounge I can use with my ticket?",
+      "keywords": [
+        {
+          "word": "lounge",
+          "kk": "/laʊndʒ/",
+          "zh": "休息室"
+        }
+      ],
+      "zh": "我的機票可以使用貴賓室嗎？",
+      "level": "B1",
+      "tags": [
+        "airport",
+        "lounge",
+        "amenities"
+      ],
+      "tips": "airport lounge 是機場貴賓室，通常提供餐食、飲品、淋浴等設施。商務艙旅客或特定信用卡持有人（如 Priority Pass）可免費進入。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "02-015",
+      "en": "The departure board shows that boarding starts at 2:30 PM.",
+      "keywords": [
+        {
+          "word": "departure board",
+          "kk": "/dɪˈpɑrtʃɚ bɔrd/",
+          "zh": "航班看板"
+        },
+        {
+          "word": "boarding",
+          "kk": "/ˈbɔrdɪŋ/",
+          "zh": "登機"
+        }
+      ],
+      "zh": "出發資訊看板顯示登機從下午 2:30 開始。",
+      "level": "B1",
+      "tags": [
+        "airport",
+        "flight",
+        "information"
+      ],
+      "tips": "departure board（出發資訊看板）顯示各班機的最新狀態，包括 On Time（準時）、Delayed（延誤）、Boarding（登機中）、Gate Change（登機門更改）。",
+      "audio": null,
+      "type": "statement"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q02-mc-001",
+        "question": "You want to sit next to the window on your flight. What do you ask for?",
+        "options": [
+          {
+            "en": "An aisle seat",
+            "zh": "靠走道的座位"
+          },
+          {
+            "en": "A middle seat",
+            "zh": "中間一個座位"
+          },
+          {
+            "en": "A window seat",
+            "zh": "靠窗的座位"
+          },
+          {
+            "en": "A front seat",
+            "zh": "一個前座"
+          }
+        ],
+        "answer": "A window seat"
+      },
+      {
+        "id": "q02-mc-002",
+        "question": "Your suitcase is too heavy. What is the term for this situation?",
+        "options": [
+          {
+            "en": "Overbooked",
+            "zh": "超額預訂"
+          },
+          {
+            "en": "Overweight",
+            "zh": "超重"
+          },
+          {
+            "en": "Overloaded",
+            "zh": "超載"
+          },
+          {
+            "en": "Oversized",
+            "zh": "超大號"
+          }
+        ],
+        "answer": "Overweight"
+      },
+      {
+        "id": "q02-mc-003",
+        "question": "Which document shows your seat number and gate number?",
+        "options": [
+          {
+            "en": "Passport",
+            "zh": "護照"
+          },
+          {
+            "en": "Visa",
+            "zh": "簽證"
+          },
+          {
+            "en": "Boarding pass",
+            "zh": "登機證"
+          },
+          {
+            "en": "Itinerary",
+            "zh": "行程"
+          }
+        ],
+        "answer": "Boarding pass"
+      },
+      {
+        "id": "q02-mc-004",
+        "question": "Your flight was supposed to leave at 3 PM but will now leave at 5 PM. What happened?",
+        "options": [
+          {
+            "en": "The flight was cancelled",
+            "zh": "航班被取消"
+          },
+          {
+            "en": "The flight was delayed",
+            "zh": "航班延誤"
+          },
+          {
+            "en": "The flight was upgraded",
+            "zh": "航班已升等"
+          },
+          {
+            "en": "The flight was overbooked",
+            "zh": "該航班已超賣"
+          }
+        ],
+        "answer": "The flight was delayed"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q02-fi-001",
+        "question": "I'd like a ________ seat, please. (我想要靠窗的座位。)",
+        "answer": "window"
+      },
+      {
+        "id": "q02-fi-002",
+        "question": "Which ________ does my flight depart from? (我的班機從哪個登機門出發？)",
+        "answer": "gate"
+      },
+      {
+        "id": "q02-fi-003",
+        "question": "Do I have enough time to make my ________ flight? (我有足夠的時間趕上轉機嗎？)",
+        "answer": "connecting"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q02-li-001",
+        "sentence_id": "02-001"
+      },
+      {
+        "id": "q02-li-002",
+        "sentence_id": "02-006"
+      },
+      {
+        "id": "q02-li-003",
+        "sentence_id": "02-010"
+      }
+    ]
+  }
+}

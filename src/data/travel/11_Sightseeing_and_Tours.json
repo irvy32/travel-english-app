@@ -1,0 +1,478 @@
+{
+  "chapter_id": "11",
+  "chapter_name": "參觀景點/導覽",
+  "sentences": [
+    {
+      "id": "11-001",
+      "en": "How much is the entrance fee?",
+      "keywords": [
+        {
+          "word": "entrance fee",
+          "kk": "/ˈɛntrəns fiː/",
+          "zh": "入場費"
+        }
+      ],
+      "zh": "入場費是多少？",
+      "level": "A2",
+      "tags": [
+        "sightseeing",
+        "ticket",
+        "price"
+      ],
+      "tips": "entrance fee 是「入場費、門票費」。也可以說 admission fee 或 ticket price。很多博物館（museum）對持有效學生證的學生、65歲以上長者或特定國籍旅客提供折扣（discount）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-002",
+      "en": "Are there any guided tours available?",
+      "keywords": [
+        {
+          "word": "guided tours",
+          "kk": "/ˈɡaɪdɪd tʊrz/",
+          "zh": "導覽行程"
+        }
+      ],
+      "zh": "有提供導覽行程嗎？",
+      "level": "A2",
+      "tags": [
+        "sightseeing",
+        "tour",
+        "guide"
+      ],
+      "tips": "guided tour 是「有導遊帶領的解說導覽」。相對地，self-guided tour 是「自助導覽」。許多景點提供語音導覽機（audio guide）出租，讓你自行聆聽解說。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-003",
+      "en": "What time does the museum close?",
+      "keywords": [
+        {
+          "word": "museum",
+          "kk": "/mjuːˈziəm/",
+          "zh": "博物館"
+        }
+      ],
+      "zh": "博物館幾點關門？",
+      "level": "A2",
+      "tags": [
+        "sightseeing",
+        "hours",
+        "museum"
+      ],
+      "tips": "詢問開放時間可問：What are your opening hours?（你們的開放時間是幾點到幾點？）或 What time do you open / close?。很多景點週一休館（closed on Mondays）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-004",
+      "en": "Is photography allowed inside?",
+      "keywords": [
+        {
+          "word": "photography",
+          "kk": "/fəˈtɑɡrəfi/",
+          "zh": "攝影"
+        },
+        {
+          "word": "allowed",
+          "kk": "/əˈlaʊd/",
+          "zh": "允許"
+        }
+      ],
+      "zh": "裡面可以拍照嗎？",
+      "level": "A2",
+      "tags": [
+        "sightseeing",
+        "photography",
+        "rules"
+      ],
+      "tips": "allowed 是「被允許的」。Photography is not allowed here.（這裡禁止拍照。）部分博物館或藝廊允許拍照但禁止使用閃光燈（no flash），有些展覽完全禁止拍照。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-005",
+      "en": "Could you take a photo of us, please?",
+      "keywords": [
+        {
+          "word": "photo",
+          "kk": "/ˈfoʊtoʊ/",
+          "zh": "照片"
+        }
+      ],
+      "zh": "可以幫我們拍照嗎？",
+      "level": "A2",
+      "tags": [
+        "sightseeing",
+        "photo",
+        "request"
+      ],
+      "tips": "請路人幫忙拍照時，可以將手機遞過去並說這句話。拍完後記得說 Thank you so much!（非常感謝！）也可以問對方是否需要你幫他們拍照。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-006",
+      "en": "Do you have an English audio guide?",
+      "keywords": [
+        {
+          "word": "audio guide",
+          "kk": "/ˈɔdiɔ ɡaɪd/",
+          "zh": "語音導覽"
+        }
+      ],
+      "zh": "你們有英文語音導覽嗎？",
+      "level": "A2",
+      "tags": [
+        "sightseeing",
+        "audio guide",
+        "language"
+      ],
+      "tips": "audio guide（語音導覽）是配合展品編號、自行按按鈕聆聽解說的裝置。現在很多景點也提供 App 版本，可以直接下載到手機使用，非常方便。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-007",
+      "en": "Is there a map of the museum I can have?",
+      "keywords": [
+        {
+          "word": "map",
+          "kk": "/mæp/",
+          "zh": "地圖"
+        }
+      ],
+      "zh": "有博物館的地圖可以拿嗎？",
+      "level": "A2",
+      "tags": [
+        "sightseeing",
+        "map",
+        "museum"
+      ],
+      "tips": "大型博物館或景點通常在入口處（entrance）提供免費紙本地圖（floor plan / map），幫助訪客了解各展廳的位置。也可以掃描 QR code 取得電子版。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-008",
+      "en": "This painting was created in the fifteenth century.",
+      "keywords": [
+        {
+          "word": "painting",
+          "kk": "/ˈpeɪntɪŋ/",
+          "zh": "繪畫"
+        },
+        {
+          "word": "century",
+          "kk": "/ˈsɛntʃəri/",
+          "zh": "世紀"
+        }
+      ],
+      "zh": "這幅畫創作於十五世紀。",
+      "level": "B1",
+      "tags": [
+        "sightseeing",
+        "art",
+        "history"
+      ],
+      "tips": "century 是「世紀」，要注意序數用法：15th century（十五世紀）。常聽到的參觀解說中，century 是很重要的詞彙，了解不同時期的藝術風格有助於欣賞作品。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "11-009",
+      "en": "Where is the gift shop?",
+      "keywords": [
+        {
+          "word": "gift shop",
+          "kk": "/ɡɪft ʃɑp/",
+          "zh": "禮品店"
+        }
+      ],
+      "zh": "禮品店在哪裡？",
+      "level": "A2",
+      "tags": [
+        "sightseeing",
+        "shopping",
+        "souvenir"
+      ],
+      "tips": "gift shop（禮品店）是景點販賣紀念品（souvenir）的商店。許多博物館的出口（exit）直接通往禮品店，這是刻意的設計。紀念品冰箱貼（fridge magnet）和明信片（postcard）是最受歡迎的選購品。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-010",
+      "en": "Is there a senior discount?",
+      "keywords": [
+        {
+          "word": "senior",
+          "kk": "/ˈsiːnjɚ/",
+          "zh": "進階的"
+        },
+        {
+          "word": "discount",
+          "kk": "/ˈdɪskaʊnt/",
+          "zh": "折扣"
+        }
+      ],
+      "zh": "有長者優惠嗎？",
+      "level": "A2",
+      "tags": [
+        "sightseeing",
+        "discount",
+        "senior"
+      ],
+      "tips": "senior 在此指「年長者、長輩」，通常指 65 歲或 60 歲以上。詢問各種折扣：student discount（學生折扣）、senior discount（長者折扣）、group discount（團體折扣）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-011",
+      "en": "Can I buy tickets online in advance?",
+      "keywords": [
+        {
+          "word": "online",
+          "kk": "/ˈɔnˌlaɪn/",
+          "zh": "在線的"
+        },
+        {
+          "word": "in advance",
+          "kk": "/ɪn ədˈvæns/",
+          "zh": "提早"
+        }
+      ],
+      "zh": "我可以提前在網路上買票嗎？",
+      "level": "B1",
+      "tags": [
+        "sightseeing",
+        "ticket",
+        "booking"
+      ],
+      "tips": "許多熱門景點（如巴黎的艾菲爾鐵塔、梵蒂岡博物館）強烈建議提前在網路上購票，不僅可以跳過長隊（skip the queue），有時也享有更優惠的價格。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-012",
+      "en": "What are the highlights of this exhibition?",
+      "keywords": [
+        {
+          "word": "highlights",
+          "kk": "/ˈhaɪˌlaɪts/",
+          "zh": "亮點"
+        },
+        {
+          "word": "exhibition",
+          "kk": "/ˌɛksɪˈbɪʃən/",
+          "zh": "展覽"
+        }
+      ],
+      "zh": "這個展覽的亮點是什麼？",
+      "level": "B1",
+      "tags": [
+        "sightseeing",
+        "exhibition",
+        "inquiry"
+      ],
+      "tips": "highlight 是「最精彩的部分、亮點」。exhibition（展覽）指特展，collection（典藏）指長期展示的作品。詢問導覽人員或服務台，可以幫你規劃參觀重點，節省時間。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-013",
+      "en": "Is there a free day or free admission on any day?",
+      "keywords": [
+        {
+          "word": "admission",
+          "kk": "/ədˈmɪʃən/",
+          "zh": "入場"
+        }
+      ],
+      "zh": "有免費參觀日或任何免費入場的時段嗎？",
+      "level": "B1",
+      "tags": [
+        "sightseeing",
+        "free",
+        "admission"
+      ],
+      "tips": "許多世界知名博物館（如倫敦大英博物館、紐約大都會博物館）提供免費入場（free admission），但建議捐款（donation appreciated）。部分博物館在特定日期或時段免費開放。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-014",
+      "en": "Could you recommend a good local tour?",
+      "keywords": [
+        {
+          "word": "recommend",
+          "kk": "/ˌrɛkəˈmɛnd/",
+          "zh": "推薦"
+        },
+        {
+          "word": "local",
+          "kk": "/ˈloʊkl/",
+          "zh": "當地的"
+        }
+      ],
+      "zh": "可以推薦好的當地導覽行程嗎？",
+      "level": "B1",
+      "tags": [
+        "sightseeing",
+        "tour",
+        "recommendation"
+      ],
+      "tips": "local tour（當地導覽）可以讓你更深入了解一個城市或景點的文化與歷史。Airbnb Experiences 和 GetYourGuide 等平台都提供當地達人帶領的小團導覽，體驗更生動有趣。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "11-015",
+      "en": "Where is the restroom?",
+      "keywords": [
+        {
+          "word": "restroom",
+          "kk": "/ˈrɛstˌruːm/",
+          "zh": "廁所"
+        }
+      ],
+      "zh": "洗手間在哪裡？",
+      "level": "A2",
+      "tags": [
+        "sightseeing",
+        "restroom",
+        "navigation"
+      ],
+      "tips": "restroom 或 bathroom 是美式英語的「廁所、洗手間」；英式英語說 toilet 或 WC（water closet）。在公共場所詢問廁所位置是旅行中最實用的句子之一，任何地點都適用。",
+      "audio": null,
+      "type": "question"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q11-mc-001",
+        "question": "You want to know if you can take photos inside a gallery. What do you ask?",
+        "options": [
+          {
+            "en": "Can I buy a painting here?",
+            "zh": "我可以在這裡買一幅畫嗎？"
+          },
+          {
+            "en": "Is photography allowed inside?",
+            "zh": "裡面可以拍照嗎？"
+          },
+          {
+            "en": "Do you have a gift shop?",
+            "zh": "你們有禮品店嗎？"
+          },
+          {
+            "en": "Where is the audio guide?",
+            "zh": "語音導覽在哪裡？"
+          }
+        ],
+        "answer": "Is photography allowed inside?"
+      },
+      {
+        "id": "q11-mc-002",
+        "question": "You want a narrator to explain the exhibits while you walk around alone. What do you ask for?",
+        "options": [
+          {
+            "en": "A guided tour",
+            "zh": "導遊陪同遊覽"
+          },
+          {
+            "en": "A floor map",
+            "zh": "樓層地圖"
+          },
+          {
+            "en": "An audio guide",
+            "zh": "音頻指南"
+          },
+          {
+            "en": "A group tour",
+            "zh": "團體旅遊"
+          }
+        ],
+        "answer": "An audio guide"
+      },
+      {
+        "id": "q11-mc-003",
+        "question": "You are 68 years old. What kind of discount might you be eligible for?",
+        "options": [
+          {
+            "en": "Student discount",
+            "zh": "學生折扣"
+          },
+          {
+            "en": "Group discount",
+            "zh": "團體折扣"
+          },
+          {
+            "en": "Online discount",
+            "zh": "網上折扣"
+          },
+          {
+            "en": "Senior discount",
+            "zh": "高級折扣"
+          }
+        ],
+        "answer": "Senior discount"
+      },
+      {
+        "id": "q11-mc-004",
+        "question": "Where can you buy souvenirs at a museum?",
+        "options": [
+          {
+            "en": "The audio guide booth",
+            "zh": "語音導覽亭"
+          },
+          {
+            "en": "The ticket counter",
+            "zh": "售票櫃檯"
+          },
+          {
+            "en": "The gift shop",
+            "zh": "禮品店"
+          },
+          {
+            "en": "The information desk",
+            "zh": "問訊處"
+          }
+        ],
+        "answer": "The gift shop"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q11-fi-001",
+        "question": "How much is the ________ fee? (入場費是多少？)",
+        "answer": "entrance"
+      },
+      {
+        "id": "q11-fi-002",
+        "question": "Are there any ________ tours available? (有提供導覽行程嗎？)",
+        "answer": "guided"
+      },
+      {
+        "id": "q11-fi-003",
+        "question": "Is there a senior ________? (有長者優惠嗎？)",
+        "answer": "discount"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q11-li-001",
+        "sentence_id": "11-001"
+      },
+      {
+        "id": "q11-li-002",
+        "sentence_id": "11-005"
+      },
+      {
+        "id": "q11-li-003",
+        "sentence_id": "11-015"
+      }
+    ]
+  }
+}

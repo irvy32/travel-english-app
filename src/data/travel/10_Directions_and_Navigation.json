@@ -1,0 +1,442 @@
+{
+  "chapter_id": "10",
+  "chapter_name": "問路與導航",
+  "sentences": [
+    {
+      "id": "10-001",
+      "en": "Excuse me, how do I get to the nearest subway station?",
+      "keywords": [
+        {
+          "word": "subway station",
+          "kk": "/ˈsʌbweɪ ˈsteɪʃən/",
+          "zh": "捷運站"
+        }
+      ],
+      "zh": "不好意思，請問最近的地鐵站怎麼走？",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "directions",
+        "subway"
+      ],
+      "tips": "subway 是美式英語的「地鐵」；英式英語說 underground 或 tube（特指倫敦地鐵）；其他地方也用 metro。問路時先說 Excuse me 是禮貌的做法。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "10-002",
+      "en": "Turn left at the traffic light.",
+      "keywords": [
+        {
+          "word": "traffic light",
+          "kk": "/ˈtræfɪk laɪt/",
+          "zh": "紅綠燈"
+        }
+      ],
+      "zh": "在紅綠燈處左轉。",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "directions",
+        "instruction"
+      ],
+      "tips": "指路常用方向詞：turn left（左轉）、turn right（右轉）、go straight（直走）。traffic light（紅綠燈）是常見的路標參考點，比「第三個路口」更容易辨認。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "10-003",
+      "en": "Go straight ahead for two blocks, then turn right.",
+      "keywords": [
+        {
+          "word": "straight ahead",
+          "kk": "/streɪt əˈhɛd/",
+          "zh": "直行"
+        },
+        {
+          "word": "blocks",
+          "kk": "/blɑks/",
+          "zh": "區塊"
+        }
+      ],
+      "zh": "直走兩個街區，然後右轉。",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "directions",
+        "instruction"
+      ],
+      "tips": "block 是「街區」，即兩個路口之間的距離。straight ahead 是「直直往前走」。美國城市（如紐約）常用 block 計算距離，非常實用。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "10-004",
+      "en": "Is it within walking distance?",
+      "keywords": [
+        {
+          "word": "walking distance",
+          "kk": "/ˈwɔkɪŋ ˈdɪstəns/",
+          "zh": "步行距離"
+        }
+      ],
+      "zh": "走路可以到嗎？",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "distance",
+        "walking"
+      ],
+      "tips": "within walking distance 是「在步行範圍內」。如果對方說 It's about a 10-minute walk（走路大約 10 分鐘），就是在步行距離內。若太遠，可以詢問公車或地鐵路線。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "10-005",
+      "en": "Could you show me on the map?",
+      "keywords": [
+        {
+          "word": "map",
+          "kk": "/mæp/",
+          "zh": "地圖"
+        }
+      ],
+      "zh": "可以在地圖上指給我看嗎？",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "map",
+        "directions"
+      ],
+      "tips": "當聽不懂口頭指引時，請對方直接在地圖（紙本或手機）上指出目的地，是最直觀有效的方式。出示手機 Google Maps 然後說這句話，通常很快就能解決問題。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "10-006",
+      "en": "I think I'm lost. Can you help me?",
+      "keywords": [
+        {
+          "word": "lost",
+          "kk": "/lɔst/",
+          "zh": "遺失的"
+        }
+      ],
+      "zh": "我想我迷路了。你可以幫我嗎？",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "lost",
+        "help"
+      ],
+      "tips": "I'm lost 是「我迷路了」，非常實用的求助句。也可以說：I can't find my way.（我找不到路。）勇敢開口問路，當地人通常很樂意幫忙。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "10-007",
+      "en": "How far is the museum from here?",
+      "keywords": [
+        {
+          "word": "museum",
+          "kk": "/mjuːˈziəm/",
+          "zh": "博物館"
+        }
+      ],
+      "zh": "博物館離這裡多遠？",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "distance",
+        "sightseeing"
+      ],
+      "tips": "詢問距離的句型是 How far is [地點] from here?。回答通常用時間（It's a 5-minute walk）或距離（It's about 500 meters away）表示。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "10-008",
+      "en": "It's on the corner of Fifth Avenue and 42nd Street.",
+      "keywords": [
+        {
+          "word": "corner",
+          "kk": "/ˈkɔrnɚ/",
+          "zh": "角落"
+        },
+        {
+          "word": "avenue",
+          "kk": "/ˈævɪnjuː/",
+          "zh": "大街"
+        }
+      ],
+      "zh": "它在第五大道和 42 街的轉角。",
+      "level": "B1",
+      "tags": [
+        "navigation",
+        "location",
+        "directions"
+      ],
+      "tips": "corner 是「轉角、街角」。on the corner of A and B 表示在 A 路和 B 路的交叉轉角。avenue（大道）通常是較寬的主要幹道；street（街）相對較小。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "10-009",
+      "en": "Take the number 10 bus and get off at City Hall.",
+      "keywords": [
+        {
+          "word": "get off",
+          "kk": "/ɡɛt ɔf/",
+          "zh": "下車"
+        }
+      ],
+      "zh": "搭 10 號公車，在市政廳站下車。",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "bus",
+        "directions"
+      ],
+      "tips": "get off 是「下車（公車、火車）」；get on 是「上車」。搭計程車下車則說 get out of the taxi。確認對的站名和方向，以免坐過站（miss your stop）。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "10-010",
+      "en": "Sorry, I'm not from around here.",
+      "keywords": [
+        {
+          "word": "around",
+          "kk": "/əˈraʊnd/",
+          "zh": "大約"
+        }
+      ],
+      "zh": "抱歉，我對這一帶不熟。",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "response",
+        "directions"
+      ],
+      "tips": "當你被問路但自己也不清楚路況時，誠實說這句是最好的選擇。完整版可說：Sorry, I'm not from around here. I'm a tourist too.（對不起，我對這裡不熟，我也是觀光客。）",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "10-011",
+      "en": "The landmark is right next to the clock tower.",
+      "keywords": [
+        {
+          "word": "landmark",
+          "kk": "/ˈlændˌmɑrk/",
+          "zh": "地標"
+        },
+        {
+          "word": "clock tower",
+          "kk": "/klɑk ˈtaʊɚ/",
+          "zh": "鐘樓"
+        }
+      ],
+      "zh": "那個地標就在鐘塔旁邊。",
+      "level": "B1",
+      "tags": [
+        "navigation",
+        "landmark",
+        "location"
+      ],
+      "tips": "landmark 是「地標」，是指路時常用的參考點。right next to 是「就在…旁邊」，right 在此加強語氣，表示「就是、正好」。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "10-012",
+      "en": "Could you write down the address for me?",
+      "keywords": [
+        {
+          "word": "address",
+          "kk": "/əˈdrɛs/",
+          "zh": "地址"
+        }
+      ],
+      "zh": "可以幫我把地址寫下來嗎？",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "address",
+        "help"
+      ],
+      "tips": "當口頭指引難以記住時，請對方寫下地址是很聰明的方法。拿到地址後，可以直接輸入 Google Maps 或 Apple Maps 導航，非常方便。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "10-013",
+      "en": "Can I walk there, or should I take a taxi?",
+      "keywords": [
+        {
+          "word": "walk",
+          "kk": "/wɔk/",
+          "zh": "走"
+        }
+      ],
+      "zh": "我可以走路去，還是應該搭計程車？",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "transportation",
+        "distance"
+      ],
+      "tips": "這個問句可以讓對方幫你判斷距離是否適合步行。若答案是 You should take a taxi（建議搭計程車），代表距離較遠，步行不實際。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "10-014",
+      "en": "The park is behind the shopping mall.",
+      "keywords": [
+        {
+          "word": "behind",
+          "kk": "/bɪˈhaɪnd/",
+          "zh": "在後面"
+        },
+        {
+          "word": "shopping mall",
+          "kk": "/ˈʃɑpɪŋ mɔl/",
+          "zh": "購物中心"
+        }
+      ],
+      "zh": "公園在購物商場後面。",
+      "level": "A2",
+      "tags": [
+        "navigation",
+        "location",
+        "directions"
+      ],
+      "tips": "位置介係詞：behind（在…後面）、in front of（在…前面）、next to（在…旁邊）、across from（在…對面）、between（在…之間）。這些是指路最常用的方位詞。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "10-015",
+      "en": "You'll see the hotel on your left after you cross the bridge.",
+      "keywords": [
+        {
+          "word": "cross",
+          "kk": "/krɔs/",
+          "zh": "叉"
+        },
+        {
+          "word": "bridge",
+          "kk": "/brɪdʒ/",
+          "zh": "橋"
+        }
+      ],
+      "zh": "過橋後你會看到飯店在你的左手邊。",
+      "level": "B1",
+      "tags": [
+        "navigation",
+        "directions",
+        "landmark"
+      ],
+      "tips": "cross 是「過（橋、馬路）」。on your left / right 是「在你的左/右手邊」，比單獨說 left / right 更清楚。這種融合地標的指路方式最容易讓人理解。",
+      "audio": null,
+      "type": "statement"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q10-mc-001",
+        "question": "Someone gives you directions but you can't understand them. What do you ask?",
+        "options": [
+          {
+            "en": "Could you draw a picture?",
+            "zh": "你能畫一幅畫嗎？"
+          },
+          {
+            "en": "Could you show me on the map?",
+            "zh": "你能在地圖上指給我看嗎？"
+          },
+          {
+            "en": "Could you call a taxi?",
+            "zh": "你能叫一輛計程車嗎？"
+          },
+          {
+            "en": "Could you come with me?",
+            "zh": "你能跟我一起去嗎？"
+          }
+        ],
+        "answer": "Could you show me on the map?"
+      },
+      {
+        "id": "q10-mc-002",
+        "question": "In American English, what is the underground train called?",
+        "options": [
+          {
+            "en": "Tube",
+            "zh": "管子"
+          },
+          {
+            "en": "Metro",
+            "zh": "捷運"
+          },
+          {
+            "en": "Subway",
+            "zh": "捷運"
+          },
+          {
+            "en": "Underground",
+            "zh": "地下"
+          }
+        ],
+        "answer": "Subway"
+      },
+      {
+        "id": "q10-mc-003",
+        "question": "You're lost and ask someone for help. What do you say first?",
+        "options": [
+          {
+            "en": "I'm not from around here.",
+            "zh": "我不是這裡的人。"
+          },
+          {
+            "en": "Go straight ahead.",
+            "zh": "一直往前走。"
+          }
+        ],
+        "answer": "I'm not from around here."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q10-fi-001",
+        "question": "Go ________ ahead for two blocks, then turn right. (直走兩個街區，然後右轉。)",
+        "answer": "straight"
+      },
+      {
+        "id": "q10-fi-002",
+        "question": "I think I'm ________. Can you help me? (我想我迷路了。你可以幫我嗎？)",
+        "answer": "lost"
+      },
+      {
+        "id": "q10-fi-003",
+        "question": "It's on the ________ of Fifth Avenue and 42nd Street. (它在第五大道和 42 街的轉角。)",
+        "answer": "corner"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q10-li-001",
+        "sentence_id": "10-001"
+      },
+      {
+        "id": "q10-li-002",
+        "sentence_id": "10-004"
+      },
+      {
+        "id": "q10-li-003",
+        "sentence_id": "10-006"
+      }
+    ]
+  }
+}

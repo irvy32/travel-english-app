@@ -1,0 +1,458 @@
+{
+  "chapter_id": "08",
+  "chapter_name": "餐廳用餐",
+  "sentences": [
+    {
+      "id": "08-001",
+      "en": "Do you have a table for two?",
+      "keywords": [
+        {
+          "word": "table",
+          "kk": "/ˈteɪbl/",
+          "zh": "桌子"
+        }
+      ],
+      "zh": "請問有兩人的桌位嗎？",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "reservation",
+        "arrival"
+      ],
+      "tips": "進入餐廳時的基本用語。若是大型聚餐，把人數改成對應數字即可，例如：a table for four（四人桌）。在熱門餐廳建議事先訂位（make a reservation）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-002",
+      "en": "Could I see the menu, please?",
+      "keywords": [
+        {
+          "word": "menu",
+          "kk": "/ˈmɛnjuː/",
+          "zh": "選單"
+        }
+      ],
+      "zh": "可以給我看菜單嗎？",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "menu",
+        "ordering"
+      ],
+      "tips": "menu 是「菜單」。現在許多餐廳使用 QR code 點餐，你可以說：Do you have a QR code for the menu?（你們有掃描菜單的 QR code 嗎？）",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-003",
+      "en": "I'd like to order the grilled salmon, please.",
+      "keywords": [
+        {
+          "word": "grilled",
+          "kk": "/ɡrɪld/",
+          "zh": "烤"
+        },
+        {
+          "word": "salmon",
+          "kk": "/ˈsæmən/",
+          "zh": "鮭魚"
+        }
+      ],
+      "zh": "我想點烤鮭魚。",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "ordering",
+        "food"
+      ],
+      "tips": "salmon 的 l 不發音，讀作 /ˈsæmən/。點餐時用 I'd like to order... 或直接說 I'll have...。常見烹飪方式：grilled（烤）、fried（炸）、steamed（蒸）、baked（烘烤）。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "08-004",
+      "en": "What do you recommend?",
+      "keywords": [
+        {
+          "word": "recommend",
+          "kk": "/ˌrɛkəˈmɛnd/",
+          "zh": "推薦"
+        }
+      ],
+      "zh": "您有什麼推薦嗎？",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "ordering",
+        "recommendation"
+      ],
+      "tips": "recommend 是「推薦」。問了之後，服務生通常會介紹今日特餐（today's special）或招牌菜（signature dish）。這也是一個了解當地特色料理的好機會。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-005",
+      "en": "I'm allergic to peanuts. Does this dish contain any?",
+      "keywords": [
+        {
+          "word": "allergic",
+          "kk": "/əˈlɜrdʒɪk/",
+          "zh": "過敏的"
+        },
+        {
+          "word": "peanuts",
+          "kk": "/ˈpiːnʌts/",
+          "zh": "花生"
+        }
+      ],
+      "zh": "我對花生過敏。這道菜有花生嗎？",
+      "level": "B1",
+      "tags": [
+        "dining",
+        "allergy",
+        "food safety"
+      ],
+      "tips": "allergic to 是「對…過敏」。食物過敏可能非常危險，一定要在點餐前清楚告知。常見食物過敏原：peanuts（花生）、shellfish（貝類）、gluten（麩質）、dairy（乳製品）。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-006",
+      "en": "Could I have my steak medium rare, please?",
+      "keywords": [
+        {
+          "word": "medium rare",
+          "kk": "/ˈmiːdiəm rɛr/",
+          "zh": "三分熟"
+        }
+      ],
+      "zh": "我的牛排可以做三分熟嗎？",
+      "level": "B1",
+      "tags": [
+        "dining",
+        "steak",
+        "preference"
+      ],
+      "tips": "牛排熟度從生到全熟：rare（一分熟）、medium rare（三分熟）、medium（五分熟）、medium well（七分熟）、well done（全熟）。不確定自己喜歡什麼，可以先點 medium 嘗試。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-007",
+      "en": "Could we get some more water, please?",
+      "keywords": [
+        {
+          "word": "more",
+          "kk": "/mɔr/",
+          "zh": "更多的"
+        }
+      ],
+      "zh": "可以再給我們一些水嗎？",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "drinks",
+        "service"
+      ],
+      "tips": "在歐美許多餐廳，服務生不會主動續水，需要自行招手或詢問。Excuse me, could we get some more water? 是有禮貌的詢問方式。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-008",
+      "en": "Excuse me, I didn't order this.",
+      "keywords": [
+        {
+          "word": "order",
+          "kk": "/ˈɔrdɚ/",
+          "zh": "命令"
+        }
+      ],
+      "zh": "不好意思，我沒有點這道。",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "complaint",
+        "service"
+      ],
+      "tips": "上錯菜時，禮貌地告知服務生即可，不需要動怒。可以補充說：I ordered the pasta, not the pizza.（我點的是義大利麵，不是披薩。）",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "08-009",
+      "en": "Could we get the bill, please?",
+      "keywords": [
+        {
+          "word": "bill",
+          "kk": "/bɪl/",
+          "zh": "帳單"
+        }
+      ],
+      "zh": "可以給我們帳單嗎？",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "payment",
+        "bill"
+      ],
+      "tips": "bill 是英式英語的「帳單」；美式英語說 check（Could we get the check?）。兩種說法在各地都能被理解。在歐美大多不會自動送帳單，用餐完畢後需要主動要求。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-010",
+      "en": "Can we pay separately?",
+      "keywords": [
+        {
+          "word": "separately",
+          "kk": "/ˈsɛpərɪtli/",
+          "zh": "分別地"
+        }
+      ],
+      "zh": "我們可以分開結帳嗎？",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "payment",
+        "splitting"
+      ],
+      "tips": "separately 是「分別地」。也可以說：Can we split the bill?（我們可以分攤帳單嗎？）部分餐廳不提供分開結帳服務，可以事先詢問。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-011",
+      "en": "Is service charge included in the bill?",
+      "keywords": [
+        {
+          "word": "service charge",
+          "kk": "/ˈsɜrvɪs tʃɑrdʒ/",
+          "zh": "服務費"
+        }
+      ],
+      "zh": "帳單有含服務費嗎？",
+      "level": "B1",
+      "tags": [
+        "dining",
+        "payment",
+        "tip"
+      ],
+      "tips": "service charge（服務費）是某些餐廳自動計入帳單的費用，約 10-20%。若已含服務費，小費（tip）可以不用另外給。在美國、加拿大等地，服務費通常不含在帳單內，小費是習慣必給的。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-012",
+      "en": "Do you have a non-smoking section?",
+      "keywords": [
+        {
+          "word": "non-smoking",
+          "kk": "/nɑn ˈsmoʊkɪŋ/",
+          "zh": "禁煙"
+        }
+      ],
+      "zh": "你們有禁菸區嗎？",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "seating",
+        "preference"
+      ],
+      "tips": "non-smoking section 是「禁菸區」；smoking section 是「吸菸區」。在許多國家，室內餐廳已全面禁菸（smoke-free），這個問題更適用於戶外用餐區或仍允許吸菸的地區。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-013",
+      "en": "Is this dish spicy?",
+      "keywords": [
+        {
+          "word": "spicy",
+          "kk": "/ˈspaɪsi/",
+          "zh": "辛辣的"
+        }
+      ],
+      "zh": "這道菜辣嗎？",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "food",
+        "preference"
+      ],
+      "tips": "spicy 是「辣的」。如果不吃辣，可以說：Could you make it less spicy?（可以做不那麼辣嗎？）或 I'd like it mild, please.（我要口味溫和的。）",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-014",
+      "en": "Could I get this to go?",
+      "keywords": [
+        {
+          "word": "to go",
+          "kk": "/tə ɡoʊ/",
+          "zh": "去"
+        }
+      ],
+      "zh": "我可以把這個打包帶走嗎？",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "takeout",
+        "service"
+      ],
+      "tips": "to go 是美式說法，表示「外帶、打包帶走」；英式說法是 takeaway。吃不完想打包剩菜，可以說：Could I get a box for this?（可以給我一個打包盒嗎？）",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "08-015",
+      "en": "The food was delicious. Thank you very much.",
+      "keywords": [
+        {
+          "word": "delicious",
+          "kk": "/dɪˈlɪʃəs/",
+          "zh": "可口的"
+        }
+      ],
+      "zh": "食物非常美味。非常感謝。",
+      "level": "A2",
+      "tags": [
+        "dining",
+        "compliment",
+        "farewell"
+      ],
+      "tips": "delicious 是「非常美味的」。用餐結束後給予讚美是很好的餐廳禮儀，可以讓服務人員知道你很滿意。也可以說：Everything was wonderful!（一切都很棒！）",
+      "audio": null,
+      "type": "statement"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q08-mc-001",
+        "question": "You want to know what the restaurant recommends. What do you ask?",
+        "options": [
+          {
+            "en": "What is on the menu?",
+            "zh": "菜單上有什麼？"
+          },
+          {
+            "en": "What do you recommend?",
+            "zh": "你有什麼建議嗎？"
+          },
+          {
+            "en": "Can I see the chef?",
+            "zh": "我可以見見廚師嗎？"
+          },
+          {
+            "en": "What is the daily special?",
+            "zh": "每日特價是什麼？"
+          }
+        ],
+        "answer": "What do you recommend?"
+      },
+      {
+        "id": "q08-mc-002",
+        "question": "You want your steak slightly pink in the middle. How do you order it?",
+        "options": [
+          {
+            "en": "Well done",
+            "zh": "幹得好"
+          },
+          {
+            "en": "Rare",
+            "zh": "稀有的"
+          },
+          {
+            "en": "Medium rare",
+            "zh": "三分熟"
+          },
+          {
+            "en": "Medium well",
+            "zh": "中井"
+          }
+        ],
+        "answer": "Medium rare"
+      },
+      {
+        "id": "q08-mc-003",
+        "question": "In British English, what do you ask for to pay at a restaurant?",
+        "options": [
+          {
+            "en": "The check, please",
+            "zh": "請給我帳單"
+          },
+          {
+            "en": "The bill, please",
+            "zh": "請給我帳單"
+          },
+          {
+            "en": "The receipt, please",
+            "zh": "請給我收據"
+          },
+          {
+            "en": "The menu, please",
+            "zh": "請給我菜單"
+          }
+        ],
+        "answer": "The bill, please"
+      },
+      {
+        "id": "q08-mc-004",
+        "question": "You want to take leftover food home. What do you say in American English?",
+        "options": [
+          {
+            "en": "Could I get this for delivery?",
+            "zh": "我可以送貨嗎？"
+          },
+          {
+            "en": "Could I get this takeaway?",
+            "zh": "我可以叫這個外帶嗎？"
+          },
+          {
+            "en": "Could I get this to go?",
+            "zh": "我可以把這個處理掉嗎？"
+          },
+          {
+            "en": "Could I get this packed?",
+            "zh": "我可以把這個打包嗎？"
+          }
+        ],
+        "answer": "Could I get this to go?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q08-fi-001",
+        "question": "I'm ________ to peanuts. Does this dish contain any? (我對花生過敏。這道菜有花生嗎？)",
+        "answer": "allergic"
+      },
+      {
+        "id": "q08-fi-002",
+        "question": "Could I have my steak medium ________, please? (我的牛排可以做三分熟嗎？)",
+        "answer": "rare"
+      },
+      {
+        "id": "q08-fi-003",
+        "question": "Can we pay ________? (我們可以分開結帳嗎？)",
+        "answer": "separately"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q08-li-001",
+        "sentence_id": "08-002"
+      },
+      {
+        "id": "q08-li-002",
+        "sentence_id": "08-009"
+      },
+      {
+        "id": "q08-li-003",
+        "sentence_id": "08-015"
+      }
+    ]
+  }
+}

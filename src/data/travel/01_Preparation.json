@@ -1,0 +1,483 @@
+{
+  "chapter_id": "01",
+  "chapter_name": "出國前準備",
+  "sentences": [
+    {
+      "id": "01-001",
+      "en": "I need to renew my passport before the trip.",
+      "keywords": [
+        {
+          "word": "renew",
+          "kk": "/rɪˈnjuː/",
+          "zh": "更新"
+        },
+        {
+          "word": "passport",
+          "kk": "/ˈpæspɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "zh": "我需要在出發前更新護照。",
+      "level": "A2",
+      "tags": [
+        "preparation",
+        "passport",
+        "documents"
+      ],
+      "tips": "renew 是「更新、續辦」。台灣護照效期十年，若剩餘效期不足六個月，許多國家會拒絕入境，務必提前辦理。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "01-002",
+      "en": "Do I need a visa to enter Japan?",
+      "keywords": [
+        {
+          "word": "visa",
+          "kk": "/ˈviːzə/",
+          "zh": "簽證"
+        }
+      ],
+      "zh": "我去日本需要簽證嗎？",
+      "level": "A2",
+      "tags": [
+        "preparation",
+        "visa",
+        "documents"
+      ],
+      "tips": "台灣護照持有者前往許多國家可免簽（visa-free）或落地簽（visa on arrival）。出發前請至目的地國駐台辦事處官網確認最新規定。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "01-003",
+      "en": "I'd like to book a round-trip flight to London.",
+      "keywords": [
+        {
+          "word": "round-trip",
+          "kk": "/ˈraʊnd trɪp/",
+          "zh": "往返"
+        }
+      ],
+      "zh": "我想訂一張去倫敦的來回機票。",
+      "level": "A2",
+      "tags": [
+        "preparation",
+        "flight",
+        "booking"
+      ],
+      "tips": "round-trip 是「來回票」；one-way 是「單程票」。美式英語說 round-trip，英式英語說 return ticket，意思相同。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "01-004",
+      "en": "I want to get travel insurance for this trip.",
+      "keywords": [
+        {
+          "word": "travel insurance",
+          "kk": "/ˈtræv əl ɪnˈʃʊrəns/",
+          "zh": "旅遊保險"
+        }
+      ],
+      "zh": "我想為這趟旅行買旅遊保險。",
+      "level": "A2",
+      "tags": [
+        "preparation",
+        "insurance",
+        "safety"
+      ],
+      "tips": "旅遊保險（travel insurance）通常涵蓋行李遺失、班機延誤、急難醫療等。前往歐美國家醫療費用昂貴，強烈建議購買。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "01-005",
+      "en": "I need to exchange some currency before I leave.",
+      "keywords": [
+        {
+          "word": "exchange",
+          "kk": "/ɪksˈtʃeɪndʒ/",
+          "zh": "交換"
+        },
+        {
+          "word": "currency",
+          "kk": "/ˈkɜrənsi/",
+          "zh": "貨幣"
+        }
+      ],
+      "zh": "我出發前需要換一些外幣。",
+      "level": "A2",
+      "tags": [
+        "preparation",
+        "money",
+        "currency"
+      ],
+      "tips": "exchange currency 是「換外幣」。也可以說 change money。一般來說在台灣的銀行或機場兌換，匯率會比在國外兌換來得划算。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "01-006",
+      "en": "What is the baggage allowance for this flight?",
+      "keywords": [
+        {
+          "word": "baggage allowance",
+          "kk": "/ˈbæɡɪdʒ əˈlaʊəns/",
+          "zh": "行李限額"
+        }
+      ],
+      "zh": "這個航班的行李限重是多少？",
+      "level": "A2",
+      "tags": [
+        "preparation",
+        "baggage",
+        "flight"
+      ],
+      "tips": "baggage allowance 是航空公司允許的免費行李重量。超重（overweight）需要補繳費用，有時金額相當高，出發前務必確認。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "01-007",
+      "en": "I should check if my credit card works abroad.",
+      "keywords": [
+        {
+          "word": "abroad",
+          "kk": "/əˈbrɔːd/",
+          "zh": "國外"
+        }
+      ],
+      "zh": "我應該確認我的信用卡在國外能不能用。",
+      "level": "A2",
+      "tags": [
+        "preparation",
+        "money",
+        "credit card"
+      ],
+      "tips": "abroad 是「在國外、到國外」。出國前建議通知發卡銀行出國日期，避免海外刷卡被誤判為盜刷而遭到停卡。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "01-008",
+      "en": "I'm downloading offline maps in case I don't have internet access.",
+      "keywords": [
+        {
+          "word": "offline",
+          "kk": "/ˈɔfˌlaɪn/",
+          "zh": "離線"
+        },
+        {
+          "word": "internet access",
+          "kk": "/ˈɪntɚnɛt ˈæksɛs/",
+          "zh": "網路存取"
+        }
+      ],
+      "zh": "我在下載離線地圖，以防沒有網路。",
+      "level": "B1",
+      "tags": [
+        "preparation",
+        "technology",
+        "navigation"
+      ],
+      "tips": "in case 是「以防萬一」。Google Maps 和 Maps.me 都支援離線地圖下載，在沒有 Wi-Fi 或當地 SIM 卡時非常實用。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "01-009",
+      "en": "I need to buy a power adapter for the UK.",
+      "keywords": [
+        {
+          "word": "power adapter",
+          "kk": "/ˈpaʊɚ əˈdæptɚ/",
+          "zh": "電源適配器"
+        }
+      ],
+      "zh": "我需要買一個英規插座轉接頭。",
+      "level": "A2",
+      "tags": [
+        "preparation",
+        "electronics",
+        "packing"
+      ],
+      "tips": "各國插座規格不同。英國為三孔方型（Type G），歐洲大陸多為兩孔圓型（Type C），美日與台灣相同（Type A）。出發前查好以免無法充電。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "01-010",
+      "en": "Have you packed everything you need for the trip?",
+      "keywords": [
+        {
+          "word": "packed",
+          "kk": "/pækt/",
+          "zh": "包裝的"
+        }
+      ],
+      "zh": "你把旅行需要的東西都打包好了嗎？",
+      "level": "A2",
+      "tags": [
+        "preparation",
+        "packing",
+        "checklist"
+      ],
+      "tips": "pack 是「打包、收拾行李」。出發前建議使用行李清單（packing list）逐一確認，常被遺漏的有：充電線、轉接頭、藥品與備用眼鏡。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "01-011",
+      "en": "I'm going to apply for a tourist visa at the embassy.",
+      "keywords": [
+        {
+          "word": "apply",
+          "kk": "/əˈplaɪ/",
+          "zh": "申請"
+        },
+        {
+          "word": "embassy",
+          "kk": "/ˈɛmbəsi/",
+          "zh": "大使館"
+        }
+      ],
+      "zh": "我要去大使館申請觀光簽證。",
+      "level": "B1",
+      "tags": [
+        "preparation",
+        "visa",
+        "documents"
+      ],
+      "tips": "apply for 是「申請」。embassy 是大使館，consulate 是領事館。簽證申請需要提前預留處理時間，有時長達數週。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "01-012",
+      "en": "I should make copies of all my important documents.",
+      "keywords": [
+        {
+          "word": "copies",
+          "kk": "/ˈkɑpɪz/",
+          "zh": "副本"
+        },
+        {
+          "word": "documents",
+          "kk": "/ˈdɑkjəmənts/",
+          "zh": "文件"
+        }
+      ],
+      "zh": "我應該把所有重要文件影印備份。",
+      "level": "B1",
+      "tags": [
+        "preparation",
+        "safety",
+        "documents"
+      ],
+      "tips": "重要文件包括：護照、簽證、機票、旅遊保險。建議將掃描檔上傳至雲端（如 Google Drive），萬一正本遺失仍可取得資料。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "01-013",
+      "en": "What's the weather like in Paris in October?",
+      "keywords": [
+        {
+          "word": "weather",
+          "kk": "/ˈwɛðɚ/",
+          "zh": "天氣"
+        }
+      ],
+      "zh": "十月的巴黎天氣怎麼樣？",
+      "level": "A2",
+      "tags": [
+        "preparation",
+        "weather",
+        "packing"
+      ],
+      "tips": "出發前查詢目的地的天氣（weather forecast）是打包的關鍵。What's the weather like 是詢問天氣狀況的標準句型。",
+      "audio": null,
+      "type": "question"
+    },
+    {
+      "id": "01-014",
+      "en": "I need to notify my bank that I'll be traveling overseas.",
+      "keywords": [
+        {
+          "word": "notify",
+          "kk": "/ˈnoʊtɪˌfaɪ/",
+          "zh": "通知"
+        },
+        {
+          "word": "overseas",
+          "kk": "/ˌoʊvɚˈsiːz/",
+          "zh": "海外"
+        }
+      ],
+      "zh": "我需要通知銀行我要出國。",
+      "level": "B1",
+      "tags": [
+        "preparation",
+        "money",
+        "bank"
+      ],
+      "tips": "notify 是「通知」，比 tell 更正式。overseas 是「海外、在國外」，與 abroad 意思相同。部分銀行可透過 App 直接設定出國通知。",
+      "audio": null,
+      "type": "statement"
+    },
+    {
+      "id": "01-015",
+      "en": "I'm going to purchase a local SIM card when I arrive.",
+      "keywords": [
+        {
+          "word": "purchase",
+          "kk": "/ˈpɜrtʃɪs/",
+          "zh": "購買"
+        },
+        {
+          "word": "SIM card",
+          "kk": "/sɪm kɑrd/",
+          "zh": "SIM 卡"
+        }
+      ],
+      "zh": "我抵達後要買一張當地的 SIM 卡。",
+      "level": "B1",
+      "tags": [
+        "preparation",
+        "technology",
+        "communication"
+      ],
+      "tips": "purchase 是「購買」的正式說法。在機場到達廳（arrivals hall）通常可以找到電信商攤位，購買含數據流量的預付 SIM 卡，比漫遊划算。",
+      "audio": null,
+      "type": "statement"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "q01-mc-001",
+        "question": "Your passport has only 3 months of validity left. What should you do before your trip?",
+        "options": [
+          {
+            "en": "Buy travel insurance",
+            "zh": "購買旅遊保險"
+          },
+          {
+            "en": "Renew your passport",
+            "zh": "更新你的護照"
+          },
+          {
+            "en": "Exchange currency",
+            "zh": "兌換貨幣"
+          },
+          {
+            "en": "Book a hotel",
+            "zh": "預訂飯店"
+          }
+        ],
+        "answer": "Renew your passport"
+      },
+      {
+        "id": "q01-mc-002",
+        "question": "You're flying to London. What is a 'round-trip' ticket?",
+        "options": [
+          {
+            "en": "A ticket that goes around the world",
+            "zh": "一張環遊世界的車票"
+          },
+          {
+            "en": "A one-way ticket",
+            "zh": "單程票"
+          },
+          {
+            "en": "A ticket for both departure and return flights",
+            "zh": "來回機票一張"
+          },
+          {
+            "en": "A first-class ticket",
+            "zh": "頭等艙機票一張"
+          }
+        ],
+        "answer": "A ticket for both departure and return flights"
+      },
+      {
+        "id": "q01-mc-003",
+        "question": "Before using your credit card overseas, what should you do?",
+        "options": [
+          {
+            "en": "Cancel the card and get a new one",
+            "zh": "取消卡片並換一張新卡"
+          },
+          {
+            "en": "Notify your bank that you'll be traveling",
+            "zh": "通知您的銀行您將要旅行"
+          },
+          {
+            "en": "Only use cash abroad",
+            "zh": "國外只能使用現金"
+          },
+          {
+            "en": "Apply for a visa",
+            "zh": "申請簽證"
+          }
+        ],
+        "answer": "Notify your bank that you'll be traveling"
+      },
+      {
+        "id": "q01-mc-004",
+        "question": "Why should you make copies of your important documents?",
+        "options": [
+          {
+            "en": "To save money on printing",
+            "zh": "為了節省列印費用"
+          },
+          {
+            "en": "So you can leave the originals at home",
+            "zh": "這樣您就可以將原件留在家裡"
+          },
+          {
+            "en": "In case the originals are lost or stolen",
+            "zh": "如果原件遺失或被盜"
+          },
+          {
+            "en": "Because customs requires them",
+            "zh": "因為海關要求他們"
+          }
+        ],
+        "answer": "In case the originals are lost or stolen"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "q01-fi-001",
+        "question": "I need to ________ my passport before the trip. (我需要在出發前更新護照。)",
+        "answer": "renew"
+      },
+      {
+        "id": "q01-fi-002",
+        "question": "I need to exchange some ________ before I leave. (我出發前需要換一些外幣。)",
+        "answer": "currency"
+      },
+      {
+        "id": "q01-fi-003",
+        "question": "I'm going to ________ a local SIM card when I arrive. (我抵達後要買一張當地的 SIM 卡。)",
+        "answer": "purchase"
+      }
+    ],
+    "listening": [
+      {
+        "id": "q01-li-001",
+        "sentence_id": "01-002"
+      },
+      {
+        "id": "q01-li-002",
+        "sentence_id": "01-006"
+      },
+      {
+        "id": "q01-li-003",
+        "sentence_id": "01-010"
+      }
+    ]
+  }
+}
