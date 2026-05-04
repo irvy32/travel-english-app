@@ -18,7 +18,7 @@ export default function App() {
   }, [settings.fontSize])
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/travel" element={<ChapterListPage />} />
@@ -27,6 +27,6 @@ export default function App() {
         <Route path="/review" element={<ReviewCenter />} />
         <Route path="/settings" element={<SettingsPage />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
