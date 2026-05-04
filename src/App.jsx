@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import { useSettings } from './hooks/useSettings'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 import HomePage from './pages/HomePage'
 import ChapterListPage from './pages/ChapterListPage'
 import ChapterView from './pages/ChapterView'
