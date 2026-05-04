@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import TopNav from '../components/TopNav'
 import BottomNav from '../components/BottomNav'
+import * as storage from '../services/storage'
 
 export default function ChapterListPage() {
   const navigate = useNavigate()
@@ -37,10 +38,11 @@ export default function ChapterListPage() {
     loadChapters()
   }, [])
 
-  const getProgress = (chapterId) => {
-    const key = `travel_${chapterId}_progress`
-    const saved = localStorage.getItem(key)
-    return saved ? parseInt(saved, 10) : 0
+  const getChapterProgress = (chapter) => {
+    const learned = storage.getProgress('travel', chapter.chapter_id)
+    const total = chapter.sentences?.length ?? 0
+    if (total === 0) return 0
+    return Math.round(learned.length / total * 100)
   }
 
   return (
@@ -58,7 +60,7 @@ export default function ChapterListPage() {
 
       <div className="px-4 pb-20">
         {chapters.map((chapter, idx) => {
-          const progress = getProgress(chapter.chapter_id)
+          const progress = getChapterProgress(chapter)
           
           return (
             <div
