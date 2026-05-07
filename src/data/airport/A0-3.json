@@ -1,0 +1,441 @@
+{
+  "chapter_id": "A0-3",
+  "chapter_name": "機場貴賓室",
+  "sentences": [
+    {
+      "id": "A0-3-D1",
+      "en": "Where is the airport lounge?",
+      "zh": "機場貴賓室在哪裡？",
+      "keywords": [
+        {
+          "word": "airport",
+          "kk": "/ˈɛrˌpɔrt/",
+          "zh": "機場"
+        },
+        {
+          "word": "lounge",
+          "kk": "/lounge/",
+          "zh": "lounge"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "詢問地點時，「Where is...?」問位置，「How do I get to...?」問交通方式，兩者皆實用。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D2",
+      "en": "Is there a lounge I can use near Gate B12?",
+      "zh": "B12登機門附近有我可以使用的貴賓室嗎？",
+      "keywords": [
+        {
+          "word": "lounge",
+          "kk": "/lounge/",
+          "zh": "lounge"
+        },
+        {
+          "word": "use",
+          "kk": "/use/",
+          "zh": "use"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D3",
+      "en": "I have lounge access with my credit card.",
+      "zh": "我有信用卡的貴賓室使用權。",
+      "keywords": [
+        {
+          "word": "lounge",
+          "kk": "/lounge/",
+          "zh": "lounge"
+        },
+        {
+          "word": "access",
+          "kk": "/ˈæksɛs/",
+          "zh": "access"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D4",
+      "en": "I have a Priority Pass card.",
+      "zh": "我有 Priority Pass 卡。",
+      "keywords": [
+        {
+          "word": "priority",
+          "kk": "/priority/",
+          "zh": "priority"
+        },
+        {
+          "word": "pass",
+          "kk": "/pass/",
+          "zh": "通過"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D5",
+      "en": "I'm a gold member of EVA Air.",
+      "zh": "我是長榮航空金卡會員。",
+      "keywords": [
+        {
+          "word": "gold",
+          "kk": "/gold/",
+          "zh": "gold"
+        },
+        {
+          "word": "member",
+          "kk": "/member/",
+          "zh": "member"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D6",
+      "en": "I'm flying business class today.",
+      "zh": "我今天搭乘商務艙。",
+      "keywords": [
+        {
+          "word": "flying",
+          "kk": "/flying/",
+          "zh": "flying"
+        },
+        {
+          "word": "business",
+          "kk": "/business/",
+          "zh": "business"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "交通"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D10",
+      "en": "Is there another lounge I can access with Priority Pass?",
+      "zh": "有其他我可以用 Priority Pass 進入的貴賓室嗎？",
+      "keywords": [
+        {
+          "word": "lounge",
+          "kk": "/lounge/",
+          "zh": "lounge"
+        },
+        {
+          "word": "access",
+          "kk": "/ˈæksɛs/",
+          "zh": "access"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D11",
+      "en": "Is there a shower available?",
+      "zh": "有提供淋浴嗎？",
+      "keywords": [
+        {
+          "word": "shower",
+          "kk": "/shower/",
+          "zh": "shower"
+        },
+        {
+          "word": "available",
+          "kk": "/əˈveɪləbəl/",
+          "zh": "有空的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D12",
+      "en": "How do I connect to the Wi-Fi?",
+      "zh": "Wi-Fi 怎麼連？",
+      "keywords": [
+        {
+          "word": "connect",
+          "kk": "/connect/",
+          "zh": "connect"
+        },
+        {
+          "word": "wi-fi",
+          "kk": "/wi-fi/",
+          "zh": "wi-fi"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D13",
+      "en": "What time does the lounge close?",
+      "zh": "貴賓室幾點關閉？",
+      "keywords": [
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "time"
+        },
+        {
+          "word": "lounge",
+          "kk": "/lounge/",
+          "zh": "lounge"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D14",
+      "en": "Is there a quiet area?",
+      "zh": "有安靜的區域嗎？",
+      "keywords": [
+        {
+          "word": "quiet",
+          "kk": "/ˈkwaɪɪt/",
+          "zh": "安靜的"
+        },
+        {
+          "word": "area",
+          "kk": "/area/",
+          "zh": "area"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D15",
+      "en": "Can I bring a guest?",
+      "zh": "我可以帶同伴進來嗎？",
+      "keywords": [
+        {
+          "word": "bring",
+          "kk": "/bring/",
+          "zh": "bring"
+        },
+        {
+          "word": "guest",
+          "kk": "/guest/",
+          "zh": "guest"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D16",
+      "en": "How much is the guest fee?",
+      "zh": "同伴的費用是多少？",
+      "keywords": [
+        {
+          "word": "guest",
+          "kk": "/guest/",
+          "zh": "guest"
+        },
+        {
+          "word": "fee",
+          "kk": "/fee/",
+          "zh": "fee"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D17",
+      "en": "We are travelling together as a family.",
+      "zh": "我們是一起旅遊的家人。",
+      "keywords": [
+        {
+          "word": "travelling",
+          "kk": "/travelling/",
+          "zh": "travelling"
+        },
+        {
+          "word": "together",
+          "kk": "/together/",
+          "zh": "together"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D18",
+      "en": "Can you let me know when boarding starts for flight BR189?",
+      "zh": "BR189航班開始登機時可以通知我嗎？",
+      "keywords": [
+        {
+          "word": "boarding",
+          "kk": "/ˈbɔrdɪŋ/",
+          "zh": "登機"
+        },
+        {
+          "word": "starts",
+          "kk": "/starts/",
+          "zh": "starts"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "「check in」是辦理登機報到的動作，與飯店的 check-in（辦理入住）用法相同，場合不同意思一致。",
+      "audio": null
+    },
+    {
+      "id": "A0-3-D19",
+      "en": "Will there be an announcement here when my flight boards?",
+      "zh": "我的航班登機時這裡會廣播嗎？",
+      "keywords": [
+        {
+          "word": "announcement",
+          "kk": "/announcement/",
+          "zh": "announcement"
+        },
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "航班；飛行"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qA03-mc-001",
+        "question": "下列哪一句英文的意思是「機場貴賓室在哪裡？」？",
+        "options": [
+          {
+            "en": "Where is the airport lounge?",
+            "zh": "機場貴賓室在哪裡？"
+          },
+          {
+            "en": "Is there a lounge I can use near Gate B12?",
+            "zh": "B12登機門附近有我可以使用的貴賓室嗎？"
+          },
+          {
+            "en": "I have lounge access with my credit card.",
+            "zh": "我有信用卡的貴賓室使用權。"
+          },
+          {
+            "en": "I have a Priority Pass card.",
+            "zh": "我有 Priority Pass 卡。"
+          }
+        ],
+        "answer": "Where is the airport lounge?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qA03-fi-001",
+        "question": "______ is the airport lounge?",
+        "answer": "where"
+      },
+      {
+        "id": "qA03-fi-002",
+        "question": "Is ______ a lounge I can use near Gate B12?",
+        "answer": "there"
+      },
+      {
+        "id": "qA03-fi-003",
+        "question": "I ______ lounge access with my credit card.",
+        "answer": "have"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qA03-li-001",
+        "sentence_id": "A0-3-D1"
+      },
+      {
+        "id": "qA03-li-002",
+        "sentence_id": "A0-3-D3"
+      },
+      {
+        "id": "qA03-li-003",
+        "sentence_id": "A0-3-D5"
+      }
+    ]
+  }
+}

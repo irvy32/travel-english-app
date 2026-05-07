@@ -1,0 +1,415 @@
+{
+  "chapter_id": "D1-1",
+  "chapter_name": "餐廳點餐",
+  "sentences": [
+    {
+      "id": "D1-1-D2",
+      "en": "Yes, just the two of us. Do we need a reservation, or is walk-in OK?",
+      "zh": "是的，我們兩位。需要訂位嗎，還是直接進來可以？",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        },
+        {
+          "word": "walk-in",
+          "kk": "/walk-in/",
+          "zh": "walk-in"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D4",
+      "en": "Excuse me — could I have a few more minutes? I'm still deciding.",
+      "zh": "不好意思，可以再給我幾分鐘嗎？我還在考慮。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "minutes",
+          "kk": "/minutes/",
+          "zh": "minutes"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D6",
+      "en": "What's the difference between the sirloin and the ribeye?",
+      "zh": "沙朗牛排和肋眼牛排有什麼差別？",
+      "keywords": [
+        {
+          "word": "what's",
+          "kk": "/what's/",
+          "zh": "what's"
+        },
+        {
+          "word": "difference",
+          "kk": "/difference/",
+          "zh": "difference"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D8",
+      "en": "I'll have the ribeye, please. Medium, with mashed potatoes on the side.",
+      "zh": "我要肋眼牛排，五分熟，配薯泥。",
+      "keywords": [
+        {
+          "word": "ribeye",
+          "kk": "/ribeye/",
+          "zh": "ribeye"
+        },
+        {
+          "word": "medium",
+          "kk": "/medium/",
+          "zh": "medium"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D10",
+      "en": "Peppercorn, please. Also — I'm allergic to shellfish. Is there anything I should be aware of?",
+      "zh": "黑胡椒醬，謝謝。另外，我對甲殼類海鮮過敏，有需要注意的嗎？",
+      "keywords": [
+        {
+          "word": "peppercorn",
+          "kk": "/peppercorn/",
+          "zh": "peppercorn"
+        },
+        {
+          "word": "allergic",
+          "kk": "/əˈlɜrdʒɪk/",
+          "zh": "過敏的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D12",
+      "en": "I appreciate that. And could we also start with the soup of the day?",
+      "zh": "謝謝。另外可以先上今日例湯嗎？",
+      "keywords": [
+        {
+          "word": "appreciate",
+          "kk": "/appreciate/",
+          "zh": "appreciate"
+        },
+        {
+          "word": "start",
+          "kk": "/start/",
+          "zh": "start"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D15",
+      "en": "Still water for me, please. And a glass of the house red — whatever you'd recommend.",
+      "zh": "我要一般水，再來一杯招牌紅酒，您推薦哪款就好。",
+      "keywords": [
+        {
+          "word": "still",
+          "kk": "/still/",
+          "zh": "still"
+        },
+        {
+          "word": "water",
+          "kk": "/ˈwɔtər/",
+          "zh": "水"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D16",
+      "en": "Sorry — one more thing. Could we get a booth if one becomes available? I find it a bit noisy here.",
+      "zh": "抱歉，再請教一下，如果有卡座空出來可以換嗎？這裡有點吵。",
+      "keywords": [
+        {
+          "word": "sorry",
+          "kk": "/ˈsɑrɪ/",
+          "zh": "sorry"
+        },
+        {
+          "word": "thing",
+          "kk": "/thing/",
+          "zh": "thing"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D18",
+      "en": "Excuse me — I ordered medium, but this looks more well-done. Could you check?",
+      "zh": "不好意思，我點的是五分熟，但這看起來比較像全熟，可以幫我確認嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "ordered",
+          "kk": "/ordered/",
+          "zh": "ordered"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D20",
+      "en": "Thank you. Also, my companion's pasta is still waiting — it's been about 20 minutes.",
+      "zh": "謝謝。另外我同伴的義大利麵還沒上，已經等了大約20分鐘了。",
+      "keywords": [
+        {
+          "word": "companion's",
+          "kk": "/companion's/",
+          "zh": "companion's"
+        },
+        {
+          "word": "pasta",
+          "kk": "/pasta/",
+          "zh": "pasta"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D22",
+      "en": "Excuse me, could we have some more bread?",
+      "zh": "不好意思，可以再給我們一些麵包嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "bread",
+          "kk": "/bread/",
+          "zh": "bread"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D23",
+      "en": "Could I have some extra napkins?",
+      "zh": "可以多給我幾張餐巾嗎？",
+      "keywords": [
+        {
+          "word": "extra",
+          "kk": "/extra/",
+          "zh": "extra"
+        },
+        {
+          "word": "napkins",
+          "kk": "/napkins/",
+          "zh": "napkins"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D24",
+      "en": "I dropped my fork. Could I have a new one?",
+      "zh": "我的叉子掉了，可以換一支嗎？",
+      "keywords": [
+        {
+          "word": "dropped",
+          "kk": "/dropped/",
+          "zh": "dropped"
+        },
+        {
+          "word": "fork",
+          "kk": "/fork/",
+          "zh": "fork"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D25",
+      "en": "Everything is delicious, thank you.",
+      "zh": "一切都很好吃，謝謝。",
+      "keywords": [
+        {
+          "word": "everything",
+          "kk": "/everything/",
+          "zh": "everything"
+        },
+        {
+          "word": "delicious",
+          "kk": "/delicious/",
+          "zh": "delicious"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "D1-1-D26",
+      "en": "Excuse me, I think there's been a mix-up. I ordered the salmon, not the chicken.",
+      "zh": "不好意思，我想搞錯了，我點的是鮭魚，不是雞肉。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "there's",
+          "kk": "/there's/",
+          "zh": "there's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qD11-mc-001",
+        "question": "下列哪一句英文的意思是「是的，我們兩位。需要訂位嗎，還是直接進來可以？」？",
+        "options": [
+          {
+            "en": "Yes, just the two of us. Do we need a reservation, or is walk-in OK?",
+            "zh": "是的，我們兩位。需要訂位嗎，還是直接進來可以？"
+          },
+          {
+            "en": "Excuse me — could I have a few more minutes? I'm still deciding.",
+            "zh": "不好意思，可以再給我幾分鐘嗎？我還在考慮。"
+          },
+          {
+            "en": "What's the difference between the sirloin and the ribeye?",
+            "zh": "沙朗牛排和肋眼牛排有什麼差別？"
+          },
+          {
+            "en": "I'll have the ribeye, please. Medium, with mashed potatoes on the side.",
+            "zh": "我要肋眼牛排，五分熟，配薯泥。"
+          }
+        ],
+        "answer": "Yes, just the two of us. Do we need a reservation, or is walk-in OK?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qD11-fi-001",
+        "question": "______, just the two of us. Do we need a reservation, or is walk-in OK?",
+        "answer": "yes"
+      },
+      {
+        "id": "qD11-fi-002",
+        "question": "______ me — could I have a few more minutes? I'm still deciding.",
+        "answer": "excuse"
+      },
+      {
+        "id": "qD11-fi-003",
+        "question": "______ the difference between the sirloin and the ribeye?",
+        "answer": "what's"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qD11-li-001",
+        "sentence_id": "D1-1-D2"
+      },
+      {
+        "id": "qD11-li-002",
+        "sentence_id": "D1-1-D6"
+      },
+      {
+        "id": "qD11-li-003",
+        "sentence_id": "D1-1-D10"
+      }
+    ]
+  }
+}

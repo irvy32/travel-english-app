@@ -1,0 +1,350 @@
+{
+  "chapter_id": "F1-1",
+  "chapter_name": "身體不適與就醫",
+  "sentences": [
+    {
+      "id": "F1-1-D1",
+      "en": "I'm not feeling well. I have a headache and a fever.",
+      "zh": "我不太舒服，頭痛而且發燒。",
+      "keywords": [
+        {
+          "word": "feeling",
+          "kk": "/feeling/",
+          "zh": "feeling"
+        },
+        {
+          "word": "headache",
+          "kk": "/headache/",
+          "zh": "headache"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D3",
+      "en": "Since yesterday morning.",
+      "zh": "從昨天早上開始。",
+      "keywords": [
+        {
+          "word": "since",
+          "kk": "/since/",
+          "zh": "since"
+        },
+        {
+          "word": "yesterday",
+          "kk": "/ˈjɛstərˌdeɪ/",
+          "zh": "yesterday"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D5",
+      "en": "Yes, I feel nauseous and I have a sore throat too.",
+      "zh": "有，我覺得噁心，喉嚨也痛。",
+      "keywords": [
+        {
+          "word": "feel",
+          "kk": "/feel/",
+          "zh": "feel"
+        },
+        {
+          "word": "nauseous",
+          "kk": "/nauseous/",
+          "zh": "nauseous"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D7",
+      "en": "No, no allergies.",
+      "zh": "沒有，沒有過敏。",
+      "keywords": [
+        {
+          "word": "allergies",
+          "kk": "/ˈælərdʒɪz/",
+          "zh": "過敏（複數）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D9",
+      "en": "Excuse me, do you have anything for a headache?",
+      "zh": "不好意思，有治頭痛的藥嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "anything",
+          "kk": "/anything/",
+          "zh": "anything"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D11",
+      "en": "I'll take the ibuprofen. How should I take it?",
+      "zh": "我要布洛芬。怎麼服用？",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        },
+        {
+          "word": "ibuprofen",
+          "kk": "/ibuprofen/",
+          "zh": "ibuprofen"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D13",
+      "en": "Do I need a prescription for this?",
+      "zh": "這需要處方箋嗎？",
+      "keywords": [
+        {
+          "word": "prescription",
+          "kk": "/prɪˈskrɪpʃən/",
+          "zh": "處方箋"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D15",
+      "en": "I need to see a doctor. Is this an urgent care clinic?",
+      "zh": "我需要看醫生，這是急診診所嗎？",
+      "keywords": [
+        {
+          "word": "doctor",
+          "kk": "/ˈdɑktər/",
+          "zh": "醫生"
+        },
+        {
+          "word": "urgent",
+          "kk": "/urgent/",
+          "zh": "urgent"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D17",
+      "en": "I have travel insurance. Here's my policy information.",
+      "zh": "我有旅遊保險，這是我的保單資訊。",
+      "keywords": [
+        {
+          "word": "travel",
+          "kk": "/travel/",
+          "zh": "travel"
+        },
+        {
+          "word": "insurance",
+          "kk": "/ɪnˈʃʊrəns/",
+          "zh": "保險"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D20",
+      "en": "Okay, thank you.",
+      "zh": "好的，謝謝。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D22",
+      "en": "Should I take them with food?",
+      "zh": "需要配食物吃嗎？",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        },
+        {
+          "word": "food",
+          "kk": "/fud/",
+          "zh": "食物"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D24",
+      "en": "Understood. Do I need a follow-up appointment?",
+      "zh": "了解。我需要回診嗎？",
+      "keywords": [
+        {
+          "word": "understood",
+          "kk": "/understood/",
+          "zh": "understood"
+        },
+        {
+          "word": "follow-up",
+          "kk": "/follow-up/",
+          "zh": "follow-up"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F1-1-D26",
+      "en": "Credit card, please. Can I get an itemized receipt for my insurance?",
+      "zh": "刷卡，謝謝。可以給我明細收據給保險公司嗎？",
+      "keywords": [
+        {
+          "word": "credit",
+          "kk": "/ˈkrɛdɪt/",
+          "zh": "信用"
+        },
+        {
+          "word": "card",
+          "kk": "/kɑrd/",
+          "zh": "卡片"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qF11-mc-001",
+        "question": "下列哪一句英文的意思是「我不太舒服，頭痛而且發燒。」？",
+        "options": [
+          {
+            "en": "I'm not feeling well. I have a headache and a fever.",
+            "zh": "我不太舒服，頭痛而且發燒。"
+          },
+          {
+            "en": "Since yesterday morning.",
+            "zh": "從昨天早上開始。"
+          },
+          {
+            "en": "Yes, I feel nauseous and I have a sore throat too.",
+            "zh": "有，我覺得噁心，喉嚨也痛。"
+          },
+          {
+            "en": "No, no allergies.",
+            "zh": "沒有，沒有過敏。"
+          }
+        ],
+        "answer": "I'm not feeling well. I have a headache and a fever."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qF11-fi-001",
+        "question": "______ not feeling well. I have a headache and a fever.",
+        "answer": "i'm"
+      },
+      {
+        "id": "qF11-fi-002",
+        "question": "______ yesterday morning.",
+        "answer": "since"
+      },
+      {
+        "id": "qF11-fi-003",
+        "question": "______, I feel nauseous and I have a sore throat too.",
+        "answer": "yes"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qF11-li-001",
+        "sentence_id": "F1-1-D1"
+      },
+      {
+        "id": "qF11-li-002",
+        "sentence_id": "F1-1-D5"
+      },
+      {
+        "id": "qF11-li-003",
+        "sentence_id": "F1-1-D9"
+      }
+    ]
+  }
+}

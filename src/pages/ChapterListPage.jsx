@@ -3,55 +3,78 @@ import { useNavigate, useParams } from 'react-router-dom'
 import TopNav from '../components/TopNav'
 import BottomNav from '../components/BottomNav'
 import * as storage from '../services/storage'
+import topicsData from '../data/topics.json'
 
 export default function ChapterListPage() {
   const navigate = useNavigate()
   const { topicId } = useParams()
   const [chapters, setChapters] = useState([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(false)
 
-  const CHAPTER_FILES = [
-    '01_Preparation',
-    '02_Airport_Checkin',
-    '03_Security_and_Gate',
-    '04_Inflight_Conversation',
-    '05_Immigration',
-    '06_Airport_Transportation',
-    '07_Hotel_Checkin',
-    '08_Dining_Out',
-    '09_Shopping_and_Tax_Refund',
-    '10_Directions_and_Navigation',
-    '11_Sightseeing_and_Tours',
-    '12_Car_Rental',
-    '13_Emergencies',
-    '14_Return_Flight'
-  ]
+  // Find topic configuration
+  const topic = topicsData.find(t => t.id === topicId)
+
+  // Dynamic chapter modules for both topics
+  const allTravelChapters = import.meta.glob('../data/travel/*.json')
+  const allAirportChapters = import.meta.glob('../data/airport/*.json')
+
+  const chapterModules = topicId === 'airport' 
+    ? allAirportChapters 
+    : allTravelChapters
 
   useEffect(() => {
     const loadChapters = async () => {
-      const loaded = await Promise.all(
-        CHAPTER_FILES.map(f =>
-          import(`../data/travel/${f}.json`).then(m => m.default)
+      setLoading(true)
+      setError(false)
+      try {
+        const modules = chapterModules
+        const entries = Object.entries(modules)
+        const loaded = await Promise.all(
+          entries.map(([, loader]) => loader().then(m => m.default))
         )
-      )
-      setChapters(loaded)
+        // Sort by chapter_id
+        loaded.sort((a, b) => {
+          const aId = String(a.chapter_id)
+          const bId = String(b.chapter_id)
+          return aId.localeCompare(bId)
+        })
+        setChapters(loaded)
+      } catch(e) {
+        setError(true)
+      } finally {
+        setLoading(false)
+      }
     }
     loadChapters()
-  }, [])
+}, [topicId])
 
   const getChapterProgress = (chapter) => {
-    const learned = storage.getProgress('travel', chapter.chapter_id)
+    const learned = storage.getProgress(topicId, chapter.chapter_id)
     const total = chapter.sentences?.length ?? 0
     if (total === 0) return 0
     return Math.round(learned.length / total * 100)
   }
 
+  if (loading) {
+    return <div className="min-h-screen bg-[#FAF7F2] flex items-center justify-center">
+      <div className="text-gray-500">載入中...</div>
+    </div>
+  }
+
+  if (error) {
+    return <div className="min-h-screen bg-[#FAF7F2] flex items-center justify-center">
+      <div className="text-red-500">載入失敗</div>
+    </div>
+  }
+
   return (
     <div className="min-h-screen bg-[#FAF7F2]">
       <TopNav
-        topicName="旅遊英文"
+        topicName={topic?.name || ''}
         chapterName=""
         onHome={() => navigate('/')}
-        onTopic={() => navigate('/travel')}
+        onTopic={() => navigate(`/${topicId}`)}
       />
 
       <div className="px-4 mt-4 mb-3">
@@ -65,7 +88,12 @@ export default function ChapterListPage() {
           return (
             <div
               key={chapter.chapter_id}
-              onClick={() => navigate(`/travel/${CHAPTER_FILES[idx]}?tab=sentences`)}
+              onClick={() => {
+                // Get filename from glob path (without extension)
+                const filename = Object.keys(chapterModules)[idx]
+                  .split('/').pop().replace('.json', '')
+                navigate(`/${topicId}/${filename}?tab=sentences`)
+              }}
               className="bg-white rounded-xl p-4 mb-3 shadow-sm cursor-pointer hover:shadow-md transition-shadow"
             >
               <div className="flex items-center">

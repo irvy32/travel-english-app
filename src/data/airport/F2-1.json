@@ -1,0 +1,351 @@
+{
+  "chapter_id": "F2-1",
+  "chapter_name": "遺失物品與護照",
+  "sentences": [
+    {
+      "id": "F2-1-D1",
+      "en": "Excuse me, I think I left my phone charger in my room. I checked out this morning.",
+      "zh": "不好意思，我想我把充電器忘在房間了，我今早退房的。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "left",
+          "kk": "/lɛft/",
+          "zh": "左"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D3",
+      "en": "Room 512. It's a black iPhone charger.",
+      "zh": "512號房。是黑色iPhone充電器。",
+      "keywords": [
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        },
+        {
+          "word": "it's",
+          "kk": "/it's/",
+          "zh": "it's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D6",
+      "en": "It has a small scratch on the plug. That's mine!",
+      "zh": "插頭有個小刮痕，那是我的！",
+      "keywords": [
+        {
+          "word": "small",
+          "kk": "/smɔl/",
+          "zh": "小的"
+        },
+        {
+          "word": "scratch",
+          "kk": "/scratch/",
+          "zh": "scratch"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D7",
+      "en": "I left my bag in a taxi. Is there a lost and found hotline?",
+      "zh": "我把包包忘在計程車上了，有失物招領專線嗎？",
+      "keywords": [
+        {
+          "word": "left",
+          "kk": "/lɛft/",
+          "zh": "左"
+        },
+        {
+          "word": "bag",
+          "kk": "/bæg/",
+          "zh": "bag"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通",
+        "緊急",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D9",
+      "en": "I have the receipt. It says 'Yellow Cab, Car #4523.'",
+      "zh": "我有收據，上面寫「Yellow Cab，車號4523」。",
+      "keywords": [
+        {
+          "word": "receipt",
+          "kk": "/rɪˈsit/",
+          "zh": "收據"
+        },
+        {
+          "word": "says",
+          "kk": "/says/",
+          "zh": "says"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "搭乘計程車前可先詢問 How much will it cost to...? 確認費用，避免糾紛。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D11",
+      "en": "I need to report a stolen wallet. Where's the nearest police station?",
+      "zh": "我需要報案錢包被偷，最近的警察局在哪？",
+      "keywords": [
+        {
+          "word": "report",
+          "kk": "/report/",
+          "zh": "report"
+        },
+        {
+          "word": "stolen",
+          "kk": "/ˈstoʊlən/",
+          "zh": "被偷的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通",
+        "緊急",
+        "詢問"
+      ],
+      "tips": "遇到遺失或失竊時，說 I've lost my... 或 My ... has been stolen，向警察報案時需保留報案號碼以便保險申請。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D13",
+      "en": "I'd like to file a police report. My wallet was stolen on the subway.",
+      "zh": "我想要報案，我的錢包在地鐵上被偷了。",
+      "keywords": [
+        {
+          "word": "file",
+          "kk": "/file/",
+          "zh": "file"
+        },
+        {
+          "word": "police",
+          "kk": "/pəˈlis/",
+          "zh": "警察"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通",
+        "緊急"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D15",
+      "en": "About an hour ago. It had $200 cash, two credit cards, and my driver's license.",
+      "zh": "大約一小時前。裡面有200元現金、兩張信用卡和我的駕照。",
+      "keywords": [
+        {
+          "word": "hour",
+          "kk": "/hour/",
+          "zh": "hour"
+        },
+        {
+          "word": "ago",
+          "kk": "/ago/",
+          "zh": "ago"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D17",
+      "en": "Hello, I lost my passport. What should I do?",
+      "zh": "您好，我護照遺失了，該怎麼辦？",
+      "keywords": [
+        {
+          "word": "hello",
+          "kk": "/hello/",
+          "zh": "hello"
+        },
+        {
+          "word": "lost",
+          "kk": "/lɔst/",
+          "zh": "遺失；迷路"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "緊急"
+      ],
+      "tips": "遇到遺失或失竊時，說 I've lost my... 或 My ... has been stolen，向警察報案時需保留報案號碼以便保險申請。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D19",
+      "en": "Yes, I have the report here. I need an emergency travel document to go home.",
+      "zh": "有，報案單在這裡。我需要緊急旅行證件才能回家。",
+      "keywords": [
+        {
+          "word": "report",
+          "kk": "/report/",
+          "zh": "report"
+        },
+        {
+          "word": "emergency",
+          "kk": "/ɪˈmɜrdʒənsɪ/",
+          "zh": "緊急情況"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D21",
+      "en": "I have a photocopy of my passport. Will that work?",
+      "zh": "我有護照影本，可以嗎？",
+      "keywords": [
+        {
+          "word": "photocopy",
+          "kk": "/photocopy/",
+          "zh": "photocopy"
+        },
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F2-1-D23",
+      "en": "My flight is in two days. Is there an expedited service?",
+      "zh": "我兩天後的班機，有加急服務嗎？",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "航班；飛行"
+        },
+        {
+          "word": "days",
+          "kk": "/days/",
+          "zh": "days"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qF21-mc-001",
+        "question": "下列哪一句英文的意思是「不好意思，我想我把充電器忘在房間了，我今早退房的。」？",
+        "options": [
+          {
+            "en": "Excuse me, I think I left my phone charger in my room. I checked out this morning.",
+            "zh": "不好意思，我想我把充電器忘在房間了，我今早退房的。"
+          },
+          {
+            "en": "Room 512. It's a black iPhone charger.",
+            "zh": "512號房。是黑色iPhone充電器。"
+          },
+          {
+            "en": "It has a small scratch on the plug. That's mine!",
+            "zh": "插頭有個小刮痕，那是我的！"
+          },
+          {
+            "en": "I left my bag in a taxi. Is there a lost and found hotline?",
+            "zh": "我把包包忘在計程車上了，有失物招領專線嗎？"
+          }
+        ],
+        "answer": "Excuse me, I think I left my phone charger in my room. I checked out this morning."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qF21-fi-001",
+        "question": "______ me, I think I left my phone charger in my room. I checked out this morning.",
+        "answer": "excuse"
+      },
+      {
+        "id": "qF21-fi-002",
+        "question": "______ 512. It's a black iPhone charger.",
+        "answer": "room"
+      },
+      {
+        "id": "qF21-fi-003",
+        "question": "It ______ a small scratch on the plug. That's mine!",
+        "answer": "has"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qF21-li-001",
+        "sentence_id": "F2-1-D1"
+      },
+      {
+        "id": "qF21-li-002",
+        "sentence_id": "F2-1-D6"
+      },
+      {
+        "id": "qF21-li-003",
+        "sentence_id": "F2-1-D9"
+      }
+    ]
+  }
+}

@@ -8,6 +8,14 @@
     "available": true
   },
   {
+    "id": "airport",
+    "name": "初級旅遊英文(二)",
+    "icon": "🛫",
+    "chaptersPath": "airport",
+    "totalChapters": 31,
+    "available": true
+  },
+  {
     "id": "social",
     "name": "社交英文",
     "icon": "🤝",

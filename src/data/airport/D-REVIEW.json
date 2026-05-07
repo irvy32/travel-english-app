@@ -1,0 +1,365 @@
+{
+  "chapter_id": "D-REVIEW",
+  "chapter_name": "D系列迷你回顧＋情境模擬",
+  "sentences": [
+    {
+      "id": "D-REVIEW-D2",
+      "en": "Yes, for two under Wu.",
+      "zh": "有，兩位，姓吳。",
+      "keywords": [
+        {
+          "word": "under",
+          "kk": "/under/",
+          "zh": "under"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D5",
+      "en": "I'm ready. I'd like to start with the Caesar salad.",
+      "zh": "準備好了。我想先來一份凱薩沙拉。",
+      "keywords": [
+        {
+          "word": "ready",
+          "kk": "/ready/",
+          "zh": "ready"
+        },
+        {
+          "word": "start",
+          "kk": "/start/",
+          "zh": "start"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D6",
+      "en": "And can I have the dressing on the side, please?",
+      "zh": "還有，可以醬料分開放嗎？",
+      "keywords": [
+        {
+          "word": "dressing",
+          "kk": "/dressing/",
+          "zh": "dressing"
+        },
+        {
+          "word": "side",
+          "kk": "/side/",
+          "zh": "side"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D8",
+      "en": "I'll have the grilled salmon. How spicy is it?",
+      "zh": "我要烤鮭魚。這個辣嗎？",
+      "keywords": [
+        {
+          "word": "grilled",
+          "kk": "/grilled/",
+          "zh": "grilled"
+        },
+        {
+          "word": "salmon",
+          "kk": "/salmon/",
+          "zh": "salmon"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D10",
+      "en": "Perfect. That's all for now, thank you.",
+      "zh": "太好了。先這樣，謝謝。",
+      "keywords": [
+        {
+          "word": "perfect",
+          "kk": "/perfect/",
+          "zh": "perfect"
+        },
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D11",
+      "en": "Excuse me, could we have the check, please?",
+      "zh": "不好意思，可以給我們帳單嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "check",
+          "kk": "/tʃɛk/",
+          "zh": "確認；支票"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D13",
+      "en": "Can we split the bill? I'll pay for the food, and my friend will pay for the drinks.",
+      "zh": "我們可以分帳嗎？我付食物，朋友付飲料。",
+      "keywords": [
+        {
+          "word": "split",
+          "kk": "/split/",
+          "zh": "split"
+        },
+        {
+          "word": "bill",
+          "kk": "/bɪl/",
+          "zh": "帳單"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D15",
+      "en": "Thank you. And could I get a doggy bag for the leftovers?",
+      "zh": "謝謝。還有，剩下的可以幫我打包嗎？",
+      "keywords": [
+        {
+          "word": "doggy",
+          "kk": "/doggy/",
+          "zh": "doggy"
+        },
+        {
+          "word": "bag",
+          "kk": "/bæg/",
+          "zh": "bag"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D18",
+      "en": "I'd like a Number 3 combo, please.",
+      "zh": "我要 3 號套餐。",
+      "keywords": [
+        {
+          "word": "number",
+          "kk": "/number/",
+          "zh": "號碼；數字"
+        },
+        {
+          "word": "combo",
+          "kk": "/combo/",
+          "zh": "combo"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D20",
+      "en": "Medium Coke, no ice.",
+      "zh": "中杯可樂，不要冰。",
+      "keywords": [
+        {
+          "word": "medium",
+          "kk": "/medium/",
+          "zh": "medium"
+        },
+        {
+          "word": "coke",
+          "kk": "/coke/",
+          "zh": "coke"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D22",
+      "en": "No thanks, medium is fine.",
+      "zh": "不用了，中杯就好。",
+      "keywords": [
+        {
+          "word": "medium",
+          "kk": "/medium/",
+          "zh": "medium"
+        },
+        {
+          "word": "fine",
+          "kk": "/faɪn/",
+          "zh": "好的；沒問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D24",
+      "en": "To go, please.",
+      "zh": "外帶，謝謝。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D-REVIEW-D26",
+      "en": "Card, please.",
+      "zh": "刷卡，謝謝。",
+      "keywords": [
+        {
+          "word": "card",
+          "kk": "/kɑrd/",
+          "zh": "卡片"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qDREVIEW-mc-001",
+        "question": "下列哪一句英文的意思是「有，兩位，姓吳。」？",
+        "options": [
+          {
+            "en": "Yes, for two under Wu.",
+            "zh": "有，兩位，姓吳。"
+          },
+          {
+            "en": "I'm ready. I'd like to start with the Caesar salad.",
+            "zh": "準備好了。我想先來一份凱薩沙拉。"
+          },
+          {
+            "en": "And can I have the dressing on the side, please?",
+            "zh": "還有，可以醬料分開放嗎？"
+          },
+          {
+            "en": "I'll have the grilled salmon. How spicy is it?",
+            "zh": "我要烤鮭魚。這個辣嗎？"
+          }
+        ],
+        "answer": "Yes, for two under Wu."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qDREVIEW-fi-001",
+        "question": "______, for two under Wu.",
+        "answer": "yes"
+      },
+      {
+        "id": "qDREVIEW-fi-002",
+        "question": "______ ready. I'd like to start with the Caesar salad.",
+        "answer": "i'm"
+      },
+      {
+        "id": "qDREVIEW-fi-003",
+        "question": "And ______ I have the dressing on the side, please?",
+        "answer": "can"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qDREVIEW-li-001",
+        "sentence_id": "D-REVIEW-D2"
+      },
+      {
+        "id": "qDREVIEW-li-002",
+        "sentence_id": "D-REVIEW-D6"
+      },
+      {
+        "id": "qDREVIEW-li-003",
+        "sentence_id": "D-REVIEW-D10"
+      }
+    ]
+  }
+}

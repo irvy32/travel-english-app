@@ -38,8 +38,8 @@ export default function HomePage() {
                 isAvailable ? '' : 'pointer-events-none opacity-50'
               }`}
               onClick={() => {
-                if (isAvailable && topic.id === 'travel') {
-                  navigate('/travel')
+                if (isAvailable) {
+                  navigate(`/${topic.id}`)
                 }
               }}
             >

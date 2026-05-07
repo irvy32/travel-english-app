@@ -21,8 +21,8 @@ export default function App() {
     <HashRouter>
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/travel" element={<ChapterListPage />} />
-        <Route path="/travel/:chapterId" element={<ChapterView />} />
+        <Route path="/:topicId" element={<ChapterListPage />} />
+        <Route path="/:topicId/:chapterId" element={<ChapterView />} />
         <Route path="/quiz" element={<QuizPage />} />
         <Route path="/review" element={<ReviewCenter />} />
         <Route path="/settings" element={<SettingsPage />} />

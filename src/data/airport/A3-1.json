@@ -1,0 +1,634 @@
+{
+  "chapter_id": "A3-1",
+  "chapter_name": "行李提取與寄放",
+  "sentences": [
+    {
+      "id": "A3-1-D1",
+      "en": "Which carousel is for flight BR189?",
+      "zh": "BR189航班的行李轉盤是幾號？",
+      "keywords": [
+        {
+          "word": "carousel",
+          "kk": "/carousel/",
+          "zh": "carousel"
+        },
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "航班；飛行"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D2",
+      "en": "Excuse me, which carousel is for flight CI68 from Taipei?",
+      "zh": "請問台北來的CI68班機在幾號轉盤？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "carousel",
+          "kk": "/carousel/",
+          "zh": "carousel"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D3",
+      "en": "Where is the baggage claim area?",
+      "zh": "行李提取區在哪裡？",
+      "keywords": [
+        {
+          "word": "baggage",
+          "kk": "/ˈbægɪdʒ/",
+          "zh": "行李"
+        },
+        {
+          "word": "claim",
+          "kk": "/kleɪm/",
+          "zh": "申請理賠"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "詢問地點時，「Where is...?」問位置，「How do I get to...?」問交通方式，兩者皆實用。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D7",
+      "en": "My baggage hasn't arrived. My flight was BR189 from Taipei.",
+      "zh": "我的行李沒有出現，我搭的是從台北來的BR189。",
+      "keywords": [
+        {
+          "word": "baggage",
+          "kk": "/ˈbægɪdʒ/",
+          "zh": "行李"
+        },
+        {
+          "word": "hasn't",
+          "kk": "/hasn't/",
+          "zh": "hasn't"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D8",
+      "en": "My bag hasn't come out yet. It's been 30 minutes. Can you check?",
+      "zh": "我的行李還沒出來，已經等了30分鐘，可以幫我查嗎？",
+      "keywords": [
+        {
+          "word": "bag",
+          "kk": "/bæg/",
+          "zh": "bag"
+        },
+        {
+          "word": "hasn't",
+          "kk": "/hasn't/",
+          "zh": "hasn't"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D9",
+      "en": "Here is my baggage claim tag.",
+      "zh": "這是我的行李託運收據。",
+      "keywords": [
+        {
+          "word": "baggage",
+          "kk": "/ˈbægɪdʒ/",
+          "zh": "行李"
+        },
+        {
+          "word": "claim",
+          "kk": "/kleɪm/",
+          "zh": "申請理賠"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D12",
+      "en": "It's a black hard-shell suitcase.",
+      "zh": "黑色硬殼行李箱。",
+      "keywords": [
+        {
+          "word": "it's",
+          "kk": "/it's/",
+          "zh": "it's"
+        },
+        {
+          "word": "black",
+          "kk": "/black/",
+          "zh": "black"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D13",
+      "en": "What does my bag look like? It's a large black hard-shell suitcase with a red ribbon on the handle.",
+      "zh": "我的行李是大型黑色硬殼行李箱，把手上綁了紅絲帶。",
+      "keywords": [
+        {
+          "word": "bag",
+          "kk": "/bæg/",
+          "zh": "bag"
+        },
+        {
+          "word": "look",
+          "kk": "/look/",
+          "zh": "look"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D16",
+      "en": "My suitcase was damaged. The wheel is broken.",
+      "zh": "我的行李箱損壞了，輪子壞掉了。",
+      "keywords": [
+        {
+          "word": "suitcase",
+          "kk": "/ˈsutˌkeɪs/",
+          "zh": "行李箱"
+        },
+        {
+          "word": "damaged",
+          "kk": "/damaged/",
+          "zh": "damaged"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D17",
+      "en": "My bag is damaged — the handle is broken.",
+      "zh": "我的行李箱損壞了，把手斷了。",
+      "keywords": [
+        {
+          "word": "bag",
+          "kk": "/bæg/",
+          "zh": "bag"
+        },
+        {
+          "word": "damaged",
+          "kk": "/damaged/",
+          "zh": "damaged"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D18",
+      "en": "I'd like to file a damage report.",
+      "zh": "我要填寫損壞申報。",
+      "keywords": [
+        {
+          "word": "file",
+          "kk": "/file/",
+          "zh": "file"
+        },
+        {
+          "word": "damage",
+          "kk": "/damage/",
+          "zh": "damage"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D20",
+      "en": "I'd like to store my luggage, please.",
+      "zh": "我想寄放行李。",
+      "keywords": [
+        {
+          "word": "store",
+          "kk": "/stɔr/",
+          "zh": "商店"
+        },
+        {
+          "word": "luggage",
+          "kk": "/ˈlʌgɪdʒ/",
+          "zh": "行李"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "購物",
+        "禮貌用語"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D21",
+      "en": "Is there a luggage storage facility here at the airport?",
+      "zh": "機場有行李寄放服務嗎？",
+      "keywords": [
+        {
+          "word": "luggage",
+          "kk": "/ˈlʌgɪdʒ/",
+          "zh": "行李"
+        },
+        {
+          "word": "storage",
+          "kk": "/storage/",
+          "zh": "storage"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D22",
+      "en": "How much is it per bag?",
+      "zh": "每件行李多少錢？",
+      "keywords": [
+        {
+          "word": "per",
+          "kk": "/per/",
+          "zh": "per"
+        },
+        {
+          "word": "bag",
+          "kk": "/bæg/",
+          "zh": "bag"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D23",
+      "en": "I'd like to store two bags. How much is it per bag?",
+      "zh": "我要寄放兩件行李，每件多少錢？",
+      "keywords": [
+        {
+          "word": "store",
+          "kk": "/stɔr/",
+          "zh": "商店"
+        },
+        {
+          "word": "bags",
+          "kk": "/bægz/",
+          "zh": "bags"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物",
+        "詢問"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D24",
+      "en": "I'll pick it up around 5 PM.",
+      "zh": "我大概下午五點來取。",
+      "keywords": [
+        {
+          "word": "pick",
+          "kk": "/pick/",
+          "zh": "pick"
+        },
+        {
+          "word": "around",
+          "kk": "/around/",
+          "zh": "around"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D25",
+      "en": "I'll pick them up around 6 PM. Is that OK?",
+      "zh": "我大概下午六點來取，可以嗎？",
+      "keywords": [
+        {
+          "word": "pick",
+          "kk": "/pick/",
+          "zh": "pick"
+        },
+        {
+          "word": "around",
+          "kk": "/around/",
+          "zh": "around"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D30",
+      "en": "Can I store my bags at the hotel before check-in?",
+      "zh": "入住前可以先把行李寄放在飯店嗎？",
+      "keywords": [
+        {
+          "word": "store",
+          "kk": "/stɔr/",
+          "zh": "商店"
+        },
+        {
+          "word": "bags",
+          "kk": "/bægz/",
+          "zh": "bags"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "報到",
+        "飯店",
+        "購物"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D32",
+      "en": "Where are the coin lockers?",
+      "zh": "投幣置物櫃在哪裡？",
+      "keywords": [
+        {
+          "word": "coin",
+          "kk": "/coin/",
+          "zh": "coin"
+        },
+        {
+          "word": "lockers",
+          "kk": "/lockers/",
+          "zh": "lockers"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D33",
+      "en": "Is there a large locker available?",
+      "zh": "有大型置物櫃嗎？",
+      "keywords": [
+        {
+          "word": "large",
+          "kk": "/lɑrdʒ/",
+          "zh": "large"
+        },
+        {
+          "word": "locker",
+          "kk": "/locker/",
+          "zh": "locker"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D34",
+      "en": "This locker is too small for my suitcase.",
+      "zh": "這個置物櫃放不下我的行李箱。",
+      "keywords": [
+        {
+          "word": "locker",
+          "kk": "/locker/",
+          "zh": "locker"
+        },
+        {
+          "word": "small",
+          "kk": "/smɔl/",
+          "zh": "小的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D35",
+      "en": "I need to buy some essentials because my baggage is delayed. Will I be reimbursed?",
+      "zh": "因為行李延誤我需要買些日用品，可以報銷嗎？",
+      "keywords": [
+        {
+          "word": "buy",
+          "kk": "/baɪ/",
+          "zh": "buy"
+        },
+        {
+          "word": "essentials",
+          "kk": "/essentials/",
+          "zh": "essentials"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "購物"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D36",
+      "en": "Can I get a reference number for my claim?",
+      "zh": "可以給我申報的參考號碼嗎？",
+      "keywords": [
+        {
+          "word": "reference",
+          "kk": "/reference/",
+          "zh": "reference"
+        },
+        {
+          "word": "number",
+          "kk": "/number/",
+          "zh": "號碼；數字"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A3-1-D37",
+      "en": "My bag is lost. I need to file a report.",
+      "zh": "我的行李遺失了，我需要報案。",
+      "keywords": [
+        {
+          "word": "bag",
+          "kk": "/bæg/",
+          "zh": "bag"
+        },
+        {
+          "word": "lost",
+          "kk": "/lɔst/",
+          "zh": "遺失；迷路"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急"
+      ],
+      "tips": "遇到遺失或失竊時，說 I've lost my... 或 My ... has been stolen，向警察報案時需保留報案號碼以便保險申請。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qA31-mc-001",
+        "question": "下列哪一句英文的意思是「BR189航班的行李轉盤是幾號？」？",
+        "options": [
+          {
+            "en": "Which carousel is for flight BR189?",
+            "zh": "BR189航班的行李轉盤是幾號？"
+          },
+          {
+            "en": "Excuse me, which carousel is for flight CI68 from Taipei?",
+            "zh": "請問台北來的CI68班機在幾號轉盤？"
+          },
+          {
+            "en": "Where is the baggage claim area?",
+            "zh": "行李提取區在哪裡？"
+          },
+          {
+            "en": "My baggage hasn't arrived. My flight was BR189 from Taipei.",
+            "zh": "我的行李沒有出現，我搭的是從台北來的BR189。"
+          }
+        ],
+        "answer": "Which carousel is for flight BR189?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qA31-fi-001",
+        "question": "______ carousel is for flight BR189?",
+        "answer": "which"
+      },
+      {
+        "id": "qA31-fi-002",
+        "question": "______ me, which carousel is for flight CI68 from Taipei?",
+        "answer": "excuse"
+      },
+      {
+        "id": "qA31-fi-003",
+        "question": "______ is the baggage claim area?",
+        "answer": "where"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qA31-li-001",
+        "sentence_id": "A3-1-D1"
+      },
+      {
+        "id": "qA31-li-002",
+        "sentence_id": "A3-1-D3"
+      },
+      {
+        "id": "qA31-li-003",
+        "sentence_id": "A3-1-D8"
+      }
+    ]
+  }
+}

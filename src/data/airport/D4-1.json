@@ -1,0 +1,410 @@
+{
+  "chapter_id": "D4-1",
+  "chapter_name": "速食店點餐",
+  "sentences": [
+    {
+      "id": "D4-1-D2",
+      "en": "I'd like a Big Mac meal, please.",
+      "zh": "我要一份大麥克套餐。",
+      "keywords": [
+        {
+          "word": "big",
+          "kk": "/bɪɡ/",
+          "zh": "大的"
+        },
+        {
+          "word": "mac",
+          "kk": "/mac/",
+          "zh": "mac"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D4",
+      "en": "Medium, please.",
+      "zh": "中杯，謝謝。",
+      "keywords": [
+        {
+          "word": "medium",
+          "kk": "/medium/",
+          "zh": "medium"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D6",
+      "en": "For here, please.",
+      "zh": "內用，謝謝。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D8",
+      "en": "No, thank you. Medium is fine.",
+      "zh": "不用了，謝謝。中杯就好。",
+      "keywords": [
+        {
+          "word": "medium",
+          "kk": "/medium/",
+          "zh": "medium"
+        },
+        {
+          "word": "fine",
+          "kk": "/faɪn/",
+          "zh": "好的；沒問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D10",
+      "en": "That's all, thanks.",
+      "zh": "就這樣，謝謝。",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D12",
+      "en": "Card, please.",
+      "zh": "刷卡，謝謝。",
+      "keywords": [
+        {
+          "word": "card",
+          "kk": "/kɑrd/",
+          "zh": "卡片"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D14",
+      "en": "Done.",
+      "zh": "好了。",
+      "keywords": [
+        {
+          "word": "done",
+          "kk": "/done/",
+          "zh": "done"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D16",
+      "en": "Thank you!",
+      "zh": "謝謝！",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D17",
+      "en": "Can I get that with no pickles?",
+      "zh": "可以不要酸黃瓜嗎？",
+      "keywords": [
+        {
+          "word": "pickles",
+          "kk": "/pickles/",
+          "zh": "pickles"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D19",
+      "en": "Can I have extra sauce on the side?",
+      "zh": "可以多給一些醬料嗎？",
+      "keywords": [
+        {
+          "word": "extra",
+          "kk": "/extra/",
+          "zh": "extra"
+        },
+        {
+          "word": "sauce",
+          "kk": "/sauce/",
+          "zh": "sauce"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D21",
+      "en": "Can I swap the fries for a salad?",
+      "zh": "可以把薯條換成沙拉嗎？",
+      "keywords": [
+        {
+          "word": "swap",
+          "kk": "/swap/",
+          "zh": "swap"
+        },
+        {
+          "word": "fries",
+          "kk": "/fries/",
+          "zh": "fries"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D23",
+      "en": "Italian, please.",
+      "zh": "義大利白麵包，謝謝。",
+      "keywords": [
+        {
+          "word": "italian",
+          "kk": "/italian/",
+          "zh": "italian"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D24",
+      "en": "Six inch, please.",
+      "zh": "六吋，謝謝。",
+      "keywords": [
+        {
+          "word": "six",
+          "kk": "/six/",
+          "zh": "six"
+        },
+        {
+          "word": "inch",
+          "kk": "/inch/",
+          "zh": "inch"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D25",
+      "en": "Lettuce, tomato, and cucumber, please.",
+      "zh": "生菜、番茄和小黃瓜，謝謝。",
+      "keywords": [
+        {
+          "word": "lettuce",
+          "kk": "/lettuce/",
+          "zh": "lettuce"
+        },
+        {
+          "word": "tomato",
+          "kk": "/tomato/",
+          "zh": "tomato"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D26",
+      "en": "Excuse me, the kiosk isn't working.",
+      "zh": "不好意思，自助點餐機壞了。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "kiosk",
+          "kk": "/kiosk/",
+          "zh": "kiosk"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D27",
+      "en": "Excuse me, I've been waiting for about 15 minutes. Could you check on my order?",
+      "zh": "不好意思，我等了大約十五分鐘，可以確認一下我的訂單嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "waiting",
+          "kk": "/waiting/",
+          "zh": "等待"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "D4-1-D28",
+      "en": "A medium latte to go, please.",
+      "zh": "一杯中杯拿鐵外帶。",
+      "keywords": [
+        {
+          "word": "medium",
+          "kk": "/medium/",
+          "zh": "medium"
+        },
+        {
+          "word": "latte",
+          "kk": "/latte/",
+          "zh": "latte"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qD41-mc-001",
+        "question": "下列哪一句英文的意思是「我要一份大麥克套餐。」？",
+        "options": [
+          {
+            "en": "I'd like a Big Mac meal, please.",
+            "zh": "我要一份大麥克套餐。"
+          },
+          {
+            "en": "Medium, please.",
+            "zh": "中杯，謝謝。"
+          },
+          {
+            "en": "For here, please.",
+            "zh": "內用，謝謝。"
+          },
+          {
+            "en": "No, thank you. Medium is fine.",
+            "zh": "不用了，謝謝。中杯就好。"
+          }
+        ],
+        "answer": "I'd like a Big Mac meal, please."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qD41-fi-001",
+        "question": "______ like a Big Mac meal, please.",
+        "answer": "i'd"
+      },
+      {
+        "id": "qD41-fi-002",
+        "question": "______, please.",
+        "answer": "medium"
+      },
+      {
+        "id": "qD41-fi-003",
+        "question": "For ______, please.",
+        "answer": "here"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qD41-li-001",
+        "sentence_id": "D4-1-D2"
+      },
+      {
+        "id": "qD41-li-002",
+        "sentence_id": "D4-1-D6"
+      },
+      {
+        "id": "qD41-li-003",
+        "sentence_id": "D4-1-D10"
+      }
+    ]
+  }
+}

@@ -20,7 +20,7 @@ const TABS = [
 
 export default function ChapterView() {
   const navigate = useNavigate()
-  const { chapterId } = useParams()
+  const { topicId, chapterId } = useParams()
   const [searchParams, setSearchParams] = useSearchParams()
   const currentTab = searchParams.get('tab') || 'sentences'
 
@@ -28,20 +28,30 @@ export default function ChapterView() {
   const [error, setError] = useState(false)
   const [loading, setLoading] = useState(true)
 
+  // Dynamic chapter loading for both topics
+  const allChapters = {
+    ...import.meta.glob('../data/travel/*.json'),
+    ...import.meta.glob('../data/airport/*.json'),
+  }
+
   useEffect(() => {
     setLoading(true)
     setError(false)
     setChapterData(null)
 
-    import(`../data/travel/${chapterId}.json`)
-      .then((mod) => {
-        setChapterData(mod.default)
+    const key = Object.keys(allChapters).find(k => k.includes(`/${chapterId}.json`))
+    if (key) {
+      allChapters[key]().then(m => {
+        setChapterData(m.default)
         setLoading(false)
-      })
-      .catch(() => {
+      }).catch(() => {
         setError(true)
         setLoading(false)
       })
+    } else {
+      setError(true)
+      setLoading(false)
+    }
   }, [chapterId])
 
   const switchTab = (tabId) => {
@@ -84,19 +94,19 @@ export default function ChapterView() {
           <QuizTab
             quizData={chapterData.quiz}
             sentences={sentences}
-            topicId="travel"
+            topicId={topicId}
             chapterId={chapterId}
           />
         )
       case 'review':
-        return <ChapterReviewTab topicId="travel" chapterId={chapterId} />
+        return <ChapterReviewTab topicId={topicId} chapterId={chapterId} />
       case 'settings':
-        return <OfflineSettingsTab topicId="travel" chapterId={chapterId} />
+        return <OfflineSettingsTab topicId={topicId} chapterId={chapterId} />
       default:
         return (
           <SentencesTab
             sentences={sentences}
-            topicId="travel"
+            topicId={topicId}
             chapterId={chapterId}
           />
         )
@@ -109,10 +119,10 @@ export default function ChapterView() {
       {/* TopNav 固定頂部 */}
       <div className="sticky top-0 z-50">
         <TopNav
-          topicName="旅遊英文"
+          topicName={topicId === 'travel' ? '旅遊英文' : '初級旅遊英文(二)'}
           chapterName={chapterData?.chapter_name ?? ''}
           onHome={() => navigate('/')}
-          onTopic={() => navigate('/travel')}
+          onTopic={() => navigate(`/${topicId}`)}
         />
       </div>
 

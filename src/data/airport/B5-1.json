@@ -1,0 +1,1170 @@
+{
+  "chapter_id": "B5-1",
+  "chapter_name": "租車",
+  "sentences": [
+    {
+      "id": "B5-1-D1",
+      "en": "I have a reservation for a car rental.",
+      "zh": "我有預訂租車。",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        },
+        {
+          "word": "car",
+          "kk": "/car/",
+          "zh": "car"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D2",
+      "en": "Hi, I have a reservation under the name Wu. I booked a mid-size sedan for four days.",
+      "zh": "你好，我有預訂，名字是吳。我訂了四天的中型轎車。",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        },
+        {
+          "word": "under",
+          "kk": "/under/",
+          "zh": "under"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D4",
+      "en": "The booking is under the name Wayne Wu.",
+      "zh": "訂單是用 Wayne Wu 的名字。",
+      "keywords": [
+        {
+          "word": "booking",
+          "kk": "/booking/",
+          "zh": "預訂"
+        },
+        {
+          "word": "under",
+          "kk": "/under/",
+          "zh": "under"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D5",
+      "en": "Here is my driving license and passport.",
+      "zh": "這是我的駕照和護照。",
+      "keywords": [
+        {
+          "word": "driving",
+          "kk": "/driving/",
+          "zh": "driving"
+        },
+        {
+          "word": "license",
+          "kk": "/license/",
+          "zh": "license"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D6",
+      "en": "I also have an international driving permit.",
+      "zh": "我也有國際駕照。",
+      "keywords": [
+        {
+          "word": "international",
+          "kk": "/international/",
+          "zh": "international"
+        },
+        {
+          "word": "driving",
+          "kk": "/driving/",
+          "zh": "driving"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D7",
+      "en": "Here you go. Does my Taiwan license work here, or do I need an International Driving Permit?",
+      "zh": "在這裡。我的台灣駕照在這裡有效嗎，還是需要國際駕照？",
+      "keywords": [
+        {
+          "word": "taiwan",
+          "kk": "/taiwan/",
+          "zh": "taiwan"
+        },
+        {
+          "word": "license",
+          "kk": "/license/",
+          "zh": "license"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D9",
+      "en": "Got it. Where do I return the car, and what time is the cut-off?",
+      "zh": "了解。還車在哪裡？截止時間是幾點？",
+      "keywords": [
+        {
+          "word": "return",
+          "kk": "/rɪˈtɜrn/",
+          "zh": "退貨；回程"
+        },
+        {
+          "word": "car",
+          "kk": "/car/",
+          "zh": "car"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "買火車票時，single 是單程，return 是來回（英式），round trip 是來回（美式），出發前確認票種。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D12",
+      "en": "I'll stick with my original booking, thank you.",
+      "zh": "我維持原來的訂單就好，謝謝。",
+      "keywords": [
+        {
+          "word": "stick",
+          "kk": "/stick/",
+          "zh": "stick"
+        },
+        {
+          "word": "original",
+          "kk": "/original/",
+          "zh": "original"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D15",
+      "en": "What exactly does it cover, and how much does it add to the daily rate?",
+      "zh": "它具體涵蓋什麼，每天會多多少費用？",
+      "keywords": [
+        {
+          "word": "exactly",
+          "kk": "/exactly/",
+          "zh": "exactly"
+        },
+        {
+          "word": "cover",
+          "kk": "/cover/",
+          "zh": "cover"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D17",
+      "en": "I'll take it. Does my credit card cover any of this automatically?",
+      "zh": "我要加。我的信用卡有自動涵蓋這些嗎？",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        },
+        {
+          "word": "credit",
+          "kk": "/ˈkrɛdɪt/",
+          "zh": "信用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D19",
+      "en": "I'll go ahead and add it to be safe. Better not to risk it.",
+      "zh": "我還是加吧，安全起見。不值得冒險。",
+      "keywords": [
+        {
+          "word": "ahead",
+          "kk": "/ahead/",
+          "zh": "ahead"
+        },
+        {
+          "word": "add",
+          "kk": "/add/",
+          "zh": "add"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D20",
+      "en": "What does the basic insurance cover?",
+      "zh": "基本保險涵蓋哪些項目？",
+      "keywords": [
+        {
+          "word": "basic",
+          "kk": "/basic/",
+          "zh": "basic"
+        },
+        {
+          "word": "insurance",
+          "kk": "/ɪnˈʃʊrəns/",
+          "zh": "保險"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D21",
+      "en": "What is the deductible if there's an accident?",
+      "zh": "如果發生事故，自付額是多少？",
+      "keywords": [
+        {
+          "word": "deductible",
+          "kk": "/deductible/",
+          "zh": "deductible"
+        },
+        {
+          "word": "there's",
+          "kk": "/there's/",
+          "zh": "there's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D22",
+      "en": "My credit card includes rental car insurance. Do I still need yours?",
+      "zh": "我的信用卡包含租車保險，我還需要你們的保險嗎？",
+      "keywords": [
+        {
+          "word": "credit",
+          "kk": "/ˈkrɛdɪt/",
+          "zh": "信用"
+        },
+        {
+          "word": "card",
+          "kk": "/kɑrd/",
+          "zh": "卡片"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D23",
+      "en": "Where do I return the car?",
+      "zh": "我在哪裡還車？",
+      "keywords": [
+        {
+          "word": "return",
+          "kk": "/rɪˈtɜrn/",
+          "zh": "退貨；回程"
+        },
+        {
+          "word": "car",
+          "kk": "/car/",
+          "zh": "car"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "買火車票時，single 是單程，return 是來回（英式），round trip 是來回（美式），出發前確認票種。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D24",
+      "en": "Can I return the car at a different location?",
+      "zh": "我可以在不同地點還車嗎？",
+      "keywords": [
+        {
+          "word": "return",
+          "kk": "/rɪˈtɜrn/",
+          "zh": "退貨；回程"
+        },
+        {
+          "word": "car",
+          "kk": "/car/",
+          "zh": "car"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "買火車票時，single 是單程，return 是來回（英式），round trip 是來回（美式），出發前確認票種。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D25",
+      "en": "Is there a drop-off fee for returning at another branch?",
+      "zh": "在其他據點還車需要額外費用嗎？",
+      "keywords": [
+        {
+          "word": "drop-off",
+          "kk": "/drop-off/",
+          "zh": "drop-off"
+        },
+        {
+          "word": "fee",
+          "kk": "/fee/",
+          "zh": "fee"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D26",
+      "en": "What time does the rental office close?",
+      "zh": "租車辦公室幾點關？",
+      "keywords": [
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "time"
+        },
+        {
+          "word": "rental",
+          "kk": "/rental/",
+          "zh": "rental"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D27",
+      "en": "Should I return the car with a full tank?",
+      "zh": "還車時需要加滿油嗎？",
+      "keywords": [
+        {
+          "word": "return",
+          "kk": "/rɪˈtɜrn/",
+          "zh": "退貨；回程"
+        },
+        {
+          "word": "car",
+          "kk": "/car/",
+          "zh": "car"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "買火車票時，single 是單程，return 是來回（英式），round trip 是來回（美式），出發前確認票種。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D29",
+      "en": "Before I drive off — could we do a walk-around to note any existing scratches or dents?",
+      "zh": "出發前——可以繞車一圈記錄現有的刮痕或凹陷嗎？",
+      "keywords": [
+        {
+          "word": "before",
+          "kk": "/before/",
+          "zh": "before"
+        },
+        {
+          "word": "drive",
+          "kk": "/drive/",
+          "zh": "drive"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D31",
+      "en": "Should I return it with a full tank, or is there a fuel purchase option?",
+      "zh": "還車需要加滿油嗎，還是有預付油量的選項？",
+      "keywords": [
+        {
+          "word": "return",
+          "kk": "/rɪˈtɜrn/",
+          "zh": "退貨；回程"
+        },
+        {
+          "word": "full",
+          "kk": "/fʊl/",
+          "zh": "滿的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D33",
+      "en": "Fill it up, please.",
+      "zh": "請加滿。",
+      "keywords": [
+        {
+          "word": "fill",
+          "kk": "/fill/",
+          "zh": "填寫"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D34",
+      "en": "Which pump number am I on?",
+      "zh": "我在幾號加油槍？",
+      "keywords": [
+        {
+          "word": "pump",
+          "kk": "/pump/",
+          "zh": "pump"
+        },
+        {
+          "word": "number",
+          "kk": "/number/",
+          "zh": "號碼；數字"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D35",
+      "en": "Does this car take regular or premium?",
+      "zh": "這台車加普通還是高級油？",
+      "keywords": [
+        {
+          "word": "car",
+          "kk": "/car/",
+          "zh": "car"
+        },
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D36",
+      "en": "Unleaded, please.",
+      "zh": "請加無鉛汽油。",
+      "keywords": [
+        {
+          "word": "unleaded",
+          "kk": "/unleaded/",
+          "zh": "unleaded"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D37",
+      "en": "Is there parking available nearby?",
+      "zh": "附近有停車場嗎？",
+      "keywords": [
+        {
+          "word": "parking",
+          "kk": "/parking/",
+          "zh": "parking"
+        },
+        {
+          "word": "available",
+          "kk": "/əˈveɪləbəl/",
+          "zh": "有空的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D38",
+      "en": "How much is it to park here?",
+      "zh": "在這裡停車多少錢？",
+      "keywords": [
+        {
+          "word": "park",
+          "kk": "/park/",
+          "zh": "park"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D39",
+      "en": "How long can I park here?",
+      "zh": "我可以在這裡停多久？",
+      "keywords": [
+        {
+          "word": "long",
+          "kk": "/long/",
+          "zh": "長的"
+        },
+        {
+          "word": "park",
+          "kk": "/park/",
+          "zh": "park"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D40",
+      "en": "Is this a paid parking zone?",
+      "zh": "這裡是收費停車區嗎？",
+      "keywords": [
+        {
+          "word": "paid",
+          "kk": "/paid/",
+          "zh": "paid"
+        },
+        {
+          "word": "parking",
+          "kk": "/parking/",
+          "zh": "parking"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D41",
+      "en": "I've been in an accident.",
+      "zh": "我發生事故了。",
+      "keywords": [
+        {
+          "word": "accident",
+          "kk": "/accident/",
+          "zh": "accident"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D42",
+      "en": "Is everyone okay?",
+      "zh": "大家都還好嗎？",
+      "keywords": [
+        {
+          "word": "everyone",
+          "kk": "/everyone/",
+          "zh": "everyone"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D43",
+      "en": "I need to call the police.",
+      "zh": "我需要報警。",
+      "keywords": [
+        {
+          "word": "call",
+          "kk": "/call/",
+          "zh": "call"
+        },
+        {
+          "word": "police",
+          "kk": "/pəˈlis/",
+          "zh": "警察"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D44",
+      "en": "Can I have your insurance details?",
+      "zh": "可以給我你的保險資料嗎？",
+      "keywords": [
+        {
+          "word": "insurance",
+          "kk": "/ɪnˈʃʊrəns/",
+          "zh": "保險"
+        },
+        {
+          "word": "details",
+          "kk": "/details/",
+          "zh": "details"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D45",
+      "en": "I need to report this to the rental company.",
+      "zh": "我需要向租車公司通報。",
+      "keywords": [
+        {
+          "word": "report",
+          "kk": "/report/",
+          "zh": "report"
+        },
+        {
+          "word": "rental",
+          "kk": "/rental/",
+          "zh": "rental"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D46",
+      "en": "I've had an accident with your rental car. What should I do?",
+      "zh": "我的租車發生事故了，我該怎麼辦？",
+      "keywords": [
+        {
+          "word": "accident",
+          "kk": "/accident/",
+          "zh": "accident"
+        },
+        {
+          "word": "rental",
+          "kk": "/rental/",
+          "zh": "rental"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D47",
+      "en": "My car has broken down.",
+      "zh": "我的車拋錨了。",
+      "keywords": [
+        {
+          "word": "car",
+          "kk": "/car/",
+          "zh": "car"
+        },
+        {
+          "word": "broken",
+          "kk": "/ˈbroʊkən/",
+          "zh": "壞掉的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D48",
+      "en": "I have a flat tire.",
+      "zh": "我爆胎了。",
+      "keywords": [
+        {
+          "word": "flat",
+          "kk": "/flat/",
+          "zh": "flat"
+        },
+        {
+          "word": "tire",
+          "kk": "/tire/",
+          "zh": "tire"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D49",
+      "en": "I've run out of gas.",
+      "zh": "我沒油了。",
+      "keywords": [
+        {
+          "word": "run",
+          "kk": "/run/",
+          "zh": "run"
+        },
+        {
+          "word": "gas",
+          "kk": "/gas/",
+          "zh": "gas"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D50",
+      "en": "I'm on the highway near exit 15.",
+      "zh": "我在15號出口附近的高速公路上。",
+      "keywords": [
+        {
+          "word": "highway",
+          "kk": "/highway/",
+          "zh": "highway"
+        },
+        {
+          "word": "near",
+          "kk": "/nɪr/",
+          "zh": "附近"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D51",
+      "en": "Can you send roadside assistance?",
+      "zh": "可以派道路救援嗎？",
+      "keywords": [
+        {
+          "word": "send",
+          "kk": "/sɛnd/",
+          "zh": "send"
+        },
+        {
+          "word": "roadside",
+          "kk": "/roadside/",
+          "zh": "roadside"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D52",
+      "en": "I received a speeding ticket.",
+      "zh": "我收到超速罰單。",
+      "keywords": [
+        {
+          "word": "received",
+          "kk": "/received/",
+          "zh": "received"
+        },
+        {
+          "word": "speeding",
+          "kk": "/speeding/",
+          "zh": "speeding"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D53",
+      "en": "How do I pay this fine?",
+      "zh": "我怎麼繳這張罰單？",
+      "keywords": [
+        {
+          "word": "pay",
+          "kk": "/peɪ/",
+          "zh": "付款"
+        },
+        {
+          "word": "fine",
+          "kk": "/faɪn/",
+          "zh": "好的；沒問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D54",
+      "en": "Will this affect my rental deposit?",
+      "zh": "這會影響我的租車押金嗎？",
+      "keywords": [
+        {
+          "word": "affect",
+          "kk": "/affect/",
+          "zh": "affect"
+        },
+        {
+          "word": "rental",
+          "kk": "/rental/",
+          "zh": "rental"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D55",
+      "en": "Thank you, but I'd prefer to stick with what I booked — a compact is fine for my trip.",
+      "zh": "謝謝，但我想維持原本訂的就好——小型車對我這趟旅程夠用了。",
+      "keywords": [
+        {
+          "word": "prefer",
+          "kk": "/prefer/",
+          "zh": "prefer"
+        },
+        {
+          "word": "stick",
+          "kk": "/stick/",
+          "zh": "stick"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D56",
+      "en": "Excuse me — there's a scratch on the rear bumper that isn't marked on the sheet. Could we add that now?",
+      "zh": "不好意思，後保險桿有個刮痕沒有標在表上，可以現在加上去嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "there's",
+          "kk": "/there's/",
+          "zh": "there's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D57",
+      "en": "Hi, this is Wu. I rented a car from your airport branch — the engine warning light just came on. What should I do?",
+      "zh": "你好，我是吳桑，我在你們機場分店租了車——引擎警示燈剛亮了，我該怎麼做？",
+      "keywords": [
+        {
+          "word": "rented",
+          "kk": "/rented/",
+          "zh": "rented"
+        },
+        {
+          "word": "car",
+          "kk": "/car/",
+          "zh": "car"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D58",
+      "en": "I need to report a minor accident. The other driver and I exchanged information. I have photos and their insurance details.",
+      "zh": "我需要報告一個小事故。我已和對方互換資料，我有照片和對方的保險資訊。",
+      "keywords": [
+        {
+          "word": "report",
+          "kk": "/report/",
+          "zh": "report"
+        },
+        {
+          "word": "minor",
+          "kk": "/minor/",
+          "zh": "minor"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B5-1-D59",
+      "en": "Just to confirm — this is an automatic transmission, right? I'm not comfortable with manual.",
+      "zh": "確認一下，這是自排車對嗎？我不太會開手排。",
+      "keywords": [
+        {
+          "word": "confirm",
+          "kk": "/kənˈfɜrm/",
+          "zh": "確認"
+        },
+        {
+          "word": "automatic",
+          "kk": "/automatic/",
+          "zh": "automatic"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qB51-mc-001",
+        "question": "下列哪一句英文的意思是「我有預訂租車。」？",
+        "options": [
+          {
+            "en": "I have a reservation for a car rental.",
+            "zh": "我有預訂租車。"
+          },
+          {
+            "en": "Hi, I have a reservation under the name Wu. I booked a mid-size sedan for four days.",
+            "zh": "你好，我有預訂，名字是吳。我訂了四天的中型轎車。"
+          },
+          {
+            "en": "The booking is under the name Wayne Wu.",
+            "zh": "訂單是用 Wayne Wu 的名字。"
+          },
+          {
+            "en": "Here is my driving license and passport.",
+            "zh": "這是我的駕照和護照。"
+          }
+        ],
+        "answer": "I have a reservation for a car rental."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qB51-fi-001",
+        "question": "I ______ a reservation for a car rental.",
+        "answer": "have"
+      },
+      {
+        "id": "qB51-fi-002",
+        "question": "Hi, I ______ a reservation under the name Wu. I booked a mid-size sedan for four days.",
+        "answer": "have"
+      },
+      {
+        "id": "qB51-fi-003",
+        "question": "The ______ is under the name Wayne Wu.",
+        "answer": "booking"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qB51-li-001",
+        "sentence_id": "B5-1-D1"
+      },
+      {
+        "id": "qB51-li-002",
+        "sentence_id": "B5-1-D4"
+      },
+      {
+        "id": "qB51-li-003",
+        "sentence_id": "B5-1-D6"
+      }
+    ]
+  }
+}

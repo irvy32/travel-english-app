@@ -1,0 +1,532 @@
+{
+  "chapter_id": "B-REVIEW",
+  "chapter_name": "B系列迷你回顧＋情境模擬",
+  "sentences": [
+    {
+      "id": "B-REVIEW-D1",
+      "en": "Excuse me — I need to get to central London. What's the best option from here?",
+      "zh": "不好意思，我要去倫敦市中心，從這裡最好的方式是什麼？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "central",
+          "kk": "/central/",
+          "zh": "central"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D3",
+      "en": "How much is the Express one way?",
+      "zh": "快線單程多少錢？",
+      "keywords": [
+        {
+          "word": "express",
+          "kk": "/express/",
+          "zh": "express"
+        },
+        {
+          "word": "way",
+          "kk": "/way/",
+          "zh": "路；方式"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D5",
+      "en": "I'll take the Tube — it's my first time using it. Is there an Oyster card machine nearby?",
+      "zh": "我搭地鐵吧，這是我第一次用，附近有 Oyster 卡機嗎？",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        },
+        {
+          "word": "tube",
+          "kk": "/tube/",
+          "zh": "tube"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通",
+        "詢問",
+        "複習"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D7",
+      "en": "Oh, that's handy. I'll just tap my card then. Which line goes to Westminster?",
+      "zh": "喔，那很方便。那我直接感應卡就好。哪條線到西敏站？",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        },
+        {
+          "word": "handy",
+          "kk": "/handy/",
+          "zh": "handy"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D9",
+      "en": "Sorry to bother you — does this train stop at Westminster?",
+      "zh": "抱歉打擾一下，這班車有停西敏站嗎？",
+      "keywords": [
+        {
+          "word": "sorry",
+          "kk": "/ˈsɑrɪ/",
+          "zh": "sorry"
+        },
+        {
+          "word": "bother",
+          "kk": "/bother/",
+          "zh": "bother"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通",
+        "禮貌用語",
+        "複習"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D11",
+      "en": "Oh no — OK. So I get off at the next stop, then take the westbound Piccadilly line?",
+      "zh": "糟糕——好的，所以我下一站下車，再搭往西的 Piccadilly 線？",
+      "keywords": [
+        {
+          "word": "off",
+          "kk": "/off/",
+          "zh": "off"
+        },
+        {
+          "word": "next",
+          "kk": "/nɛkst/",
+          "zh": "next"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D13",
+      "en": "Thank you so much — I really appreciate it!",
+      "zh": "非常感謝您！",
+      "keywords": [
+        {
+          "word": "really",
+          "kk": "/really/",
+          "zh": "really"
+        },
+        {
+          "word": "appreciate",
+          "kk": "/appreciate/",
+          "zh": "appreciate"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D14",
+      "en": "Excuse me — do you happen to know where the Westminster Bridge is from here?",
+      "zh": "請問一下，您知道從這裡去西敏橋怎麼走嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "happen",
+          "kk": "/happen/",
+          "zh": "happen"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問",
+        "複習"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D16",
+      "en": "So just to confirm — straight down this road, Parliament on my left, bridge in front. Is that right?",
+      "zh": "確認一下——沿這條路直走，國會大廈在左邊，橋在前方，對嗎？",
+      "keywords": [
+        {
+          "word": "confirm",
+          "kk": "/kənˈfɜrm/",
+          "zh": "確認"
+        },
+        {
+          "word": "straight",
+          "kk": "/streɪt/",
+          "zh": "直走"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D18",
+      "en": "Wonderful, thank you! One more thing — is it within walking distance from the bridge to Big Ben?",
+      "zh": "太好了，謝謝！再請問一下，從橋走到大笨鐘是走路距離嗎？",
+      "keywords": [
+        {
+          "word": "wonderful",
+          "kk": "/ˈwʌndərfəl/",
+          "zh": "美好的"
+        },
+        {
+          "word": "thing",
+          "kk": "/thing/",
+          "zh": "thing"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D21",
+      "en": "Hi — yes. Are you Michael? And could I confirm the car plate — is it BD21 WXT?",
+      "zh": "你好，是的。您是 Michael 嗎？可以確認一下車牌——是 BD21 WXT 嗎？",
+      "keywords": [
+        {
+          "word": "michael",
+          "kk": "/michael/",
+          "zh": "michael"
+        },
+        {
+          "word": "confirm",
+          "kk": "/kənˈfɜrm/",
+          "zh": "確認"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D23",
+      "en": "Yes, Terminal 5. I have two large suitcases — is there enough room?",
+      "zh": "對，第5航廈。我有兩個大行李箱——放得下嗎？",
+      "keywords": [
+        {
+          "word": "terminal",
+          "kk": "/terminal/",
+          "zh": "terminal"
+        },
+        {
+          "word": "large",
+          "kk": "/lɑrdʒ/",
+          "zh": "large"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "詢問",
+        "複習"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D25",
+      "en": "The traffic looks quite bad — I'm catching a flight in three hours. Should I be worried?",
+      "zh": "路上很塞，我的班機三小時後起飛，我需要擔心嗎？",
+      "keywords": [
+        {
+          "word": "traffic",
+          "kk": "/traffic/",
+          "zh": "traffic"
+        },
+        {
+          "word": "looks",
+          "kk": "/looks/",
+          "zh": "looks"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D27",
+      "en": "That's a relief. By the way — is traffic usually this bad on weekday mornings?",
+      "zh": "鬆了口氣。順帶一問，平日早上路況都這麼差嗎？",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        },
+        {
+          "word": "relief",
+          "kk": "/relief/",
+          "zh": "relief"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D29",
+      "en": "Hi, I have a reservation — Wu. A mid-size automatic for five days.",
+      "zh": "你好，我有訂車——吳桑，五天的中型自排車。",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        },
+        {
+          "word": "mid-size",
+          "kk": "/mid-size/",
+          "zh": "mid-size"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D31",
+      "en": "Here you go — all four. Also, just to confirm this is an automatic, right? I'm not used to manual.",
+      "zh": "都在這裡，四樣。另外確認一下，這是自排車對吧？我不太習慣手排。",
+      "keywords": [
+        {
+          "word": "four",
+          "kk": "/four/",
+          "zh": "four"
+        },
+        {
+          "word": "confirm",
+          "kk": "/kənˈfɜrm/",
+          "zh": "確認"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D33",
+      "en": "What's the deductible if I decline?",
+      "zh": "如果我不加，自付額是多少？",
+      "keywords": [
+        {
+          "word": "what's",
+          "kk": "/what's/",
+          "zh": "what's"
+        },
+        {
+          "word": "deductible",
+          "kk": "/deductible/",
+          "zh": "deductible"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D35",
+      "en": "Thanks for explaining — I'll go ahead and add it. Better safe than sorry. And before I drive off, could we do a walk-around to note any existing scratches?",
+      "zh": "謝謝說明，我加好了，安全起見。出發前，可以繞車一圈確認現有刮痕嗎？",
+      "keywords": [
+        {
+          "word": "explaining",
+          "kk": "/explaining/",
+          "zh": "explaining"
+        },
+        {
+          "word": "ahead",
+          "kk": "/ahead/",
+          "zh": "ahead"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "B-REVIEW-D37",
+      "en": "One last thing — should I return it with a full tank?",
+      "zh": "最後確認一下，還車要加滿油嗎？",
+      "keywords": [
+        {
+          "word": "last",
+          "kk": "/læst/",
+          "zh": "last"
+        },
+        {
+          "word": "thing",
+          "kk": "/thing/",
+          "zh": "thing"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "買火車票時，single 是單程，return 是來回（英式），round trip 是來回（美式），出發前確認票種。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qBREVIEW-mc-001",
+        "question": "下列哪一句英文的意思是「不好意思，我要去倫敦市中心，從這裡最好的方式是什麼？」？",
+        "options": [
+          {
+            "en": "Excuse me — I need to get to central London. What's the best option from here?",
+            "zh": "不好意思，我要去倫敦市中心，從這裡最好的方式是什麼？"
+          },
+          {
+            "en": "How much is the Express one way?",
+            "zh": "快線單程多少錢？"
+          },
+          {
+            "en": "I'll take the Tube — it's my first time using it. Is there an Oyster card machine nearby?",
+            "zh": "我搭地鐵吧，這是我第一次用，附近有 Oyster 卡機嗎？"
+          },
+          {
+            "en": "Oh, that's handy. I'll just tap my card then. Which line goes to Westminster?",
+            "zh": "喔，那很方便。那我直接感應卡就好。哪條線到西敏站？"
+          }
+        ],
+        "answer": "Excuse me — I need to get to central London. What's the best option from here?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qBREVIEW-fi-001",
+        "question": "______ me — I need to get to central London. What's the best option from here?",
+        "answer": "excuse"
+      },
+      {
+        "id": "qBREVIEW-fi-002",
+        "question": "______ much is the Express one way?",
+        "answer": "how"
+      },
+      {
+        "id": "qBREVIEW-fi-003",
+        "question": "______ take the Tube — it's my first time using it. Is there an Oyster card machine nearby?",
+        "answer": "i'll"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qBREVIEW-li-001",
+        "sentence_id": "B-REVIEW-D1"
+      },
+      {
+        "id": "qBREVIEW-li-002",
+        "sentence_id": "B-REVIEW-D5"
+      },
+      {
+        "id": "qBREVIEW-li-003",
+        "sentence_id": "B-REVIEW-D9"
+      }
+    ]
+  }
+}

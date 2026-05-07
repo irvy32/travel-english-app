@@ -1,0 +1,1052 @@
+{
+  "chapter_id": "B2-1",
+  "chapter_name": "計程車／Uber",
+  "sentences": [
+    {
+      "id": "B2-1-D1",
+      "en": "Taxi!",
+      "zh": "計程車！",
+      "keywords": [
+        {
+          "word": "taxi",
+          "kk": "/ˈtæksi/",
+          "zh": "計程車"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通"
+      ],
+      "tips": "搭乘計程車前可先詢問 How much will it cost to...? 確認費用，避免糾紛。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D2",
+      "en": "Could you call a taxi for me, please?",
+      "zh": "可以幫我叫計程車嗎？",
+      "keywords": [
+        {
+          "word": "call",
+          "kk": "/call/",
+          "zh": "call"
+        },
+        {
+          "word": "taxi",
+          "kk": "/ˈtæksi/",
+          "zh": "計程車"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D3",
+      "en": "How long will it take for the taxi to arrive?",
+      "zh": "計程車大概多久到？",
+      "keywords": [
+        {
+          "word": "long",
+          "kk": "/long/",
+          "zh": "長的"
+        },
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通",
+        "詢問"
+      ],
+      "tips": "搭乘計程車前可先詢問 How much will it cost to...? 確認費用，避免糾紛。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D4",
+      "en": "Are you available?",
+      "zh": "你有空嗎？",
+      "keywords": [
+        {
+          "word": "available",
+          "kk": "/əˈveɪləbəl/",
+          "zh": "有空的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D5",
+      "en": "Are you available?",
+      "zh": "你有空嗎？（確認司機是否載客）",
+      "keywords": [
+        {
+          "word": "available",
+          "kk": "/əˈveɪləbəl/",
+          "zh": "有空的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D7",
+      "en": "Are you free?",
+      "zh": "你有空嗎？",
+      "keywords": [
+        {
+          "word": "free",
+          "kk": "/fri/",
+          "zh": "免費；自由"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D8",
+      "en": "To the Hilton Hotel on Park Lane, please.",
+      "zh": "請到 Park Lane 的希爾頓飯店。",
+      "keywords": [
+        {
+          "word": "hilton",
+          "kk": "/hilton/",
+          "zh": "hilton"
+        },
+        {
+          "word": "hotel",
+          "kk": "/hoʊˈtɛl/",
+          "zh": "飯店"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D9",
+      "en": "The Marriott Hotel on Fifth Avenue, please.",
+      "zh": "請到第五大道的萬豪酒店。",
+      "keywords": [
+        {
+          "word": "marriott",
+          "kk": "/marriott/",
+          "zh": "marriott"
+        },
+        {
+          "word": "hotel",
+          "kk": "/hoʊˈtɛl/",
+          "zh": "飯店"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D11",
+      "en": "Can you take me to this address?",
+      "zh": "可以載我去這個地址嗎？",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        },
+        {
+          "word": "address",
+          "kk": "/address/",
+          "zh": "地址"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D12",
+      "en": "To the city center, please.",
+      "zh": "請去市中心。",
+      "keywords": [
+        {
+          "word": "city",
+          "kk": "/city/",
+          "zh": "city"
+        },
+        {
+          "word": "center",
+          "kk": "/center/",
+          "zh": "center"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D13",
+      "en": "To Paddington Station, please.",
+      "zh": "請去 Paddington 車站。",
+      "keywords": [
+        {
+          "word": "paddington",
+          "kk": "/paddington/",
+          "zh": "paddington"
+        },
+        {
+          "word": "station",
+          "kk": "/ˈsteɪʃən/",
+          "zh": "車站"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通",
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D17",
+      "en": "That's fine.",
+      "zh": "沒關係。",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        },
+        {
+          "word": "fine",
+          "kk": "/faɪn/",
+          "zh": "好的；沒問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D20",
+      "en": "Is it metered, or is there a fixed rate?",
+      "zh": "你是跳表，還是固定費率？",
+      "keywords": [
+        {
+          "word": "metered",
+          "kk": "/metered/",
+          "zh": "metered"
+        },
+        {
+          "word": "fixed",
+          "kk": "/fixed/",
+          "zh": "fixed"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D22",
+      "en": "Could you turn up the air conditioning, please?",
+      "zh": "可以把冷氣開大一點嗎？",
+      "keywords": [
+        {
+          "word": "turn",
+          "kk": "/tɜrn/",
+          "zh": "轉彎"
+        },
+        {
+          "word": "air",
+          "kk": "/air/",
+          "zh": "air"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D23",
+      "en": "Could you turn down the radio, please?",
+      "zh": "可以把收音機關小聲一點嗎？",
+      "keywords": [
+        {
+          "word": "turn",
+          "kk": "/tɜrn/",
+          "zh": "轉彎"
+        },
+        {
+          "word": "down",
+          "kk": "/down/",
+          "zh": "down"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D24",
+      "en": "Could you slow down a little, please?",
+      "zh": "可以開慢一點嗎？",
+      "keywords": [
+        {
+          "word": "slow",
+          "kk": "/sloʊ/",
+          "zh": "慢的"
+        },
+        {
+          "word": "down",
+          "kk": "/down/",
+          "zh": "down"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D25",
+      "en": "Could you stop here for a moment?",
+      "zh": "可以在這裡停一下嗎？",
+      "keywords": [
+        {
+          "word": "stop",
+          "kk": "/stɑp/",
+          "zh": "停；站"
+        },
+        {
+          "word": "moment",
+          "kk": "/moment/",
+          "zh": "moment"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D26",
+      "en": "How much longer?",
+      "zh": "還要多久？",
+      "keywords": [
+        {
+          "word": "longer",
+          "kk": "/longer/",
+          "zh": "longer"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D27",
+      "en": "Could you turn the air conditioning down a bit? It's quite cold.",
+      "zh": "可以把冷氣調小一點嗎？有點冷。",
+      "keywords": [
+        {
+          "word": "turn",
+          "kk": "/tɜrn/",
+          "zh": "轉彎"
+        },
+        {
+          "word": "air",
+          "kk": "/air/",
+          "zh": "air"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D29",
+      "en": "This is fine here, thank you.",
+      "zh": "這裡就好，謝謝。",
+      "keywords": [
+        {
+          "word": "fine",
+          "kk": "/faɪn/",
+          "zh": "好的；沒問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D30",
+      "en": "Could you drop me off at the main entrance?",
+      "zh": "可以在正門讓我下車嗎？",
+      "keywords": [
+        {
+          "word": "drop",
+          "kk": "/drop/",
+          "zh": "drop"
+        },
+        {
+          "word": "off",
+          "kk": "/off/",
+          "zh": "off"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D31",
+      "en": "How much is it?",
+      "zh": "多少錢？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D32",
+      "en": "Do you accept credit cards?",
+      "zh": "收信用卡嗎？",
+      "keywords": [
+        {
+          "word": "accept",
+          "kk": "/accept/",
+          "zh": "accept"
+        },
+        {
+          "word": "credit",
+          "kk": "/ˈkrɛdɪt/",
+          "zh": "信用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D33",
+      "en": "Do you take cards? I don't have much cash on me.",
+      "zh": "你收信用卡嗎？我身上現金不多。",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        },
+        {
+          "word": "cards",
+          "kk": "/cards/",
+          "zh": "cards"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D35",
+      "en": "Keep the change.",
+      "zh": "不用找零了。",
+      "keywords": [
+        {
+          "word": "keep",
+          "kk": "/keep/",
+          "zh": "keep"
+        },
+        {
+          "word": "change",
+          "kk": "/tʃeɪndʒ/",
+          "zh": "找零；改變"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D36",
+      "en": "Can I have a receipt, please?",
+      "zh": "可以給我收據嗎？",
+      "keywords": [
+        {
+          "word": "receipt",
+          "kk": "/rɪˈsit/",
+          "zh": "收據"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D37",
+      "en": "Great. Keep the change — and could I have a receipt, please?",
+      "zh": "好的，不用找了——可以給我收據嗎？",
+      "keywords": [
+        {
+          "word": "great",
+          "kk": "/ɡreɪt/",
+          "zh": "很棒"
+        },
+        {
+          "word": "keep",
+          "kk": "/keep/",
+          "zh": "keep"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D39",
+      "en": "Yes, that's me. Hi!",
+      "zh": "是的，我就是。你好！",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D41",
+      "en": "Yes, Terminal 2, departure level, please.",
+      "zh": "對，第二航廈，出發層，謝謝。",
+      "keywords": [
+        {
+          "word": "terminal",
+          "kk": "/terminal/",
+          "zh": "terminal"
+        },
+        {
+          "word": "departure",
+          "kk": "/dɪˈpɑrtʃər/",
+          "zh": "出發"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D42",
+      "en": "I have two big bags — is there enough room in the trunk?",
+      "zh": "我有兩個大行李，後車廂放得下嗎？",
+      "keywords": [
+        {
+          "word": "big",
+          "kk": "/bɪɡ/",
+          "zh": "大的"
+        },
+        {
+          "word": "bags",
+          "kk": "/bægz/",
+          "zh": "bags"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D44",
+      "en": "Excuse me, I think you missed the turn — the hotel is back that way.",
+      "zh": "不好意思，我覺得你剛才轉錯了——飯店在那個方向。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "missed",
+          "kk": "/missed/",
+          "zh": "missed"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D46",
+      "en": "Are you my Uber?",
+      "zh": "你是我的 Uber 嗎？",
+      "keywords": [
+        {
+          "word": "uber",
+          "kk": "/uber/",
+          "zh": "uber"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D47",
+      "en": "I have a booking under the name Wayne.",
+      "zh": "我有一個用 Wayne 名字訂的車。",
+      "keywords": [
+        {
+          "word": "booking",
+          "kk": "/booking/",
+          "zh": "預訂"
+        },
+        {
+          "word": "under",
+          "kk": "/under/",
+          "zh": "under"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D48",
+      "en": "Are you the grey Honda? License plate ABC123?",
+      "zh": "你是那台灰色 Honda，車牌 ABC123 嗎？",
+      "keywords": [
+        {
+          "word": "grey",
+          "kk": "/grey/",
+          "zh": "grey"
+        },
+        {
+          "word": "honda",
+          "kk": "/honda/",
+          "zh": "honda"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D49",
+      "en": "Could you confirm the destination on your app?",
+      "zh": "可以確認一下 app 上的目的地嗎？",
+      "keywords": [
+        {
+          "word": "confirm",
+          "kk": "/kənˈfɜrm/",
+          "zh": "確認"
+        },
+        {
+          "word": "destination",
+          "kk": "/destination/",
+          "zh": "destination"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D50",
+      "en": "I've updated the drop-off location on the app.",
+      "zh": "我已經在 app 上更新下車地點了。",
+      "keywords": [
+        {
+          "word": "updated",
+          "kk": "/updated/",
+          "zh": "updated"
+        },
+        {
+          "word": "drop-off",
+          "kk": "/drop-off/",
+          "zh": "drop-off"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D51",
+      "en": "The fare seems higher than expected. Could you explain the charges?",
+      "zh": "車資好像比預期的高，可以解釋一下費用嗎？",
+      "keywords": [
+        {
+          "word": "fare",
+          "kk": "/fare/",
+          "zh": "fare"
+        },
+        {
+          "word": "seems",
+          "kk": "/seems/",
+          "zh": "seems"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D52",
+      "en": "The app shows the fare should be around $25.",
+      "zh": "App 顯示車資應該大約是25美元。",
+      "keywords": [
+        {
+          "word": "app",
+          "kk": "/app/",
+          "zh": "app"
+        },
+        {
+          "word": "shows",
+          "kk": "/shows/",
+          "zh": "shows"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D53",
+      "en": "I'd like a receipt showing the breakdown.",
+      "zh": "我想要一張顯示費用明細的收據。",
+      "keywords": [
+        {
+          "word": "receipt",
+          "kk": "/rɪˈsit/",
+          "zh": "收據"
+        },
+        {
+          "word": "showing",
+          "kk": "/showing/",
+          "zh": "showing"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D54",
+      "en": "I have it on Google Maps — could I show you the screen? The pin is right here.",
+      "zh": "我在Google Maps有標記，可以給您看螢幕嗎？就在這個點。",
+      "keywords": [
+        {
+          "word": "google",
+          "kk": "/google/",
+          "zh": "google"
+        },
+        {
+          "word": "maps",
+          "kk": "/maps/",
+          "zh": "maps"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D55",
+      "en": "My navigation shows it should be about 15 minutes — are we on track?",
+      "zh": "我的導航顯示大概15分鐘，我們方向對嗎？",
+      "keywords": [
+        {
+          "word": "navigation",
+          "kk": "/navigation/",
+          "zh": "navigation"
+        },
+        {
+          "word": "shows",
+          "kk": "/shows/",
+          "zh": "shows"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "在車站詢問月台時，Which platform for...? 是很實用的句型，搭火車前務必確認月台號碼。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D56",
+      "en": "Hi, I'm right outside the main entrance — I can see a blue van nearby, is that you?",
+      "zh": "你好，我在大門口外面——我看到一輛藍色廂型車，是你嗎？",
+      "keywords": [
+        {
+          "word": "right",
+          "kk": "/raɪt/",
+          "zh": "右"
+        },
+        {
+          "word": "outside",
+          "kk": "/outside/",
+          "zh": "outside"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D57",
+      "en": "I'm catching a flight in two hours — could we take the highway if it's not much extra?",
+      "zh": "我兩小時後有班機——如果費用差不多，可以走高速公路嗎？",
+      "keywords": [
+        {
+          "word": "catching",
+          "kk": "/catching/",
+          "zh": "catching"
+        },
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "航班；飛行"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B2-1-D58",
+      "en": "I think I left my jacket in your car. Could you check the back seat?",
+      "zh": "我好像把外套忘在車上了，可以幫我看看後座嗎？",
+      "keywords": [
+        {
+          "word": "left",
+          "kk": "/lɛft/",
+          "zh": "左"
+        },
+        {
+          "word": "jacket",
+          "kk": "/jacket/",
+          "zh": "jacket"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qB21-mc-001",
+        "question": "下列哪一句英文的意思是「計程車！」？",
+        "options": [
+          {
+            "en": "Taxi!",
+            "zh": "計程車！"
+          },
+          {
+            "en": "Could you call a taxi for me, please?",
+            "zh": "可以幫我叫計程車嗎？"
+          },
+          {
+            "en": "How long will it take for the taxi to arrive?",
+            "zh": "計程車大概多久到？"
+          },
+          {
+            "en": "Are you available?",
+            "zh": "你有空嗎？"
+          }
+        ],
+        "answer": "Taxi!"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qB21-fi-001",
+        "question": "______!",
+        "answer": "taxi"
+      },
+      {
+        "id": "qB21-fi-002",
+        "question": "______ you call a taxi for me, please?",
+        "answer": "could"
+      },
+      {
+        "id": "qB21-fi-003",
+        "question": "______ long will it take for the taxi to arrive?",
+        "answer": "how"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qB21-li-001",
+        "sentence_id": "B2-1-D1"
+      },
+      {
+        "id": "qB21-li-002",
+        "sentence_id": "B2-1-D3"
+      },
+      {
+        "id": "qB21-li-003",
+        "sentence_id": "B2-1-D5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1288 @@
+{
+  "chapter_id": "C1-1",
+  "chapter_name": "飯店 Check-in／Check-out",
+  "sentences": [
+    {
+      "id": "C1-1-D1",
+      "en": "I have a reservation. The name is Wayne Wu.",
+      "zh": "我有訂房，名字是 Wayne Wu。",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        },
+        {
+          "word": "name",
+          "kk": "/name/",
+          "zh": "名字"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D2",
+      "en": "Yes, I have a reservation under Wu. W-U.",
+      "zh": "有的，訂房姓名是吳，W-U。",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        },
+        {
+          "word": "under",
+          "kk": "/under/",
+          "zh": "under"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D3",
+      "en": "I'm checking in, please.",
+      "zh": "我要辦理入住。",
+      "keywords": [
+        {
+          "word": "checking",
+          "kk": "/checking/",
+          "zh": "checking"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D4",
+      "en": "I booked through Booking.com.",
+      "zh": "我是透過 Booking.com 訂的。",
+      "keywords": [
+        {
+          "word": "booked",
+          "kk": "/booked/",
+          "zh": "booked"
+        },
+        {
+          "word": "through",
+          "kk": "/through/",
+          "zh": "through"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D5",
+      "en": "Here is my passport and credit card.",
+      "zh": "這是我的護照和信用卡。",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        },
+        {
+          "word": "credit",
+          "kk": "/ˈkrɛdɪt/",
+          "zh": "信用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D8",
+      "en": "Sure, here's my passport. And here's my Visa card.",
+      "zh": "好的，這是我的護照，這是Visa卡。",
+      "keywords": [
+        {
+          "word": "here's",
+          "kk": "/here's/",
+          "zh": "here's"
+        },
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "海關"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D11",
+      "en": "Yes, that's correct.",
+      "zh": "對，沒錯。",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        },
+        {
+          "word": "correct",
+          "kk": "/correct/",
+          "zh": "correct"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D12",
+      "en": "Yes, that's right.",
+      "zh": "對，沒錯。",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        },
+        {
+          "word": "right",
+          "kk": "/raɪt/",
+          "zh": "右"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D14",
+      "en": "Is there any room upgrade available?",
+      "zh": "有沒有可以升級的房間？",
+      "keywords": [
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        },
+        {
+          "word": "upgrade",
+          "kk": "/ˈʌpˌɡreɪd/",
+          "zh": "升艙；升級"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D15",
+      "en": "We're celebrating our anniversary. Is there anything special available?",
+      "zh": "我們在慶祝結婚週年，有什麼特別的安排嗎？",
+      "keywords": [
+        {
+          "word": "we're",
+          "kk": "/we're/",
+          "zh": "we're"
+        },
+        {
+          "word": "celebrating",
+          "kk": "/celebrating/",
+          "zh": "celebrating"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D16",
+      "en": "I requested a king-size bed. Could you confirm?",
+      "zh": "我有要求國王床，可以確認一下嗎？",
+      "keywords": [
+        {
+          "word": "requested",
+          "kk": "/requested/",
+          "zh": "requested"
+        },
+        {
+          "word": "king-size",
+          "kk": "/king-size/",
+          "zh": "king-size"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D17",
+      "en": "Could we have a room with twin beds instead?",
+      "zh": "可以換成兩張單人床的房間嗎？",
+      "keywords": [
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        },
+        {
+          "word": "twin",
+          "kk": "/twɪn/",
+          "zh": "兩張單人床"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D18",
+      "en": "Could I have a room on a higher floor?",
+      "zh": "可以給我高樓層的房間嗎？",
+      "keywords": [
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        },
+        {
+          "word": "higher",
+          "kk": "/higher/",
+          "zh": "higher"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D19",
+      "en": "Higher floor if possible — I'd love a view.",
+      "zh": "如果可以的話，高樓層，我想要有景觀。",
+      "keywords": [
+        {
+          "word": "higher",
+          "kk": "/higher/",
+          "zh": "higher"
+        },
+        {
+          "word": "floor",
+          "kk": "/flɔr/",
+          "zh": "樓層"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D20",
+      "en": "Could I have a room away from the elevator?",
+      "zh": "可以給我遠離電梯的房間嗎？",
+      "keywords": [
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        },
+        {
+          "word": "away",
+          "kk": "/away/",
+          "zh": "away"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D21",
+      "en": "Do you have a room with a view?",
+      "zh": "有景觀房嗎？",
+      "keywords": [
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        },
+        {
+          "word": "view",
+          "kk": "/view/",
+          "zh": "view"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D22",
+      "en": "We need an extra bed for our child.",
+      "zh": "我們需要為小孩加一張床。",
+      "keywords": [
+        {
+          "word": "extra",
+          "kk": "/extra/",
+          "zh": "extra"
+        },
+        {
+          "word": "bed",
+          "kk": "/bed/",
+          "zh": "bed"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D23",
+      "en": "Could you set up a cot in the room?",
+      "zh": "可以在房間放一張嬰兒床嗎？",
+      "keywords": [
+        {
+          "word": "set",
+          "kk": "/set/",
+          "zh": "set"
+        },
+        {
+          "word": "cot",
+          "kk": "/cot/",
+          "zh": "cot"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D27",
+      "en": "Great, thank you. Could I also get a wake-up call at 7 a.m.?",
+      "zh": "太好了，謝謝。可以幫我設定早上7點的叫醒電話嗎？",
+      "keywords": [
+        {
+          "word": "great",
+          "kk": "/ɡreɪt/",
+          "zh": "很棒"
+        },
+        {
+          "word": "wake-up",
+          "kk": "/wake-up/",
+          "zh": "wake-up"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D28",
+      "en": "What is the Wi-Fi password?",
+      "zh": "Wi-Fi 密碼是什麼？",
+      "keywords": [
+        {
+          "word": "wi-fi",
+          "kk": "/wi-fi/",
+          "zh": "wi-fi"
+        },
+        {
+          "word": "password",
+          "kk": "/ˈpæsˌwɜrd/",
+          "zh": "密碼"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D29",
+      "en": "What time is breakfast?",
+      "zh": "早餐幾點開始？",
+      "keywords": [
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "time"
+        },
+        {
+          "word": "breakfast",
+          "kk": "/ˈbrɛkfəst/",
+          "zh": "早餐"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D30",
+      "en": "Is the pool open now?",
+      "zh": "游泳池現在開放嗎？",
+      "keywords": [
+        {
+          "word": "pool",
+          "kk": "/pul/",
+          "zh": "游泳池"
+        },
+        {
+          "word": "open",
+          "kk": "/ˈoʊpən/",
+          "zh": "開放"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D31",
+      "en": "Could you give me a wake-up call at 7 AM?",
+      "zh": "可以在早上七點幫我叫醒嗎？",
+      "keywords": [
+        {
+          "word": "give",
+          "kk": "/give/",
+          "zh": "give"
+        },
+        {
+          "word": "wake-up",
+          "kk": "/wake-up/",
+          "zh": "wake-up"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D32",
+      "en": "I'd like to check out, please. Room 1205.",
+      "zh": "我要退房，1205號房。",
+      "keywords": [
+        {
+          "word": "check",
+          "kk": "/tʃɛk/",
+          "zh": "確認；支票"
+        },
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "退房"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D33",
+      "en": "I'd like to check out, please. Room 1208.",
+      "zh": "我要退房，房間是1208。",
+      "keywords": [
+        {
+          "word": "check",
+          "kk": "/tʃɛk/",
+          "zh": "確認；支票"
+        },
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "退房"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D35",
+      "en": "Could I have my bill, please?",
+      "zh": "可以給我帳單嗎？",
+      "keywords": [
+        {
+          "word": "bill",
+          "kk": "/bɪl/",
+          "zh": "帳單"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D36",
+      "en": "Could you itemize the bill?",
+      "zh": "可以列出帳單明細嗎？",
+      "keywords": [
+        {
+          "word": "itemize",
+          "kk": "/itemize/",
+          "zh": "itemize"
+        },
+        {
+          "word": "bill",
+          "kk": "/bɪl/",
+          "zh": "帳單"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D39",
+      "en": "I don't think I used the minibar. Could you check?",
+      "zh": "我不認為我有使用迷你吧，可以確認一下嗎？",
+      "keywords": [
+        {
+          "word": "don't",
+          "kk": "/don't/",
+          "zh": "don't"
+        },
+        {
+          "word": "used",
+          "kk": "/used/",
+          "zh": "used"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D40",
+      "en": "Hmm, I didn't use the minibar. Could you double-check that?",
+      "zh": "咦，我沒有用迷你吧，可以再確認一下嗎？",
+      "keywords": [
+        {
+          "word": "hmm",
+          "kk": "/hmm/",
+          "zh": "hmm"
+        },
+        {
+          "word": "didn't",
+          "kk": "/didn't/",
+          "zh": "didn't"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D42",
+      "en": "Thank you. I'll pay the rest by card.",
+      "zh": "謝謝，其餘費用我刷卡付款。",
+      "keywords": [
+        {
+          "word": "pay",
+          "kk": "/peɪ/",
+          "zh": "付款"
+        },
+        {
+          "word": "rest",
+          "kk": "/rest/",
+          "zh": "rest"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D43",
+      "en": "This charge doesn't look right.",
+      "zh": "這筆費用好像有問題。",
+      "keywords": [
+        {
+          "word": "charge",
+          "kk": "/tʃɑrdʒ/",
+          "zh": "充電；收費"
+        },
+        {
+          "word": "doesn't",
+          "kk": "/doesn't/",
+          "zh": "doesn't"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D44",
+      "en": "I already paid for breakfast when I booked.",
+      "zh": "我訂房時已經含早餐了。",
+      "keywords": [
+        {
+          "word": "already",
+          "kk": "/already/",
+          "zh": "already"
+        },
+        {
+          "word": "paid",
+          "kk": "/paid/",
+          "zh": "paid"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D45",
+      "en": "I'll pay by credit card.",
+      "zh": "我用信用卡付。",
+      "keywords": [
+        {
+          "word": "pay",
+          "kk": "/peɪ/",
+          "zh": "付款"
+        },
+        {
+          "word": "credit",
+          "kk": "/ˈkrɛdɪt/",
+          "zh": "信用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D46",
+      "en": "Could I have a receipt for my records?",
+      "zh": "可以給我一張收據留存嗎？",
+      "keywords": [
+        {
+          "word": "receipt",
+          "kk": "/rɪˈsit/",
+          "zh": "收據"
+        },
+        {
+          "word": "records",
+          "kk": "/records/",
+          "zh": "records"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D47",
+      "en": "Could you email me the invoice?",
+      "zh": "可以把發票寄到我的電子信箱嗎？",
+      "keywords": [
+        {
+          "word": "email",
+          "kk": "/email/",
+          "zh": "電子郵件"
+        },
+        {
+          "word": "invoice",
+          "kk": "/invoice/",
+          "zh": "invoice"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D48",
+      "en": "Could I get a receipt by email? And is late checkout possible until 1 p.m.?",
+      "zh": "可以用Email寄收據給我嗎？還有，可以延後到下午1點退房嗎？",
+      "keywords": [
+        {
+          "word": "receipt",
+          "kk": "/rɪˈsit/",
+          "zh": "收據"
+        },
+        {
+          "word": "email",
+          "kk": "/email/",
+          "zh": "電子郵件"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "退房",
+        "禮貌用語"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D50",
+      "en": "My flight arrived early. Is it possible to check in now?",
+      "zh": "我的班機提早到，現在可以入住嗎？",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "航班；飛行"
+        },
+        {
+          "word": "arrived",
+          "kk": "/arrived/",
+          "zh": "arrived"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "報到"
+      ],
+      "tips": "「check in」是辦理登機報到的動作，與飯店的 check-in（辦理入住）用法相同，場合不同意思一致。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D51",
+      "en": "Is early check-in available?",
+      "zh": "可以提早入住嗎？",
+      "keywords": [
+        {
+          "word": "early",
+          "kk": "/ˈɜrlɪ/",
+          "zh": "早的"
+        },
+        {
+          "word": "check-in",
+          "kk": "/ˈtʃɛkˌɪn/",
+          "zh": "check-in"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "報到"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D54",
+      "en": "Could I have a late check-out, please?",
+      "zh": "可以延遲退房嗎？",
+      "keywords": [
+        {
+          "word": "late",
+          "kk": "/leɪt/",
+          "zh": "晚的；遲到"
+        },
+        {
+          "word": "check-out",
+          "kk": "/ˈtʃɛkˌaʊt/",
+          "zh": "check-out"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D55",
+      "en": "My flight is at 8 PM. Could I stay until 4 PM?",
+      "zh": "我的班機是晚上八點，可以待到下午四點嗎？",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "航班；飛行"
+        },
+        {
+          "word": "stay",
+          "kk": "/stay/",
+          "zh": "stay"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D58",
+      "en": "Hi, I'll be arriving around 4 PM. Is that okay?",
+      "zh": "你好，我大概下午四點到，可以嗎？",
+      "keywords": [
+        {
+          "word": "arriving",
+          "kk": "/arriving/",
+          "zh": "arriving"
+        },
+        {
+          "word": "around",
+          "kk": "/around/",
+          "zh": "around"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D59",
+      "en": "Where exactly is the key lockbox?",
+      "zh": "鑰匙保管箱確切在哪裡？",
+      "keywords": [
+        {
+          "word": "exactly",
+          "kk": "/exactly/",
+          "zh": "exactly"
+        },
+        {
+          "word": "key",
+          "kk": "/ki/",
+          "zh": "key"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D60",
+      "en": "What is the code for the lockbox?",
+      "zh": "保管箱的密碼是什麼？",
+      "keywords": [
+        {
+          "word": "code",
+          "kk": "/code/",
+          "zh": "code"
+        },
+        {
+          "word": "lockbox",
+          "kk": "/lockbox/",
+          "zh": "lockbox"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D61",
+      "en": "The Wi-Fi isn't working. Could you help?",
+      "zh": "Wi-Fi 不能用，可以幫忙嗎？",
+      "keywords": [
+        {
+          "word": "wi-fi",
+          "kk": "/wi-fi/",
+          "zh": "wi-fi"
+        },
+        {
+          "word": "isn't",
+          "kk": "/isn't/",
+          "zh": "isn't"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "緊急",
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D62",
+      "en": "Where do I put the rubbish?",
+      "zh": "垃圾要放哪裡？（英式）",
+      "keywords": [
+        {
+          "word": "put",
+          "kk": "/put/",
+          "zh": "put"
+        },
+        {
+          "word": "rubbish",
+          "kk": "/rubbish/",
+          "zh": "rubbish"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D63",
+      "en": "How do I use the washing machine?",
+      "zh": "洗衣機怎麼用？",
+      "keywords": [
+        {
+          "word": "use",
+          "kk": "/use/",
+          "zh": "use"
+        },
+        {
+          "word": "washing",
+          "kk": "/washing/",
+          "zh": "washing"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D64",
+      "en": "I'm sorry to bother you, but there's a problem with my room. The air conditioning isn't working.",
+      "zh": "不好意思打擾您，我的房間有問題，冷氣沒有運作。",
+      "keywords": [
+        {
+          "word": "sorry",
+          "kk": "/ˈsɑrɪ/",
+          "zh": "sorry"
+        },
+        {
+          "word": "bother",
+          "kk": "/bother/",
+          "zh": "bother"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D65",
+      "en": "Would it be possible to switch to a different room? The noise from the street is quite loud.",
+      "zh": "可以換一間房嗎？外面街道的噪音很大。",
+      "keywords": [
+        {
+          "word": "possible",
+          "kk": "/possible/",
+          "zh": "possible"
+        },
+        {
+          "word": "switch",
+          "kk": "/switch/",
+          "zh": "switch"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D66",
+      "en": "I've checked out but my flight isn't until tonight. Could you store my luggage?",
+      "zh": "我已退房，但班機傍晚才飛，可以幫我保管行李嗎？",
+      "keywords": [
+        {
+          "word": "checked",
+          "kk": "/checked/",
+          "zh": "checked"
+        },
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "航班；飛行"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "購物"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D67",
+      "en": "Could you explain what this charge is for? I'm not sure what \"service fee\" covers.",
+      "zh": "可以說明這筆費用是什麼嗎？我不確定「服務費」包含什麼。",
+      "keywords": [
+        {
+          "word": "explain",
+          "kk": "/explain/",
+          "zh": "explain"
+        },
+        {
+          "word": "charge",
+          "kk": "/tʃɑrdʒ/",
+          "zh": "充電；收費"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C1-1-D68",
+      "en": "Hi, this is room 1208. Could you send up some extra shampoo and a toothbrush?",
+      "zh": "您好，這是1208房，可以幫我送洗髮精和牙刷上來嗎？",
+      "keywords": [
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        },
+        {
+          "word": "send",
+          "kk": "/sɛnd/",
+          "zh": "send"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qC11-mc-001",
+        "question": "下列哪一句英文的意思是「我有訂房，名字是 Wayne Wu。」？",
+        "options": [
+          {
+            "en": "I have a reservation. The name is Wayne Wu.",
+            "zh": "我有訂房，名字是 Wayne Wu。"
+          },
+          {
+            "en": "Yes, I have a reservation under Wu. W-U.",
+            "zh": "有的，訂房姓名是吳，W-U。"
+          },
+          {
+            "en": "I'm checking in, please.",
+            "zh": "我要辦理入住。"
+          },
+          {
+            "en": "I booked through Booking.com.",
+            "zh": "我是透過 Booking.com 訂的。"
+          }
+        ],
+        "answer": "I have a reservation. The name is Wayne Wu."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qC11-fi-001",
+        "question": "I ______ a reservation. The name is Wayne Wu.",
+        "answer": "have"
+      },
+      {
+        "id": "qC11-fi-002",
+        "question": "______, I have a reservation under Wu. W-U.",
+        "answer": "yes"
+      },
+      {
+        "id": "qC11-fi-003",
+        "question": "______ checking in, please.",
+        "answer": "i'm"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qC11-li-001",
+        "sentence_id": "C1-1-D1"
+      },
+      {
+        "id": "qC11-li-002",
+        "sentence_id": "C1-1-D3"
+      },
+      {
+        "id": "qC11-li-003",
+        "sentence_id": "C1-1-D5"
+      }
+    ]
+  }
+}

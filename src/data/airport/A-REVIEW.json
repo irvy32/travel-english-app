@@ -1,0 +1,535 @@
+{
+  "chapter_id": "A-REVIEW",
+  "chapter_name": "A系列迷你回顧＋情境模擬",
+  "sentences": [
+    {
+      "id": "A-REVIEW-D1",
+      "en": "Good morning. Here you go. I'd like to check in for flight CI852 to London.",
+      "zh": "早安，給您。我要辦CI852倫敦班機的報到。",
+      "keywords": [
+        {
+          "word": "good",
+          "kk": "/ɡʊd/",
+          "zh": "good"
+        },
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "報到",
+        "複習"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D3",
+      "en": "Aisle seat, please — I have a long flight and I'd like to stretch my legs.",
+      "zh": "靠走道，謝謝，長途飛行我需要方便走動。",
+      "keywords": [
+        {
+          "word": "aisle",
+          "kk": "/aɪl/",
+          "zh": "走道"
+        },
+        {
+          "word": "seat",
+          "kk": "/sit/",
+          "zh": "座位"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D5",
+      "en": "I have one checked bag and one carry-on.",
+      "zh": "一件托運、一件手提。",
+      "keywords": [
+        {
+          "word": "checked",
+          "kk": "/checked/",
+          "zh": "checked"
+        },
+        {
+          "word": "bag",
+          "kk": "/bæg/",
+          "zh": "bag"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D7",
+      "en": "Can I remove something from the bag first? I'll transfer it to my carry-on.",
+      "zh": "我可以先從箱子拿出東西嗎？我把它放手提行李。",
+      "keywords": [
+        {
+          "word": "remove",
+          "kk": "/remove/",
+          "zh": "remove"
+        },
+        {
+          "word": "something",
+          "kk": "/something/",
+          "zh": "something"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D9",
+      "en": "OK, done. Is it within the limit now?",
+      "zh": "好了，現在有在限制內嗎？",
+      "keywords": [
+        {
+          "word": "done",
+          "kk": "/done/",
+          "zh": "done"
+        },
+        {
+          "word": "within",
+          "kk": "/within/",
+          "zh": "within"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D12",
+      "en": "Chicken, please. And could I also have some water? No ice.",
+      "zh": "雞肉，謝謝。可以給我水嗎？不要冰塊。",
+      "keywords": [
+        {
+          "word": "chicken",
+          "kk": "/chicken/",
+          "zh": "chicken"
+        },
+        {
+          "word": "water",
+          "kk": "/ˈwɔtər/",
+          "zh": "水"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D14",
+      "en": "Could I get a blanket as well? It's a bit cold.",
+      "zh": "可以給我毯子嗎？有點冷。",
+      "keywords": [
+        {
+          "word": "blanket",
+          "kk": "/ˈblæŋkɪt/",
+          "zh": "毛毯"
+        },
+        {
+          "word": "it's",
+          "kk": "/it's/",
+          "zh": "it's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D16",
+      "en": "Excuse me — I'm not feeling well. I feel a bit dizzy. Could I have some water?",
+      "zh": "不好意思，我不太舒服，有點頭暈，可以給我水嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "feeling",
+          "kk": "/feeling/",
+          "zh": "feeling"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D18",
+      "en": "Yes, please. Thank you so much.",
+      "zh": "好的，謝謝您。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D20",
+      "en": "Here you go.",
+      "zh": "給您。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D22",
+      "en": "Tourism. It's a leisure trip — mostly sightseeing and food.",
+      "zh": "觀光，休閒旅行，主要是看景點和吃東西。",
+      "keywords": [
+        {
+          "word": "tourism",
+          "kk": "/tourism/",
+          "zh": "tourism"
+        },
+        {
+          "word": "it's",
+          "kk": "/it's/",
+          "zh": "it's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "觀光",
+        "複習"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D24",
+      "en": "Twelve days. I fly back on the 18th.",
+      "zh": "十二天，我18號回程。",
+      "keywords": [
+        {
+          "word": "twelve",
+          "kk": "/twelve/",
+          "zh": "twelve"
+        },
+        {
+          "word": "days",
+          "kk": "/days/",
+          "zh": "days"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D26",
+      "en": "The Marriott in Westminster. I have the reservation here if you need it.",
+      "zh": "西敏區萬豪酒店，我有訂房資料可以出示。",
+      "keywords": [
+        {
+          "word": "marriott",
+          "kk": "/marriott/",
+          "zh": "marriott"
+        },
+        {
+          "word": "westminster",
+          "kk": "/westminster/",
+          "zh": "westminster"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D29",
+      "en": "No, nothing to declare.",
+      "zh": "沒有，沒有需要申報的。",
+      "keywords": [
+        {
+          "word": "nothing",
+          "kk": "/ˈnʌθɪŋ/",
+          "zh": "nothing"
+        },
+        {
+          "word": "declare",
+          "kk": "/dɪˈklɛr/",
+          "zh": "申報"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "海關",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D31",
+      "en": "I have some packaged Taiwanese snacks — gifts for friends. They're all commercially sealed.",
+      "zh": "我有一些台灣包裝零食，要送給朋友的，都是商業密封包裝。",
+      "keywords": [
+        {
+          "word": "packaged",
+          "kk": "/packaged/",
+          "zh": "packaged"
+        },
+        {
+          "word": "taiwanese",
+          "kk": "/taiwanese/",
+          "zh": "taiwanese"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D33",
+      "en": "Excuse me, which carousel is for CI852 from Taipei?",
+      "zh": "請問台北來的CI852在幾號轉盤？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "carousel",
+          "kk": "/carousel/",
+          "zh": "carousel"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D36",
+      "en": "My bag hasn't come out. It's been over 30 minutes. I think it might be lost. I need to file a report.",
+      "zh": "我的行李沒出來，已經超過30分鐘了，我想可能遺失了，需要報案。",
+      "keywords": [
+        {
+          "word": "bag",
+          "kk": "/bæg/",
+          "zh": "bag"
+        },
+        {
+          "word": "hasn't",
+          "kk": "/hasn't/",
+          "zh": "hasn't"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "遇到遺失或失竊時，說 I've lost my... 或 My ... has been stolen，向警察報案時需保留報案號碼以便保險申請。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D38",
+      "en": "Here. It's a large black hard-shell Samsonite suitcase, with a red ribbon on the handle and a name tag inside.",
+      "zh": "給您。是大型黑色硬殼新秀麗行李箱，把手上有紅絲帶，裡面有名牌。",
+      "keywords": [
+        {
+          "word": "it's",
+          "kk": "/it's/",
+          "zh": "it's"
+        },
+        {
+          "word": "large",
+          "kk": "/lɑrdʒ/",
+          "zh": "large"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D40",
+      "en": "Marriott, Westminster. And if you find it, can you deliver it directly to the hotel?",
+      "zh": "西敏區萬豪。如果找到了，可以直接送到飯店嗎？",
+      "keywords": [
+        {
+          "word": "marriott",
+          "kk": "/marriott/",
+          "zh": "marriott"
+        },
+        {
+          "word": "westminster",
+          "kk": "/westminster/",
+          "zh": "westminster"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "詢問",
+        "複習"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A-REVIEW-D42",
+      "en": "Thank you. Could I also have a written copy of this report?",
+      "zh": "謝謝。可以給我這份報告的書面副本嗎？",
+      "keywords": [
+        {
+          "word": "written",
+          "kk": "/written/",
+          "zh": "written"
+        },
+        {
+          "word": "copy",
+          "kk": "/copy/",
+          "zh": "copy"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qAREVIEW-mc-001",
+        "question": "下列哪一句英文的意思是「早安，給您。我要辦CI852倫敦班機的報到。」？",
+        "options": [
+          {
+            "en": "Good morning. Here you go. I'd like to check in for flight CI852 to London.",
+            "zh": "早安，給您。我要辦CI852倫敦班機的報到。"
+          },
+          {
+            "en": "Aisle seat, please — I have a long flight and I'd like to stretch my legs.",
+            "zh": "靠走道，謝謝，長途飛行我需要方便走動。"
+          },
+          {
+            "en": "I have one checked bag and one carry-on.",
+            "zh": "一件托運、一件手提。"
+          },
+          {
+            "en": "Can I remove something from the bag first? I'll transfer it to my carry-on.",
+            "zh": "我可以先從箱子拿出東西嗎？我把它放手提行李。"
+          }
+        ],
+        "answer": "Good morning. Here you go. I'd like to check in for flight CI852 to London."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qAREVIEW-fi-001",
+        "question": "______ morning. Here you go. I'd like to check in for flight CI852 to London.",
+        "answer": "good"
+      },
+      {
+        "id": "qAREVIEW-fi-002",
+        "question": "______ seat, please — I have a long flight and I'd like to stretch my legs.",
+        "answer": "aisle"
+      },
+      {
+        "id": "qAREVIEW-fi-003",
+        "question": "I ______ one checked bag and one carry-on.",
+        "answer": "have"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qAREVIEW-li-001",
+        "sentence_id": "A-REVIEW-D1"
+      },
+      {
+        "id": "qAREVIEW-li-002",
+        "sentence_id": "A-REVIEW-D5"
+      },
+      {
+        "id": "qAREVIEW-li-003",
+        "sentence_id": "A-REVIEW-D9"
+      }
+    ]
+  }
+}

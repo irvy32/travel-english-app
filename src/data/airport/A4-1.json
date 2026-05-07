@@ -1,0 +1,845 @@
+{
+  "chapter_id": "A4-1",
+  "chapter_name": "機上對話",
+  "sentences": [
+    {
+      "id": "A4-1-D2",
+      "en": "Thank you. Could you help me with my bag?",
+      "zh": "謝謝，可以幫我放行李嗎？",
+      "keywords": [
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助"
+        },
+        {
+          "word": "bag",
+          "kk": "/bæg/",
+          "zh": "bag"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D3",
+      "en": "Is this seat taken?",
+      "zh": "這個位置有人坐嗎？",
+      "keywords": [
+        {
+          "word": "seat",
+          "kk": "/sit/",
+          "zh": "座位"
+        },
+        {
+          "word": "taken",
+          "kk": "/taken/",
+          "zh": "taken"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "餐廳"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D4",
+      "en": "Could you help me put my bag in the overhead bin?",
+      "zh": "可以幫我把行李放到頭頂行李艙嗎？",
+      "keywords": [
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助"
+        },
+        {
+          "word": "put",
+          "kk": "/put/",
+          "zh": "put"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D8",
+      "en": "Chicken, please.",
+      "zh": "雞肉，謝謝。",
+      "keywords": [
+        {
+          "word": "chicken",
+          "kk": "/chicken/",
+          "zh": "chicken"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D9",
+      "en": "Chicken, please. And could I have some water as well?",
+      "zh": "雞肉，謝謝。可以給我水嗎？",
+      "keywords": [
+        {
+          "word": "chicken",
+          "kk": "/chicken/",
+          "zh": "chicken"
+        },
+        {
+          "word": "water",
+          "kk": "/ˈwɔtər/",
+          "zh": "水"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D12",
+      "en": "Orange juice, please.",
+      "zh": "柳橙汁，謝謝。",
+      "keywords": [
+        {
+          "word": "orange",
+          "kk": "/orange/",
+          "zh": "orange"
+        },
+        {
+          "word": "juice",
+          "kk": "/juice/",
+          "zh": "juice"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D13",
+      "en": "Orange juice, please. No ice.",
+      "zh": "柳橙汁，謝謝，不要冰塊。",
+      "keywords": [
+        {
+          "word": "orange",
+          "kk": "/orange/",
+          "zh": "orange"
+        },
+        {
+          "word": "juice",
+          "kk": "/juice/",
+          "zh": "juice"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D14",
+      "en": "Excuse me, could I get another cup of coffee?",
+      "zh": "不好意思，可以再給我一杯咖啡嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "cup",
+          "kk": "/cup/",
+          "zh": "cup"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D16",
+      "en": "I'm vegetarian. Do you have a vegetarian meal?",
+      "zh": "我吃素，有素食餐嗎？",
+      "keywords": [
+        {
+          "word": "vegetarian",
+          "kk": "/ˌvɛdʒɪˈtɛrɪən/",
+          "zh": "素食者"
+        },
+        {
+          "word": "meal",
+          "kk": "/meal/",
+          "zh": "meal"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D18",
+      "en": "Could I have a blanket, please?",
+      "zh": "可以給我一條毯子嗎？",
+      "keywords": [
+        {
+          "word": "blanket",
+          "kk": "/ˈblæŋkɪt/",
+          "zh": "毛毯"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D19",
+      "en": "Could I have a pillow, please?",
+      "zh": "可以給我一個枕頭嗎？",
+      "keywords": [
+        {
+          "word": "pillow",
+          "kk": "/ˈpɪloʊ/",
+          "zh": "枕頭"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D20",
+      "en": "Excuse me, could I have a blanket and a pillow?",
+      "zh": "不好意思，可以給我毯子和枕頭嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "blanket",
+          "kk": "/ˈblæŋkɪt/",
+          "zh": "毛毯"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D22",
+      "en": "Could I have some headphones?",
+      "zh": "可以給我耳機嗎？",
+      "keywords": [
+        {
+          "word": "headphones",
+          "kk": "/headphones/",
+          "zh": "headphones"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D23",
+      "en": "Could I have some water?",
+      "zh": "可以給我一杯水嗎？",
+      "keywords": [
+        {
+          "word": "water",
+          "kk": "/ˈwɔtər/",
+          "zh": "水"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D24",
+      "en": "Could I have an air sickness bag?",
+      "zh": "可以給我暈機袋嗎？",
+      "keywords": [
+        {
+          "word": "air",
+          "kk": "/air/",
+          "zh": "air"
+        },
+        {
+          "word": "sickness",
+          "kk": "/sickness/",
+          "zh": "sickness"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D25",
+      "en": "Could I have an arrival card?",
+      "zh": "可以給我入境卡嗎？",
+      "keywords": [
+        {
+          "word": "arrival",
+          "kk": "/əˈraɪvəl/",
+          "zh": "抵達"
+        },
+        {
+          "word": "card",
+          "kk": "/kɑrd/",
+          "zh": "卡片"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D26",
+      "en": "Excuse me, could you help me fill out this arrival card? I'm not sure about some parts.",
+      "zh": "不好意思，可以幫我填入境表格嗎？有些部分不太確定。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D28",
+      "en": "What does \"port of embarkation\" mean?",
+      "zh": "\"port of embarkation\" 是什麼意思？",
+      "keywords": [
+        {
+          "word": "port",
+          "kk": "/port/",
+          "zh": "port"
+        },
+        {
+          "word": "embarkation",
+          "kk": "/embarkation/",
+          "zh": "embarkation"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D32",
+      "en": "I'm not feeling well.",
+      "zh": "我感覺不太舒服。",
+      "keywords": [
+        {
+          "word": "feeling",
+          "kk": "/feeling/",
+          "zh": "feeling"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D33",
+      "en": "I feel nauseous.",
+      "zh": "我感到噁心想吐。",
+      "keywords": [
+        {
+          "word": "feel",
+          "kk": "/feel/",
+          "zh": "feel"
+        },
+        {
+          "word": "nauseous",
+          "kk": "/nauseous/",
+          "zh": "nauseous"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D34",
+      "en": "I have a headache.",
+      "zh": "我頭痛。",
+      "keywords": [
+        {
+          "word": "headache",
+          "kk": "/headache/",
+          "zh": "headache"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D35",
+      "en": "Do you have any medicine for motion sickness?",
+      "zh": "你們有暈機藥嗎？",
+      "keywords": [
+        {
+          "word": "medicine",
+          "kk": "/ˈmɛdɪsɪn/",
+          "zh": "藥物"
+        },
+        {
+          "word": "motion",
+          "kk": "/motion/",
+          "zh": "motion"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D37",
+      "en": "Excuse me, I'm not feeling well. I feel dizzy and nauseous.",
+      "zh": "不好意思，我不太舒服，有點頭暈想吐。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "feeling",
+          "kk": "/feeling/",
+          "zh": "feeling"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D39",
+      "en": "Do you have any painkillers? I have a headache.",
+      "zh": "你們有止痛藥嗎？我頭痛。",
+      "keywords": [
+        {
+          "word": "painkillers",
+          "kk": "/painkillers/",
+          "zh": "painkillers"
+        },
+        {
+          "word": "headache",
+          "kk": "/headache/",
+          "zh": "headache"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D41",
+      "en": "I have a medical condition. Is there a doctor on board?",
+      "zh": "我有健康狀況，機上有醫生嗎？",
+      "keywords": [
+        {
+          "word": "medical",
+          "kk": "/medical/",
+          "zh": "medical"
+        },
+        {
+          "word": "condition",
+          "kk": "/condition/",
+          "zh": "condition"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D43",
+      "en": "Could I move to another seat? The one next to the emergency exit, if it's free.",
+      "zh": "我可以換位子嗎？如果緊急出口旁邊有空位的話。",
+      "keywords": [
+        {
+          "word": "move",
+          "kk": "/move/",
+          "zh": "move"
+        },
+        {
+          "word": "seat",
+          "kk": "/sit/",
+          "zh": "座位"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "餐廳",
+        "緊急"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D45",
+      "en": "Excuse me, how do I recline my seat?",
+      "zh": "不好意思，這椅子怎麼調躺？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "recline",
+          "kk": "/recline/",
+          "zh": "recline"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D47",
+      "en": "Excuse me, could I switch seats with you? I'd like to sit next to my family.",
+      "zh": "不好意思，可以和你換座位嗎？我想和家人坐在一起。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "switch",
+          "kk": "/switch/",
+          "zh": "switch"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D48",
+      "en": "Is the seat next to you taken?",
+      "zh": "你旁邊的位置有人坐嗎？",
+      "keywords": [
+        {
+          "word": "seat",
+          "kk": "/sit/",
+          "zh": "座位"
+        },
+        {
+          "word": "next",
+          "kk": "/nɛkst/",
+          "zh": "next"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "餐廳"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D51",
+      "en": "I think I left something on the plane.",
+      "zh": "我好像把東西忘在飛機上了。",
+      "keywords": [
+        {
+          "word": "left",
+          "kk": "/lɛft/",
+          "zh": "左"
+        },
+        {
+          "word": "something",
+          "kk": "/something/",
+          "zh": "something"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D52",
+      "en": "I forgot my jacket in seat 24A.",
+      "zh": "我把外套忘在24A座位了。",
+      "keywords": [
+        {
+          "word": "forgot",
+          "kk": "/forgot/",
+          "zh": "forgot"
+        },
+        {
+          "word": "jacket",
+          "kk": "/jacket/",
+          "zh": "jacket"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "餐廳"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D53",
+      "en": "Who should I contact about lost items?",
+      "zh": "遺失物品要聯絡誰？",
+      "keywords": [
+        {
+          "word": "contact",
+          "kk": "/contact/",
+          "zh": "contact"
+        },
+        {
+          "word": "lost",
+          "kk": "/lɔst/",
+          "zh": "遺失；迷路"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急"
+      ],
+      "tips": "遇到遺失或失竊時，說 I've lost my... 或 My ... has been stolen，向警察報案時需保留報案號碼以便保險申請。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D55",
+      "en": "Yes, please.",
+      "zh": "好的，謝謝。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D56",
+      "en": "Do you accept credit cards?",
+      "zh": "你們收信用卡嗎？",
+      "keywords": [
+        {
+          "word": "accept",
+          "kk": "/accept/",
+          "zh": "accept"
+        },
+        {
+          "word": "credit",
+          "kk": "/ˈkrɛdɪt/",
+          "zh": "信用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "A4-1-D57",
+      "en": "I'd like to buy this perfume.",
+      "zh": "我想買這瓶香水。",
+      "keywords": [
+        {
+          "word": "buy",
+          "kk": "/baɪ/",
+          "zh": "buy"
+        },
+        {
+          "word": "perfume",
+          "kk": "/perfume/",
+          "zh": "perfume"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qA41-mc-001",
+        "question": "下列哪一句英文的意思是「謝謝，可以幫我放行李嗎？」？",
+        "options": [
+          {
+            "en": "Thank you. Could you help me with my bag?",
+            "zh": "謝謝，可以幫我放行李嗎？"
+          },
+          {
+            "en": "Is this seat taken?",
+            "zh": "這個位置有人坐嗎？"
+          },
+          {
+            "en": "Could you help me put my bag in the overhead bin?",
+            "zh": "可以幫我把行李放到頭頂行李艙嗎？"
+          },
+          {
+            "en": "Chicken, please.",
+            "zh": "雞肉，謝謝。"
+          }
+        ],
+        "answer": "Thank you. Could you help me with my bag?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qA41-fi-001",
+        "question": "______ you. Could you help me with my bag?",
+        "answer": "thank"
+      },
+      {
+        "id": "qA41-fi-002",
+        "question": "Is this ______ taken?",
+        "answer": "seat"
+      },
+      {
+        "id": "qA41-fi-003",
+        "question": "______ you help me put my bag in the overhead bin?",
+        "answer": "could"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qA41-li-001",
+        "sentence_id": "A4-1-D2"
+      },
+      {
+        "id": "qA41-li-002",
+        "sentence_id": "A4-1-D4"
+      },
+      {
+        "id": "qA41-li-003",
+        "sentence_id": "A4-1-D9"
+      }
+    ]
+  }
+}

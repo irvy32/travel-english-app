@@ -1,0 +1,482 @@
+{
+  "chapter_id": "C-REVIEW",
+  "chapter_name": "C系列迷你回顧＋情境模擬",
+  "sentences": [
+    {
+      "id": "C-REVIEW-D1",
+      "en": "Good evening! I have a reservation under Wu — W-U.",
+      "zh": "晚安！我有訂房，名字吳，W-U。",
+      "keywords": [
+        {
+          "word": "good",
+          "kk": "/ɡʊd/",
+          "zh": "good"
+        },
+        {
+          "word": "evening",
+          "kk": "/ˈivnɪŋ/",
+          "zh": "傍晚"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D3",
+      "en": "That's right. And if possible, I'd love a room on a higher floor — maybe with a city view?",
+      "zh": "沒錯。如果可以的話，我希望住高樓層，最好有城市景觀？",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        },
+        {
+          "word": "right",
+          "kk": "/raɪt/",
+          "zh": "右"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D5",
+      "en": "Sure. Here's my passport, and here's my Visa card. Also — could I get a wake-up call at 7 a.m. tomorrow?",
+      "zh": "好的，護照和Visa卡給您。另外，明天早上7點可以幫我叫醒嗎？",
+      "keywords": [
+        {
+          "word": "here's",
+          "kk": "/here's/",
+          "zh": "here's"
+        },
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "海關",
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D7",
+      "en": "Hi, this is room 1208. The air conditioning in my room isn't working — it keeps making a loud noise.",
+      "zh": "你好，這是1208房。我的冷氣壞了，一直發出很大的聲音。",
+      "keywords": [
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        },
+        {
+          "word": "air",
+          "kk": "/air/",
+          "zh": "air"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D9",
+      "en": "I'd prefer to move, if that's possible. I have an early start tomorrow.",
+      "zh": "如果可以的話，我想換房，我明天要早起。",
+      "keywords": [
+        {
+          "word": "prefer",
+          "kk": "/prefer/",
+          "zh": "prefer"
+        },
+        {
+          "word": "move",
+          "kk": "/move/",
+          "zh": "move"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D11",
+      "en": "That's great, thank you. Also — could you send up some extra towels to the new room?",
+      "zh": "太好了，謝謝。另外，可以送幾條毛巾到新房間嗎？",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        },
+        {
+          "word": "great",
+          "kk": "/ɡreɪt/",
+          "zh": "很棒"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D12",
+      "en": "Excuse me — where's the self-service laundry room? And do I need coins?",
+      "zh": "請問自助洗衣間在哪裡？需要硬幣嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "where's",
+          "kk": "/where's/",
+          "zh": "where's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D14",
+      "en": "Great — could I have change for a five-pound note?",
+      "zh": "好的，可以幫我把5英鎊換成硬幣嗎？",
+      "keywords": [
+        {
+          "word": "great",
+          "kk": "/ɡreɪt/",
+          "zh": "很棒"
+        },
+        {
+          "word": "change",
+          "kk": "/tʃeɪndʒ/",
+          "zh": "找零；改變"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "禮貌用語",
+        "複習"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D15",
+      "en": "Excuse me — I put in two pounds but machine number 4 won't start. I think it might be broken.",
+      "zh": "不好意思，我放了兩英鎊但4號機器不啟動，我想它可能壞了。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "put",
+          "kk": "/put/",
+          "zh": "put"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D17",
+      "en": "Hi — I hate to complain, but this is the second afternoon my room still hasn't been cleaned. It's already 4 p.m.",
+      "zh": "你好，我不太想抱怨，但今天是第二個下午，我的房間到下午4點都還沒打掃。",
+      "keywords": [
+        {
+          "word": "hate",
+          "kk": "/hate/",
+          "zh": "hate"
+        },
+        {
+          "word": "complain",
+          "kk": "/complain/",
+          "zh": "complain"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D19",
+      "en": "I appreciate that. I've had a few issues this stay — the air conditioning, and now this. I'd also like to discuss some form of compensation when I check out.",
+      "zh": "感謝，這次住宿遇到了一些問題，冷氣還有現在這個，退房時我想討論一下補償的事。",
+      "keywords": [
+        {
+          "word": "appreciate",
+          "kk": "/appreciate/",
+          "zh": "appreciate"
+        },
+        {
+          "word": "issues",
+          "kk": "/issues/",
+          "zh": "issues"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "退房",
+        "複習"
+      ],
+      "tips": "英式英語用 bill，美式英語用 check 指帳單，兩者皆通用。結帳時說 Can I have the bill/check, please?",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D21",
+      "en": "Good morning — I'd like to check out. Room 1208.",
+      "zh": "早安，我要退房，1208房。",
+      "keywords": [
+        {
+          "word": "good",
+          "kk": "/ɡʊd/",
+          "zh": "good"
+        },
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "退房",
+        "複習"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D24",
+      "en": "I appreciate that. Is that the best you're able to do? There were quite a few disruptions over three nights.",
+      "zh": "感謝，這已經是你們最好的方案了嗎？三晚發生了相當多的狀況。",
+      "keywords": [
+        {
+          "word": "appreciate",
+          "kk": "/appreciate/",
+          "zh": "appreciate"
+        },
+        {
+          "word": "best",
+          "kk": "/best/",
+          "zh": "best"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D26",
+      "en": "That's very reasonable — thank you. I'll pay the £389 by card. And could I get a receipt by email?",
+      "zh": "這很合理，謝謝。我刷卡付389英鎊，可以用電子郵件寄收據嗎？",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        },
+        {
+          "word": "reasonable",
+          "kk": "/reasonable/",
+          "zh": "reasonable"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D28",
+      "en": "Hello — I'd like to book a table for two this evening at 7, if you have availability.",
+      "zh": "你好，我想訂今晚7點兩位，如果有位置的話。",
+      "keywords": [
+        {
+          "word": "hello",
+          "kk": "/hello/",
+          "zh": "hello"
+        },
+        {
+          "word": "book",
+          "kk": "/book/",
+          "zh": "預訂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D30",
+      "en": "Wu — W-U. Also, one of us has a shellfish allergy — could the kitchen flag that?",
+      "zh": "吳，W-U。另外，我們其中一位對甲殼類過敏，廚房可以備注嗎？",
+      "keywords": [
+        {
+          "word": "w-u",
+          "kk": "/w-u/",
+          "zh": "w-u"
+        },
+        {
+          "word": "shellfish",
+          "kk": "/shellfish/",
+          "zh": "shellfish"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "在餐廳點餐時，若有飲食限制務必清楚說明，I'm allergic to... 或 I'm vegetarian 能有效溝通需求。",
+      "audio": null
+    },
+    {
+      "id": "C-REVIEW-D32",
+      "en": "That would be lovely — thank you!",
+      "zh": "那就太好了，謝謝！",
+      "keywords": [
+        {
+          "word": "lovely",
+          "kk": "/lovely/",
+          "zh": "lovely"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qCREVIEW-mc-001",
+        "question": "下列哪一句英文的意思是「晚安！我有訂房，名字吳，W-U。」？",
+        "options": [
+          {
+            "en": "Good evening! I have a reservation under Wu — W-U.",
+            "zh": "晚安！我有訂房，名字吳，W-U。"
+          },
+          {
+            "en": "That's right. And if possible, I'd love a room on a higher floor — maybe with a city view?",
+            "zh": "沒錯。如果可以的話，我希望住高樓層，最好有城市景觀？"
+          },
+          {
+            "en": "Sure. Here's my passport, and here's my Visa card. Also — could I get a wake-up call at 7 a.m. tomorrow?",
+            "zh": "好的，護照和Visa卡給您。另外，明天早上7點可以幫我叫醒嗎？"
+          },
+          {
+            "en": "Hi, this is room 1208. The air conditioning in my room isn't working — it keeps making a loud noise.",
+            "zh": "你好，這是1208房。我的冷氣壞了，一直發出很大的聲音。"
+          }
+        ],
+        "answer": "Good evening! I have a reservation under Wu — W-U."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qCREVIEW-fi-001",
+        "question": "______ evening! I have a reservation under Wu — W-U.",
+        "answer": "good"
+      },
+      {
+        "id": "qCREVIEW-fi-002",
+        "question": "______ right. And if possible, I'd love a room on a higher floor — maybe with a city view?",
+        "answer": "that's"
+      },
+      {
+        "id": "qCREVIEW-fi-003",
+        "question": "______. Here's my passport, and here's my Visa card. Also — could I get a wake-up call at 7 a.m. tomorrow?",
+        "answer": "sure"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qCREVIEW-li-001",
+        "sentence_id": "C-REVIEW-D1"
+      },
+      {
+        "id": "qCREVIEW-li-002",
+        "sentence_id": "C-REVIEW-D5"
+      },
+      {
+        "id": "qCREVIEW-li-003",
+        "sentence_id": "C-REVIEW-D9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "chapter_id": "E-REVIEW",
+  "chapter_name": "E 系列複習",
+  "sentences": [
+    {
+      "id": "E-REVIEW-D2",
+      "en": "I'm just browsing, thanks. ... Actually, do you have this jacket in a medium?",
+      "zh": "只是看看，謝謝。⋯其實，這件外套有中號的嗎？",
+      "keywords": [
+        {
+          "word": "browsing",
+          "kk": "/browsing/",
+          "zh": "browsing"
+        },
+        {
+          "word": "actually",
+          "kk": "/actually/",
+          "zh": "actually"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問",
+        "複習"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "E-REVIEW-D4",
+      "en": "Yes, please. Where is the fitting room?",
+      "zh": "好，試衣間在哪？",
+      "keywords": [
+        {
+          "word": "fitting",
+          "kk": "/fitting/",
+          "zh": "fitting"
+        },
+        {
+          "word": "room",
+          "kk": "/rum/",
+          "zh": "房間"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "E-REVIEW-D5",
+      "en": "It fits well. I'll take it. Is there a discount? And can I get a tax refund form?",
+      "zh": "很合身，我要了。有折扣嗎？還有我可以拿退稅單嗎？",
+      "keywords": [
+        {
+          "word": "fits",
+          "kk": "/fits/",
+          "zh": "fits"
+        },
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物",
+        "詢問",
+        "複習"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "E-REVIEW-D7",
+      "en": "Here is my passport. Do I need to do anything else in the store?",
+      "zh": "這是護照。在店裡我還需要做什麼嗎？",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        },
+        {
+          "word": "anything",
+          "kk": "/anything/",
+          "zh": "anything"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "購物",
+        "複習"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "E-REVIEW-D9",
+      "en": "Excuse me, where is the customs desk for tax refunds?",
+      "zh": "不好意思，退稅海關櫃台在哪？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "customs",
+          "kk": "/ˈkʌstəmz/",
+          "zh": "海關"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "海關",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "E-REVIEW-D11",
+      "en": "Here you go. I have the items in my carry-on if you need to see them.",
+      "zh": "給您。我有把東西帶在隨身行李，如果您要看的話。",
+      "keywords": [
+        {
+          "word": "items",
+          "kk": "/items/",
+          "zh": "items"
+        },
+        {
+          "word": "carry-on",
+          "kk": "/carry-on/",
+          "zh": "隨身行李"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "E-REVIEW-D13",
+      "en": "Sure, here it is.",
+      "zh": "沒問題，在這裡。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "E-REVIEW-D15",
+      "en": "I'd like a cash refund, please.",
+      "zh": "我想退現金。",
+      "keywords": [
+        {
+          "word": "cash",
+          "kk": "/kæʃ/",
+          "zh": "現金"
+        },
+        {
+          "word": "refund",
+          "kk": "/ˈriˌfʌnd/",
+          "zh": "退款"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "E-REVIEW-D17",
+      "en": "Cash is fine. I prefer to have it now. Thank you.",
+      "zh": "現金沒關係，我現在拿。謝謝。",
+      "keywords": [
+        {
+          "word": "cash",
+          "kk": "/kæʃ/",
+          "zh": "現金"
+        },
+        {
+          "word": "fine",
+          "kk": "/faɪn/",
+          "zh": "好的；沒問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qEREVIEW-mc-001",
+        "question": "下列哪一句英文的意思是「只是看看，謝謝。⋯其實，這件外套有中號的嗎？」？",
+        "options": [
+          {
+            "en": "I'm just browsing, thanks. ... Actually, do you have this jacket in a medium?",
+            "zh": "只是看看，謝謝。⋯其實，這件外套有中號的嗎？"
+          },
+          {
+            "en": "Yes, please. Where is the fitting room?",
+            "zh": "好，試衣間在哪？"
+          },
+          {
+            "en": "It fits well. I'll take it. Is there a discount? And can I get a tax refund form?",
+            "zh": "很合身，我要了。有折扣嗎？還有我可以拿退稅單嗎？"
+          },
+          {
+            "en": "Here is my passport. Do I need to do anything else in the store?",
+            "zh": "這是護照。在店裡我還需要做什麼嗎？"
+          }
+        ],
+        "answer": "I'm just browsing, thanks. ... Actually, do you have this jacket in a medium?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qEREVIEW-fi-001",
+        "question": "______ just browsing, thanks. ... Actually, do you have this jacket in a medium?",
+        "answer": "i'm"
+      },
+      {
+        "id": "qEREVIEW-fi-002",
+        "question": "______, please. Where is the fitting room?",
+        "answer": "yes"
+      },
+      {
+        "id": "qEREVIEW-fi-003",
+        "question": "It ______ well. I'll take it. Is there a discount? And can I get a tax refund form?",
+        "answer": "fits"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qEREVIEW-li-001",
+        "sentence_id": "E-REVIEW-D2"
+      },
+      {
+        "id": "qEREVIEW-li-002",
+        "sentence_id": "E-REVIEW-D5"
+      },
+      {
+        "id": "qEREVIEW-li-003",
+        "sentence_id": "E-REVIEW-D9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "chapter_id": "E1-1",
+  "chapter_name": "一般購物與詢價",
+  "sentences": [
+    {
+      "id": "E1-1-D2",
+      "en": "Just browsing, thanks.",
+      "zh": "只是看看，謝謝。",
+      "keywords": [
+        {
+          "word": "browsing",
+          "kk": "/browsing/",
+          "zh": "browsing"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D4",
+      "en": "Will do, thank you!",
+      "zh": "好的，謝謝！",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D5",
+      "en": "Excuse me, how much is this?",
+      "zh": "不好意思，這個多少錢？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D7",
+      "en": "Is that the final price, or is there a discount?",
+      "zh": "這是最終價格嗎，還是有折扣？",
+      "keywords": [
+        {
+          "word": "final",
+          "kk": "/final/",
+          "zh": "final"
+        },
+        {
+          "word": "price",
+          "kk": "/praɪs/",
+          "zh": "價格"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D9",
+      "en": "Does this price include tax?",
+      "zh": "這個價格含稅嗎？",
+      "keywords": [
+        {
+          "word": "price",
+          "kk": "/praɪs/",
+          "zh": "價格"
+        },
+        {
+          "word": "include",
+          "kk": "/include/",
+          "zh": "include"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D11",
+      "en": "Do you have this in a different color?",
+      "zh": "這個有別的顏色嗎？",
+      "keywords": [
+        {
+          "word": "different",
+          "kk": "/different/",
+          "zh": "different"
+        },
+        {
+          "word": "color",
+          "kk": "/ˈkʌlər/",
+          "zh": "顏色"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D13",
+      "en": "Do you have this in a medium?",
+      "zh": "這個有中號的嗎？",
+      "keywords": [
+        {
+          "word": "medium",
+          "kk": "/medium/",
+          "zh": "medium"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D15",
+      "en": "Can I try this on?",
+      "zh": "我可以試穿這個嗎？",
+      "keywords": [
+        {
+          "word": "try",
+          "kk": "/traɪ/",
+          "zh": "try"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D17",
+      "en": "I'll take this one, please.",
+      "zh": "我要買這個。",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物",
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D19",
+      "en": "That's all. Do you accept credit cards?",
+      "zh": "就這些。你們收信用卡嗎？",
+      "keywords": [
+        {
+          "word": "that's",
+          "kk": "/that's/",
+          "zh": "that's"
+        },
+        {
+          "word": "accept",
+          "kk": "/accept/",
+          "zh": "accept"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D22",
+      "en": "Yes, please.",
+      "zh": "要，謝謝。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "E1-1-D24",
+      "en": "Paper is fine, thank you.",
+      "zh": "紙本就好，謝謝。",
+      "keywords": [
+        {
+          "word": "paper",
+          "kk": "/paper/",
+          "zh": "paper"
+        },
+        {
+          "word": "fine",
+          "kk": "/faɪn/",
+          "zh": "好的；沒問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qE11-mc-001",
+        "question": "下列哪一句英文的意思是「只是看看，謝謝。」？",
+        "options": [
+          {
+            "en": "Just browsing, thanks.",
+            "zh": "只是看看，謝謝。"
+          },
+          {
+            "en": "Will do, thank you!",
+            "zh": "好的，謝謝！"
+          },
+          {
+            "en": "Excuse me, how much is this?",
+            "zh": "不好意思，這個多少錢？"
+          },
+          {
+            "en": "Is that the final price, or is there a discount?",
+            "zh": "這是最終價格嗎，還是有折扣？"
+          }
+        ],
+        "answer": "Just browsing, thanks."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qE11-fi-001",
+        "question": "______ browsing, thanks.",
+        "answer": "just"
+      },
+      {
+        "id": "qE11-fi-002",
+        "question": "______ do, thank you!",
+        "answer": "will"
+      },
+      {
+        "id": "qE11-fi-003",
+        "question": "______ me, how much is this?",
+        "answer": "excuse"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qE11-li-001",
+        "sentence_id": "E1-1-D2"
+      },
+      {
+        "id": "qE11-li-002",
+        "sentence_id": "E1-1-D5"
+      },
+      {
+        "id": "qE11-li-003",
+        "sentence_id": "E1-1-D9"
+      }
+    ]
+  }
+}

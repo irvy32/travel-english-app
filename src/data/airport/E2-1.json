@@ -1,0 +1,325 @@
+{
+  "chapter_id": "E2-1",
+  "chapter_name": "退稅申請",
+  "sentences": [
+    {
+      "id": "E2-1-D1",
+      "en": "Excuse me, can I get a tax refund form for this purchase?",
+      "zh": "不好意思，這筆消費可以拿退稅單嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "tax",
+          "kk": "/tax/",
+          "zh": "tax"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D3",
+      "en": "Yes, I'm from Taiwan. Here's my passport.",
+      "zh": "是的，我來自台灣。這是我的護照。",
+      "keywords": [
+        {
+          "word": "taiwan",
+          "kk": "/taiwan/",
+          "zh": "taiwan"
+        },
+        {
+          "word": "here's",
+          "kk": "/here's/",
+          "zh": "here's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D5",
+      "en": "Do I need to keep the receipts?",
+      "zh": "我需要保留收據嗎？",
+      "keywords": [
+        {
+          "word": "keep",
+          "kk": "/keep/",
+          "zh": "keep"
+        },
+        {
+          "word": "receipts",
+          "kk": "/receipts/",
+          "zh": "receipts"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D7",
+      "en": "What's the minimum purchase amount for a refund?",
+      "zh": "退稅的最低消費金額是多少？",
+      "keywords": [
+        {
+          "word": "what's",
+          "kk": "/what's/",
+          "zh": "what's"
+        },
+        {
+          "word": "minimum",
+          "kk": "/minimum/",
+          "zh": "minimum"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D9",
+      "en": "Excuse me, where is the tax refund customs office?",
+      "zh": "不好意思，退稅海關辦公室在哪？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "tax",
+          "kk": "/tax/",
+          "zh": "tax"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "海關",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D12",
+      "en": "Yes, they're in my carry-on. Do you need to see them?",
+      "zh": "有，在我的隨身行李。您要看嗎？",
+      "keywords": [
+        {
+          "word": "they're",
+          "kk": "/they're/",
+          "zh": "they're"
+        },
+        {
+          "word": "carry-on",
+          "kk": "/carry-on/",
+          "zh": "隨身行李"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D14",
+      "en": "Here they are, along with the tax refund forms.",
+      "zh": "這些就是，還有退稅表格。",
+      "keywords": [
+        {
+          "word": "along",
+          "kk": "/along/",
+          "zh": "along"
+        },
+        {
+          "word": "tax",
+          "kk": "/tax/",
+          "zh": "tax"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D16",
+      "en": "Thank you!",
+      "zh": "謝謝！",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D17",
+      "en": "I'd like to claim my tax refund, please.",
+      "zh": "我想領退稅款。",
+      "keywords": [
+        {
+          "word": "claim",
+          "kk": "/kleɪm/",
+          "zh": "申請理賠"
+        },
+        {
+          "word": "tax",
+          "kk": "/tax/",
+          "zh": "tax"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D20",
+      "en": "Cash, please. Is there a processing fee?",
+      "zh": "現金，謝謝。有手續費嗎？",
+      "keywords": [
+        {
+          "word": "cash",
+          "kk": "/kæʃ/",
+          "zh": "現金"
+        },
+        {
+          "word": "processing",
+          "kk": "/processing/",
+          "zh": "processing"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D22",
+      "en": "Cash is fine. I'll take it now.",
+      "zh": "現金沒關係，我現在拿。",
+      "keywords": [
+        {
+          "word": "cash",
+          "kk": "/kæʃ/",
+          "zh": "現金"
+        },
+        {
+          "word": "fine",
+          "kk": "/faɪn/",
+          "zh": "好的；沒問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "E2-1-D24",
+      "en": "Thank you very much!",
+      "zh": "非常感謝！",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qE21-mc-001",
+        "question": "下列哪一句英文的意思是「不好意思，這筆消費可以拿退稅單嗎？」？",
+        "options": [
+          {
+            "en": "Excuse me, can I get a tax refund form for this purchase?",
+            "zh": "不好意思，這筆消費可以拿退稅單嗎？"
+          },
+          {
+            "en": "Yes, I'm from Taiwan. Here's my passport.",
+            "zh": "是的，我來自台灣。這是我的護照。"
+          },
+          {
+            "en": "Do I need to keep the receipts?",
+            "zh": "我需要保留收據嗎？"
+          },
+          {
+            "en": "What's the minimum purchase amount for a refund?",
+            "zh": "退稅的最低消費金額是多少？"
+          }
+        ],
+        "answer": "Excuse me, can I get a tax refund form for this purchase?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qE21-fi-001",
+        "question": "______ me, can I get a tax refund form for this purchase?",
+        "answer": "excuse"
+      },
+      {
+        "id": "qE21-fi-002",
+        "question": "______, I'm from Taiwan. Here's my passport.",
+        "answer": "yes"
+      },
+      {
+        "id": "qE21-fi-003",
+        "question": "Do I ______ to keep the receipts?",
+        "answer": "need"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qE21-li-001",
+        "sentence_id": "E2-1-D1"
+      },
+      {
+        "id": "qE21-li-002",
+        "sentence_id": "E2-1-D5"
+      },
+      {
+        "id": "qE21-li-003",
+        "sentence_id": "E2-1-D9"
+      }
+    ]
+  }
+}

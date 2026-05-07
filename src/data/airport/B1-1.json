@@ -1,0 +1,957 @@
+{
+  "chapter_id": "B1-1",
+  "chapter_name": "機場交通",
+  "sentences": [
+    {
+      "id": "B1-1-D1",
+      "en": "How do I get to the city center from here?",
+      "zh": "從這裡怎麼去市中心？",
+      "keywords": [
+        {
+          "word": "city",
+          "kk": "/city/",
+          "zh": "city"
+        },
+        {
+          "word": "center",
+          "kk": "/center/",
+          "zh": "center"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "詢問地點時，「Where is...?」問位置，「How do I get to...?」問交通方式，兩者皆實用。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D2",
+      "en": "Excuse me, how do I get to the city center from here?",
+      "zh": "請問，我怎麼從這裡到市中心？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "city",
+          "kk": "/city/",
+          "zh": "city"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D4",
+      "en": "What's the best way to get to downtown?",
+      "zh": "去市區最好的方式是什麼？",
+      "keywords": [
+        {
+          "word": "what's",
+          "kk": "/what's/",
+          "zh": "what's"
+        },
+        {
+          "word": "best",
+          "kk": "/best/",
+          "zh": "best"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D5",
+      "en": "Is there a train to the city?",
+      "zh": "有去市區的電車嗎？",
+      "keywords": [
+        {
+          "word": "train",
+          "kk": "/treɪn/",
+          "zh": "火車；列車"
+        },
+        {
+          "word": "city",
+          "kk": "/city/",
+          "zh": "city"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "交通",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D7",
+      "en": "Which is the fastest option?",
+      "zh": "哪個最快？",
+      "keywords": [
+        {
+          "word": "fastest",
+          "kk": "/fastest/",
+          "zh": "fastest"
+        },
+        {
+          "word": "option",
+          "kk": "/option/",
+          "zh": "option"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D9",
+      "en": "How much does the express train cost?",
+      "zh": "快線票價多少？",
+      "keywords": [
+        {
+          "word": "express",
+          "kk": "/express/",
+          "zh": "express"
+        },
+        {
+          "word": "train",
+          "kk": "/treɪn/",
+          "zh": "火車；列車"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "交通",
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D11",
+      "en": "Does this bus go to the city center?",
+      "zh": "這班巴士去市中心嗎？",
+      "keywords": [
+        {
+          "word": "bus",
+          "kk": "/bʌs/",
+          "zh": "公車"
+        },
+        {
+          "word": "city",
+          "kk": "/city/",
+          "zh": "city"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "交通"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D12",
+      "en": "Where do I catch the airport bus?",
+      "zh": "機場巴士在哪裡搭？",
+      "keywords": [
+        {
+          "word": "catch",
+          "kk": "/catch/",
+          "zh": "catch"
+        },
+        {
+          "word": "airport",
+          "kk": "/ˈɛrˌpɔrt/",
+          "zh": "機場"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "交通",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D13",
+      "en": "Which stop is the Marriott Hotel?",
+      "zh": "Marriott 飯店是哪一站？",
+      "keywords": [
+        {
+          "word": "stop",
+          "kk": "/stɑp/",
+          "zh": "停；站"
+        },
+        {
+          "word": "marriott",
+          "kk": "/marriott/",
+          "zh": "marriott"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D14",
+      "en": "Can I buy a ticket on the bus?",
+      "zh": "可以在車上買票嗎？",
+      "keywords": [
+        {
+          "word": "buy",
+          "kk": "/baɪ/",
+          "zh": "buy"
+        },
+        {
+          "word": "ticket",
+          "kk": "/ˈtɪkɪt/",
+          "zh": "票"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "交通",
+        "購物"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D16",
+      "en": "Which line goes to the city center?",
+      "zh": "哪條線去市中心？",
+      "keywords": [
+        {
+          "word": "line",
+          "kk": "/line/",
+          "zh": "line"
+        },
+        {
+          "word": "goes",
+          "kk": "/goes/",
+          "zh": "goes"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D17",
+      "en": "Which line goes to downtown?",
+      "zh": "哪條線去市中心？",
+      "keywords": [
+        {
+          "word": "line",
+          "kk": "/line/",
+          "zh": "line"
+        },
+        {
+          "word": "goes",
+          "kk": "/goes/",
+          "zh": "goes"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D19",
+      "en": "Do I need to transfer?",
+      "zh": "需要換車嗎？",
+      "keywords": [
+        {
+          "word": "transfer",
+          "kk": "/ˈtrænsˌfɜr/",
+          "zh": "轉機"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D20",
+      "en": "Is this the right platform for Central Station?",
+      "zh": "這是去中央車站的月台嗎？",
+      "keywords": [
+        {
+          "word": "right",
+          "kk": "/raɪt/",
+          "zh": "右"
+        },
+        {
+          "word": "platform",
+          "kk": "/ˈplætˌfɔrm/",
+          "zh": "月台"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "交通"
+      ],
+      "tips": "在車站詢問月台時，Which platform for...? 是很實用的句型，搭火車前務必確認月台號碼。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D21",
+      "en": "How many stops to the city?",
+      "zh": "到市區幾站？",
+      "keywords": [
+        {
+          "word": "stops",
+          "kk": "/stops/",
+          "zh": "stops"
+        },
+        {
+          "word": "city",
+          "kk": "/city/",
+          "zh": "city"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D23",
+      "en": "One adult ticket to the city center, please.",
+      "zh": "一張到市中心的成人票。",
+      "keywords": [
+        {
+          "word": "adult",
+          "kk": "/adult/",
+          "zh": "adult"
+        },
+        {
+          "word": "ticket",
+          "kk": "/ˈtɪkɪt/",
+          "zh": "票"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D24",
+      "en": "Two adults and one child, please.",
+      "zh": "兩個大人一個小孩。",
+      "keywords": [
+        {
+          "word": "adults",
+          "kk": "/adults/",
+          "zh": "adults"
+        },
+        {
+          "word": "child",
+          "kk": "/child/",
+          "zh": "child"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D25",
+      "en": "Is there a day pass available?",
+      "zh": "有日票嗎？",
+      "keywords": [
+        {
+          "word": "day",
+          "kk": "/day/",
+          "zh": "day"
+        },
+        {
+          "word": "pass",
+          "kk": "/pass/",
+          "zh": "通過"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D26",
+      "en": "Which ticket is cheaper, single or return?",
+      "zh": "單程還是來回票比較便宜？",
+      "keywords": [
+        {
+          "word": "ticket",
+          "kk": "/ˈtɪkɪt/",
+          "zh": "票"
+        },
+        {
+          "word": "cheaper",
+          "kk": "/cheaper/",
+          "zh": "cheaper"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "買火車票時，single 是單程，return 是來回（英式），round trip 是來回（美式），出發前確認票種。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D28",
+      "en": "Where's the taxi stand, please?",
+      "zh": "請問計程車招呼站在哪裡？",
+      "keywords": [
+        {
+          "word": "where's",
+          "kk": "/where's/",
+          "zh": "where's"
+        },
+        {
+          "word": "taxi",
+          "kk": "/ˈtæksi/",
+          "zh": "計程車"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "交通",
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D30",
+      "en": "To the Grand Hyatt Hotel, please. Here's the address.",
+      "zh": "請到君悅酒店，這是地址。",
+      "keywords": [
+        {
+          "word": "grand",
+          "kk": "/grand/",
+          "zh": "grand"
+        },
+        {
+          "word": "hyatt",
+          "kk": "/hyatt/",
+          "zh": "hyatt"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D32",
+      "en": "Can you give me a rough estimate of the fare?",
+      "zh": "可以告訴我大概的費用嗎？",
+      "keywords": [
+        {
+          "word": "give",
+          "kk": "/give/",
+          "zh": "give"
+        },
+        {
+          "word": "rough",
+          "kk": "/rough/",
+          "zh": "rough"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D34",
+      "en": "Do you accept credit cards?",
+      "zh": "你們接受信用卡嗎？",
+      "keywords": [
+        {
+          "word": "accept",
+          "kk": "/accept/",
+          "zh": "accept"
+        },
+        {
+          "word": "credit",
+          "kk": "/ˈkrɛdɪt/",
+          "zh": "信用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D36",
+      "en": "Can I use my credit card to tap in, or do I need a ticket?",
+      "zh": "可以用信用卡感應進站，還是需要買票？",
+      "keywords": [
+        {
+          "word": "use",
+          "kk": "/use/",
+          "zh": "use"
+        },
+        {
+          "word": "credit",
+          "kk": "/ˈkrɛdɪt/",
+          "zh": "信用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "購物"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D38",
+      "en": "Is there a hotel shuttle bus?",
+      "zh": "有飯店接駁車嗎？",
+      "keywords": [
+        {
+          "word": "hotel",
+          "kk": "/hoʊˈtɛl/",
+          "zh": "飯店"
+        },
+        {
+          "word": "shuttle",
+          "kk": "/shuttle/",
+          "zh": "shuttle"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "交通"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D39",
+      "en": "Where is the shuttle bus stop?",
+      "zh": "接駁車站牌在哪裡？",
+      "keywords": [
+        {
+          "word": "shuttle",
+          "kk": "/shuttle/",
+          "zh": "shuttle"
+        },
+        {
+          "word": "bus",
+          "kk": "/bʌs/",
+          "zh": "公車"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "交通",
+        "詢問"
+      ],
+      "tips": "詢問地點時，「Where is...?」問位置，「How do I get to...?」問交通方式，兩者皆實用。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D40",
+      "en": "I'm staying at the Hilton. Do you have a shuttle?",
+      "zh": "我住希爾頓飯店，你們有接駁車嗎？",
+      "keywords": [
+        {
+          "word": "staying",
+          "kk": "/staying/",
+          "zh": "staying"
+        },
+        {
+          "word": "hilton",
+          "kk": "/hilton/",
+          "zh": "hilton"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D42",
+      "en": "I'd like to get an Oyster card, please.",
+      "zh": "我想買一張 Oyster 卡。",
+      "keywords": [
+        {
+          "word": "oyster",
+          "kk": "/oyster/",
+          "zh": "oyster"
+        },
+        {
+          "word": "card",
+          "kk": "/kɑrd/",
+          "zh": "卡片"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "購物",
+        "禮貌用語"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D43",
+      "en": "How much is the deposit?",
+      "zh": "押金是多少？",
+      "keywords": [
+        {
+          "word": "deposit",
+          "kk": "/deposit/",
+          "zh": "deposit"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D44",
+      "en": "Can I top up here?",
+      "zh": "可以在這裡加值嗎？",
+      "keywords": [
+        {
+          "word": "top",
+          "kk": "/top/",
+          "zh": "top"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D45",
+      "en": "How much should I load onto the card?",
+      "zh": "我應該加值多少？",
+      "keywords": [
+        {
+          "word": "load",
+          "kk": "/load/",
+          "zh": "load"
+        },
+        {
+          "word": "onto",
+          "kk": "/onto/",
+          "zh": "onto"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D46",
+      "en": "Do I tap in and tap out?",
+      "zh": "進出都要感應嗎？",
+      "keywords": [
+        {
+          "word": "tap",
+          "kk": "/tap/",
+          "zh": "tap"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D48",
+      "en": "I have the address on Google Maps — can I show you the screen?",
+      "zh": "我在 Google Maps 上有地址，可以給您看螢幕嗎？",
+      "keywords": [
+        {
+          "word": "address",
+          "kk": "/address/",
+          "zh": "地址"
+        },
+        {
+          "word": "google",
+          "kk": "/google/",
+          "zh": "google"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D49",
+      "en": "Could you take the highway if it's not too much extra? I'm in a bit of a hurry.",
+      "zh": "方便的話可以走高速公路嗎？我有點趕時間。",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "take"
+        },
+        {
+          "word": "highway",
+          "kk": "/highway/",
+          "zh": "highway"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D50",
+      "en": "I have two large suitcases — is there enough room in the trunk?",
+      "zh": "我有兩個大行李箱，後車廂放得下嗎？",
+      "keywords": [
+        {
+          "word": "large",
+          "kk": "/lɑrdʒ/",
+          "zh": "large"
+        },
+        {
+          "word": "suitcases",
+          "kk": "/suitcases/",
+          "zh": "suitcases"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "飯店",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D51",
+      "en": "Excuse me, I think I may be on the wrong train. Does this go to Central Station?",
+      "zh": "不好意思，我可能搭錯了，這班到中央車站嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "wrong",
+          "kk": "/wrong/",
+          "zh": "wrong"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "交通",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D52",
+      "en": "Could I have a receipt, please?",
+      "zh": "可以給我收據嗎？",
+      "keywords": [
+        {
+          "word": "receipt",
+          "kk": "/rɪˈsit/",
+          "zh": "收據"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "B1-1-D53",
+      "en": "I didn't know I had to validate. I'm sorry.",
+      "zh": "我不知道要打票，對不起。",
+      "keywords": [
+        {
+          "word": "didn't",
+          "kk": "/didn't/",
+          "zh": "didn't"
+        },
+        {
+          "word": "validate",
+          "kk": "/validate/",
+          "zh": "validate"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qB11-mc-001",
+        "question": "下列哪一句英文的意思是「從這裡怎麼去市中心？」？",
+        "options": [
+          {
+            "en": "How do I get to the city center from here?",
+            "zh": "從這裡怎麼去市中心？"
+          },
+          {
+            "en": "Excuse me, how do I get to the city center from here?",
+            "zh": "請問，我怎麼從這裡到市中心？"
+          },
+          {
+            "en": "What's the best way to get to downtown?",
+            "zh": "去市區最好的方式是什麼？"
+          },
+          {
+            "en": "Is there a train to the city?",
+            "zh": "有去市區的電車嗎？"
+          }
+        ],
+        "answer": "How do I get to the city center from here?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qB11-fi-001",
+        "question": "______ do I get to the city center from here?",
+        "answer": "how"
+      },
+      {
+        "id": "qB11-fi-002",
+        "question": "______ me, how do I get to the city center from here?",
+        "answer": "excuse"
+      },
+      {
+        "id": "qB11-fi-003",
+        "question": "______ the best way to get to downtown?",
+        "answer": "what's"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qB11-li-001",
+        "sentence_id": "B1-1-D1"
+      },
+      {
+        "id": "qB11-li-002",
+        "sentence_id": "B1-1-D4"
+      },
+      {
+        "id": "qB11-li-003",
+        "sentence_id": "B1-1-D7"
+      }
+    ]
+  }
+}

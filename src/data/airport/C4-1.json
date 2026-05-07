@@ -1,0 +1,1122 @@
+{
+  "chapter_id": "C4-1",
+  "chapter_name": "餐廳訂位與早餐",
+  "sentences": [
+    {
+      "id": "C4-1-D1",
+      "en": "I'd like to make a reservation for dinner, please.",
+      "zh": "我想預訂晚餐。",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        },
+        {
+          "word": "dinner",
+          "kk": "/dinner/",
+          "zh": "dinner"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D2",
+      "en": "Hello, I'd like to make a reservation for two people this Saturday evening, around 7 p.m. Is that available?",
+      "zh": "您好，我想訂本週六晚上，兩位，大約7點，請問有位置嗎？",
+      "keywords": [
+        {
+          "word": "hello",
+          "kk": "/hello/",
+          "zh": "hello"
+        },
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D4",
+      "en": "I'd like a table for two at 7 PM on Friday.",
+      "zh": "我想訂星期五晚上七點，兩位。",
+      "keywords": [
+        {
+          "word": "table",
+          "kk": "/table/",
+          "zh": "table"
+        },
+        {
+          "word": "friday",
+          "kk": "/friday/",
+          "zh": "friday"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D5",
+      "en": "Do you have availability for four people this Saturday evening?",
+      "zh": "這個星期六晚上有四個人的位子嗎？",
+      "keywords": [
+        {
+          "word": "availability",
+          "kk": "/availability/",
+          "zh": "availability"
+        },
+        {
+          "word": "four",
+          "kk": "/four/",
+          "zh": "four"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D6",
+      "en": "The reservation is under the name Wayne Wu.",
+      "zh": "訂位名字是 Wayne Wu。",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        },
+        {
+          "word": "under",
+          "kk": "/under/",
+          "zh": "under"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D7",
+      "en": "7 p.m. works great. The name is Wu — W-U. And could we have a table by the window if possible?",
+      "zh": "7點很好。訂位名字是吳，W-U。如果可以的話，能給我們靠窗的桌子嗎？",
+      "keywords": [
+        {
+          "word": "works",
+          "kk": "/works/",
+          "zh": "works"
+        },
+        {
+          "word": "great",
+          "kk": "/ɡreɪt/",
+          "zh": "很棒"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D9",
+      "en": "Could I have a table by the window if possible?",
+      "zh": "如果可以的話，可以給我靠窗的位子嗎？",
+      "keywords": [
+        {
+          "word": "table",
+          "kk": "/table/",
+          "zh": "table"
+        },
+        {
+          "word": "window",
+          "kk": "/ˈwɪndoʊ/",
+          "zh": "窗戶；靠窗"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D10",
+      "en": "Also, one of us has a shellfish allergy. Is that something the kitchen can accommodate?",
+      "zh": "另外，我們其中一位對甲殼類過敏，廚房可以配合嗎？",
+      "keywords": [
+        {
+          "word": "shellfish",
+          "kk": "/shellfish/",
+          "zh": "shellfish"
+        },
+        {
+          "word": "allergy",
+          "kk": "/ˈælərdʒɪ/",
+          "zh": "過敏"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "在餐廳點餐時，若有飲食限制務必清楚說明，I'm allergic to... 或 I'm vegetarian 能有效溝通需求。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D13",
+      "en": "Do you have a table for two available now?",
+      "zh": "現在有兩個人的位子嗎？",
+      "keywords": [
+        {
+          "word": "table",
+          "kk": "/table/",
+          "zh": "table"
+        },
+        {
+          "word": "available",
+          "kk": "/əˈveɪləbəl/",
+          "zh": "有空的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D14",
+      "en": "Good evening. I have a reservation for two at 7 p.m. under Wu.",
+      "zh": "晚安，我有訂位，兩位，7點，訂位名字是吳。",
+      "keywords": [
+        {
+          "word": "good",
+          "kk": "/ɡʊd/",
+          "zh": "good"
+        },
+        {
+          "word": "evening",
+          "kk": "/ˈivnɪŋ/",
+          "zh": "傍晚"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D16",
+      "en": "We don't have a reservation. Is that okay?",
+      "zh": "我們沒有訂位，可以嗎？",
+      "keywords": [
+        {
+          "word": "don't",
+          "kk": "/don't/",
+          "zh": "don't"
+        },
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D17",
+      "en": "We don't have a reservation — do you have a table for two available?",
+      "zh": "我們沒有訂位，請問現在有兩人座的位置嗎？",
+      "keywords": [
+        {
+          "word": "don't",
+          "kk": "/don't/",
+          "zh": "don't"
+        },
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D19",
+      "en": "How long is the wait?",
+      "zh": "需要等多久？",
+      "keywords": [
+        {
+          "word": "long",
+          "kk": "/long/",
+          "zh": "長的"
+        },
+        {
+          "word": "wait",
+          "kk": "/wait/",
+          "zh": "wait"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D20",
+      "en": "We'll wait. Could you put us on the waiting list?",
+      "zh": "我們等，可以把我們加入候補名單嗎？",
+      "keywords": [
+        {
+          "word": "we'll",
+          "kk": "/we'll/",
+          "zh": "we'll"
+        },
+        {
+          "word": "wait",
+          "kk": "/wait/",
+          "zh": "wait"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D26",
+      "en": "Yes, I have a reservation under Wayne.",
+      "zh": "有，訂位名字是 Wayne。",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        },
+        {
+          "word": "under",
+          "kk": "/under/",
+          "zh": "under"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D27",
+      "en": "There are three of us.",
+      "zh": "我們三個人。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D28",
+      "en": "Could we sit over there instead?",
+      "zh": "我們可以坐那邊嗎？",
+      "keywords": [
+        {
+          "word": "sit",
+          "kk": "/sit/",
+          "zh": "sit"
+        },
+        {
+          "word": "over",
+          "kk": "/over/",
+          "zh": "over"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D29",
+      "en": "Could we have a booth?",
+      "zh": "可以坐包廂式座位嗎？",
+      "keywords": [
+        {
+          "word": "booth",
+          "kk": "/booth/",
+          "zh": "booth"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D30",
+      "en": "Could we sit outside?",
+      "zh": "可以坐戶外嗎？",
+      "keywords": [
+        {
+          "word": "sit",
+          "kk": "/sit/",
+          "zh": "sit"
+        },
+        {
+          "word": "outside",
+          "kk": "/outside/",
+          "zh": "outside"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D31",
+      "en": "Good morning. Breakfast for two, room 1205.",
+      "zh": "早安，兩位用早餐，1205號房。",
+      "keywords": [
+        {
+          "word": "good",
+          "kk": "/ɡʊd/",
+          "zh": "good"
+        },
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D32",
+      "en": "Good morning. Breakfast is included with my room — I'm in room 1208.",
+      "zh": "早安，我的房間含早餐，我住1208房。",
+      "keywords": [
+        {
+          "word": "good",
+          "kk": "/ɡʊd/",
+          "zh": "good"
+        },
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D34",
+      "en": "Is breakfast included with my room?",
+      "zh": "我的房間有包含早餐嗎？",
+      "keywords": [
+        {
+          "word": "breakfast",
+          "kk": "/ˈbrɛkfəst/",
+          "zh": "早餐"
+        },
+        {
+          "word": "included",
+          "kk": "/ɪnˈkludɪd/",
+          "zh": "包含"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D35",
+      "en": "What time does breakfast end?",
+      "zh": "早餐幾點結束？",
+      "keywords": [
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "time"
+        },
+        {
+          "word": "breakfast",
+          "kk": "/ˈbrɛkfəst/",
+          "zh": "早餐"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D36",
+      "en": "Is this gluten-free?",
+      "zh": "這個是無麩質的嗎？",
+      "keywords": [
+        {
+          "word": "gluten-free",
+          "kk": "/gluten-free/",
+          "zh": "gluten-free"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D37",
+      "en": "Could I have a freshly made omelette?",
+      "zh": "可以幫我做一份現做的蛋捲嗎？",
+      "keywords": [
+        {
+          "word": "freshly",
+          "kk": "/freshly/",
+          "zh": "freshly"
+        },
+        {
+          "word": "made",
+          "kk": "/made/",
+          "zh": "made"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Can I have...?」是請求某物的常用句型，「Could I have...?」語氣更委婉正式。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D38",
+      "en": "A black coffee, please. And could I also get some scrambled eggs made to order? I see the egg station over there.",
+      "zh": "一杯黑咖啡，謝謝。還有，我能點現做炒蛋嗎？我看到那邊有蛋品區。",
+      "keywords": [
+        {
+          "word": "black",
+          "kk": "/black/",
+          "zh": "black"
+        },
+        {
+          "word": "coffee",
+          "kk": "/coffee/",
+          "zh": "coffee"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通",
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D40",
+      "en": "Scrambled, please — not too runny. And could I get some extra toast on the side?",
+      "zh": "炒蛋，請不要太濕軟，另外可以多給一些土司嗎？",
+      "keywords": [
+        {
+          "word": "scrambled",
+          "kk": "/scrambled/",
+          "zh": "scrambled"
+        },
+        {
+          "word": "runny",
+          "kk": "/runny/",
+          "zh": "runny"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D42",
+      "en": "Scrambled, please.",
+      "zh": "炒蛋，謝謝。",
+      "keywords": [
+        {
+          "word": "scrambled",
+          "kk": "/scrambled/",
+          "zh": "scrambled"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D43",
+      "en": "I'm allergic to shellfish. Could you let the kitchen know?",
+      "zh": "我對貝類過敏，可以通知廚房嗎？",
+      "keywords": [
+        {
+          "word": "allergic",
+          "kk": "/əˈlɜrdʒɪk/",
+          "zh": "過敏的"
+        },
+        {
+          "word": "shellfish",
+          "kk": "/shellfish/",
+          "zh": "shellfish"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "在餐廳點餐時，若有飲食限制務必清楚說明，I'm allergic to... 或 I'm vegetarian 能有效溝通需求。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D44",
+      "en": "Does this contain nuts?",
+      "zh": "這裡面有堅果嗎？",
+      "keywords": [
+        {
+          "word": "contain",
+          "kk": "/contain/",
+          "zh": "contain"
+        },
+        {
+          "word": "nuts",
+          "kk": "/nuts/",
+          "zh": "nuts"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D45",
+      "en": "I'm vegetarian. What do you recommend?",
+      "zh": "我吃素，你推薦什麼？",
+      "keywords": [
+        {
+          "word": "vegetarian",
+          "kk": "/ˌvɛdʒɪˈtɛrɪən/",
+          "zh": "素食者"
+        },
+        {
+          "word": "recommend",
+          "kk": "/ˌrɛkəˈmɛnd/",
+          "zh": "推薦"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "在餐廳點餐時，若有飲食限制務必清楚說明，I'm allergic to... 或 I'm vegetarian 能有效溝通需求。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D46",
+      "en": "I'm vegan. Do you have any vegan options?",
+      "zh": "我是純素者，有純素選項嗎？",
+      "keywords": [
+        {
+          "word": "vegan",
+          "kk": "/vegan/",
+          "zh": "vegan"
+        },
+        {
+          "word": "options",
+          "kk": "/options/",
+          "zh": "options"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D47",
+      "en": "I don't eat pork.",
+      "zh": "我不吃豬肉。",
+      "keywords": [
+        {
+          "word": "don't",
+          "kk": "/don't/",
+          "zh": "don't"
+        },
+        {
+          "word": "eat",
+          "kk": "/eat/",
+          "zh": "eat"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D48",
+      "en": "I'm on a low-sodium diet.",
+      "zh": "我在吃低鈉飲食。",
+      "keywords": [
+        {
+          "word": "low-sodium",
+          "kk": "/low-sodium/",
+          "zh": "low-sodium"
+        },
+        {
+          "word": "diet",
+          "kk": "/diet/",
+          "zh": "diet"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D50",
+      "en": "I'd like to change my reservation from 7 PM to 8 PM.",
+      "zh": "我想把訂位從七點改到八點。",
+      "keywords": [
+        {
+          "word": "change",
+          "kk": "/tʃeɪndʒ/",
+          "zh": "找零；改變"
+        },
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "「I'd like to...」是比「I want to...」更禮貌的請求方式，在服務場合使用更顯得有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D51",
+      "en": "We'll be three people instead of two.",
+      "zh": "我們會是三個人，不是兩個。",
+      "keywords": [
+        {
+          "word": "we'll",
+          "kk": "/we'll/",
+          "zh": "we'll"
+        },
+        {
+          "word": "people",
+          "kk": "/people/",
+          "zh": "people"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D52",
+      "en": "I need to cancel my reservation for tonight.",
+      "zh": "我需要取消今晚的訂位。",
+      "keywords": [
+        {
+          "word": "cancel",
+          "kk": "/ˈkænsəl/",
+          "zh": "cancel"
+        },
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D53",
+      "en": "Is there a cancellation fee?",
+      "zh": "取消有手續費嗎？",
+      "keywords": [
+        {
+          "word": "cancellation",
+          "kk": "/cancellation/",
+          "zh": "cancellation"
+        },
+        {
+          "word": "fee",
+          "kk": "/fee/",
+          "zh": "fee"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D54",
+      "en": "We don't have a reservation. Is there any chance of getting a table?",
+      "zh": "我們沒有訂位，有可能有位子嗎？",
+      "keywords": [
+        {
+          "word": "don't",
+          "kk": "/don't/",
+          "zh": "don't"
+        },
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D55",
+      "en": "Could you put us on the cancellation list?",
+      "zh": "可以把我們加到取消候補名單嗎？",
+      "keywords": [
+        {
+          "word": "put",
+          "kk": "/put/",
+          "zh": "put"
+        },
+        {
+          "word": "cancellation",
+          "kk": "/cancellation/",
+          "zh": "cancellation"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D56",
+      "en": "We're flexible on timing. Even a late seating would be fine.",
+      "zh": "我們時間很有彈性，晚一點的時段也沒關係。",
+      "keywords": [
+        {
+          "word": "we're",
+          "kk": "/we're/",
+          "zh": "we're"
+        },
+        {
+          "word": "flexible",
+          "kk": "/flexible/",
+          "zh": "flexible"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D57",
+      "en": "We're happy to sit at the bar while we wait.",
+      "zh": "我們可以先坐在吧台等。",
+      "keywords": [
+        {
+          "word": "we're",
+          "kk": "/we're/",
+          "zh": "we're"
+        },
+        {
+          "word": "happy",
+          "kk": "/happy/",
+          "zh": "happy"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D58",
+      "en": "Hi, I have a reservation under Wu for Saturday at 7 p.m. I need to cancel — or could I change it to Sunday instead?",
+      "zh": "您好，我有訂位，名字是吳，週六晚上7點。我需要取消，或者可以改到週日嗎？",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        },
+        {
+          "word": "under",
+          "kk": "/under/",
+          "zh": "under"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "「I have a reservation」是提示對方你已預訂，「I'd like to book」是現在要預訂，兩者場合不同。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D59",
+      "en": "Breakfast isn't included in my room. How much is it to add it on, and is it worth it?",
+      "zh": "我的房間不含早餐，單獨加購多少錢？值得嗎？",
+      "keywords": [
+        {
+          "word": "breakfast",
+          "kk": "/ˈbrɛkfəst/",
+          "zh": "早餐"
+        },
+        {
+          "word": "isn't",
+          "kk": "/isn't/",
+          "zh": "isn't"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "詢問"
+      ],
+      "tips": "問價格用 How much，問數量用 How many（可數）或 How much（不可數），兩者用法不同。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D60",
+      "en": "Excuse me — I know it's almost 10, but is the breakfast still available? Even just some toast and coffee would be great.",
+      "zh": "不好意思，我知道快10點了，還有早餐嗎？就算只有土司和咖啡也很好。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "it's",
+          "kk": "/it's/",
+          "zh": "it's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "餐廳",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "C4-1-D61",
+      "en": "It's my wife's birthday — is there anything special the restaurant can do? Even just a dessert would be lovely.",
+      "zh": "這是我太太的生日，餐廳能做什麼特別安排嗎？就算只是甜點也很棒。",
+      "keywords": [
+        {
+          "word": "it's",
+          "kk": "/it's/",
+          "zh": "it's"
+        },
+        {
+          "word": "wife's",
+          "kk": "/wife's/",
+          "zh": "wife's"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qC41-mc-001",
+        "question": "下列哪一句英文的意思是「我想預訂晚餐。」？",
+        "options": [
+          {
+            "en": "I'd like to make a reservation for dinner, please.",
+            "zh": "我想預訂晚餐。"
+          },
+          {
+            "en": "Hello, I'd like to make a reservation for two people this Saturday evening, around 7 p.m. Is that available?",
+            "zh": "您好，我想訂本週六晚上，兩位，大約7點，請問有位置嗎？"
+          },
+          {
+            "en": "I'd like a table for two at 7 PM on Friday.",
+            "zh": "我想訂星期五晚上七點，兩位。"
+          },
+          {
+            "en": "Do you have availability for four people this Saturday evening?",
+            "zh": "這個星期六晚上有四個人的位子嗎？"
+          }
+        ],
+        "answer": "I'd like to make a reservation for dinner, please."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qC41-fi-001",
+        "question": "______ like to make a reservation for dinner, please.",
+        "answer": "i'd"
+      },
+      {
+        "id": "qC41-fi-002",
+        "question": "______, I'd like to make a reservation for two people this Saturday evening, around 7 p.m. Is that available?",
+        "answer": "hello"
+      },
+      {
+        "id": "qC41-fi-003",
+        "question": "______ like a table for two at 7 PM on Friday.",
+        "answer": "i'd"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qC41-li-001",
+        "sentence_id": "C4-1-D1"
+      },
+      {
+        "id": "qC41-li-002",
+        "sentence_id": "C4-1-D4"
+      },
+      {
+        "id": "qC41-li-003",
+        "sentence_id": "C4-1-D6"
+      }
+    ]
+  }
+}

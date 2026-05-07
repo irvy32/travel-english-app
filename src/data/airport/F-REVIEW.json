@@ -1,0 +1,288 @@
+{
+  "chapter_id": "F-REVIEW",
+  "chapter_name": "F 系列複習",
+  "sentences": [
+    {
+      "id": "F-REVIEW-D2",
+      "en": "I'm not feeling well. My stomach hurts and I feel nauseous.",
+      "zh": "我不太舒服，胃很痛而且覺得噁心。",
+      "keywords": [
+        {
+          "word": "feeling",
+          "kk": "/feeling/",
+          "zh": "feeling"
+        },
+        {
+          "word": "stomach",
+          "kk": "/stomach/",
+          "zh": "stomach"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F-REVIEW-D4",
+      "en": "No fever, but I'm allergic to penicillin. I also take blood pressure pills daily.",
+      "zh": "沒發燒，但我對盤尼西林過敏。我每天也有吃血壓藥。",
+      "keywords": [
+        {
+          "word": "fever",
+          "kk": "/fever/",
+          "zh": "fever"
+        },
+        {
+          "word": "allergic",
+          "kk": "/əˈlɜrdʒɪk/",
+          "zh": "過敏的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "在餐廳點餐時，若有飲食限制務必清楚說明，I'm allergic to... 或 I'm vegetarian 能有效溝通需求。",
+      "audio": null
+    },
+    {
+      "id": "F-REVIEW-D6",
+      "en": "Thank you. Can I get an itemized receipt and a medical certificate for my insurance?",
+      "zh": "謝謝。可以給我明細收據和診斷證明給保險用嗎？",
+      "keywords": [
+        {
+          "word": "itemized",
+          "kk": "/itemized/",
+          "zh": "itemized"
+        },
+        {
+          "word": "receipt",
+          "kk": "/rɪˈsit/",
+          "zh": "收據"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "F-REVIEW-D7",
+      "en": "Excuse me, I need to report a stolen wallet. I think it was pickpocketed.",
+      "zh": "不好意思，我要報案錢包被偷。我想是被扒了。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "report",
+          "kk": "/report/",
+          "zh": "report"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "禮貌用語",
+        "複習"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "F-REVIEW-D9",
+      "en": "On the subway, about an hour ago. It was a brown leather wallet.",
+      "zh": "在地鐵上，大約一小時前。是一個咖啡色皮夾。",
+      "keywords": [
+        {
+          "word": "subway",
+          "kk": "/subway/",
+          "zh": "subway"
+        },
+        {
+          "word": "hour",
+          "kk": "/hour/",
+          "zh": "hour"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通",
+        "餐廳",
+        "複習"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F-REVIEW-D10",
+      "en": "My passport was in it, along with two credit cards and $100 cash.",
+      "zh": "我的護照在裡面，還有兩張信用卡和100元現金。",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        },
+        {
+          "word": "along",
+          "kk": "/along/",
+          "zh": "along"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "旅行時可準備信用卡和現金，先問 Do you accept credit cards? 確認付款方式後再消費。",
+      "audio": null
+    },
+    {
+      "id": "F-REVIEW-D12",
+      "en": "Hello, I lost my passport and I have a flight in two days. I need help.",
+      "zh": "您好，我護照丟了，後天的班機。我需要幫助。",
+      "keywords": [
+        {
+          "word": "hello",
+          "kk": "/hello/",
+          "zh": "hello"
+        },
+        {
+          "word": "lost",
+          "kk": "/lɔst/",
+          "zh": "遺失；迷路"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "緊急",
+        "複習"
+      ],
+      "tips": "遇到遺失或失竊時，說 I've lost my... 或 My ... has been stolen，向警察報案時需保留報案號碼以便保險申請。",
+      "audio": null
+    },
+    {
+      "id": "F-REVIEW-D14",
+      "en": "Yes, I have the police report and a photocopy of my passport.",
+      "zh": "有，我有報案單和護照影本。",
+      "keywords": [
+        {
+          "word": "police",
+          "kk": "/pəˈlis/",
+          "zh": "警察"
+        },
+        {
+          "word": "report",
+          "kk": "/report/",
+          "zh": "report"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "緊急",
+        "複習"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "F-REVIEW-D15",
+      "en": "Is there an expedited service? I'm willing to pay the extra fee.",
+      "zh": "有加急服務嗎？我願意付額外費用。",
+      "keywords": [
+        {
+          "word": "expedited",
+          "kk": "/expedited/",
+          "zh": "expedited"
+        },
+        {
+          "word": "service",
+          "kk": "/ˈsɜrvɪs/",
+          "zh": "服務"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問",
+        "複習",
+        "情境模擬"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qFREVIEW-mc-001",
+        "question": "下列哪一句英文的意思是「我不太舒服，胃很痛而且覺得噁心。」？",
+        "options": [
+          {
+            "en": "I'm not feeling well. My stomach hurts and I feel nauseous.",
+            "zh": "我不太舒服，胃很痛而且覺得噁心。"
+          },
+          {
+            "en": "No fever, but I'm allergic to penicillin. I also take blood pressure pills daily.",
+            "zh": "沒發燒，但我對盤尼西林過敏。我每天也有吃血壓藥。"
+          },
+          {
+            "en": "Thank you. Can I get an itemized receipt and a medical certificate for my insurance?",
+            "zh": "謝謝。可以給我明細收據和診斷證明給保險用嗎？"
+          },
+          {
+            "en": "Excuse me, I need to report a stolen wallet. I think it was pickpocketed.",
+            "zh": "不好意思，我要報案錢包被偷。我想是被扒了。"
+          }
+        ],
+        "answer": "I'm not feeling well. My stomach hurts and I feel nauseous."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qFREVIEW-fi-001",
+        "question": "______ not feeling well. My stomach hurts and I feel nauseous.",
+        "answer": "i'm"
+      },
+      {
+        "id": "qFREVIEW-fi-002",
+        "question": "No ______, but I'm allergic to penicillin. I also take blood pressure pills daily.",
+        "answer": "fever"
+      },
+      {
+        "id": "qFREVIEW-fi-003",
+        "question": "______ you. Can I get an itemized receipt and a medical certificate for my insurance?",
+        "answer": "thank"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qFREVIEW-li-001",
+        "sentence_id": "F-REVIEW-D2"
+      },
+      {
+        "id": "qFREVIEW-li-002",
+        "sentence_id": "F-REVIEW-D6"
+      },
+      {
+        "id": "qFREVIEW-li-003",
+        "sentence_id": "F-REVIEW-D9"
+      }
+    ]
+  }
+}

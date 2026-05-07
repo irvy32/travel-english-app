@@ -1,0 +1,879 @@
+{
+  "chapter_id": "B4-1",
+  "chapter_name": "問路與導航",
+  "sentences": [
+    {
+      "id": "B4-1-D1",
+      "en": "Excuse me, could you help me?",
+      "zh": "不好意思，可以幫我嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D2",
+      "en": "Excuse me, I'm a bit lost.",
+      "zh": "不好意思，我有點迷路了。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "bit",
+          "kk": "/bit/",
+          "zh": "bit"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D3",
+      "en": "Excuse me, sorry to bother you — do you know where the Central Market is?",
+      "zh": "不好意思，打擾一下——請問您知道中央市場在哪裡嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "sorry",
+          "kk": "/ˈsɑrɪ/",
+          "zh": "sorry"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D5",
+      "en": "How do I get to the British Museum?",
+      "zh": "我要怎麼去大英博物館？",
+      "keywords": [
+        {
+          "word": "british",
+          "kk": "/british/",
+          "zh": "british"
+        },
+        {
+          "word": "museum",
+          "kk": "/mjuˈziəm/",
+          "zh": "博物館"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "觀光",
+        "詢問"
+      ],
+      "tips": "詢問地點時，「Where is...?」問位置，「How do I get to...?」問交通方式，兩者皆實用。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D6",
+      "en": "Is the train station far from here?",
+      "zh": "火車站離這裡遠嗎？",
+      "keywords": [
+        {
+          "word": "train",
+          "kk": "/treɪn/",
+          "zh": "火車；列車"
+        },
+        {
+          "word": "station",
+          "kk": "/ˈsteɪʃən/",
+          "zh": "車站"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通"
+      ],
+      "tips": "在車站詢問月台時，Which platform for...? 是很實用的句型，搭火車前務必確認月台號碼。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D7",
+      "en": "Which way is Oxford Street?",
+      "zh": "牛津街往哪個方向？",
+      "keywords": [
+        {
+          "word": "way",
+          "kk": "/way/",
+          "zh": "路；方式"
+        },
+        {
+          "word": "oxford",
+          "kk": "/oxford/",
+          "zh": "oxford"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D8",
+      "en": "Am I going the right way to Buckingham Palace?",
+      "zh": "我往白金漢宮的方向對嗎？",
+      "keywords": [
+        {
+          "word": "right",
+          "kk": "/raɪt/",
+          "zh": "右"
+        },
+        {
+          "word": "way",
+          "kk": "/way/",
+          "zh": "路；方式"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D9",
+      "en": "Is it within walking distance, or should I take a taxi?",
+      "zh": "走路到得了嗎，還是我應該搭計程車？",
+      "keywords": [
+        {
+          "word": "within",
+          "kk": "/within/",
+          "zh": "within"
+        },
+        {
+          "word": "walking",
+          "kk": "/walking/",
+          "zh": "walking"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "交通"
+      ],
+      "tips": "搭乘計程車前可先詢問 How much will it cost to...? 確認費用，避免糾紛。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D11",
+      "en": "Could you show me on this map how to get to the old town from here?",
+      "zh": "可以在這張地圖上告訴我，從這裡怎麼走到舊城區嗎？",
+      "keywords": [
+        {
+          "word": "show",
+          "kk": "/ʃoʊ/",
+          "zh": "show"
+        },
+        {
+          "word": "map",
+          "kk": "/mæp/",
+          "zh": "地圖"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D13",
+      "en": "Are there any landmarks I should watch out for so I know I'm on the right track?",
+      "zh": "有沒有什麼地標可以確認方向沒走錯？",
+      "keywords": [
+        {
+          "word": "landmarks",
+          "kk": "/landmarks/",
+          "zh": "landmarks"
+        },
+        {
+          "word": "watch",
+          "kk": "/watch/",
+          "zh": "watch"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "在車站詢問月台時，Which platform for...? 是很實用的句型，搭火車前務必確認月台號碼。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D15",
+      "en": "I think I'm lost. Could you tell me where we are on this map?",
+      "zh": "我好像迷路了。可以告訴我我們現在在地圖上哪裡嗎？",
+      "keywords": [
+        {
+          "word": "lost",
+          "kk": "/lɔst/",
+          "zh": "遺失；迷路"
+        },
+        {
+          "word": "tell",
+          "kk": "/tell/",
+          "zh": "tell"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "遇到遺失或失竊時，說 I've lost my... 或 My ... has been stolen，向警察報案時需保留報案號碼以便保險申請。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D17",
+      "en": "My phone died and I can't use Google Maps — would you mind pointing me in the right direction?",
+      "zh": "我的手機沒電，沒辦法用Google Maps——可以麻煩您指一下方向嗎？",
+      "keywords": [
+        {
+          "word": "phone",
+          "kk": "/phone/",
+          "zh": "電話"
+        },
+        {
+          "word": "died",
+          "kk": "/died/",
+          "zh": "died"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D19",
+      "en": "I'm sorry, could you speak more slowly?",
+      "zh": "抱歉，可以說慢一點嗎？",
+      "keywords": [
+        {
+          "word": "sorry",
+          "kk": "/ˈsɑrɪ/",
+          "zh": "sorry"
+        },
+        {
+          "word": "speak",
+          "kk": "/speak/",
+          "zh": "speak"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D20",
+      "en": "Could you repeat that, please?",
+      "zh": "可以再說一次嗎？",
+      "keywords": [
+        {
+          "word": "repeat",
+          "kk": "/repeat/",
+          "zh": "repeat"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "句尾加上 please 可讓請求語氣更有禮貌，是英語服務場合中非常重要的習慣。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D21",
+      "en": "Sorry, could you say that again a bit more slowly? I didn't catch the last part.",
+      "zh": "抱歉，可以請您再說一次、慢一點嗎？最後一段我沒聽清楚。",
+      "keywords": [
+        {
+          "word": "sorry",
+          "kk": "/ˈsɑrɪ/",
+          "zh": "sorry"
+        },
+        {
+          "word": "again",
+          "kk": "/again/",
+          "zh": "again"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D23",
+      "en": "Could you point it out on my map?",
+      "zh": "可以幫我在地圖上指出來嗎？",
+      "keywords": [
+        {
+          "word": "point",
+          "kk": "/point/",
+          "zh": "point"
+        },
+        {
+          "word": "map",
+          "kk": "/mæp/",
+          "zh": "地圖"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D24",
+      "en": "Could you show me on Google Maps?",
+      "zh": "可以在 Google Maps 上給我看嗎？",
+      "keywords": [
+        {
+          "word": "show",
+          "kk": "/ʃoʊ/",
+          "zh": "show"
+        },
+        {
+          "word": "google",
+          "kk": "/google/",
+          "zh": "google"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D25",
+      "en": "So I turn left at the traffic lights, is that right?",
+      "zh": "所以我在紅綠燈左轉，對嗎？",
+      "keywords": [
+        {
+          "word": "turn",
+          "kk": "/tɜrn/",
+          "zh": "轉彎"
+        },
+        {
+          "word": "left",
+          "kk": "/lɛft/",
+          "zh": "左"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D26",
+      "en": "Just to confirm — straight ahead and then right?",
+      "zh": "確認一下，直走然後右轉？",
+      "keywords": [
+        {
+          "word": "confirm",
+          "kk": "/kənˈfɜrm/",
+          "zh": "確認"
+        },
+        {
+          "word": "straight",
+          "kk": "/streɪt/",
+          "zh": "直走"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D27",
+      "en": "Which floor is the food court on?",
+      "zh": "美食廣場在幾樓？",
+      "keywords": [
+        {
+          "word": "floor",
+          "kk": "/flɔr/",
+          "zh": "樓層"
+        },
+        {
+          "word": "food",
+          "kk": "/fud/",
+          "zh": "食物"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D28",
+      "en": "Where are the restrooms?",
+      "zh": "廁所在哪裡？",
+      "keywords": [
+        {
+          "word": "restrooms",
+          "kk": "/restrooms/",
+          "zh": "restrooms"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D29",
+      "en": "Where is the lift?",
+      "zh": "電梯在哪裡？",
+      "keywords": [
+        {
+          "word": "lift",
+          "kk": "/lift/",
+          "zh": "lift"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "詢問地點時，「Where is...?」問位置，「How do I get to...?」問交通方式，兩者皆實用。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D30",
+      "en": "Is there an escalator nearby?",
+      "zh": "附近有手扶梯嗎？",
+      "keywords": [
+        {
+          "word": "escalator",
+          "kk": "/escalator/",
+          "zh": "escalator"
+        },
+        {
+          "word": "nearby",
+          "kk": "/nearby/",
+          "zh": "nearby"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D31",
+      "en": "Do you know where Marks & Spencer is?",
+      "zh": "你知道 Marks & Spencer 在哪裡嗎？",
+      "keywords": [
+        {
+          "word": "marks",
+          "kk": "/marks/",
+          "zh": "marks"
+        },
+        {
+          "word": "spencer",
+          "kk": "/spencer/",
+          "zh": "spencer"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D32",
+      "en": "Is there a pharmacy nearby?",
+      "zh": "附近有藥局嗎？",
+      "keywords": [
+        {
+          "word": "pharmacy",
+          "kk": "/ˈfɑrməsɪ/",
+          "zh": "藥局"
+        },
+        {
+          "word": "nearby",
+          "kk": "/nearby/",
+          "zh": "nearby"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D36",
+      "en": "I'm trying to get here.",
+      "zh": "我想去這裡。",
+      "keywords": [
+        {
+          "word": "trying",
+          "kk": "/trying/",
+          "zh": "trying"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D37",
+      "en": "Am I heading in the right direction?",
+      "zh": "我方向對嗎？",
+      "keywords": [
+        {
+          "word": "heading",
+          "kk": "/heading/",
+          "zh": "heading"
+        },
+        {
+          "word": "right",
+          "kk": "/raɪt/",
+          "zh": "右"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D38",
+      "en": "How far is it from where I am now?",
+      "zh": "從我現在的位置有多遠？",
+      "keywords": [
+        {
+          "word": "far",
+          "kk": "/fɑr/",
+          "zh": "遠"
+        },
+        {
+          "word": "now",
+          "kk": "/naʊ/",
+          "zh": "now"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D41",
+      "en": "No worries, thank you anyway!",
+      "zh": "沒關係，還是謝謝你！",
+      "keywords": [
+        {
+          "word": "worries",
+          "kk": "/worries/",
+          "zh": "worries"
+        },
+        {
+          "word": "anyway",
+          "kk": "/anyway/",
+          "zh": "anyway"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D42",
+      "en": "Excuse me, is there an information center nearby?",
+      "zh": "請問附近有旅客服務中心嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/ɪkˈskjuz/",
+          "zh": "excuse"
+        },
+        {
+          "word": "information",
+          "kk": "/ˌɪnfərˈmeɪʃən/",
+          "zh": "資訊"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」和「Is there...?」都可詢問是否有某物，前者問人，後者問環境是否存在。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D43",
+      "en": "I'm sorry, my English isn't perfect — could you slow down just a little and maybe repeat the key turns?",
+      "zh": "抱歉，我英文不太好——可以說慢一點，重複一下關鍵的轉彎嗎？",
+      "keywords": [
+        {
+          "word": "sorry",
+          "kk": "/ˈsɑrɪ/",
+          "zh": "sorry"
+        },
+        {
+          "word": "english",
+          "kk": "/english/",
+          "zh": "english"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D44",
+      "en": "Would you mind showing me on my phone? I have Google Maps open — could you just drop a pin?",
+      "zh": "可以麻煩您在我的手機上指給我看嗎？我已經開好Google Maps了——可以幫我標一個點嗎？",
+      "keywords": [
+        {
+          "word": "mind",
+          "kk": "/mind/",
+          "zh": "mind"
+        },
+        {
+          "word": "showing",
+          "kk": "/showing/",
+          "zh": "showing"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D45",
+      "en": "No worries at all — thanks for your time. I'll ask at the hotel.",
+      "zh": "完全沒關係——謝謝您的時間，我去飯店問問。",
+      "keywords": [
+        {
+          "word": "worries",
+          "kk": "/worries/",
+          "zh": "worries"
+        },
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "time"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "禮貌用語"
+      ],
+      "tips": "感謝對方時，Thank you 較正式，Thanks 較口語，旅行中兩者都很常用，可靈活選用。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D46",
+      "en": "Sorry — quick question. Am I heading the right way for the waterfront?",
+      "zh": "抱歉，問一下。我這個方向去海濱對嗎？",
+      "keywords": [
+        {
+          "word": "sorry",
+          "kk": "/ˈsɑrɪ/",
+          "zh": "sorry"
+        },
+        {
+          "word": "quick",
+          "kk": "/kwɪk/",
+          "zh": "quick"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "「Excuse me」用於禮貌打擾或吸引注意；「Sorry」則是道歉，兩者場合不同，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "B4-1-D47",
+      "en": "I was told to turn right at the church — is that the church they meant?",
+      "zh": "有人叫我在教堂右轉——這個教堂就是他們說的那個嗎？",
+      "keywords": [
+        {
+          "word": "told",
+          "kk": "/told/",
+          "zh": "told"
+        },
+        {
+          "word": "turn",
+          "kk": "/tɜrn/",
+          "zh": "轉彎"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊英文",
+        "口語表達"
+      ],
+      "tips": "旅遊英文中，語氣禮貌比文法完美更重要，配合微笑與耐心，大多數情況都能順利溝通。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qB41-mc-001",
+        "question": "下列哪一句英文的意思是「不好意思，可以幫我嗎？」？",
+        "options": [
+          {
+            "en": "Excuse me, could you help me?",
+            "zh": "不好意思，可以幫我嗎？"
+          },
+          {
+            "en": "Excuse me, I'm a bit lost.",
+            "zh": "不好意思，我有點迷路了。"
+          },
+          {
+            "en": "Excuse me, sorry to bother you — do you know where the Central Market is?",
+            "zh": "不好意思，打擾一下——請問您知道中央市場在哪裡嗎？"
+          },
+          {
+            "en": "How do I get to the British Museum?",
+            "zh": "我要怎麼去大英博物館？"
+          }
+        ],
+        "answer": "Excuse me, could you help me?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qB41-fi-001",
+        "question": "______ me, could you help me?",
+        "answer": "excuse"
+      },
+      {
+        "id": "qB41-fi-002",
+        "question": "______ me, I'm a bit lost.",
+        "answer": "excuse"
+      },
+      {
+        "id": "qB41-fi-003",
+        "question": "______ me, sorry to bother you — do you know where the Central Market is?",
+        "answer": "excuse"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qB41-li-001",
+        "sentence_id": "B4-1-D1"
+      },
+      {
+        "id": "qB41-li-002",
+        "sentence_id": "B4-1-D3"
+      },
+      {
+        "id": "qB41-li-003",
+        "sentence_id": "B4-1-D6"
+      }
+    ]
+  }
+}
