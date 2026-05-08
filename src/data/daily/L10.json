@@ -1,0 +1,486 @@
+{
+  "chapter_id": "L10",
+  "chapter_name": "電話與線上會議基本用語",
+  "description": "接聽電話、留言、簡單安排時間，或參加簡單的線上視訊會議。包含：請對方重複、聽不清楚時的禮貌說法、簡單確認時間與地點。",
+  "sentences": [
+    {
+      "id": "L10-d1",
+      "role": "本人",
+      "en": "Hello, this is Mei-Ling.",
+      "zh": "你好，我是美玲。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "電話"
+      ],
+      "tips": "打電話時，先說 This is [name] calling 或 I'm calling about... 讓對方快速掌握來電目的。",
+      "audio": null
+    },
+    {
+      "id": "L10-d2",
+      "role": "朋友",
+      "en": "Hi Mei-Ling, it's Linda. How are you?",
+      "zh": "嗨美玲，我是琳達。你好嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-d3",
+      "role": "本人",
+      "en": "I'm good, thank you. Sorry, the line is bad. Could you repeat that, please?",
+      "zh": "我很好，謝謝。抱歉，線路不太好。可以請你再說一次嗎？",
+      "keywords": [
+        {
+          "word": "repeat",
+          "kk": "/rɪˈpit/",
+          "zh": "重複"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-d4",
+      "role": "朋友",
+      "en": "Sure. I said, would you like to meet for lunch tomorrow?",
+      "zh": "當然。我說，你明天想一起見面吃午餐嗎？",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        },
+        {
+          "word": "meet",
+          "kk": "/mit/",
+          "zh": "認識；見面"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-d5",
+      "role": "本人",
+      "en": "That sounds nice. What time?",
+      "zh": "聽起來不錯。幾點？",
+      "keywords": [
+        {
+          "word": "sounds",
+          "kk": "/saʊndz/",
+          "zh": "聽起來"
+        },
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "時間"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-d6",
+      "role": "朋友",
+      "en": "Is 12:30 okay?",
+      "zh": "十二點半可以嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-d7",
+      "role": "本人",
+      "en": "Yes, that works. Where should we meet?",
+      "zh": "可以，沒問題。我們應該在哪裡見面？",
+      "keywords": [
+        {
+          "word": "meet",
+          "kk": "/mit/",
+          "zh": "認識；見面"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-d8",
+      "role": "朋友",
+      "en": "How about the cafe on Main Street?",
+      "zh": "主街上的咖啡館怎麼樣？",
+      "keywords": [
+        {
+          "word": "street",
+          "kk": "/strit/",
+          "zh": "街道"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-d9",
+      "role": "本人",
+      "en": "Perfect. See you tomorrow at 12:30.",
+      "zh": "太好了。明天十二點半見。",
+      "keywords": [
+        {
+          "word": "tomorrow",
+          "kk": "/təˈmɑroʊ/",
+          "zh": "明天"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-s1",
+      "role": "練習句",
+      "en": "Hello, this is [your name] speaking.",
+      "zh": "你好，我是[你的名字]。",
+      "keywords": [
+        {
+          "word": "name",
+          "kk": "/neɪm/",
+          "zh": "名字"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "自我介紹",
+        "電話"
+      ],
+      "tips": "打電話時，先說 This is [name] calling 或 I'm calling about... 讓對方快速掌握來電目的。",
+      "audio": null
+    },
+    {
+      "id": "L10-s2",
+      "role": "練習句",
+      "en": "Who is calling, please?",
+      "zh": "請問是哪位？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "電話",
+        "禮貌用語"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-s3",
+      "role": "練習句",
+      "en": "Can you speak a little louder, please?",
+      "zh": "可以請你說大聲一點嗎？",
+      "keywords": [
+        {
+          "word": "louder",
+          "kk": "/ˈlaʊdɚ/",
+          "zh": "更大聲地"
+        },
+        {
+          "word": "speak",
+          "kk": "/spik/",
+          "zh": "說話"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-s4",
+      "role": "練習句",
+      "en": "I didn't catch that. Could you say it again?",
+      "zh": "我沒聽清楚。可以請你再說一次嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-s5",
+      "role": "練習句",
+      "en": "Let me check my calendar.",
+      "zh": "讓我查一下我的行事曆。",
+      "keywords": [
+        {
+          "word": "calendar",
+          "kk": "/ˈkæləndɚ/",
+          "zh": "行事曆，日曆"
+        },
+        {
+          "word": "check",
+          "kk": "/tʃɛk/",
+          "zh": "確認；查看"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-s6",
+      "role": "練習句",
+      "en": "That time is good for me.",
+      "zh": "那個時間我可以。",
+      "keywords": [
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "時間"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-s7",
+      "role": "練習句",
+      "en": "Can you send me the meeting link?",
+      "zh": "你可以傳會議連結給我嗎？",
+      "keywords": [
+        {
+          "word": "link",
+          "kk": "/lɪŋk/",
+          "zh": "連結"
+        },
+        {
+          "word": "send",
+          "kk": "/sɛnd/",
+          "zh": "寄送"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "郵局",
+        "視訊會議",
+        "詢問"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-s8",
+      "role": "練習句",
+      "en": "I can't hear you. My microphone is off.",
+      "zh": "我聽不到你。我的麥克風關了。",
+      "keywords": [
+        {
+          "word": "microphone",
+          "kk": "/ˈmaɪkrəˌfon/",
+          "zh": "麥克風"
+        },
+        {
+          "word": "hear",
+          "kk": "/hɪr/",
+          "zh": "聽到"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "視訊會議"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    },
+    {
+      "id": "L10-s9",
+      "role": "練習句",
+      "en": "Thank you for calling.",
+      "zh": "謝謝你打電話來。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "電話",
+        "禮貌用語"
+      ],
+      "tips": "電話英文中，語速放慢、說清楚姓名與目的，能有效避免溝通誤解。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L10-w1",
+      "word": "repeat",
+      "kk": "/rɪˈpit/",
+      "pos": "v.",
+      "zh": "重複",
+      "example_en": "Could you repeat your phone number?",
+      "example_zh": "可以重複一次你的電話號碼嗎？"
+    },
+    {
+      "id": "L10-w2",
+      "word": "louder",
+      "kk": "/ˈlaʊdɚ/",
+      "pos": "adv.",
+      "zh": "更大聲地",
+      "example_en": "Please speak louder.",
+      "example_zh": "請說大聲一點。"
+    },
+    {
+      "id": "L10-w3",
+      "word": "calendar",
+      "kk": "/ˈkæləndɚ/",
+      "pos": "n.",
+      "zh": "行事曆，日曆",
+      "example_en": "I'll check my calendar for next week.",
+      "example_zh": "我會查一下我下週的行事曆。"
+    },
+    {
+      "id": "L10-w4",
+      "word": "link",
+      "kk": "/lɪŋk/",
+      "pos": "n.",
+      "zh": "連結",
+      "example_en": "Click this link to join the meeting.",
+      "example_zh": "點擊這個連結加入會議。"
+    },
+    {
+      "id": "L10-w5",
+      "word": "microphone",
+      "kk": "/ˈmaɪkrəˌfon/",
+      "pos": "n.",
+      "zh": "麥克風",
+      "example_en": "My microphone is not working.",
+      "example_zh": "我的麥克風壞了。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L10-h1",
+      "title": "接電話自我介紹：This is [your name] speaking.",
+      "description": "接電話時，如果對方沒說要找誰，可以先報上自己的名字，讓對方知道你是誰。",
+      "example_en": "Hello, this is John speaking.",
+      "example_zh": ""
+    },
+    {
+      "id": "L10-h2",
+      "title": "聽不清楚時禮貌請求重複",
+      "description": "電話中聽不清楚很常見。用 I'm sorry, could you repeat that?（抱歉，可以重複嗎？）或 Can you speak louder?（可以說大聲點嗎？）來請求幫助。",
+      "example_en": "Sorry, the connection is bad. Could you say that again?",
+      "example_zh": ""
+    },
+    {
+      "id": "L10-h3",
+      "title": "確認約會細節：時間、地點",
+      "description": "安排見面時，最後一定要確認時間（time）和地點（place），避免誤會。",
+      "example_en": "So, we'll meet at the library at 3 p.m., right?",
+      "example_zh": ""
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL10-mc-001",
+        "question": "下列哪一句英文的意思是「你好，我是美玲。」？",
+        "options": [
+          {
+            "en": "Hello, this is Mei-Ling.",
+            "zh": "你好，我是美玲。"
+          },
+          {
+            "en": "Hi Mei-Ling, it's Linda. How are you?",
+            "zh": "嗨美玲，我是琳達。你好嗎？"
+          },
+          {
+            "en": "I'm good, thank you. Sorry, the line is bad. Could you repeat that, please?",
+            "zh": "我很好，謝謝。抱歉，線路不太好。可以請你再說一次嗎？"
+          },
+          {
+            "en": "Sure. I said, would you like to meet for lunch tomorrow?",
+            "zh": "當然。我說，你明天想一起見面吃午餐嗎？"
+          }
+        ],
+        "answer": "Hello, this is Mei-Ling."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL10-fi-001",
+        "question": "Hello, this is Mei-______.",
+        "answer": "ling"
+      },
+      {
+        "id": "qL10-fi-002",
+        "question": "Hi Mei-______, it's Linda. How are you?",
+        "answer": "ling"
+      },
+      {
+        "id": "qL10-fi-003",
+        "question": "I'm good, thank you. Sorry, the ______ is bad. Could you repeat that, please?",
+        "answer": "line"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL10-li-001",
+        "sentence_id": "L10-d1"
+      },
+      {
+        "id": "qL10-li-002",
+        "sentence_id": "L10-d3"
+      },
+      {
+        "id": "qL10-li-003",
+        "sentence_id": "L10-d5"
+      }
+    ]
+  }
+}

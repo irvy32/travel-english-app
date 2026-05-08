@@ -1,0 +1,431 @@
+{
+  "chapter_id": "L6",
+  "chapter_name": "入境與領行李",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "移民官",
+      "en": "Good afternoon. Passport, please.",
+      "zh": "午安。請出示護照。",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "移民官",
+        "入境",
+        "行李",
+        "海關"
+      ],
+      "tips": "入境排隊時，移民官通常只說簡短的指令，「Passport, please.」是最常見的開場詞。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "旅客",
+      "en": "Here you are.",
+      "zh": "請看。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "入境",
+        "行李",
+        "海關",
+        "旅客"
+      ],
+      "tips": "「Here you are.」在入境時遞護照，語氣自然，配合眼神接觸和微笑有助於順利通關。",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "移民官",
+      "en": "What is the purpose of your visit?",
+      "zh": "您此行的目的是什麼？",
+      "keywords": [
+        {
+          "word": "purpose",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "visit",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "移民官",
+        "入境",
+        "行李",
+        "海關"
+      ],
+      "tips": "移民官詢問入境目的，「What is the purpose of your visit?」是最常見問法，需提前準備回答。",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "旅客",
+      "en": "I'm here for sightseeing.",
+      "zh": "我是來觀光的。",
+      "keywords": [
+        {
+          "word": "sightseeing",
+          "kk": "/ˈsaɪtˌsiɪŋ/",
+          "zh": "觀光"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "入境",
+        "行李",
+        "海關",
+        "旅客"
+      ],
+      "tips": "「I'm here for sightseeing.」是觀光入境的標準回答，也可說「for tourism」或「for pleasure」。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "移民官",
+      "en": "How long will you stay?",
+      "zh": "您會停留多久？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "移民官",
+        "入境",
+        "行李",
+        "海關"
+      ],
+      "tips": "「How long will you stay?」詢問停留時間，直接回答天數或週數，例如「For ten days.」",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "旅客",
+      "en": "For ten days.",
+      "zh": "十天。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "入境",
+        "行李",
+        "海關",
+        "旅客"
+      ],
+      "tips": "「For ten days.」是簡潔的回答方式，可以省略主詞和動詞，只說時間長度。",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "移民官",
+      "en": "Where will you stay?",
+      "zh": "您會住在哪裡？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "移民官",
+        "入境",
+        "行李",
+        "海關"
+      ],
+      "tips": "移民官可能問住宿地點，提前記住飯店名稱和地址，回答時清楚說出名稱即可。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "旅客",
+      "en": "At the Grand Hotel in the city.",
+      "zh": "住在市區的大飯店。",
+      "keywords": [
+        {
+          "word": "grand",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "hotel",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "入境",
+        "行李",
+        "海關",
+        "旅客"
+      ],
+      "tips": "說明住宿地點時，可以說飯店名稱和大概位置，例如「in the city」表示在市區。",
+      "audio": null
+    },
+    {
+      "id": "d9",
+      "role": "移民官",
+      "en": "Enjoy your stay.",
+      "zh": "祝您旅途愉快。",
+      "keywords": [
+        {
+          "word": "enjoy",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "移民官",
+        "入境",
+        "行李",
+        "海關"
+      ],
+      "tips": "「Enjoy your stay.」是移民官結束驗證後的祝福語，通常表示通關順利，可回答「Thank you.」",
+      "audio": null
+    },
+    {
+      "id": "d10",
+      "role": "旅客",
+      "en": "Thank you.",
+      "zh": "謝謝。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "入境",
+        "行李",
+        "海關",
+        "旅客"
+      ],
+      "tips": "「Thank you.」作為禮貌回應，是社交場合的必備用語，簡短卻有效。",
+      "audio": null
+    },
+    {
+      "id": "d11",
+      "role": "旅客",
+      "en": "Excuse me, where is the baggage claim for Flight AB123?",
+      "zh": "不好意思，請問AB123班機的行李提領處在哪裡？",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "班機"
+        },
+        {
+          "word": "baggage claim",
+          "kk": "/ˈbæɡɪdʒ klem/",
+          "zh": "行李提領處"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "入境",
+        "行李",
+        "海關",
+        "旅客"
+      ],
+      "tips": "提領行李前先確認班機對應的行李轉盤號碼，機場顯示板上會顯示各航班的轉盤號碼。",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "機場人員",
+      "en": "It's at carousel number 4.",
+      "zh": "在4號行李轉盤。",
+      "keywords": [
+        {
+          "word": "carousel",
+          "kk": "/ˌkærəˈsɛl/",
+          "zh": "行李轉盤"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場人員",
+        "入境",
+        "行李",
+        "海關"
+      ],
+      "tips": "「carousel」指行李轉盤，是提領行李時的關鍵詞，找到正確轉盤號碼才能領到行李。",
+      "audio": null
+    },
+    {
+      "id": "d13",
+      "role": "旅客",
+      "en": "I can't find my suitcase. What should I do?",
+      "zh": "我找不到我的行李箱，我該怎麼辦？",
+      "keywords": [
+        {
+          "word": "suitcase",
+          "kk": "/ˈsutˌkes/",
+          "zh": "行李箱"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "入境",
+        "行李",
+        "海關",
+        "旅客"
+      ],
+      "tips": "行李沒出來時不要慌張，先到行李服務台（lost luggage counter）報告，提供領取條（claim tag）。",
+      "audio": null
+    },
+    {
+      "id": "d14",
+      "role": "行李服務人員",
+      "en": "You can report it at the Lost Luggage counter over there.",
+      "zh": "您可以到那邊的遺失行李櫃檯申報。",
+      "keywords": [
+        {
+          "word": "report",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "luggage",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "行李服務人員",
+        "入境",
+        "行李",
+        "海關"
+      ],
+      "tips": "「Lost Luggage counter」是遺失行李服務台，提交報告後航空公司會追蹤行李並通知你。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL6-mc-001",
+        "question": "移民官問你入境目的，你說你是來觀光的，應回答？",
+        "options": [
+          {
+            "en": "I'm here for sightseeing.",
+            "zh": "我是來觀光的。"
+          },
+          {
+            "en": "I'm here for work.",
+            "zh": "我是來工作的。"
+          },
+          {
+            "en": "I live here.",
+            "zh": "我住在這裡。"
+          },
+          {
+            "en": "I don't know.",
+            "zh": "我不知道。"
+          }
+        ],
+        "answer": "I'm here for sightseeing."
+      },
+      {
+        "id": "qL6-mc-002",
+        "question": "「baggage claim」是指？",
+        "options": [
+          {
+            "en": "The place to report lost bags",
+            "zh": "申報遺失行李的地方"
+          },
+          {
+            "en": "The area to collect your checked luggage",
+            "zh": "提領托運行李的區域"
+          },
+          {
+            "en": "The counter to check in bags",
+            "zh": "托運行李的櫃台"
+          },
+          {
+            "en": "The locker for storing bags",
+            "zh": "存放行李的儲物櫃"
+          }
+        ],
+        "answer": "The area to collect your checked luggage"
+      },
+      {
+        "id": "qL6-mc-003",
+        "question": "行李沒出來，你應該怎麼說？",
+        "options": [
+          {
+            "en": "My suitcase didn't come out.",
+            "zh": "我的行李箱沒有出來。"
+          },
+          {
+            "en": "My suitcase is broken.",
+            "zh": "我的行李箱壞了。"
+          },
+          {
+            "en": "I lost my ticket.",
+            "zh": "我的票不見了。"
+          },
+          {
+            "en": "The carousel is broken.",
+            "zh": "行李轉盤壞了。"
+          }
+        ],
+        "answer": "My suitcase didn't come out."
+      },
+      {
+        "id": "qL6-mc-004",
+        "question": "「Do I need to declare anything?」是在問什麼？",
+        "options": [
+          {
+            "en": "Whether you need to pay taxes",
+            "zh": "是否需要繳稅"
+          },
+          {
+            "en": "Whether you have items to declare at customs",
+            "zh": "是否有東西需要向海關申報"
+          },
+          {
+            "en": "Whether you need a visa",
+            "zh": "是否需要簽證"
+          },
+          {
+            "en": "Whether your bag is overweight",
+            "zh": "行李是否超重"
+          }
+        ],
+        "answer": "Whether you have items to declare at customs"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL6-fi-001",
+        "question": "I'm here for ______.（我是來觀光的。）",
+        "answer": "sightseeing"
+      },
+      {
+        "id": "qL6-fi-002",
+        "question": "I need to report a ______ bag.（我需要申報一件遺失的行李。）",
+        "answer": "missing"
+      },
+      {
+        "id": "qL6-fi-003",
+        "question": "I have nothing to ______.（我沒有東西要申報。）",
+        "answer": "declare"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL6-li-001",
+        "sentence_id": "d4"
+      },
+      {
+        "id": "qL6-li-002",
+        "sentence_id": "d8"
+      },
+      {
+        "id": "qL6-li-003",
+        "sentence_id": "d11"
+      }
+    ]
+  }
+}

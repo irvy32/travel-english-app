@@ -1,0 +1,422 @@
+{
+  "chapter_id": "L5",
+  "chapter_name": "線上社群與訊息",
+  "description": "使用 Line、WhatsApp、Facebook 群組或社團。包含：簡單留言、按讚、回覆訊息、請對方傳照片或分享連結。",
+  "sentences": [
+    {
+      "id": "L5-d1",
+      "role": "本人",
+      "en": "Hi everyone, I just joined the group. Nice to meet you all.",
+      "zh": "嗨各位，我剛加入這個群組。很高興認識大家。",
+      "keywords": [
+        {
+          "word": "group",
+          "kk": "/ɡrup/",
+          "zh": "群組"
+        },
+        {
+          "word": "meet",
+          "kk": "/mit/",
+          "zh": "見面；認識"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "課程社團"
+      ],
+      "tips": "報名課程或社團說 sign up for 或 enroll in，兩者皆常用；join 則用於加入現有的群組或俱樂部。",
+      "audio": null
+    },
+    {
+      "id": "L5-d2",
+      "role": "群友",
+      "en": "Welcome to the group! Feel free to share anything.",
+      "zh": "歡迎加入群組！請隨意分享任何事。",
+      "keywords": [
+        {
+          "word": "group",
+          "kk": "/ɡrup/",
+          "zh": "群組"
+        },
+        {
+          "word": "feel",
+          "kk": "/fil/",
+          "zh": "感覺"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "線上社群"
+      ],
+      "tips": "談社群媒體時，post（發文）、share（分享）、comment（留言）是最基本的三個動作動詞。",
+      "audio": null
+    },
+    {
+      "id": "L5-d3",
+      "role": "本人",
+      "en": "Thank you. I saw your photos from the trip. They look great!",
+      "zh": "謝謝你。我看到你旅行的照片了。看起來很棒！",
+      "keywords": [
+        {
+          "word": "trip",
+          "kk": "/trɪp/",
+          "zh": "旅行；旅程"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊經驗",
+        "禮貌用語"
+      ],
+      "tips": "聊電影時，Have you seen...? 用現在完成式詢問有無看過；Did you see...? 則指特定時間點看的。",
+      "audio": null
+    },
+    {
+      "id": "L5-d4",
+      "role": "群友",
+      "en": "Thanks! I'll post more later.",
+      "zh": "謝謝！我晚點會再發更多。",
+      "keywords": [
+        {
+          "word": "post",
+          "kk": "/post/",
+          "zh": "張貼，發布"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "線上社群"
+      ],
+      "tips": "談社群媒體時，post（發文）、share（分享）、comment（留言）是最基本的三個動作動詞。",
+      "audio": null
+    },
+    {
+      "id": "L5-d5",
+      "role": "本人",
+      "en": "Can you send me the link to that cooking video you mentioned?",
+      "zh": "你可以傳你提到的那個烹飪影片連結給我嗎？",
+      "keywords": [
+        {
+          "word": "link",
+          "kk": "/lɪŋk/",
+          "zh": "連結"
+        },
+        {
+          "word": "cooking",
+          "kk": "/ˈkʊkɪŋ/",
+          "zh": "烹飪"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好"
+      ],
+      "tips": "網路用語更新快，不確定某個詞的意思時，直接問 What does that mean? 完全沒問題。",
+      "audio": null
+    },
+    {
+      "id": "L5-d6",
+      "role": "群友",
+      "en": "Sure, I'll send it to you in a private message.",
+      "zh": "當然，我會用私人訊息傳給你。",
+      "keywords": [
+        {
+          "word": "message",
+          "kk": "/ˈmɛsɪdʒ/",
+          "zh": "訊息"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "線上社群"
+      ],
+      "tips": "社群帳號記得確認 privacy settings（隱私設定），設為 public 是公開，private 是私人帳號。",
+      "audio": null
+    },
+    {
+      "id": "L5-d7",
+      "role": "本人",
+      "en": "Great, thank you! I'll check it out.",
+      "zh": "太好了，謝謝你！我會看看。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "網路用語更新快，不確定某個詞的意思時，直接問 What does that mean? 完全沒問題。",
+      "audio": null
+    },
+    {
+      "id": "L5-s1",
+      "role": "練習句",
+      "en": "I just joined this Facebook group.",
+      "zh": "我剛加入這個 Facebook 群組。",
+      "keywords": [
+        {
+          "word": "group",
+          "kk": "/ɡrup/",
+          "zh": "群組"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "課程社團"
+      ],
+      "tips": "報名課程或社團說 sign up for 或 enroll in，兩者皆常用；join 則用於加入現有的群組或俱樂部。",
+      "audio": null
+    },
+    {
+      "id": "L5-s2",
+      "role": "練習句",
+      "en": "Nice photo!",
+      "zh": "照片很棒！",
+      "keywords": [
+        {
+          "word": "photo",
+          "kk": "/ˈfoʊtoʊ/",
+          "zh": "照片"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "網路用語更新快，不確定某個詞的意思時，直接問 What does that mean? 完全沒問題。",
+      "audio": null
+    },
+    {
+      "id": "L5-s3",
+      "role": "練習句",
+      "en": "Can you share the link?",
+      "zh": "你可以分享連結嗎？",
+      "keywords": [
+        {
+          "word": "link",
+          "kk": "/lɪŋk/",
+          "zh": "連結"
+        },
+        {
+          "word": "share",
+          "kk": "/ʃɛr/",
+          "zh": "分享"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "線上社群"
+      ],
+      "tips": "談社群媒體時，post（發文）、share（分享）、comment（留言）是最基本的三個動作動詞。",
+      "audio": null
+    },
+    {
+      "id": "L5-s4",
+      "role": "練習句",
+      "en": "I'll send you a message.",
+      "zh": "我會傳訊息給你。",
+      "keywords": [
+        {
+          "word": "message",
+          "kk": "/ˈmɛsɪdʒ/",
+          "zh": "訊息"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "線上社群"
+      ],
+      "tips": "網路用語更新快，不確定某個詞的意思時，直接問 What does that mean? 完全沒問題。",
+      "audio": null
+    },
+    {
+      "id": "L5-s5",
+      "role": "練習句",
+      "en": "Please check your inbox.",
+      "zh": "請查看你的收件匣。",
+      "keywords": [
+        {
+          "word": "inbox",
+          "kk": "/ˈɪnˌbɑks/",
+          "zh": "收件匣"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "網路用語更新快，不確定某個詞的意思時，直接問 What does that mean? 完全沒問題。",
+      "audio": null
+    },
+    {
+      "id": "L5-s6",
+      "role": "練習句",
+      "en": "I'll post the information in the group.",
+      "zh": "我會把資訊發到群組裡。",
+      "keywords": [
+        {
+          "word": "post",
+          "kk": "/post/",
+          "zh": "張貼，發布"
+        },
+        {
+          "word": "group",
+          "kk": "/ɡrup/",
+          "zh": "群組"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "線上社群"
+      ],
+      "tips": "談社群媒體時，post（發文）、share（分享）、comment（留言）是最基本的三個動作動詞。",
+      "audio": null
+    },
+    {
+      "id": "L5-s7",
+      "role": "練習句",
+      "en": "See you online!",
+      "zh": "網路上見！",
+      "keywords": [
+        {
+          "word": "online",
+          "kk": "/ˈɑnˌlaɪn/",
+          "zh": "線上的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "線上社群"
+      ],
+      "tips": "網路用語更新快，不確定某個詞的意思時，直接問 What does that mean? 完全沒問題。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L5-w1",
+      "word": "group",
+      "kk": "/ɡrup/",
+      "pos": "n.",
+      "zh": "群組",
+      "example_en": "We have a Line group for our class.",
+      "example_zh": "我們班上有一個 Line 群組。"
+    },
+    {
+      "id": "L5-w2",
+      "word": "link",
+      "kk": "/lɪŋk/",
+      "pos": "n.",
+      "zh": "連結",
+      "example_en": "Here is the link to the article.",
+      "example_zh": "這是那篇文章的連結。"
+    },
+    {
+      "id": "L5-w3",
+      "word": "private message",
+      "kk": "/ˈpraɪvɪt ˈmɛsɪdʒ/",
+      "pos": "n.",
+      "zh": "私人訊息",
+      "example_en": "Send me a private message if you have questions.",
+      "example_zh": "如果你有問題，傳私人訊息給我。"
+    },
+    {
+      "id": "L5-w4",
+      "word": "post",
+      "kk": "/post/",
+      "pos": "v.",
+      "zh": "張貼，發布",
+      "example_en": "I'll post the event details tomorrow.",
+      "example_zh": "我明天會發布活動詳情。"
+    },
+    {
+      "id": "L5-w5",
+      "word": "inbox",
+      "kk": "/ˈɪnˌbɑks/",
+      "pos": "n.",
+      "zh": "收件匣",
+      "example_en": "The file is in your email inbox.",
+      "example_zh": "那個檔案在你的電子郵件收件匣裡。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L5-h1",
+      "title": "加入社群的打招呼",
+      "description": "剛加入線上社群時，簡單自我介紹和打招呼是建立好印象的第一步。",
+      "example_en": "Hello, I'm new here. My name is Lily.",
+      "example_zh": "大家好，我是新來的。我的名字是莉莉。"
+    },
+    {
+      "id": "L5-h2",
+      "title": "給予正面回饋",
+      "description": "看到朋友發的貼文或照片，給予簡單的讚美或回應，如 Nice photo! 或 Looks great!，能促進互動。",
+      "example_en": "Your garden looks beautiful in the photo!",
+      "example_zh": "照片裡你的花園看起來很美！"
+    },
+    {
+      "id": "L5-h3",
+      "title": "請求分享資訊",
+      "description": "在群組裡想請別人分享資訊（如連結、檔案）時，用 Can you share...? 或 Can you send me...? 來詢問。",
+      "example_en": "Can you share the address of that restaurant?",
+      "example_zh": "你可以分享那家餐廳的地址嗎？"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL5-mc-001",
+        "question": "下列哪一句英文的意思是「嗨各位，我剛加入這個群組。很高興認識大家。」？",
+        "options": [
+          {
+            "en": "Hi everyone, I just joined the group. Nice to meet you all.",
+            "zh": "嗨各位，我剛加入這個群組。很高興認識大家。"
+          },
+          {
+            "en": "Welcome to the group! Feel free to share anything.",
+            "zh": "歡迎加入群組！請隨意分享任何事。"
+          },
+          {
+            "en": "Thank you. I saw your photos from the trip. They look great!",
+            "zh": "謝謝你。我看到你旅行的照片了。看起來很棒！"
+          },
+          {
+            "en": "Thanks! I'll post more later.",
+            "zh": "謝謝！我晚點會再發更多。"
+          }
+        ],
+        "answer": "Hi everyone, I just joined the group. Nice to meet you all."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL5-fi-001",
+        "question": "Hi ______, I just joined the group. Nice to meet you all.",
+        "answer": "everyone"
+      },
+      {
+        "id": "qL5-fi-002",
+        "question": "Welcome to the ______! Feel free to share anything.",
+        "answer": "group"
+      },
+      {
+        "id": "qL5-fi-003",
+        "question": "Thank you. I saw your ______ from the trip. They look great!",
+        "answer": "photos"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL5-li-001",
+        "sentence_id": "L5-d1"
+      },
+      {
+        "id": "qL5-li-002",
+        "sentence_id": "L5-d3"
+      },
+      {
+        "id": "qL5-li-003",
+        "sentence_id": "L5-d5"
+      }
+    ]
+  }
+}

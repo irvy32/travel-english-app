@@ -1,0 +1,515 @@
+{
+  "chapter_id": "L5",
+  "chapter_name": "看醫生與藥局",
+  "description": "到診所或醫院看診，或在藥局詢問用藥方式。包含：描述症狀（頭痛、咳嗽、發燒等）、說明發生多久了、詢問服藥時間與注意事項。",
+  "sentences": [
+    {
+      "id": "L5-d1",
+      "role": "本人",
+      "en": "Hello, Doctor. I don't feel well.",
+      "zh": "醫生你好。我覺得不舒服。",
+      "keywords": [
+        {
+          "word": "doctor",
+          "kk": "/ˈdɑktər/",
+          "zh": "醫生"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療",
+        "銀行"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-d2",
+      "role": "醫生",
+      "en": "What seems to be the problem?",
+      "zh": "哪裡有問題呢？",
+      "keywords": [
+        {
+          "word": "problem",
+          "kk": "/ˈprɑbləm/",
+          "zh": "問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-d3",
+      "role": "本人",
+      "en": "I have a headache and a sore throat.",
+      "zh": "我頭痛而且喉嚨痛。",
+      "keywords": [
+        {
+          "word": "headache",
+          "kk": "/ˈhɛdˌeɪk/",
+          "zh": "頭痛"
+        },
+        {
+          "word": "sore",
+          "kk": "/sɔr/",
+          "zh": "疼痛的；喉嚨痛"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-d4",
+      "role": "醫生",
+      "en": "How long have you felt this way?",
+      "zh": "這樣有多久了？",
+      "keywords": [
+        {
+          "word": "long",
+          "kk": "/lɔŋ/",
+          "zh": "長的；很久"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "詢問等待時間說 How long will it take? 或 What's the estimated wait time?，服務場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L5-d5",
+      "role": "本人",
+      "en": "Since yesterday morning.",
+      "zh": "從昨天早上開始。",
+      "keywords": [
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-d6",
+      "role": "醫生",
+      "en": "Do you have a fever?",
+      "zh": "你有發燒嗎？",
+      "keywords": [
+        {
+          "word": "fever",
+          "kk": "/ˈfivɚ/",
+          "zh": "發燒"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」詢問對方是否有某物，是日常生活中最萬用的問句之一。",
+      "audio": null
+    },
+    {
+      "id": "L5-d7",
+      "role": "本人",
+      "en": "I think so. I feel cold sometimes.",
+      "zh": "我想有。我有時候覺得冷。",
+      "keywords": [
+        {
+          "word": "sometimes",
+          "kk": "/ˈsʌmˌtaɪmz/",
+          "zh": "有時候"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-d8",
+      "role": "醫生",
+      "en": "Let me check your temperature. ... You have a slight fever. I'll prescribe some medicine for you.",
+      "zh": "讓我量一下你的體溫。... 你有一點發燒。我開一些藥給你。",
+      "keywords": [
+        {
+          "word": "fever",
+          "kk": "/ˈfivɚ/",
+          "zh": "發燒"
+        },
+        {
+          "word": "prescribe",
+          "kk": "/prɪˈskraɪb/",
+          "zh": "開（藥方）"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "醫療"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-d9",
+      "role": "本人",
+      "en": "How many times a day should I take it?",
+      "zh": "我一天要吃幾次？",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "拿；帶走"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "問價格用 How much，問可數數量用 How many，兩者用法不同，需要注意區分。",
+      "audio": null
+    },
+    {
+      "id": "L5-d10",
+      "role": "醫生",
+      "en": "Take one pill after each meal, three times a day.",
+      "zh": "每餐飯後吃一顆，一天三次。",
+      "keywords": [
+        {
+          "word": "pill",
+          "kk": "/pɪl/",
+          "zh": "藥丸"
+        },
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "拿；帶走"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "領藥時確認劑量（dosage）和頻率，如 twice a day（每天兩次），避免用藥錯誤。",
+      "audio": null
+    },
+    {
+      "id": "L5-s1",
+      "role": "練習句",
+      "en": "I need to see a doctor.",
+      "zh": "我需要看醫生。",
+      "keywords": [
+        {
+          "word": "need",
+          "kk": "/nid/",
+          "zh": "需要"
+        },
+        {
+          "word": "doctor",
+          "kk": "/ˈdɑktər/",
+          "zh": "醫生"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-s2",
+      "role": "練習句",
+      "en": "My stomach hurts.",
+      "zh": "我的胃痛。",
+      "keywords": [
+        {
+          "word": "stomach",
+          "kk": "/ˈstʌmək/",
+          "zh": "胃；肚子"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-s3",
+      "role": "練習句",
+      "en": "I have a bad cough.",
+      "zh": "我咳得很厲害。",
+      "keywords": [
+        {
+          "word": "cough",
+          "kk": "/kɔf/",
+          "zh": "咳嗽"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-s4",
+      "role": "練習句",
+      "en": "It started two days ago.",
+      "zh": "兩天前開始的。",
+      "keywords": [
+        {
+          "word": "days",
+          "kk": "/deɪz/",
+          "zh": "天數"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-s5",
+      "role": "練習句",
+      "en": "I feel dizzy.",
+      "zh": "我覺得頭暈。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "銀行"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-s6",
+      "role": "練習句",
+      "en": "I have a runny nose.",
+      "zh": "我流鼻水。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-s7",
+      "role": "練習句",
+      "en": "Is this medicine strong?",
+      "zh": "這個藥效強嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-s8",
+      "role": "練習句",
+      "en": "Should I take it with food?",
+      "zh": "我應該隨餐服用嗎？",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "拿；帶走"
+        },
+        {
+          "word": "food",
+          "kk": "/fud/",
+          "zh": "食物"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    },
+    {
+      "id": "L5-s9",
+      "role": "練習句",
+      "en": "Thank you, Doctor.",
+      "zh": "謝謝你，醫生。",
+      "keywords": [
+        {
+          "word": "doctor",
+          "kk": "/ˈdɑktər/",
+          "zh": "醫生"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療",
+        "禮貌用語"
+      ],
+      "tips": "就醫時具體描述症狀持續時間（如 for three days），能幫助醫生更快判斷病情。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L5-w1",
+      "word": "symptom",
+      "kk": "/ˈsɪmptəm/",
+      "pos": "n.",
+      "zh": "症狀",
+      "example_en": "My main symptom is a headache.",
+      "example_zh": "我的主要症狀是頭痛。"
+    },
+    {
+      "id": "L5-w2",
+      "word": "sore throat",
+      "kk": "/sɔr θrot/",
+      "pos": "n.",
+      "zh": "喉嚨痛",
+      "example_en": "I have a sore throat and a cough.",
+      "example_zh": "我喉嚨痛而且咳嗽。"
+    },
+    {
+      "id": "L5-w3",
+      "word": "fever",
+      "kk": "/ˈfivɚ/",
+      "pos": "n.",
+      "zh": "發燒",
+      "example_en": "The child has a high fever.",
+      "example_zh": "那個小孩發高燒。"
+    },
+    {
+      "id": "L5-w4",
+      "word": "prescribe",
+      "kk": "/prɪˈskraɪb/",
+      "pos": "v.",
+      "zh": "開（藥方）",
+      "example_en": "The doctor prescribed some antibiotics.",
+      "example_zh": "醫生開了一些抗生素。"
+    },
+    {
+      "id": "L5-w5",
+      "word": "pill",
+      "kk": "/pɪl/",
+      "pos": "n.",
+      "zh": "藥丸",
+      "example_en": "Take this pill twice a day.",
+      "example_zh": "這個藥丸一天吃兩次。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L5-h1",
+      "title": "描述症狀：I have a... 或 My... hurts.",
+      "description": "告訴醫生哪裡不舒服，最簡單就是用 I have a...（我有一個...症狀）或 My... hurts.（我的...痛）。",
+      "example_en": "I have a fever. / My back hurts.",
+      "example_zh": "我發燒。/ 我的背痛。"
+    },
+    {
+      "id": "L5-h2",
+      "title": "回答時間長短：Since... 或 ... ago",
+      "description": "醫生問症狀多久了，可以用 Since + 開始的時間點（如 yesterday），或用 ... ago（如 two days ago）。",
+      "example_en": "Since last night. / Three days ago.",
+      "example_zh": "從昨晚開始。/ 三天前開始的。"
+    },
+    {
+      "id": "L5-h3",
+      "title": "詢問用藥方法：How many times a day? / When should I take it?",
+      "description": "拿到藥後，一定要問清楚一天吃幾次、何時吃、飯前還是飯後吃。",
+      "example_en": "How many times a day should I take this medicine?",
+      "example_zh": "這個藥我一天要吃幾次？"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL5-mc-001",
+        "question": "下列哪一句英文的意思是「醫生你好。我覺得不舒服。」？",
+        "options": [
+          {
+            "en": "Hello, Doctor. I don't feel well.",
+            "zh": "醫生你好。我覺得不舒服。"
+          },
+          {
+            "en": "What seems to be the problem?",
+            "zh": "哪裡有問題呢？"
+          },
+          {
+            "en": "I have a headache and a sore throat.",
+            "zh": "我頭痛而且喉嚨痛。"
+          },
+          {
+            "en": "How long have you felt this way?",
+            "zh": "這樣有多久了？"
+          }
+        ],
+        "answer": "Hello, Doctor. I don't feel well."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL5-fi-001",
+        "question": "Hello, Doctor. I don't ______ well.",
+        "answer": "feel"
+      },
+      {
+        "id": "qL5-fi-002",
+        "question": "What ______ to be the problem?",
+        "answer": "seems"
+      },
+      {
+        "id": "qL5-fi-003",
+        "question": "I have a ______ and a sore throat.",
+        "answer": "headache"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL5-li-001",
+        "sentence_id": "L5-d1"
+      },
+      {
+        "id": "qL5-li-002",
+        "sentence_id": "L5-d3"
+      },
+      {
+        "id": "qL5-li-003",
+        "sentence_id": "L5-d5"
+      }
+    ]
+  }
+}

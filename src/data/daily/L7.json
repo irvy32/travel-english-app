@@ -1,0 +1,522 @@
+{
+  "chapter_id": "L7",
+  "chapter_name": "手機與網路問題",
+  "description": "打給電信或網路客服，說明手機或網路出問題。包含：無法上網、電話打不出去、帳單金額有疑問、詢問資費方案。",
+  "sentences": [
+    {
+      "id": "L7-d1",
+      "role": "本人",
+      "en": "Hello, I have a problem with my internet.",
+      "zh": "你好，我的網路有問題。",
+      "keywords": [
+        {
+          "word": "internet",
+          "kk": "/ˈɪntɚˌnɛt/",
+          "zh": "網際網路"
+        },
+        {
+          "word": "problem",
+          "kk": "/ˈprɑbləm/",
+          "zh": "問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "手機網路"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-d2",
+      "role": "客服",
+      "en": "What seems to be the problem?",
+      "zh": "是什麼問題呢？",
+      "keywords": [
+        {
+          "word": "problem",
+          "kk": "/ˈprɑbləm/",
+          "zh": "問題"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-d3",
+      "role": "本人",
+      "en": "My internet is very slow. I can't watch videos.",
+      "zh": "我的網路非常慢。我不能看影片。",
+      "keywords": [
+        {
+          "word": "internet",
+          "kk": "/ˈɪntɚˌnɛt/",
+          "zh": "網際網路"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "手機網路",
+        "視訊會議"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-d4",
+      "role": "客服",
+      "en": "I'm sorry to hear that. Is your router turned on?",
+      "zh": "聽到這個消息很抱歉。您的路由器有開嗎？",
+      "keywords": [
+        {
+          "word": "router",
+          "kk": "/ˈraʊtɚ/",
+          "zh": "路由器"
+        },
+        {
+          "word": "hear",
+          "kk": "/hɪr/",
+          "zh": "聽到"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-d5",
+      "role": "本人",
+      "en": "Yes, it is. The light is green.",
+      "zh": "有的，開著。指示燈是綠色的。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-d6",
+      "role": "客服",
+      "en": "Can you restart the router, please?",
+      "zh": "可以請您重啟路由器嗎？",
+      "keywords": [
+        {
+          "word": "restart",
+          "kk": "/riˈstɑrt/",
+          "zh": "重新啟動"
+        },
+        {
+          "word": "router",
+          "kk": "/ˈraʊtɚ/",
+          "zh": "路由器"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "手機網路",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "手機出問題先 restart（重啟），再嘗試 update（更新）或 reset（重設）。",
+      "audio": null
+    },
+    {
+      "id": "L7-d7",
+      "role": "本人",
+      "en": "Okay, I'll try that.",
+      "zh": "好的，我試試看。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-d8",
+      "role": "本人",
+      "en": "Also, my phone bill this month is too high.",
+      "zh": "還有，我這個月的手機帳單太高了。",
+      "keywords": [
+        {
+          "word": "bill",
+          "kk": "/bɪl/",
+          "zh": "帳單"
+        },
+        {
+          "word": "phone",
+          "kk": "/foʊn/",
+          "zh": "電話"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-d9",
+      "role": "客服",
+      "en": "I can check that for you. Do you have your account number?",
+      "zh": "我可以為您查一下。您有帳號嗎？",
+      "keywords": [
+        {
+          "word": "check",
+          "kk": "/tʃɛk/",
+          "zh": "確認；查看"
+        },
+        {
+          "word": "account",
+          "kk": "/əˈkaʊnt/",
+          "zh": "帳戶"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」詢問對方是否有某物，是日常生活中最萬用的問句之一。",
+      "audio": null
+    },
+    {
+      "id": "L7-s1",
+      "role": "練習句",
+      "en": "I can't make phone calls.",
+      "zh": "我無法打電話。",
+      "keywords": [
+        {
+          "word": "phone",
+          "kk": "/foʊn/",
+          "zh": "電話"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "電話"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-s2",
+      "role": "練習句",
+      "en": "There is no signal on my phone.",
+      "zh": "我的手機沒有訊號。",
+      "keywords": [
+        {
+          "word": "signal",
+          "kk": "/ˈsɪɡnəl/",
+          "zh": "訊號"
+        },
+        {
+          "word": "phone",
+          "kk": "/foʊn/",
+          "zh": "電話"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "手機網路"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-s3",
+      "role": "練習句",
+      "en": "My Wi-Fi is not working.",
+      "zh": "我的 Wi-Fi 不能用。",
+      "keywords": [
+        {
+          "word": "working",
+          "kk": "/ˈwɜrkɪŋ/",
+          "zh": "運作中"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "通報維修時，具體描述位置與問題，如 The pipe under the sink is leaking，有助加快處理速度。",
+      "audio": null
+    },
+    {
+      "id": "L7-s4",
+      "role": "練習句",
+      "en": "Can you help me fix it?",
+      "zh": "你可以幫我修好它嗎？",
+      "keywords": [
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助"
+        },
+        {
+          "word": "fix",
+          "kk": "/fɪks/",
+          "zh": "修理"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "居家維修",
+        "詢問"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-s5",
+      "role": "練習句",
+      "en": "I think there is a mistake on my bill.",
+      "zh": "我想我的帳單有錯誤。",
+      "keywords": [
+        {
+          "word": "bill",
+          "kk": "/bɪl/",
+          "zh": "帳單"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-s6",
+      "role": "練習句",
+      "en": "I want a cheaper plan.",
+      "zh": "我想要一個更便宜的方案。",
+      "keywords": [
+        {
+          "word": "want",
+          "kk": "/wɑnt/",
+          "zh": "想要"
+        },
+        {
+          "word": "plan",
+          "kk": "/plæn/",
+          "zh": "方案；計畫"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "手機網路"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-s7",
+      "role": "練習句",
+      "en": "How much data do I have left?",
+      "zh": "我還剩多少流量？",
+      "keywords": [
+        {
+          "word": "data",
+          "kk": "/ˈdeɪtə/",
+          "zh": "數據"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "手機網路"
+      ],
+      "tips": "問價格用 How much，問可數數量用 How many，兩者用法不同，需要注意區分。",
+      "audio": null
+    },
+    {
+      "id": "L7-s8",
+      "role": "練習句",
+      "en": "Can you send me a new bill?",
+      "zh": "可以寄一份新帳單給我嗎？",
+      "keywords": [
+        {
+          "word": "bill",
+          "kk": "/bɪl/",
+          "zh": "帳單"
+        },
+        {
+          "word": "send",
+          "kk": "/sɛnd/",
+          "zh": "寄送"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "郵局",
+        "詢問"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    },
+    {
+      "id": "L7-s9",
+      "role": "練習句",
+      "en": "Thank you for your help.",
+      "zh": "謝謝你的幫忙。",
+      "keywords": [
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "手機出現問題先嘗試 restart，再考慮 update，最後才聯絡客服。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L7-w1",
+      "word": "internet",
+      "kk": "/ˈɪntɚˌnɛt/",
+      "pos": "n.",
+      "zh": "網際網路",
+      "example_en": "I use the internet every day.",
+      "example_zh": "我每天都用網際網路。"
+    },
+    {
+      "id": "L7-w2",
+      "word": "router",
+      "kk": "/ˈraʊtɚ/",
+      "pos": "n.",
+      "zh": "路由器",
+      "example_en": "The router is in the living room.",
+      "example_zh": "路由器在客廳。"
+    },
+    {
+      "id": "L7-w3",
+      "word": "restart",
+      "kk": "/riˈstɑrt/",
+      "pos": "v.",
+      "zh": "重新啟動",
+      "example_en": "Please restart your computer.",
+      "example_zh": "請重新啟動你的電腦。"
+    },
+    {
+      "id": "L7-w4",
+      "word": "bill",
+      "kk": "/bɪl/",
+      "pos": "n.",
+      "zh": "帳單",
+      "example_en": "I paid my phone bill yesterday.",
+      "example_zh": "我昨天付了我的手機帳單。"
+    },
+    {
+      "id": "L7-w5",
+      "word": "signal",
+      "kk": "/ˈsɪɡnəl/",
+      "pos": "n.",
+      "zh": "訊號",
+      "example_en": "The phone signal is weak here.",
+      "example_zh": "這裡的手機訊號很弱。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L7-h1",
+      "title": "描述問題：I have a problem with... / My... is not working.",
+      "description": "打電話給客服時，最直接的開頭就是描述你有什麼問題。用 is not working（不能用）非常清楚。",
+      "example_en": "I have a problem with my TV. / My TV is not working.",
+      "example_zh": ""
+    },
+    {
+      "id": "L7-h2",
+      "title": "接受簡單的故障排除指令",
+      "description": "客服人員常會請你做簡單的檢查，如 turn on/off（開/關）、restart（重啟）、check the cable（檢查線）。聽從指示操作。",
+      "example_en": "Please turn off the modem and turn it on again.",
+      "example_zh": ""
+    },
+    {
+      "id": "L7-h3",
+      "title": "準備好帳號資訊",
+      "description": "詢問帳單或方案時，客服通常會需要你的帳號（account number）或電話號碼（phone number），最好先準備好。",
+      "example_en": "My account number is 123456.",
+      "example_zh": ""
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL7-mc-001",
+        "question": "下列哪一句英文的意思是「你好，我的網路有問題。」？",
+        "options": [
+          {
+            "en": "Hello, I have a problem with my internet.",
+            "zh": "你好，我的網路有問題。"
+          },
+          {
+            "en": "What seems to be the problem?",
+            "zh": "是什麼問題呢？"
+          },
+          {
+            "en": "My internet is very slow. I can't watch videos.",
+            "zh": "我的網路非常慢。我不能看影片。"
+          },
+          {
+            "en": "I'm sorry to hear that. Is your router turned on?",
+            "zh": "聽到這個消息很抱歉。您的路由器有開嗎？"
+          }
+        ],
+        "answer": "Hello, I have a problem with my internet."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL7-fi-001",
+        "question": "Hello, I have a ______ with my internet.",
+        "answer": "problem"
+      },
+      {
+        "id": "qL7-fi-002",
+        "question": "What ______ to be the problem?",
+        "answer": "seems"
+      },
+      {
+        "id": "qL7-fi-003",
+        "question": "My ______ is very slow. I can't watch videos.",
+        "answer": "internet"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL7-li-001",
+        "sentence_id": "L7-d1"
+      },
+      {
+        "id": "qL7-li-002",
+        "sentence_id": "L7-d3"
+      },
+      {
+        "id": "qL7-li-003",
+        "sentence_id": "L7-d5"
+      }
+    ]
+  }
+}

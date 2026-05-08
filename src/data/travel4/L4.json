@@ -1,0 +1,420 @@
+{
+  "chapter_id": "L4",
+  "chapter_name": "與當地人閒聊",
+  "description": "在旅途中與當地人閒聊天氣、文化、美食與旅遊經驗。包含表達喜歡或不喜歡、分享自己旅行的感受與簡單看法。",
+  "sentences": [
+    {
+      "id": "L4-d1",
+      "role": "旅客",
+      "en": "Lovely weather we're having today, isn't it? Much nicer than yesterday.",
+      "zh": "今天天氣真好，不是嗎？比昨天好多了。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-d2",
+      "role": "當地人",
+      "en": "It certainly is! Spring can be unpredictable here, but this is perfect for sightseeing.",
+      "zh": "確實是！這裡的春天變化無常，但這種天氣最適合觀光了。",
+      "keywords": [
+        {
+          "word": "unpredictable",
+          "kk": "/ˌʌnprɪˈdɪktəbl/",
+          "zh": "無法預測的，變化無常的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "導覽詢問",
+        "禮貌用語"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-d3",
+      "role": "旅客",
+      "en": "We've been enjoying the local food very much. We tried the seafood stew last night, and it was delicious.",
+      "zh": "我們非常喜歡當地食物。昨晚我們試了海鮮燉菜，非常美味。",
+      "keywords": [
+        {
+          "word": "local",
+          "kk": "/ˈloʊkəl/",
+          "zh": "當地的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "當地文化"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-d4",
+      "role": "當地人",
+      "en": "I'm glad you liked it! That's a traditional dish. Have you visited the old port area yet?",
+      "zh": "很高興你們喜歡！那是道傳統菜餚。你們去過舊港口區了嗎？",
+      "keywords": [
+        {
+          "word": "traditional",
+          "kk": "/trəˈdɪʃənl/",
+          "zh": "傳統的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "當地文化"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-d5",
+      "role": "旅客",
+      "en": "Not yet, it's on our list for tomorrow. We heard the views from there are fantastic.",
+      "zh": "還沒，安排在明天。我們聽說那邊的景色非常棒。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-d6",
+      "role": "當地人",
+      "en": "They are. You should also try the little coffee shop near the lighthouse. It's a favorite among locals.",
+      "zh": "確實很棒。你們也應該試試燈塔附近的小咖啡館，那是當地人的最愛。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "當地文化"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-d7",
+      "role": "旅客",
+      "en": "Thanks for the tip! What I love most about your city is how friendly everyone is.",
+      "zh": "謝謝你的建議！我最喜歡你們城市的一點是每個人都很友善。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-d8",
+      "role": "當地人",
+      "en": "That's very kind of you to say. I hope you enjoy the rest of your stay.",
+      "zh": "您這麼說真是太好了。祝您接下來的旅程愉快。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-s1",
+      "role": "練習句",
+      "en": "The scenery here is absolutely breathtaking.",
+      "zh": "這裡的風景真是令人嘆為觀止。",
+      "keywords": [
+        {
+          "word": "breathtaking",
+          "kk": "/ˈbrɛθˌtekɪŋ/",
+          "zh": "令人嘆為觀止的，驚人的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-s2",
+      "role": "練習句",
+      "en": "I find the architecture in this neighborhood very interesting.",
+      "zh": "我覺得這個街區的建築非常有趣。",
+      "keywords": [
+        {
+          "word": "architecture",
+          "kk": "/ˈɑrkɪˌtɛktʃɚ/",
+          "zh": "建築"
+        },
+        {
+          "word": "neighborhood",
+          "kk": "/ˈneɪbərˌhʊd/",
+          "zh": "鄰里；社區"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "當地文化"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-s3",
+      "role": "練習句",
+      "en": "The pace of life seems much slower here, which is nice.",
+      "zh": "這裡的生活步調似乎慢得多，這樣很好。",
+      "keywords": [
+        {
+          "word": "pace",
+          "kk": "/pes/",
+          "zh": "步調，速度"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-s4",
+      "role": "練習句",
+      "en": "We're still getting used to the local customs.",
+      "zh": "我們還在習慣當地的風俗。",
+      "keywords": [
+        {
+          "word": "local",
+          "kk": "/ˈloʊkəl/",
+          "zh": "當地的"
+        },
+        {
+          "word": "customs",
+          "kk": "/ˈkʌstəmz/",
+          "zh": "海關"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "當地文化"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-s5",
+      "role": "練習句",
+      "en": "I was quite surprised by how early the shops close.",
+      "zh": "商店這麼早關門讓我相當驚訝。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-s6",
+      "role": "練習句",
+      "en": "It's my first time here, and I'm really enjoying the experience.",
+      "zh": "這是我第一次來，我非常享受這次的體驗。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    },
+    {
+      "id": "L4-s7",
+      "role": "練習句",
+      "en": "Do you have any recommendations for a traditional souvenir?",
+      "zh": "對於傳統紀念品，你有什麼推薦嗎？",
+      "keywords": [
+        {
+          "word": "traditional",
+          "kk": "/trəˈdɪʃənl/",
+          "zh": "傳統的"
+        },
+        {
+          "word": "souvenir",
+          "kk": "/ˌsuvəˈnɪr/",
+          "zh": "紀念品"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "當地文化"
+      ],
+      "tips": "和當地人閒聊時，問 What's your favorite place around here? 是最自然的開場，通常能得到很好的在地推薦。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L4-w1",
+      "word": "unpredictable",
+      "kk": "/ˌʌnprɪˈdɪktəbl/",
+      "pos": "adj.",
+      "zh": "無法預測的，變化無常的",
+      "example_en": "Mountain weather is often unpredictable.",
+      "example_zh": "山區天氣常常變化無常。"
+    },
+    {
+      "id": "L4-w2",
+      "word": "traditional",
+      "kk": "/trəˈdɪʃənl/",
+      "pos": "adj.",
+      "zh": "傳統的",
+      "example_en": "We attended a traditional dance performance.",
+      "example_zh": "我們觀賞了一場傳統舞蹈表演。"
+    },
+    {
+      "id": "L4-w3",
+      "word": "breathtaking",
+      "kk": "/ˈbrɛθˌtekɪŋ/",
+      "pos": "adj.",
+      "zh": "令人嘆為觀止的，驚人的",
+      "example_en": "The view from the top of the mountain was breathtaking.",
+      "example_zh": "從山頂看出去的景色令人嘆為觀止。"
+    },
+    {
+      "id": "L4-w4",
+      "word": "architecture",
+      "kk": "/ˈɑrkɪˌtɛktʃɚ/",
+      "pos": "n.",
+      "zh": "建築",
+      "example_en": "The Gothic architecture of the cathedral is famous.",
+      "example_zh": "大教堂的哥德式建築很有名。"
+    },
+    {
+      "id": "L4-w5",
+      "word": "pace",
+      "kk": "/pes/",
+      "pos": "n.",
+      "zh": "步調，速度",
+      "example_en": "I love the slow pace of life in the countryside.",
+      "example_zh": "我喜歡鄉村生活的緩慢步調。"
+    },
+    {
+      "id": "L4-w6",
+      "word": "custom",
+      "kk": "/ˈkʌstəm/",
+      "pos": "n.",
+      "zh": "風俗，習慣",
+      "example_en": "It's a local custom to remove your shoes before entering a home.",
+      "example_zh": "進入家裡前脫鞋是當地的風俗。"
+    },
+    {
+      "id": "L4-w7",
+      "word": "souvenir",
+      "kk": "/ˌsuvəˈnɪr/",
+      "pos": "n.",
+      "zh": "紀念品",
+      "example_en": "I bought a small souvenir for each of my grandchildren.",
+      "example_zh": "我為我的每個孫子孫女都買了一個小紀念品。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L4-h1",
+      "title": "閒聊開場：從天氣或環境開始",
+      "description": "與陌生人閒聊時，從天氣、周遭環境或共同經歷（如排隊）等中性話題開始，是最安全且自然的方式。",
+      "example_en": "What a beautiful garden this is!",
+      "example_zh": "這花園真美啊！"
+    },
+    {
+      "id": "L4-h2",
+      "title": "表達讚美與欣賞",
+      "description": "對當地文化、食物或風景表達真誠的讚美，是建立良好互動的絕佳方式，能讓對方感到開心。",
+      "example_en": "I'm really impressed by how clean and efficient the public transport is here.",
+      "example_zh": "這裡的公共交通如此乾淨高效，讓我印象深刻。"
+    },
+    {
+      "id": "L4-h3",
+      "title": "用 We're still getting used to... 表達文化差異",
+      "description": "當你發現某些當地習慣與家鄉不同時，可以用這個句型溫和地表達出來，通常能引發有趣的對話。",
+      "example_en": "We're still getting used to having dinner so late.",
+      "example_zh": "我們還在適應這麼晚吃晚餐。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL4-mc-001",
+        "question": "下列哪一句英文的意思是「今天天氣真好，不是嗎？比昨天好多了。」？",
+        "options": [
+          {
+            "en": "Lovely weather we're having today, isn't it? Much nicer than yesterday.",
+            "zh": "今天天氣真好，不是嗎？比昨天好多了。"
+          },
+          {
+            "en": "It certainly is! Spring can be unpredictable here, but this is perfect for sightseeing.",
+            "zh": "確實是！這裡的春天變化無常，但這種天氣最適合觀光了。"
+          },
+          {
+            "en": "We've been enjoying the local food very much. We tried the seafood stew last night, and it was delicious.",
+            "zh": "我們非常喜歡當地食物。昨晚我們試了海鮮燉菜，非常美味。"
+          },
+          {
+            "en": "I'm glad you liked it! That's a traditional dish. Have you visited the old port area yet?",
+            "zh": "很高興你們喜歡！那是道傳統菜餚。你們去過舊港口區了嗎？"
+          }
+        ],
+        "answer": "Lovely weather we're having today, isn't it? Much nicer than yesterday."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL4-fi-001",
+        "question": "Lovely ______ we're having today, isn't it? Much nicer than yesterday.",
+        "answer": "weather"
+      },
+      {
+        "id": "qL4-fi-002",
+        "question": "It certainly is! Spring can be ______ here, but this is perfect for sightseeing.",
+        "answer": "unpredictable"
+      },
+      {
+        "id": "qL4-fi-003",
+        "question": "We've been enjoying the ______ food very much. We tried the seafood stew last night, and it was delicious.",
+        "answer": "local"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL4-li-001",
+        "sentence_id": "L4-d1"
+      },
+      {
+        "id": "qL4-li-002",
+        "sentence_id": "L4-d3"
+      },
+      {
+        "id": "qL4-li-003",
+        "sentence_id": "L4-d5"
+      }
+    ]
+  }
+}

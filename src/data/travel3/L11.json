@@ -1,0 +1,426 @@
+{
+  "chapter_id": "L11",
+  "chapter_name": "緊急狀況與簡單求救",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "旅客",
+      "en": "Help! My wallet was stolen!",
+      "zh": "救命！我的錢包被偷了！",
+      "keywords": [
+        {
+          "word": "stolen",
+          "kk": "/ˈstoʊlən/",
+          "zh": "被偷的"
+        },
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助、救命"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急狀況",
+        "求救",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「Help!」或「My wallet was stolen!」是緊急求救的第一步，大聲說出讓周圍的人知道發生問題。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "警察",
+      "en": "Calm down. Where and when did this happen?",
+      "zh": "請冷靜。在哪裡發生的？什麼時候？",
+      "keywords": [
+        {
+          "word": "happen",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "警察",
+        "緊急狀況",
+        "求救",
+        "緊急"
+      ],
+      "tips": "警察常先說「Calm down.」安撫情緒，接著詢問事發地點和時間，冷靜回答有助於處理案件。",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "旅客",
+      "en": "Just now, at the train station. It's a brown leather wallet.",
+      "zh": "剛剛，在火車站。是一個棕色的皮夾。",
+      "keywords": [
+        {
+          "word": "train",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "station",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急狀況",
+        "求救",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "描述失竊物品時，說明時間、地點和外觀特徵，例如「brown leather wallet」是棕色皮夾。",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "警察",
+      "en": "We will file a report. Do you have a copy of your passport?",
+      "zh": "我們會做一份報告。您有護照影本嗎？",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "警察",
+        "緊急狀況",
+        "求救",
+        "緊急"
+      ],
+      "tips": "警方會製作報告（file a report），出國前建議備份護照影本，放在行李和電郵中備用。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "旅客",
+      "en": "I feel very dizzy. I need a doctor.",
+      "zh": "我覺得頭很暈，我需要醫生。",
+      "keywords": [
+        {
+          "word": "doctor",
+          "kk": "/ˈdɑktɚ/",
+          "zh": "醫生"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急狀況",
+        "求救",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「I feel very dizzy.」描述不適症狀，dizzy表示頭暈，說明症狀有助於他人判斷是否需要緊急救助。",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "飯店人員",
+      "en": "What's wrong? Do you have any medicine you usually take?",
+      "zh": "您怎麼了？您有平常吃的藥嗎？",
+      "keywords": [
+        {
+          "word": "what's",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "wrong",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店人員",
+        "緊急狀況",
+        "求救",
+        "飯店"
+      ],
+      "tips": "「What's wrong?」詢問發生什麼事，是關心他人的常用語，可回答症狀或說明問題所在。",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "旅客",
+      "en": "I have high blood pressure. My medicine is in my room.",
+      "zh": "我有高血壓。我的藥在房間裡。",
+      "keywords": [
+        {
+          "word": "blood",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "pressure",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急狀況",
+        "求救",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "告知慢性病（如high blood pressure高血壓）對緊急醫療人員非常重要，有助於給予正確治療。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "飯店人員",
+      "en": "Let me call an ambulance for you.",
+      "zh": "讓我為您叫救護車。",
+      "keywords": [
+        {
+          "word": "ambulance",
+          "kk": "/ˈæmbjələns/",
+          "zh": "救護車"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店人員",
+        "緊急狀況",
+        "求救",
+        "飯店"
+      ],
+      "tips": "「Let me call an ambulance for you.」表示主動協助，ambulance是救護車，遇緊急狀況應立即撥打。",
+      "audio": null
+    },
+    {
+      "id": "d9",
+      "role": "旅客",
+      "en": "Excuse me, I think I'm lost. I can't find my way back to my hotel.",
+      "zh": "不好意思，我想我迷路了。我找不到回飯店的路。",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "think",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急狀況",
+        "求救",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「I think I'm lost.」承認迷路是尋求幫助的第一步，語氣誠懇，路人通常樂意提供協助。",
+      "audio": null
+    },
+    {
+      "id": "d10",
+      "role": "路人",
+      "en": "What's the name of your hotel?",
+      "zh": "您的飯店叫什麼名字？",
+      "keywords": [
+        {
+          "word": "what's",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "hotel",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "路人",
+        "緊急狀況",
+        "求救",
+        "問路"
+      ],
+      "tips": "路人詢問飯店名稱，清楚說出名稱才能得到準確的指引，出發前記住住宿飯店的名稱和地址。",
+      "audio": null
+    },
+    {
+      "id": "d11",
+      "role": "旅客",
+      "en": "It's the Sunshine Hotel.",
+      "zh": "是陽光飯店。",
+      "keywords": [
+        {
+          "word": "sunshine",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "hotel",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "緊急狀況",
+        "求救",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "直接說飯店名稱即可，如果能說出地址或附近地標更好，方便對方給予更精確的指引。",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "路人",
+      "en": "It's not far. I can show you on the map.",
+      "zh": "不遠，我可以在地圖上指給您看。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "路人",
+        "緊急狀況",
+        "求救",
+        "問路"
+      ],
+      "tips": "「I can show you on the map.」表示路人願意在地圖上指示，現代手機地圖也是很好的溝通工具。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL11-mc-001",
+        "question": "錢包被偷了，緊急求救應該說？",
+        "options": [
+          {
+            "en": "My wallet is missing somewhere.",
+            "zh": "我的錢包不知道在哪裡。"
+          },
+          {
+            "en": "Help! My wallet was stolen!",
+            "zh": "救命！我的錢包被偷了！"
+          },
+          {
+            "en": "Excuse me, have you seen my wallet?",
+            "zh": "不好意思，你有看到我的錢包嗎？"
+          },
+          {
+            "en": "I think I dropped my wallet.",
+            "zh": "我想我掉了錢包。"
+          }
+        ],
+        "answer": "Help! My wallet was stolen!"
+      },
+      {
+        "id": "qL11-mc-002",
+        "question": "「I feel very dizzy.」的中文意思是？",
+        "options": [
+          {
+            "en": "我覺得很疲倦。",
+            "zh": ""
+          },
+          {
+            "en": "我覺得很頭暈。",
+            "zh": ""
+          },
+          {
+            "en": "我覺得很熱。",
+            "zh": ""
+          },
+          {
+            "en": "我覺得很害怕。",
+            "zh": ""
+          }
+        ],
+        "answer": "我覺得很頭暈。"
+      },
+      {
+        "id": "qL11-mc-003",
+        "question": "「ambulance」是指什麼？",
+        "options": [
+          {
+            "en": "Police car",
+            "zh": "警察車"
+          },
+          {
+            "en": "Fire truck",
+            "zh": "消防車"
+          },
+          {
+            "en": "Ambulance",
+            "zh": "救護車"
+          },
+          {
+            "en": "Taxi",
+            "zh": "計程車"
+          }
+        ],
+        "answer": "Ambulance"
+      },
+      {
+        "id": "qL11-mc-004",
+        "question": "想請人幫你聯繫大使館，應該說？",
+        "options": [
+          {
+            "en": "Please contact the embassy for me.",
+            "zh": "請幫我聯繫大使館。"
+          },
+          {
+            "en": "Where is the embassy?",
+            "zh": "大使館在哪裡？"
+          },
+          {
+            "en": "I need to go to the embassy.",
+            "zh": "我需要去大使館。"
+          },
+          {
+            "en": "Call the police, not the embassy.",
+            "zh": "叫警察，不是大使館。"
+          }
+        ],
+        "answer": "Please contact the embassy for me."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL11-fi-001",
+        "question": "My wallet was ______.（我的錢包被偷了。）",
+        "answer": "stolen"
+      },
+      {
+        "id": "qL11-fi-002",
+        "question": "I have a ______.（我發燒了。）",
+        "answer": "fever"
+      },
+      {
+        "id": "qL11-fi-003",
+        "question": "I am ______ to penicillin.（我對盤尼西林過敏。）",
+        "answer": "allergic"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL11-li-001",
+        "sentence_id": "d1"
+      },
+      {
+        "id": "qL11-li-002",
+        "sentence_id": "d5"
+      },
+      {
+        "id": "qL11-li-003",
+        "sentence_id": "d9"
+      }
+    ]
+  }
+}

@@ -9,13 +9,19 @@ export default function HomePage() {
   const navigate = useNavigate()
   const { settings } = useSettings()
 
-  const CHAPTER_IDS = ['01','02','03','04','05','06','07',
-    '08','09','10','11','12','13','14']
-
-  const completedCount = CHAPTER_IDS.filter(id => {
-    const learned = storage.getProgress('travel', id)
-    return learned.length > 0
-  }).length
+  // Calculate started chapters for each topic
+  const getStartedCount = (topicId) => {
+    const keys = Object.keys(localStorage)
+      .filter(k => k.startsWith(`progress_${topicId}_`))
+    return keys.filter(k => {
+      try {
+        const arr = JSON.parse(localStorage.getItem(k) || '[]')
+        return arr.length > 0
+      } catch { 
+        return false 
+      }
+    }).length
+  }
 
   return (
     <div className="min-h-screen bg-[#FAF7F2]">
@@ -27,7 +33,8 @@ export default function HomePage() {
 
       <div className="grid grid-cols-2 gap-4 px-4 md:grid-cols-3 lg:grid-cols-4">
         {topicsData.map((topic) => {
-          const chapterProgress = topic.id === 'travel' ? Math.round((completedCount / 14) * 100) : 0
+          const startedCount = getStartedCount(topic.id)
+          const chapterProgress = topic.totalChapters > 0 ? Math.round((startedCount / topic.totalChapters) * 100) : 0
           const isAvailable = topic.available
 
           return (
@@ -53,7 +60,7 @@ export default function HomePage() {
               <p className="mb-3 font-bold text-[#0F1F3D]">{topic.name}</p>
 
               <p className="mb-1 text-sm text-gray-400">
-                {topic.id === 'travel' ? `${completedCount} / 14 章節完成` : `${chapterProgress} / ${topic.totalChapters} 章節完成`}
+                {isAvailable ? `${startedCount} / ${topic.totalChapters} 章節完成` : `${chapterProgress} / ${topic.totalChapters} 章節完成`}
               </p>
               <div className="h-1.5 rounded-full bg-gray-100">
                 <div
@@ -71,7 +78,7 @@ export default function HomePage() {
       <BottomNav
         currentPage="home"
         onNavigate={(page) => {
-          if (page === 'home') navigate('/travel')
+          if (page === 'home') navigate(`/${localStorage.getItem('lastTopicId') || 'travel1'}`)
           if (page === 'quiz') navigate('/quiz')
           if (page === 'review') navigate('/review')
           if (page === 'settings') navigate('/settings')

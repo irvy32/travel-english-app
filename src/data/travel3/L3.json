@@ -1,0 +1,417 @@
+{
+  "chapter_id": "L3",
+  "chapter_name": "安檢與出境海關",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "安檢人員",
+      "en": "Next, please. Please put your carry-on bag on the belt.",
+      "zh": "下一位。請將您的隨身行李放在輸送帶上。",
+      "keywords": [
+        {
+          "word": "carry-on",
+          "kk": "/ˈkærɪ ɑn/",
+          "zh": "隨身行李"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "安檢人員",
+        "安檢",
+        "海關",
+        "出境"
+      ],
+      "tips": "安檢人員用「Please put...on the belt.」指示旅客放置行李，belt指輸送帶，是安檢流程的第一步。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "旅客",
+      "en": "OK. Do I need to take out my laptop?",
+      "zh": "好的。我需要拿出我的筆記型電腦嗎？",
+      "keywords": [
+        {
+          "word": "laptop",
+          "kk": "/ˈlæpˌtɑp/",
+          "zh": "筆記型電腦"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "安檢",
+        "海關",
+        "出境",
+        "旅客"
+      ],
+      "tips": "主動詢問「Do I need to take out my laptop?」展現配合態度，安檢人員通常會欣賞配合的旅客。",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "安檢人員",
+      "en": "Yes, please. Also, take out any liquids and put them in this tray.",
+      "zh": "是的，麻煩請拿出來。還有，請拿出所有液體物品，放在這個托盤裡。",
+      "keywords": [
+        {
+          "word": "liquids",
+          "kk": "/ˈlɪkwɪdz/",
+          "zh": "液體物品"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "安檢人員",
+        "安檢",
+        "海關",
+        "出境"
+      ],
+      "tips": "液體限制（liquids restriction）是國際航空安全規定，通常每瓶不超過100ml，需放入透明夾鏈袋。",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "旅客",
+      "en": "I have a bottle of water and some lotion.",
+      "zh": "我有一瓶水和一些乳液。",
+      "keywords": [
+        {
+          "word": "bottle",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "water",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "安檢",
+        "海關",
+        "出境",
+        "旅客"
+      ],
+      "tips": "通過安檢前，先告知隨身攜帶的液體物品，可以加快安檢速度，避免被要求開包再檢查。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "安檢人員",
+      "en": "Please empty your pockets. Put your keys, phone, and wallet in the tray too.",
+      "zh": "請清空您的口袋。把鑰匙、手機和錢包也放進托盤。",
+      "keywords": [
+        {
+          "word": "empty",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "pockets",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "安檢人員",
+        "安檢",
+        "海關",
+        "出境"
+      ],
+      "tips": "清空口袋（empty your pockets）是安檢標準程序，包括硬幣、鑰匙、手機等都要放入托盤。",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "旅客",
+      "en": "Alright.",
+      "zh": "好的。",
+      "keywords": [
+        {
+          "word": "alright",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "安檢",
+        "海關",
+        "出境",
+        "旅客"
+      ],
+      "tips": "「Alright.」表示了解並接受指示，語氣比「OK.」更正式，適合在官方場合回應指令。",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "安檢人員",
+      "en": "Now, walk through the metal detector.",
+      "zh": "現在，請走過金屬探測門。",
+      "keywords": [
+        {
+          "word": "metal detector",
+          "kk": "/ˈmɛtl dɪˈtɛktɚ/",
+          "zh": "金屬探測門"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "安檢人員",
+        "安檢",
+        "海關",
+        "出境"
+      ],
+      "tips": "「Walk through」表示從門中間走過去，是安檢時常見指令，走過後等待工作人員確認即可。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "海關官員",
+      "en": "Good afternoon. Passport, please.",
+      "zh": "午安。請出示護照。",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "海關官員",
+        "安檢",
+        "海關",
+        "出境"
+      ],
+      "tips": "海關官員查驗護照時語氣通常簡短直接，「Passport, please.」是最常聽到的開場指令。",
+      "audio": null
+    },
+    {
+      "id": "d9",
+      "role": "旅客",
+      "en": "Here you are.",
+      "zh": "請看。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "安檢",
+        "海關",
+        "出境",
+        "旅客"
+      ],
+      "tips": "「Here you are.」是遞交文件時的標準口語，也可說「Here it is.」，語氣自然不失禮貌。",
+      "audio": null
+    },
+    {
+      "id": "d10",
+      "role": "海關官員",
+      "en": "What is the purpose of your trip?",
+      "zh": "您這次旅行的目的是什麼？",
+      "keywords": [
+        {
+          "word": "purpose",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "海關官員",
+        "安檢",
+        "海關",
+        "出境"
+      ],
+      "tips": "「What is the purpose of your trip?」是海關最常問的問題，需提前準備簡單清楚的回答。",
+      "audio": null
+    },
+    {
+      "id": "d11",
+      "role": "旅客",
+      "en": "I'm here for a vacation.",
+      "zh": "我是來度假的。",
+      "keywords": [
+        {
+          "word": "vacation",
+          "kk": "/veˈkeʃən/",
+          "zh": "度假"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "安檢",
+        "海關",
+        "出境",
+        "旅客"
+      ],
+      "tips": "「I'm here for a vacation.」是最直接的入境目的說法，也可說「for tourism」或「for sightseeing」。",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "海關官員",
+      "en": "How long will you stay?",
+      "zh": "您會停留多久？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "海關官員",
+        "安檢",
+        "海關",
+        "出境"
+      ],
+      "tips": "「How long will you stay?」詢問停留時間，回答直接說時間長度即可，例如「For two weeks.」",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "旅客",
+      "en": "I will stay for two weeks.",
+      "zh": "我會停留兩個星期。",
+      "keywords": [
+        {
+          "word": "weeks",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "安檢",
+        "海關",
+        "出境",
+        "旅客"
+      ],
+      "tips": "「How long will you stay?」詢問停留時間，回答直接說時間長度即可，例如「For two weeks.」",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL3-mc-001",
+        "question": "安檢時工作人員要你清空口袋，他會說？",
+        "options": [
+          {
+            "en": "Fill your pockets, please.",
+            "zh": "請把口袋裝滿。"
+          },
+          {
+            "en": "Empty your pockets, please.",
+            "zh": "請清空您的口袋。"
+          },
+          {
+            "en": "Check your pockets, please.",
+            "zh": "請確認口袋。"
+          },
+          {
+            "en": "Open your pockets, please.",
+            "zh": "請打開口袋。"
+          }
+        ],
+        "answer": "Empty your pockets, please."
+      },
+      {
+        "id": "qL3-mc-002",
+        "question": "海關問你旅行目的，你要說你是來度假的，應回答？",
+        "options": [
+          {
+            "en": "I am traveling for business.",
+            "zh": "我是來出差的。"
+          },
+          {
+            "en": "I am traveling for vacation.",
+            "zh": "我是來度假的。"
+          },
+          {
+            "en": "I am visiting my office.",
+            "zh": "我是來拜訪公司的。"
+          },
+          {
+            "en": "I am staying forever.",
+            "zh": "我要永遠住下去。"
+          }
+        ],
+        "answer": "I am traveling for vacation."
+      },
+      {
+        "id": "qL3-mc-003",
+        "question": "通過安檢時，旅客應該先做什麼？",
+        "options": [
+          {
+            "en": "Walk through the metal detector first.",
+            "zh": "先走過金屬探測門。"
+          },
+          {
+            "en": "Take out laptop and liquids.",
+            "zh": "先拿出電腦和液體物品。"
+          },
+          {
+            "en": "Show your passport.",
+            "zh": "先出示護照。"
+          },
+          {
+            "en": "Put your shoes back on.",
+            "zh": "先穿回鞋子。"
+          }
+        ],
+        "answer": "Take out laptop and liquids."
+      },
+      {
+        "id": "qL3-mc-004",
+        "question": "「How long will you stay?」的正確回答是？",
+        "options": [
+          {
+            "en": "I will stay at the hotel.",
+            "zh": "我會住在飯店。"
+          },
+          {
+            "en": "I will stay for ten days.",
+            "zh": "我會停留十天。"
+          },
+          {
+            "en": "I stay very happy.",
+            "zh": "我住得很開心。"
+          },
+          {
+            "en": "I stayed last year.",
+            "zh": "我去年有待過。"
+          }
+        ],
+        "answer": "I will stay for ten days."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL3-fi-001",
+        "question": "______ your pockets, please.（請清空您的口袋。）",
+        "answer": "Empty"
+      },
+      {
+        "id": "qL3-fi-002",
+        "question": "I am traveling for ______.（我是來度假旅行的。）",
+        "answer": "vacation"
+      },
+      {
+        "id": "qL3-fi-003",
+        "question": "Take out your ______ and liquids.（拿出您的筆記型電腦和液體物品。）",
+        "answer": "laptop"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL3-li-001",
+        "sentence_id": "d2"
+      },
+      {
+        "id": "qL3-li-002",
+        "sentence_id": "d4"
+      },
+      {
+        "id": "qL3-li-003",
+        "sentence_id": "d11"
+      }
+    ]
+  }
+}

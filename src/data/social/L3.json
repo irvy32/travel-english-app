@@ -1,0 +1,436 @@
+{
+  "chapter_id": "L3",
+  "chapter_name": "分享旅遊經驗",
+  "description": "聊天時分享去過的國家或城市。包含：描述最喜歡的旅遊地點、做了什麼、有什麼特別的回憶。",
+  "sentences": [
+    {
+      "id": "L3-d1",
+      "role": "朋友",
+      "en": "I heard you went to Japan last year. How was it?",
+      "zh": "我聽說你去年去了日本。怎麼樣？",
+      "keywords": [
+        {
+          "word": "year",
+          "kk": "/jɪr/",
+          "zh": "年"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-d2",
+      "role": "本人",
+      "en": "It was wonderful. We visited Kyoto and Osaka.",
+      "zh": "非常棒。我們去了京都和大阪。",
+      "keywords": [
+        {
+          "word": "wonderful",
+          "kk": "/ˈwʌndərfəl/",
+          "zh": "很棒的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊經驗"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-d3",
+      "role": "朋友",
+      "en": "What did you like most about Kyoto?",
+      "zh": "你最喜歡京都的什麼？",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-d4",
+      "role": "本人",
+      "en": "I loved the old temples. They are so peaceful.",
+      "zh": "我喜歡那些古老的寺廟。它們非常寧靜。",
+      "keywords": [
+        {
+          "word": "peaceful",
+          "kk": "/ˈpisfəl/",
+          "zh": "寧靜的，和平的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "表達喜好可用 I enjoy、I love、I like，後面接動名詞（-ing）或名詞，三者語意相近，enjoy 語氣最強烈。",
+      "audio": null
+    },
+    {
+      "id": "L3-d5",
+      "role": "朋友",
+      "en": "Did you try the local food?",
+      "zh": "你嘗試當地食物了嗎？",
+      "keywords": [
+        {
+          "word": "local",
+          "kk": "/ˈloʊkl/",
+          "zh": "當地的"
+        },
+        {
+          "word": "try",
+          "kk": "/traɪ/",
+          "zh": "嘗試"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飲食美食"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-d6",
+      "role": "本人",
+      "en": "Yes, we ate a lot of sushi and ramen. It was delicious.",
+      "zh": "是的，我們吃了很多壽司和拉麵。非常美味。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-d7",
+      "role": "朋友",
+      "en": "Sounds like a great trip. I want to go there too.",
+      "zh": "聽起來是一次很棒的旅行。我也想去那裡。",
+      "keywords": [
+        {
+          "word": "trip",
+          "kk": "/trɪp/",
+          "zh": "旅行，旅程"
+        },
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊經驗"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-d8",
+      "role": "本人",
+      "en": "You should go in spring. The cherry blossoms are beautiful.",
+      "zh": "你應該春天去。櫻花很美。",
+      "keywords": [
+        {
+          "word": "beautiful",
+          "kk": "/ˈbjutɪfəl/",
+          "zh": "美麗的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-s1",
+      "role": "練習句",
+      "en": "My favorite trip was to Italy.",
+      "zh": "我最喜歡的旅行是去義大利。",
+      "keywords": [
+        {
+          "word": "trip",
+          "kk": "/trɪp/",
+          "zh": "旅行，旅程"
+        },
+        {
+          "word": "favorite",
+          "kk": "/ˈfeɪvərɪt/",
+          "zh": "最喜歡的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊經驗"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-s2",
+      "role": "練習句",
+      "en": "We saw many famous landmarks.",
+      "zh": "我們看了很多著名的地標。",
+      "keywords": [
+        {
+          "word": "famous",
+          "kk": "/ˈfeɪməs/",
+          "zh": "著名的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊經驗"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-s3",
+      "role": "練習句",
+      "en": "The food there was amazing.",
+      "zh": "那裡的食物非常棒。",
+      "keywords": [
+        {
+          "word": "amazing",
+          "kk": "/əˈmeɪzɪŋ/",
+          "zh": "令人驚歎的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飲食美食"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-s4",
+      "role": "練習句",
+      "en": "I took a lot of photos.",
+      "zh": "我拍了很多照片。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-s5",
+      "role": "練習句",
+      "en": "The local people were very friendly.",
+      "zh": "當地人非常友善。",
+      "keywords": [
+        {
+          "word": "local",
+          "kk": "/ˈloʊkl/",
+          "zh": "當地的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-s6",
+      "role": "練習句",
+      "en": "It was a very memorable experience.",
+      "zh": "那是一次非常難忘的經歷。",
+      "keywords": [
+        {
+          "word": "memorable",
+          "kk": "/ˈmɛmərəbl/",
+          "zh": "難忘的"
+        },
+        {
+          "word": "experience",
+          "kk": "/ɪkˈspɪrɪəns/",
+          "zh": "經驗；體驗"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    },
+    {
+      "id": "L3-s7",
+      "role": "練習句",
+      "en": "Have you traveled anywhere recently?",
+      "zh": "你最近有去哪裡旅行嗎？",
+      "keywords": [
+        {
+          "word": "recently",
+          "kk": "/ˈrisəntlɪ/",
+          "zh": "最近"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "旅遊經驗"
+      ],
+      "tips": "分享旅遊回憶時，加上具體細節（地點、食物、人物）能讓對話更生動有趣。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L3-w1",
+      "word": "trip",
+      "kk": "/trɪp/",
+      "pos": "n.",
+      "zh": "旅行，旅程",
+      "example_en": "We had a great trip to Hawaii.",
+      "example_zh": "我們去夏威夷的旅行很棒。"
+    },
+    {
+      "id": "L3-w2",
+      "word": "landmark",
+      "kk": "/ˈlændˌmɑrk/",
+      "pos": "n.",
+      "zh": "地標",
+      "example_en": "The Eiffel Tower is a famous landmark in Paris.",
+      "example_zh": "艾菲爾鐵塔是巴黎的著名地標。"
+    },
+    {
+      "id": "L3-w3",
+      "word": "local",
+      "kk": "/ˈloʊkl/",
+      "pos": "adj.",
+      "zh": "當地的",
+      "example_en": "We tried the local food.",
+      "example_zh": "我們嘗試了當地食物。"
+    },
+    {
+      "id": "L3-w4",
+      "word": "memorable",
+      "kk": "/ˈmɛmərəbl/",
+      "pos": "adj.",
+      "zh": "難忘的",
+      "example_en": "Our vacation was a memorable one.",
+      "example_zh": "我們的假期非常難忘。"
+    },
+    {
+      "id": "L3-w5",
+      "word": "peaceful",
+      "kk": "/ˈpisfəl/",
+      "pos": "adj.",
+      "zh": "寧靜的，和平的",
+      "example_en": "The village is very peaceful and quiet.",
+      "example_zh": "那個村莊非常寧靜安詳。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L3-h1",
+      "title": "用過去式分享旅行經驗",
+      "description": "談論過去發生的旅行，要用動詞的過去式，如 went, visited, saw, ate。",
+      "example_en": "We visited many museums in London.",
+      "example_zh": "我們在倫敦參觀了許多博物館。"
+    },
+    {
+      "id": "L3-h2",
+      "title": "用 What did you like most? 引導分享",
+      "description": "想請對方分享旅行最精彩的部分，可以用這個問句，讓對話更具體。",
+      "example_en": "What did you like most about the city?",
+      "example_zh": "你最喜歡這個城市的什麼？"
+    },
+    {
+      "id": "L3-h3",
+      "title": "給予旅行建議：You should go in...",
+      "description": "分享完經驗後，可以給對方建議，例如最佳旅行季節或必做事項，非常實用。",
+      "example_en": "You should go in autumn. The weather is perfect.",
+      "example_zh": "你應該秋天去。天氣非常好。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL3-mc-001",
+        "question": "下列哪一句英文的意思是「我聽說你去年去了日本。怎麼樣？」？",
+        "options": [
+          {
+            "en": "I heard you went to Japan last year. How was it?",
+            "zh": "我聽說你去年去了日本。怎麼樣？"
+          },
+          {
+            "en": "It was wonderful. We visited Kyoto and Osaka.",
+            "zh": "非常棒。我們去了京都和大阪。"
+          },
+          {
+            "en": "What did you like most about Kyoto?",
+            "zh": "你最喜歡京都的什麼？"
+          },
+          {
+            "en": "I loved the old temples. They are so peaceful.",
+            "zh": "我喜歡那些古老的寺廟。它們非常寧靜。"
+          }
+        ],
+        "answer": "I heard you went to Japan last year. How was it?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL3-fi-001",
+        "question": "I ______ you went to Japan last year. How was it?",
+        "answer": "heard"
+      },
+      {
+        "id": "qL3-fi-002",
+        "question": "It was ______. We visited Kyoto and Osaka.",
+        "answer": "wonderful"
+      },
+      {
+        "id": "qL3-fi-003",
+        "question": "What did you like ______ about Kyoto?",
+        "answer": "most"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL3-li-001",
+        "sentence_id": "L3-d1"
+      },
+      {
+        "id": "qL3-li-002",
+        "sentence_id": "L3-d3"
+      },
+      {
+        "id": "qL3-li-003",
+        "sentence_id": "L3-d5"
+      }
+    ]
+  }
+}

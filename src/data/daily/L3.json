@@ -1,0 +1,464 @@
+{
+  "chapter_id": "L3",
+  "chapter_name": "超市與市場購物",
+  "description": "在超市或市場買菜、購物。包含：詢問商品在哪裡、重量／數量、價格、是否有特價，找不到東西請店員幫忙。",
+  "sentences": [
+    {
+      "id": "L3-d1",
+      "role": "本人",
+      "en": "Excuse me, where can I find the milk?",
+      "zh": "不好意思，請問牛奶在哪裡？",
+      "keywords": [
+        {
+          "word": "find",
+          "kk": "/faɪnd/",
+          "zh": "找到"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "打擾鄰居前說 Sorry to bother you，友善的開場能讓對話更順利。",
+      "audio": null
+    },
+    {
+      "id": "L3-d2",
+      "role": "店員",
+      "en": "The milk is in aisle 3, at the back.",
+      "zh": "牛奶在第三走道，後面。",
+      "keywords": [
+        {
+          "word": "aisle",
+          "kk": "/aɪl/",
+          "zh": "走道，通道"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-d3",
+      "role": "本人",
+      "en": "Thank you. How much is this bread?",
+      "zh": "謝謝。這個麵包多少錢？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "問價格用 How much，問可數數量用 How many，兩者用法不同，需要注意區分。",
+      "audio": null
+    },
+    {
+      "id": "L3-d4",
+      "role": "店員",
+      "en": "It's $2.50.",
+      "zh": "2.5美元。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-d5",
+      "role": "本人",
+      "en": "Do you have any eggs?",
+      "zh": "你們有雞蛋嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」詢問對方是否有某物，是日常生活中最萬用的問句之一。",
+      "audio": null
+    },
+    {
+      "id": "L3-d6",
+      "role": "店員",
+      "en": "Yes, we do. They are next to the milk.",
+      "zh": "有的。它們就在牛奶旁邊。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-d7",
+      "role": "本人",
+      "en": "Great. I'll take one dozen.",
+      "zh": "太好了。我要一打。",
+      "keywords": [
+        {
+          "word": "dozen",
+          "kk": "/ˈdʌzn/",
+          "zh": "一打（十二個）"
+        },
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "拿；帶走"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-d8",
+      "role": "本人",
+      "en": "Is this fruit on sale?",
+      "zh": "這個水果有特價嗎？",
+      "keywords": [
+        {
+          "word": "sale",
+          "kk": "/seɪl/",
+          "zh": "特賣；折扣"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-d9",
+      "role": "店員",
+      "en": "Yes, the apples are two dollars a pound today.",
+      "zh": "有的，蘋果今天一磅兩美元。",
+      "keywords": [
+        {
+          "word": "pound",
+          "kk": "/paʊnd/",
+          "zh": "磅（重量單位）"
+        },
+        {
+          "word": "today",
+          "kk": "/təˈdeɪ/",
+          "zh": "今天"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "手機網路"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-d10",
+      "role": "本人",
+      "en": "Perfect. I'll take two pounds.",
+      "zh": "太好了。我要兩磅。",
+      "keywords": [
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "拿；帶走"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-s1",
+      "role": "練習句",
+      "en": "Where is the bread?",
+      "zh": "麵包在哪裡？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-s2",
+      "role": "練習句",
+      "en": "How much are these tomatoes?",
+      "zh": "這些番茄多少錢？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "問價格用 How much，問可數數量用 How many，兩者用法不同，需要注意區分。",
+      "audio": null
+    },
+    {
+      "id": "L3-s3",
+      "role": "練習句",
+      "en": "Do you sell rice?",
+      "zh": "你們賣米嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-s4",
+      "role": "練習句",
+      "en": "I'm looking for chicken.",
+      "zh": "我在找雞肉。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-s5",
+      "role": "練習句",
+      "en": "Can I have a bag, please?",
+      "zh": "可以給我一個袋子嗎？",
+      "keywords": [
+        {
+          "word": "bag",
+          "kk": "/bæɡ/",
+          "zh": "袋子"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-s6",
+      "role": "練習句",
+      "en": "I'd like two bottles of water.",
+      "zh": "我想要兩瓶水。",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        },
+        {
+          "word": "water",
+          "kk": "/ˈwɔtər/",
+          "zh": "水"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-s7",
+      "role": "練習句",
+      "en": "Is this fresh?",
+      "zh": "這個新鮮嗎？",
+      "keywords": [
+        {
+          "word": "fresh",
+          "kk": "/frɛʃ/",
+          "zh": "新鮮的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物"
+      ],
+      "tips": "選購食材時，organic（有機）雖較貴但農藥少；fresh produce 指當季新鮮農產品，是健康飲食的好選擇。",
+      "audio": null
+    },
+    {
+      "id": "L3-s8",
+      "role": "練習句",
+      "en": "Do you accept credit cards?",
+      "zh": "你們接受信用卡嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    },
+    {
+      "id": "L3-s9",
+      "role": "練習句",
+      "en": "Thank you for your help.",
+      "zh": "謝謝你的幫忙。",
+      "keywords": [
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "在超市找不到商品，說 Excuse me, where can I find...? 比四處張望更省時有效。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L3-w1",
+      "word": "aisle",
+      "kk": "/aɪl/",
+      "pos": "n.",
+      "zh": "走道，通道",
+      "example_en": "The snacks are in aisle 2.",
+      "example_zh": "零食在第二走道。"
+    },
+    {
+      "id": "L3-w2",
+      "word": "dozen",
+      "kk": "/ˈdʌzn/",
+      "pos": "n.",
+      "zh": "一打（十二個）",
+      "example_en": "I need a dozen eggs.",
+      "example_zh": "我需要一打雞蛋。"
+    },
+    {
+      "id": "L3-w3",
+      "word": "on sale",
+      "kk": "/ɑn sel/",
+      "pos": "phr.",
+      "zh": "特價中",
+      "example_en": "These oranges are on sale.",
+      "example_zh": "這些柳橙特價中。"
+    },
+    {
+      "id": "L3-w4",
+      "word": "pound",
+      "kk": "/paʊnd/",
+      "pos": "n.",
+      "zh": "磅（重量單位）",
+      "example_en": "The bananas are $1.50 per pound.",
+      "example_zh": "香蕉一磅1.5美元。"
+    },
+    {
+      "id": "L3-w5",
+      "word": "fresh",
+      "kk": "/frɛʃ/",
+      "pos": "adj.",
+      "zh": "新鮮的",
+      "example_en": "I want to buy fresh fish.",
+      "example_zh": "我想買新鮮的魚。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L3-h1",
+      "title": "用 Where can I find...? 或 Where is...? 找東西",
+      "description": "在超市找不到東西時，可以這樣問店員。後面直接接你想找的商品名稱。",
+      "example_en": "Where can I find the cooking oil?",
+      "example_zh": "請問食用油在哪裡？"
+    },
+    {
+      "id": "L3-h2",
+      "title": "用 How much is...? 詢問價格",
+      "description": "How much is...? 用來問單一物品的價格。如果是複數，用 How much are...?",
+      "example_en": "How much is this cheese? / How much are these apples?",
+      "example_zh": "這起司多少錢？ / 這些蘋果多少錢？"
+    },
+    {
+      "id": "L3-h3",
+      "title": "用 I'd like... / I'll take... 表示要購買",
+      "description": "決定要買什麼之後，可以用 I'd like...（我想要...）或 I'll take...（我要買...）告訴店員。",
+      "example_en": "I'd like one bag of rice, please.",
+      "example_zh": "請給我一袋米。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL3-mc-001",
+        "question": "下列哪一句英文的意思是「不好意思，請問牛奶在哪裡？」？",
+        "options": [
+          {
+            "en": "Excuse me, where can I find the milk?",
+            "zh": "不好意思，請問牛奶在哪裡？"
+          },
+          {
+            "en": "The milk is in aisle 3, at the back.",
+            "zh": "牛奶在第三走道，後面。"
+          },
+          {
+            "en": "Thank you. How much is this bread?",
+            "zh": "謝謝。這個麵包多少錢？"
+          },
+          {
+            "en": "It's $2.50.",
+            "zh": "2.5美元。"
+          }
+        ],
+        "answer": "Excuse me, where can I find the milk?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL3-fi-001",
+        "question": "Excuse me, where can I ______ the milk?",
+        "answer": "find"
+      },
+      {
+        "id": "qL3-fi-002",
+        "question": "The ______ is in aisle 3, at the back.",
+        "answer": "milk"
+      },
+      {
+        "id": "qL3-fi-003",
+        "question": "Thank you. How ______ is this bread?",
+        "answer": "much"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL3-li-001",
+        "sentence_id": "L3-d1"
+      },
+      {
+        "id": "qL3-li-002",
+        "sentence_id": "L3-d3"
+      },
+      {
+        "id": "qL3-li-003",
+        "sentence_id": "L3-d5"
+      }
+    ]
+  }
+}

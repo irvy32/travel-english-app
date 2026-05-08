@@ -1,0 +1,469 @@
+{
+  "chapter_id": "L8",
+  "chapter_name": "居家維修與工人",
+  "description": "聯絡水電工或修繕人員。包含：報修水管漏水、電燈壞掉、門鎖卡住等，約時間、詢問估價與修理方式。",
+  "sentences": [
+    {
+      "id": "L8-d1",
+      "role": "本人",
+      "en": "Hello, I need a plumber. My kitchen sink is leaking.",
+      "zh": "你好，我需要一位水管工。我的廚房水槽在漏水。",
+      "keywords": [
+        {
+          "word": "plumber",
+          "kk": "/ˈplʌmɚ/",
+          "zh": "水管工"
+        },
+        {
+          "word": "sink",
+          "kk": "/sɪŋk/",
+          "zh": "水槽"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "居家維修"
+      ],
+      "tips": "通報維修時，具體描述位置與問題，如 The pipe under the sink is leaking，有助加快處理速度。",
+      "audio": null
+    },
+    {
+      "id": "L8-d2",
+      "role": "修繕公司",
+      "en": "I see. When is a good time for a visit?",
+      "zh": "我明白了。什麼時間方便我們過去查看？",
+      "keywords": [
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "時間"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-d3",
+      "role": "本人",
+      "en": "Tomorrow morning would be good.",
+      "zh": "明天早上可以。",
+      "keywords": [
+        {
+          "word": "tomorrow",
+          "kk": "/təˈmɑroʊ/",
+          "zh": "明天"
+        },
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-d4",
+      "role": "修繕公司",
+      "en": "Okay. Is 10 a.m. okay for you?",
+      "zh": "好的。上午十點可以嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-d5",
+      "role": "本人",
+      "en": "Yes, that's fine. My address is 88 River Road.",
+      "zh": "可以，沒問題。我的地址是河濱路88號。",
+      "keywords": [
+        {
+          "word": "address",
+          "kk": "/ˈædrɛs/",
+          "zh": "地址"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-d6",
+      "role": "修繕公司",
+      "en": "Got it. Our plumber will come at 10 a.m. tomorrow.",
+      "zh": "收到了。我們的水管工明天上午十點會到。",
+      "keywords": [
+        {
+          "word": "plumber",
+          "kk": "/ˈplʌmɚ/",
+          "zh": "水管工"
+        },
+        {
+          "word": "come",
+          "kk": "/kʌm/",
+          "zh": "來"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "居家維修"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-d7",
+      "role": "本人",
+      "en": "Can you give me an estimate first?",
+      "zh": "可以先給我一個估價嗎？",
+      "keywords": [
+        {
+          "word": "estimate",
+          "kk": "/ˈɛstəmɪt/",
+          "zh": "估價"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "請工人報價說 Can I get a quote? 或 Can you give me an estimate?，拿到書面報價才簽約更有保障。",
+      "audio": null
+    },
+    {
+      "id": "L8-d8",
+      "role": "修繕公司",
+      "en": "The plumber will check the problem and tell you the cost.",
+      "zh": "水管工會檢查問題後告訴您費用。",
+      "keywords": [
+        {
+          "word": "plumber",
+          "kk": "/ˈplʌmɚ/",
+          "zh": "水管工"
+        },
+        {
+          "word": "check",
+          "kk": "/tʃɛk/",
+          "zh": "確認；查看"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "居家維修"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-s1",
+      "role": "練習句",
+      "en": "The light in my bathroom is broken.",
+      "zh": "我浴室裡的燈壞了。",
+      "keywords": [
+        {
+          "word": "broken",
+          "kk": "/ˈbroʊkən/",
+          "zh": "壞掉的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "通報維修時，具體描述位置與問題，如 The pipe under the sink is leaking，有助加快處理速度。",
+      "audio": null
+    },
+    {
+      "id": "L8-s2",
+      "role": "練習句",
+      "en": "The toilet is not flushing.",
+      "zh": "馬桶不能沖水了。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-s3",
+      "role": "練習句",
+      "en": "I need someone to fix my door.",
+      "zh": "我需要有人來修理我的門。",
+      "keywords": [
+        {
+          "word": "need",
+          "kk": "/nid/",
+          "zh": "需要"
+        },
+        {
+          "word": "fix",
+          "kk": "/fɪks/",
+          "zh": "修理"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "居家維修"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-s4",
+      "role": "練習句",
+      "en": "When can you come?",
+      "zh": "你什麼時候可以來？",
+      "keywords": [
+        {
+          "word": "come",
+          "kk": "/kʌm/",
+          "zh": "來"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-s5",
+      "role": "練習句",
+      "en": "What is your hourly rate?",
+      "zh": "你的每小時收費是多少？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-s6",
+      "role": "練習句",
+      "en": "Please call me before you come.",
+      "zh": "請你來之前先打電話給我。",
+      "keywords": [
+        {
+          "word": "call",
+          "kk": "/kɔl/",
+          "zh": "打電話"
+        },
+        {
+          "word": "come",
+          "kk": "/kʌm/",
+          "zh": "來"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "描述過去的職業或狀態，用 I used to be... 或 I was a... before，自然表達人生經歷。",
+      "audio": null
+    },
+    {
+      "id": "L8-s7",
+      "role": "練習句",
+      "en": "How long will the repair take?",
+      "zh": "修理需要多久時間？",
+      "keywords": [
+        {
+          "word": "long",
+          "kk": "/lɔŋ/",
+          "zh": "長的；很久"
+        },
+        {
+          "word": "repair",
+          "kk": "/rɪˈpɛr/",
+          "zh": "修理"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "居家維修"
+      ],
+      "tips": "詢問等待時間說 How long will it take? 或 What's the estimated wait time?，服務場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L8-s8",
+      "role": "練習句",
+      "en": "Do you accept credit cards?",
+      "zh": "你們接受信用卡嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-s9",
+      "role": "練習句",
+      "en": "Thank you for coming.",
+      "zh": "謝謝你過來。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "請工人到府維修前，先說明問題並詢問報價，避免事後對費用有爭議。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L8-w1",
+      "word": "plumber",
+      "kk": "/ˈplʌmɚ/",
+      "pos": "n.",
+      "zh": "水管工",
+      "example_en": "The plumber fixed the leaky pipe.",
+      "example_zh": "水管工修好了漏水的水管。"
+    },
+    {
+      "id": "L8-w2",
+      "word": "leak",
+      "kk": "/lik/",
+      "pos": "v.",
+      "zh": "漏水，洩漏",
+      "example_en": "The roof is leaking when it rains.",
+      "example_zh": "下雨時屋頂會漏水。"
+    },
+    {
+      "id": "L8-w3",
+      "word": "sink",
+      "kk": "/sɪŋk/",
+      "pos": "n.",
+      "zh": "水槽",
+      "example_en": "Please wash the dishes in the sink.",
+      "example_zh": "請在水槽裡洗碗。"
+    },
+    {
+      "id": "L8-w4",
+      "word": "estimate",
+      "kk": "/ˈɛstəmɪt/",
+      "pos": "n.",
+      "zh": "估價",
+      "example_en": "Can I get an estimate for the repair?",
+      "example_zh": "我可以得到修理的估價嗎？"
+    },
+    {
+      "id": "L8-w5",
+      "word": "flush",
+      "kk": "/flʌʃ/",
+      "pos": "v.",
+      "zh": "沖水",
+      "example_en": "The toilet won't flush.",
+      "example_zh": "馬桶沖不了水。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L8-h1",
+      "title": "說明哪裡壞了：The... is broken. / The... is not working.",
+      "description": "告訴維修人員什麼東西出問題，用 is broken（壞了）或 is not working（不能用了）最簡單清楚。",
+      "example_en": "The air conditioner is not working.",
+      "example_zh": ""
+    },
+    {
+      "id": "L8-h2",
+      "title": "約定時間：When is a good time? / Is ... okay for you?",
+      "description": "和工人約時間，可以問對方何時方便（good time），或提出一個時間問對方是否合適。",
+      "example_en": "Is Tuesday afternoon okay for you?",
+      "example_zh": ""
+    },
+    {
+      "id": "L8-h3",
+      "title": "詢問費用：Can you give me an estimate?",
+      "description": "在開始修理前，最好先問一下大概的費用（estimate），特別是針對較大的工程。",
+      "example_en": "Can you give me an estimate before you start?",
+      "example_zh": ""
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL8-mc-001",
+        "question": "下列哪一句英文的意思是「你好，我需要一位水管工。我的廚房水槽在漏水。」？",
+        "options": [
+          {
+            "en": "Hello, I need a plumber. My kitchen sink is leaking.",
+            "zh": "你好，我需要一位水管工。我的廚房水槽在漏水。"
+          },
+          {
+            "en": "I see. When is a good time for a visit?",
+            "zh": "我明白了。什麼時間方便我們過去查看？"
+          },
+          {
+            "en": "Tomorrow morning would be good.",
+            "zh": "明天早上可以。"
+          },
+          {
+            "en": "Okay. Is 10 a.m. okay for you?",
+            "zh": "好的。上午十點可以嗎？"
+          }
+        ],
+        "answer": "Hello, I need a plumber. My kitchen sink is leaking."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL8-fi-001",
+        "question": "Hello, I ______ a plumber. My kitchen sink is leaking.",
+        "answer": "need"
+      },
+      {
+        "id": "qL8-fi-002",
+        "question": "I see. When is a good ______ for a visit?",
+        "answer": "time"
+      },
+      {
+        "id": "qL8-fi-003",
+        "question": "Tomorrow ______ would be good.",
+        "answer": "morning"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL8-li-001",
+        "sentence_id": "L8-d1"
+      },
+      {
+        "id": "qL8-li-002",
+        "sentence_id": "L8-d3"
+      },
+      {
+        "id": "qL8-li-003",
+        "sentence_id": "L8-d5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "chapter_id": "L1",
+  "chapter_name": "住宿問題與投訴",
+  "description": "在飯店遇到房間太吵、太髒、冷氣或熱水壞掉等問題時，能清楚描述狀況，禮貌提出要求換房、維修或補償。",
+  "sentences": [
+    {
+      "id": "L1-d1",
+      "role": "房客",
+      "en": "Good evening. I'm afraid I need to speak to the manager about my room.",
+      "zh": "晚安，不好意思，我需要和經理談談我的房間問題。",
+      "keywords": [
+        {
+          "word": "manager",
+          "kk": "/ˈmænɪdʒər/",
+          "zh": "經理"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿",
+        "投訴",
+        "禮貌用語"
+      ],
+      "tips": "「I'm afraid...」是英語中非常禮貌的抱怨開場，語氣遠比直接說「This is bad」委婉，在飯店投訴場合特別有效。",
+      "audio": null
+    },
+    {
+      "id": "L1-d2",
+      "role": "櫃台人員",
+      "en": "I'm the duty manager. What seems to be the problem, sir?",
+      "zh": "我是值班經理。先生，請問有什麼問題嗎？",
+      "keywords": [
+        {
+          "word": "manager",
+          "kk": "/ˈmænɪdʒər/",
+          "zh": "經理"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "遇到問題要求升級處理，說 I'd like to speak to the manager 或 Could I speak to someone in charge?，比重複抱怨更有效。",
+      "audio": null
+    },
+    {
+      "id": "L1-d3",
+      "role": "房客",
+      "en": "The room you assigned me is right next to the elevator, and the noise is constant throughout the night.",
+      "zh": "你們分配給我的房間就在電梯旁邊，整晚噪音不斷。",
+      "keywords": [
+        {
+          "word": "assigned",
+          "kk": "/əˈsaɪnd/",
+          "zh": "分配的"
+        },
+        {
+          "word": "elevator",
+          "kk": "/ˈɛlɪˌveɪtər/",
+          "zh": "電梯"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿"
+      ],
+      "tips": "飯店投訴時，保持冷靜並具體描述問題，比情緒化抱怨更能獲得令人滿意的解決方案。",
+      "audio": null
+    },
+    {
+      "id": "L1-d4",
+      "role": "櫃台人員",
+      "en": "I'm very sorry to hear that. Unfortunately, all our standard rooms are fully booked tonight.",
+      "zh": "聽到這個消息我很抱歉。很不巧，我們所有的標準房今晚都客滿了。",
+      "keywords": [
+        {
+          "word": "standard",
+          "kk": "/ˈstændərd/",
+          "zh": "標準"
+        },
+        {
+          "word": "booked",
+          "kk": "/bʊkt/",
+          "zh": "預訂滿的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿",
+        "禮貌用語"
+      ],
+      "tips": "飯店投訴時，保持冷靜並具體描述問題，比情緒化抱怨更能獲得令人滿意的解決方案。",
+      "audio": null
+    },
+    {
+      "id": "L1-d5",
+      "role": "房客",
+      "en": "I understand, but I really can't sleep under these conditions. Could you check if there's any other option?",
+      "zh": "我明白，但在這種情況下我真的無法入睡。你可以查一下是否有其他選擇嗎？",
+      "keywords": [
+        {
+          "word": "option",
+          "kk": "/ˈɑpʃən/",
+          "zh": "選項"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "投訴",
+        "禮貌用語",
+        "委婉請求"
+      ],
+      "tips": "提出要求時，Could you...? 或 Is it possible to...? 比直接命令（Fix this!）更禮貌，也更容易獲得正面回應。",
+      "audio": null
+    },
+    {
+      "id": "L1-d6",
+      "role": "櫃台人員",
+      "en": "Let me see... We do have a quiet suite available on a higher floor. However, there would be a small upgrade fee.",
+      "zh": "讓我看看... 我們在較高的樓層確實有一間安靜的套房。不過，會有一筆小小的升級費用。",
+      "keywords": [
+        {
+          "word": "upgrade",
+          "kk": "/ˈʌpˌɡred/",
+          "zh": "升級"
+        },
+        {
+          "word": "suite",
+          "kk": "/swit/",
+          "zh": "套房"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿"
+      ],
+      "tips": "飯店投訴時，保持冷靜並具體描述問題，比情緒化抱怨更能獲得令人滿意的解決方案。",
+      "audio": null
+    },
+    {
+      "id": "L1-d7",
+      "role": "房客",
+      "en": "Since the noise issue is not my fault, I would appreciate it if you could waive the fee.",
+      "zh": "既然噪音問題不是我的錯，如果您能免除這筆費用，我會非常感激。",
+      "keywords": [
+        {
+          "word": "issue",
+          "kk": "/ˈɪʃu/",
+          "zh": "問題；議題"
+        },
+        {
+          "word": "appreciate",
+          "kk": "/əˈpriʃɪˌeɪt/",
+          "zh": "感謝；欣賞"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿",
+        "投訴",
+        "禮貌用語"
+      ],
+      "tips": "「I would appreciate it if you could...」是最有禮貌的委婉請求句型，適合在需要對方採取行動時使用，語氣不強迫。",
+      "audio": null
+    },
+    {
+      "id": "L1-d8",
+      "role": "櫃台人員",
+      "en": "You're right. As a gesture of goodwill, we'll upgrade you to the suite at no extra charge.",
+      "zh": "您說得對。為了表示誠意，我們將為您免費升級到套房。",
+      "keywords": [
+        {
+          "word": "gesture",
+          "kk": "/ˈdʒɛstʃɚ/",
+          "zh": "姿態，表示"
+        },
+        {
+          "word": "upgrade",
+          "kk": "/ˈʌpˌɡred/",
+          "zh": "升級"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿",
+        "表達理解"
+      ],
+      "tips": "服務業常說 as a gesture of goodwill（表達誠意）提供免費補償，這是緩和客訴的常見專業用語。",
+      "audio": null
+    },
+    {
+      "id": "L1-s1",
+      "role": "練習句",
+      "en": "I need to speak to someone about a problem with my room.",
+      "zh": "我需要找人談談我房間的問題。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "住宿"
+      ],
+      "tips": "飯店投訴時，保持冷靜並具體描述問題，比情緒化抱怨更能獲得令人滿意的解決方案。",
+      "audio": null
+    },
+    {
+      "id": "L1-s2",
+      "role": "練習句",
+      "en": "I'm not happy with the condition of the bathroom.",
+      "zh": "我對浴室的狀況不太滿意。",
+      "keywords": [
+        {
+          "word": "condition",
+          "kk": "/kənˈdɪʃən/",
+          "zh": "狀況，條件"
+        },
+        {
+          "word": "bathroom",
+          "kk": "/ˈbæθˌrum/",
+          "zh": "浴室"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "住宿",
+        "投訴"
+      ],
+      "tips": "飯店投訴時，保持冷靜並具體描述問題，比情緒化抱怨更能獲得令人滿意的解決方案。",
+      "audio": null
+    },
+    {
+      "id": "L1-s3",
+      "role": "練習句",
+      "en": "The air conditioning unit is making a strange noise.",
+      "zh": "空調機正在發出奇怪的噪音。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "住宿",
+        "投訴"
+      ],
+      "tips": "飯店投訴時，保持冷靜並具體描述問題，比情緒化抱怨更能獲得令人滿意的解決方案。",
+      "audio": null
+    },
+    {
+      "id": "L1-s4",
+      "role": "練習句",
+      "en": "Is it possible to change to a different room?",
+      "zh": "有可能換到另一間房間嗎？",
+      "keywords": [
+        {
+          "word": "possible",
+          "kk": "/ˈpɑsɪbəl/",
+          "zh": "可能的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "住宿",
+        "禮貌用語",
+        "委婉請求"
+      ],
+      "tips": "提出要求時，Could you...? 或 Is it possible to...? 比直接命令（Fix this!）更禮貌，也更容易獲得正面回應。",
+      "audio": null
+    },
+    {
+      "id": "L1-s5",
+      "role": "練習句",
+      "en": "Could you send someone to fix the shower?",
+      "zh": "可以派個人來修理淋浴設備嗎？",
+      "keywords": [
+        {
+          "word": "shower",
+          "kk": "/ˈʃaʊər/",
+          "zh": "淋浴"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "住宿",
+        "禮貌用語",
+        "委婉請求"
+      ],
+      "tips": "提出要求時，Could you...? 或 Is it possible to...? 比直接命令（Fix this!）更禮貌，也更容易獲得正面回應。",
+      "audio": null
+    },
+    {
+      "id": "L1-s6",
+      "role": "練習句",
+      "en": "I would appreciate some compensation for the inconvenience.",
+      "zh": "對於造成的不便，我希望得到一些補償。",
+      "keywords": [
+        {
+          "word": "compensation",
+          "kk": "/ˌkɑmpənˈseɪʃən/",
+          "zh": "補償"
+        },
+        {
+          "word": "inconvenience",
+          "kk": "/ˌɪnkənˈvinjəns/",
+          "zh": "不便"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "投訴",
+        "禮貌用語"
+      ],
+      "tips": "「I would appreciate it if you could...」是最有禮貌的委婉請求句型，適合在需要對方採取行動時使用，語氣不強迫。",
+      "audio": null
+    },
+    {
+      "id": "L1-s7",
+      "role": "練習句",
+      "en": "This is not the standard I expected from your hotel.",
+      "zh": "這不是我對貴飯店所期待的標準。",
+      "keywords": [
+        {
+          "word": "standard",
+          "kk": "/ˈstændərd/",
+          "zh": "標準"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "住宿"
+      ],
+      "tips": "飯店投訴時，保持冷靜並具體描述問題，比情緒化抱怨更能獲得令人滿意的解決方案。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L1-w1",
+      "word": "complain",
+      "kk": "/kəmˈpleɪn/",
+      "pos": "v.",
+      "zh": "抱怨，投訴",
+      "example_en": "I don't want to complain, but the service was very slow.",
+      "example_zh": "我不想抱怨，但服務非常緩慢。"
+    },
+    {
+      "id": "L1-w2",
+      "word": "condition",
+      "kk": "/kənˈdɪʃən/",
+      "pos": "n.",
+      "zh": "狀況，條件",
+      "example_en": "The room was in poor condition when we checked in.",
+      "example_zh": "我們入住時房間狀況不佳。"
+    },
+    {
+      "id": "L1-w3",
+      "word": "upgrade",
+      "kk": "/ˈʌpˌɡred/",
+      "pos": "v./n.",
+      "zh": "升級",
+      "example_en": "They offered to upgrade our room for free.",
+      "example_zh": "他們提出免費為我們的房間升級。"
+    },
+    {
+      "id": "L1-w4",
+      "word": "compensation",
+      "kk": "/ˌkɑmpənˈseɪʃən/",
+      "pos": "n.",
+      "zh": "補償",
+      "example_en": "The hotel offered us a free dinner as compensation.",
+      "example_zh": "飯店提供我們免費晚餐作為補償。"
+    },
+    {
+      "id": "L1-w5",
+      "word": "facility",
+      "kk": "/fəˈsɪlɪti/",
+      "pos": "n.",
+      "zh": "設施",
+      "example_en": "The hotel's fitness facility was closed for maintenance.",
+      "example_zh": "飯店的健身設施因維護而關閉。"
+    },
+    {
+      "id": "L1-w6",
+      "word": "inconvenience",
+      "kk": "/ˌɪnkənˈvinjəns/",
+      "pos": "n.",
+      "zh": "不便",
+      "example_en": "We apologize for any inconvenience caused.",
+      "example_zh": "對於所造成的任何不便，我們致上歉意。"
+    },
+    {
+      "id": "L1-w7",
+      "word": "gesture",
+      "kk": "/ˈdʒɛstʃɚ/",
+      "pos": "n.",
+      "zh": "姿態，表示",
+      "example_en": "The free drink was a nice gesture from the manager.",
+      "example_zh": "免費飲料是經理的好意表示。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L1-h1",
+      "title": "有禮貌地表達不滿：I'm afraid... / I'm not very happy with...",
+      "description": "在英語中，抱怨時常用 I'm afraid... 或 I'm not very happy with... 來客氣地表達不滿，比直接說 This is bad. 更禮貌。",
+      "example_en": "I'm afraid the room is too noisy for me.",
+      "example_zh": "我怕這間房間對我來說太吵了。"
+    },
+    {
+      "id": "L1-h2",
+      "title": "提出請求時使用 Could you...? 或 Is it possible to...?",
+      "description": "在提出要求（如換房、維修）時，使用 Could you...? 或 Is it possible to...? 會比直接命令（Fix this.）更有禮貌，更容易被接受。",
+      "example_en": "Is it possible to get a room with a better view?",
+      "example_zh": "有可能換到景觀好一點的房間嗎？"
+    },
+    {
+      "id": "L1-h3",
+      "title": "用 I would appreciate it if... 委婉地提出期望",
+      "description": "當你希望對方採取某種行動時，用 I would appreciate it if... 來表達，語氣非常客氣且有禮。",
+      "example_en": "I would appreciate it if you could look into this matter.",
+      "example_zh": "如果您能調查一下這件事，我將非常感激。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL1-mc-001",
+        "question": "下列哪一句英文的意思是「晚安，不好意思，我需要和經理談談我的房間問題。」？",
+        "options": [
+          {
+            "en": "Good evening. I'm afraid I need to speak to the manager about my room.",
+            "zh": "晚安，不好意思，我需要和經理談談我的房間問題。"
+          },
+          {
+            "en": "I'm the duty manager. What seems to be the problem, sir?",
+            "zh": "我是值班經理。先生，請問有什麼問題嗎？"
+          },
+          {
+            "en": "The room you assigned me is right next to the elevator, and the noise is constant throughout the night.",
+            "zh": "你們分配給我的房間就在電梯旁邊，整晚噪音不斷。"
+          },
+          {
+            "en": "I'm very sorry to hear that. Unfortunately, all our standard rooms are fully booked tonight.",
+            "zh": "聽到這個消息我很抱歉。很不巧，我們所有的標準房今晚都客滿了。"
+          }
+        ],
+        "answer": "Good evening. I'm afraid I need to speak to the manager about my room."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL1-fi-001",
+        "question": "Good evening. I'm afraid I need to speak to the ______ about my room.",
+        "answer": "manager"
+      },
+      {
+        "id": "qL1-fi-002",
+        "question": "I'm the duty ______. What seems to be the problem, sir?",
+        "answer": "manager"
+      },
+      {
+        "id": "qL1-fi-003",
+        "question": "The room you ______ me is right next to the elevator, and the noise is constant throughout the night.",
+        "answer": "assigned"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL1-li-001",
+        "sentence_id": "L1-d1"
+      },
+      {
+        "id": "qL1-li-002",
+        "sentence_id": "L1-d3"
+      },
+      {
+        "id": "qL1-li-003",
+        "sentence_id": "L1-d5"
+      }
+    ]
+  }
+}

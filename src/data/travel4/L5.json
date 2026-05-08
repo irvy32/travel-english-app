@@ -1,0 +1,460 @@
+{
+  "chapter_id": "L5",
+  "chapter_name": "遺失物與協尋",
+  "description": "遺失護照、行李、錢包或手機，向飯店、警察或失物招領處求助。包含描述遺失物外觀、最後看見的地點與時間，詢問處理流程。",
+  "sentences": [
+    {
+      "id": "L5-d1",
+      "role": "旅客",
+      "en": "I need to report a lost item. I think I left my camera in the taxi from the airport.",
+      "zh": "我需要申報一件遺失物品。我想我把相機遺落在從機場來的計程車上了。",
+      "keywords": [
+        {
+          "word": "report",
+          "kk": "/rɪˈpɔrt/",
+          "zh": "報告，申報"
+        },
+        {
+          "word": "lost",
+          "kk": "/lɔst/",
+          "zh": "遺失的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "遺失物"
+      ],
+      "tips": "出發前，手機拍下所有重要證件備份，遺失時能更快描述物品特徵並辦理補發手續。",
+      "audio": null
+    },
+    {
+      "id": "L5-d2",
+      "role": "飯店經理",
+      "en": "I'm sorry to hear that. Do you remember any details about the taxi, like the company or the color?",
+      "zh": "聽到這個消息我很遺憾。您還記得關於那輛計程車的任何細節嗎？比如公司或顏色？",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "出發前，手機拍下所有重要證件備份，遺失時能更快描述物品特徵並辦理補發手續。",
+      "audio": null
+    },
+    {
+      "id": "L5-d3",
+      "role": "旅客",
+      "en": "It was a blue sedan, but I didn't get the company name or the license plate number.",
+      "zh": "是一輛藍色的轎車，但我沒記下公司名稱或車牌號碼。",
+      "keywords": [
+        {
+          "word": "number",
+          "kk": "/ˈnʌmbər/",
+          "zh": "號碼"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "出發前，手機拍下所有重要證件備份，遺失時能更快描述物品特徵並辦理補發手續。",
+      "audio": null
+    },
+    {
+      "id": "L5-d4",
+      "role": "飯店經理",
+      "en": "Can you describe the camera for me?",
+      "zh": "您可以描述一下那台相機嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "出發前，手機拍下所有重要證件備份，遺失時能更快描述物品特徵並辦理補發手續。",
+      "audio": null
+    },
+    {
+      "id": "L5-d5",
+      "role": "旅客",
+      "en": "It's a black compact digital camera, in a small gray case. There are photos from our trip inside.",
+      "zh": "是一台黑色的數位輕便相機，放在一個灰色的小袋子裡。裡面有我們這次旅行的照片。",
+      "keywords": [
+        {
+          "word": "compact",
+          "kk": "/ˈkɑmpækt/",
+          "zh": "小巧的，輕便的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "出發前，手機拍下所有重要證件備份，遺失時能更快描述物品特徵並辦理補發手續。",
+      "audio": null
+    },
+    {
+      "id": "L5-d6",
+      "role": "飯店經理",
+      "en": "Alright. The first step is to contact the city's lost property office. I can give you their number.",
+      "zh": "好的。第一步是聯繫市政府的遺失物招領處。我可以給您他們的電話號碼。",
+      "keywords": [
+        {
+          "word": "property",
+          "kk": "/ˈprɑpɚti/",
+          "zh": "財產，所有物"
+        },
+        {
+          "word": "lost",
+          "kk": "/lɔst/",
+          "zh": "遺失的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "遺失物"
+      ],
+      "tips": "出發前，手機拍下所有重要證件備份，遺失時能更快描述物品特徵並辦理補發手續。",
+      "audio": null
+    },
+    {
+      "id": "L5-d7",
+      "role": "旅客",
+      "en": "Should I also file a police report?",
+      "zh": "我也應該報警嗎？",
+      "keywords": [
+        {
+          "word": "report",
+          "kk": "/rɪˈpɔrt/",
+          "zh": "報告，申報"
+        },
+        {
+          "word": "police",
+          "kk": "/pəˈlis/",
+          "zh": "警察"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "遺失物"
+      ],
+      "tips": "出發前，手機拍下所有重要證件備份，遺失時能更快描述物品特徵並辦理補發手續。",
+      "audio": null
+    },
+    {
+      "id": "L5-d8",
+      "role": "飯店經理",
+      "en": "It might be a good idea, especially if you need documentation for insurance purposes. I can help you call them.",
+      "zh": "這可能是個好主意，特別是如果您需要文件來申請保險理賠。我可以幫您打電話給他們。",
+      "keywords": [
+        {
+          "word": "documentation",
+          "kk": "/ˌdɑkjəmənˈteɪʃən/",
+          "zh": "文件，證明文件"
+        },
+        {
+          "word": "insurance",
+          "kk": "/ɪnˈʃʊrəns/",
+          "zh": "保險"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "遺失物",
+        "醫療緊急"
+      ],
+      "tips": "出發前，手機拍下所有重要證件備份，遺失時能更快描述物品特徵並辦理補發手續。",
+      "audio": null
+    },
+    {
+      "id": "L5-s1",
+      "role": "練習句",
+      "en": "I seem to have misplaced my wallet.",
+      "zh": "我好像把錢包放錯地方了。",
+      "keywords": [
+        {
+          "word": "wallet",
+          "kk": "/ˈwɑlɪt/",
+          "zh": "皮夾"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "遺失物"
+      ],
+      "tips": "遺失護照先聯絡台灣大使館或代表處，遭竊要到當地警察局 file a police report，保留報案號碼供保險申請使用。",
+      "audio": null
+    },
+    {
+      "id": "L5-s2",
+      "role": "練習句",
+      "en": "I last saw my passport in the hotel safe this morning.",
+      "zh": "我最後一次看到我的護照是今天早上在飯店保險箱裡。",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "住宿",
+        "遺失物"
+      ],
+      "tips": "遺失護照先聯絡台灣大使館或代表處，遭竊要到當地警察局 file a police report，保留報案號碼供保險申請使用。",
+      "audio": null
+    },
+    {
+      "id": "L5-s3",
+      "role": "練習句",
+      "en": "My suitcase didn't arrive on the baggage carousel.",
+      "zh": "我的行李箱沒有出現在行李轉盤上。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "出發前，手機拍下所有重要證件備份，遺失時能更快描述物品特徵並辦理補發手續。",
+      "audio": null
+    },
+    {
+      "id": "L5-s4",
+      "role": "練習句",
+      "en": "It's a brown leather wallet with my driver's license inside.",
+      "zh": "那是一個棕色皮夾，裡面有我的駕照。",
+      "keywords": [
+        {
+          "word": "wallet",
+          "kk": "/ˈwɑlɪt/",
+          "zh": "皮夾"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "遺失物"
+      ],
+      "tips": "出發前，手機拍下所有重要證件備份，遺失時能更快描述物品特徵並辦理補發手續。",
+      "audio": null
+    },
+    {
+      "id": "L5-s5",
+      "role": "練習句",
+      "en": "Could you check your lost and found, please?",
+      "zh": "可以請您查一下失物招領處嗎？",
+      "keywords": [
+        {
+          "word": "lost",
+          "kk": "/lɔst/",
+          "zh": "遺失的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "遺失物",
+        "長住租屋",
+        "禮貌用語"
+      ],
+      "tips": "提出要求時，Could you...? 或 Is it possible to...? 比直接命令（Fix this!）更禮貌，也更容易獲得正面回應。",
+      "audio": null
+    },
+    {
+      "id": "L5-s6",
+      "role": "練習句",
+      "en": "What is the procedure for reporting a stolen credit card?",
+      "zh": "申報信用卡被盜的程序是什麼？",
+      "keywords": [
+        {
+          "word": "procedure",
+          "kk": "/prəˈsidʒɚ/",
+          "zh": "程序，步驟"
+        },
+        {
+          "word": "stolen",
+          "kk": "/ˈstoʊlən/",
+          "zh": "被偷的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "遺失物"
+      ],
+      "tips": "遺失護照先聯絡台灣大使館或代表處，遭竊要到當地警察局 file a police report，保留報案號碼供保險申請使用。",
+      "audio": null
+    },
+    {
+      "id": "L5-s7",
+      "role": "練習句",
+      "en": "I need a copy of the police report for my insurance claim.",
+      "zh": "我需要一份警方報告的副本來申請保險理賠。",
+      "keywords": [
+        {
+          "word": "report",
+          "kk": "/rɪˈpɔrt/",
+          "zh": "報告，申報"
+        },
+        {
+          "word": "police",
+          "kk": "/pəˈlis/",
+          "zh": "警察"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "遺失物",
+        "醫療緊急"
+      ],
+      "tips": "出發前確認旅遊保險的 coverage（保障範圍），就醫後保留所有收據，回國後再申請 reimbursement（理賠）。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L5-w1",
+      "word": "report",
+      "kk": "/rɪˈpɔrt/",
+      "pos": "v.",
+      "zh": "報告，申報",
+      "example_en": "You should report the loss to the police immediately.",
+      "example_zh": "你應該立即向警方申報遺失。"
+    },
+    {
+      "id": "L5-w2",
+      "word": "misplace",
+      "kk": "/ˌmɪsˈples/",
+      "pos": "v.",
+      "zh": "放錯地方，一時找不到",
+      "example_en": "I often misplace my reading glasses.",
+      "example_zh": "我常常把老花眼鏡放錯地方。"
+    },
+    {
+      "id": "L5-w3",
+      "word": "license plate",
+      "kk": "/ˈlaɪsəns plet/",
+      "pos": "n.",
+      "zh": "車牌",
+      "example_en": "Did you happen to see the taxi's license plate number?",
+      "example_zh": "您剛好有看到計程車的車牌號碼嗎？"
+    },
+    {
+      "id": "L5-w4",
+      "word": "compact",
+      "kk": "/ˈkɑmpækt/",
+      "pos": "adj.",
+      "zh": "小巧的，輕便的",
+      "example_en": "I travel with a compact camera.",
+      "example_zh": "我旅行時帶一台輕便相機。"
+    },
+    {
+      "id": "L5-w5",
+      "word": "property",
+      "kk": "/ˈprɑpɚti/",
+      "pos": "n.",
+      "zh": "財產，所有物",
+      "example_en": "Please take care of your personal property.",
+      "example_zh": "請照顧好您的個人財物。"
+    },
+    {
+      "id": "L5-w6",
+      "word": "procedure",
+      "kk": "/prəˈsidʒɚ/",
+      "pos": "n.",
+      "zh": "程序，步驟",
+      "example_en": "What's the procedure for getting a replacement passport?",
+      "example_zh": "申請補發護照的程序是什麼？"
+    },
+    {
+      "id": "L5-w7",
+      "word": "documentation",
+      "kk": "/ˌdɑkjəmənˈteɪʃən/",
+      "pos": "n.",
+      "zh": "文件，證明文件",
+      "example_en": "Keep all documentation related to the loss.",
+      "example_zh": "保存好所有與遺失相關的文件。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L5-h1",
+      "title": "清楚描述遺失物：顏色、材質、品牌、特徵",
+      "description": "提供具體的細節（如「黑色皮質、有金色扣環」）能大幅增加找回遺失物的機會。",
+      "example_en": "It's a red nylon backpack with a small tear on the side pocket.",
+      "example_zh": "那是一個紅色的尼龍後背包，側袋有一個小裂口。"
+    },
+    {
+      "id": "L5-h2",
+      "title": "說明最後看到的地點與時間",
+      "description": "這是協助搜尋的關鍵資訊。盡可能回想最後使用或看到該物品的確切地點和大致時間。",
+      "example_en": "I'm sure I had it with me when we left the restaurant around 8 PM.",
+      "example_zh": "我確定晚上8點左右我們離開餐廳時，我還帶著它。"
+    },
+    {
+      "id": "L5-h3",
+      "title": "用 I need to report... 或 I'd like to report... 正式申報",
+      "description": "在警察局、失物招領處或向飯店經理求助時，使用 report 這個詞顯得正式且明確。",
+      "example_en": "I'd like to report a missing piece of luggage.",
+      "example_zh": "我想申報一件遺失的行李。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL5-mc-001",
+        "question": "下列哪一句英文的意思是「我需要申報一件遺失物品。我想我把相機遺落在從機場來的計程車上了。」？",
+        "options": [
+          {
+            "en": "I need to report a lost item. I think I left my camera in the taxi from the airport.",
+            "zh": "我需要申報一件遺失物品。我想我把相機遺落在從機場來的計程車上了。"
+          },
+          {
+            "en": "I'm sorry to hear that. Do you remember any details about the taxi, like the company or the color?",
+            "zh": "聽到這個消息我很遺憾。您還記得關於那輛計程車的任何細節嗎？比如公司或顏色？"
+          },
+          {
+            "en": "It was a blue sedan, but I didn't get the company name or the license plate number.",
+            "zh": "是一輛藍色的轎車，但我沒記下公司名稱或車牌號碼。"
+          },
+          {
+            "en": "Can you describe the camera for me?",
+            "zh": "您可以描述一下那台相機嗎？"
+          }
+        ],
+        "answer": "I need to report a lost item. I think I left my camera in the taxi from the airport."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL5-fi-001",
+        "question": "I need to ______ a lost item. I think I left my camera in the taxi from the airport.",
+        "answer": "report"
+      },
+      {
+        "id": "qL5-fi-002",
+        "question": "I'm sorry to hear that. Do you ______ any details about the taxi, like the company or the color?",
+        "answer": "remember"
+      },
+      {
+        "id": "qL5-fi-003",
+        "question": "It was a blue sedan, but I didn't get the company name or the license plate ______.",
+        "answer": "number"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL5-li-001",
+        "sentence_id": "L5-d1"
+      },
+      {
+        "id": "qL5-li-002",
+        "sentence_id": "L5-d3"
+      },
+      {
+        "id": "qL5-li-003",
+        "sentence_id": "L5-d5"
+      }
+    ]
+  }
+}

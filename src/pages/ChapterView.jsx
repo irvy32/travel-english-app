@@ -8,6 +8,17 @@ import SpeechTab from '../tabs/SpeechTab'
 import QuizTab from '../tabs/QuizTab'
 import ChapterReviewTab from '../tabs/ChapterReviewTab'
 import OfflineSettingsTab from '../tabs/OfflineSettingsTab'
+import topicsData from '../data/topics.json'
+
+// 靜態宣告所有 glob，Vite 需要靜態路徑
+const GLOB_MAP = {
+  travel1: import.meta.glob('../data/travel1/*.json'),
+  travel2: import.meta.glob('../data/travel2/*.json'),
+  travel3: import.meta.glob('../data/travel3/*.json'),
+  travel4: import.meta.glob('../data/travel4/*.json'),
+  daily:   import.meta.glob('../data/daily/*.json'),
+  social:  import.meta.glob('../data/social/*.json'),
+}
 
 const TABS = [
   { id: 'sentences', label: '內容學習', icon: '📖' },
@@ -24,24 +35,21 @@ export default function ChapterView() {
   const [searchParams, setSearchParams] = useSearchParams()
   const currentTab = searchParams.get('tab') || 'sentences'
 
+  const topic = topicsData.find(t => t.id === topicId)
+  useEffect(() => { localStorage.setItem('lastTopicId', topicId) }, [topicId])
   const [chapterData, setChapterData] = useState(null)
   const [error, setError] = useState(false)
   const [loading, setLoading] = useState(true)
-
-  // Dynamic chapter loading for both topics
-  const allChapters = {
-    ...import.meta.glob('../data/travel/*.json'),
-    ...import.meta.glob('../data/airport/*.json'),
-  }
 
   useEffect(() => {
     setLoading(true)
     setError(false)
     setChapterData(null)
 
-    const key = Object.keys(allChapters).find(k => k.includes(`/${chapterId}.json`))
+    const modules = GLOB_MAP[topicId] ?? {}
+    const key = Object.keys(modules).find(k => k.includes(`/${chapterId}.json`))
     if (key) {
-      allChapters[key]().then(m => {
+      modules[key]().then(m => {
         setChapterData(m.default)
         setLoading(false)
       }).catch(() => {
@@ -52,7 +60,7 @@ export default function ChapterView() {
       setError(true)
       setLoading(false)
     }
-  }, [chapterId])
+  }, [topicId, chapterId])
 
   const switchTab = (tabId) => {
     if (tabId === 'settings') {
@@ -81,7 +89,7 @@ export default function ChapterView() {
         return (
           <SentencesTab
             sentences={sentences}
-            topicId="travel"
+            topicId={topicId}
             chapterId={chapterId}
           />
         )
@@ -119,7 +127,7 @@ export default function ChapterView() {
       {/* TopNav 固定頂部 */}
       <div className="sticky top-0 z-50">
         <TopNav
-          topicName={topicId === 'travel' ? '旅遊英文' : '初級旅遊英文(二)'}
+          topicName={topic?.name ?? topicId}
           chapterName={chapterData?.chapter_name ?? ''}
           onHome={() => navigate('/')}
           onTopic={() => navigate(`/${topicId}`)}
@@ -162,7 +170,7 @@ export default function ChapterView() {
         <BottomNav
           currentPage="home"
           onNavigate={(page) => {
-            if (page === 'home') navigate('/travel')
+            if (page === 'home') navigate(`/${topicId}`)
             if (page === 'quiz') switchTab('quiz')
             if (page === 'review') navigate('/review')
             if (page === 'settings') switchTab('settings')

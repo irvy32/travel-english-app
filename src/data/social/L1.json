@@ -1,0 +1,486 @@
+{
+  "chapter_id": "L1",
+  "chapter_name": "興趣與嗜好",
+  "description": "在輕鬆聊天時，能用英文介紹自己的興趣與嗜好，例如閱讀、旅行、園藝、攝影等。",
+  "sentences": [
+    {
+      "id": "L1-d1",
+      "role": "本人",
+      "en": "Hi, what do you like to do in your free time?",
+      "zh": "嗨，你平常有空的時候喜歡做什麼？",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        },
+        {
+          "word": "free",
+          "kk": "/fri/",
+          "zh": "空閒的；免費"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好",
+        "詢問"
+      ],
+      "tips": "問對方興趣說 What do you like to do in your free time?，比 What's your hobby? 更自然口語。",
+      "audio": null
+    },
+    {
+      "id": "L1-d2",
+      "role": "朋友",
+      "en": "I love gardening. It's very relaxing for me.",
+      "zh": "我喜歡園藝。這讓我非常放鬆。",
+      "keywords": [
+        {
+          "word": "gardening",
+          "kk": "/ˈɡɑrdnɪŋ/",
+          "zh": "園藝"
+        },
+        {
+          "word": "relaxing",
+          "kk": "/rɪˈlæksɪŋ/",
+          "zh": "放鬆的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好"
+      ],
+      "tips": "表達喜好可用 I enjoy、I love、I like，後面接動名詞（-ing）或名詞，三者語意相近，enjoy 語氣最強烈。",
+      "audio": null
+    },
+    {
+      "id": "L1-d3",
+      "role": "本人",
+      "en": "That's nice. I enjoy reading and taking a walk in the park.",
+      "zh": "那很好。我喜歡看書和在公園散步。",
+      "keywords": [
+        {
+          "word": "enjoy",
+          "kk": "/ɪnˈdʒɔɪ/",
+          "zh": "享受；喜歡"
+        },
+        {
+          "word": "reading",
+          "kk": "/ˈridɪŋ/",
+          "zh": "閱讀"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好"
+      ],
+      "tips": "表達喜好可用 I enjoy、I love、I like，後面接動名詞（-ing）或名詞，三者語意相近，enjoy 語氣最強烈。",
+      "audio": null
+    },
+    {
+      "id": "L1-d4",
+      "role": "朋友",
+      "en": "Do you read books in English?",
+      "zh": "你看英文書嗎？",
+      "keywords": [
+        {
+          "word": "read",
+          "kk": "/rid/",
+          "zh": "閱讀"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "聊興趣時，多問 And you? 或 What about you? 讓對方也有機會分享，對話才能自然延續。",
+      "audio": null
+    },
+    {
+      "id": "L1-d5",
+      "role": "本人",
+      "en": "Sometimes. It helps me learn new words.",
+      "zh": "有時候。這能幫我學習新單字。",
+      "keywords": [
+        {
+          "word": "learn",
+          "kk": "/lɜrn/",
+          "zh": "學習"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "聊興趣時，多問 And you? 或 What about you? 讓對方也有機會分享，對話才能自然延續。",
+      "audio": null
+    },
+    {
+      "id": "L1-d6",
+      "role": "朋友",
+      "en": "That's a good idea. I also like photography.",
+      "zh": "那是個好主意。我也喜歡攝影。",
+      "keywords": [
+        {
+          "word": "photography",
+          "kk": "/fəˈtɑɡrəfi/",
+          "zh": "攝影"
+        },
+        {
+          "word": "idea",
+          "kk": "/aɪˈdiə/",
+          "zh": "想法"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好"
+      ],
+      "tips": "聊興趣時，多問 And you? 或 What about you? 讓對方也有機會分享，對話才能自然延續。",
+      "audio": null
+    },
+    {
+      "id": "L1-d7",
+      "role": "本人",
+      "en": "Oh, what do you like to take pictures of?",
+      "zh": "喔，你喜歡拍什麼？",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        },
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "帶走；花費"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "聊興趣時，多問 And you? 或 What about you? 讓對方也有機會分享，對話才能自然延續。",
+      "audio": null
+    },
+    {
+      "id": "L1-d8",
+      "role": "朋友",
+      "en": "Mostly flowers and nature. I find them beautiful.",
+      "zh": "主要是花和自然風景。我覺得它們很美。",
+      "keywords": [
+        {
+          "word": "nature",
+          "kk": "/ˈneɪtʃər/",
+          "zh": "自然"
+        },
+        {
+          "word": "find",
+          "kk": "/faɪnd/",
+          "zh": "發現；找到"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "表達看法"
+      ],
+      "tips": "「I find + 名詞 + 形容詞」比直接說 It is... 更有個人色彩，如 I find hiking very refreshing（我覺得健行很提神）。",
+      "audio": null
+    },
+    {
+      "id": "L1-s1",
+      "role": "練習句",
+      "en": "My favorite hobby is gardening.",
+      "zh": "我最喜歡的興趣是園藝。",
+      "keywords": [
+        {
+          "word": "hobby",
+          "kk": "/ˈhɑbi/",
+          "zh": "嗜好，興趣"
+        },
+        {
+          "word": "gardening",
+          "kk": "/ˈɡɑrdnɪŋ/",
+          "zh": "園藝"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好"
+      ],
+      "tips": "表達喜好可用 I enjoy、I love、I like，後面接動名詞（-ing）或名詞，三者語意相近，enjoy 語氣最強烈。",
+      "audio": null
+    },
+    {
+      "id": "L1-s2",
+      "role": "練習句",
+      "en": "I enjoy listening to classical music.",
+      "zh": "我喜歡聽古典音樂。",
+      "keywords": [
+        {
+          "word": "enjoy",
+          "kk": "/ɪnˈdʒɔɪ/",
+          "zh": "享受；喜歡"
+        },
+        {
+          "word": "classical",
+          "kk": "/ˈklæsɪkəl/",
+          "zh": "古典的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "課程社團",
+        "音樂"
+      ],
+      "tips": "表達喜好可用 I enjoy、I love、I like，後面接動名詞（-ing）或名詞，三者語意相近，enjoy 語氣最強烈。",
+      "audio": null
+    },
+    {
+      "id": "L1-s3",
+      "role": "練習句",
+      "en": "I like to watch movies on weekends.",
+      "zh": "我喜歡在週末看電影。",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        },
+        {
+          "word": "watch",
+          "kk": "/wɑtʃ/",
+          "zh": "觀看；手錶"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "電影"
+      ],
+      "tips": "表達喜好可用 I enjoy、I love、I like，後面接動名詞（-ing）或名詞，三者語意相近，enjoy 語氣最強烈。",
+      "audio": null
+    },
+    {
+      "id": "L1-s4",
+      "role": "練習句",
+      "en": "Cooking is a fun activity for me.",
+      "zh": "烹飪對我來說是個有趣的活動。",
+      "keywords": [
+        {
+          "word": "cooking",
+          "kk": "/ˈkʊkɪŋ/",
+          "zh": "烹飪"
+        },
+        {
+          "word": "activity",
+          "kk": "/ækˈtɪvɪtɪ/",
+          "zh": "活動"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好"
+      ],
+      "tips": "聊興趣時，多問 And you? 或 What about you? 讓對方也有機會分享，對話才能自然延續。",
+      "audio": null
+    },
+    {
+      "id": "L1-s5",
+      "role": "練習句",
+      "en": "I find painting very relaxing.",
+      "zh": "我覺得畫畫非常放鬆。",
+      "keywords": [
+        {
+          "word": "relaxing",
+          "kk": "/rɪˈlæksɪŋ/",
+          "zh": "放鬆的"
+        },
+        {
+          "word": "find",
+          "kk": "/faɪnd/",
+          "zh": "發現；找到"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好",
+        "表達看法"
+      ],
+      "tips": "「I find + 名詞 + 形容詞」比直接說 It is... 更有個人色彩，如 I find hiking very refreshing（我覺得健行很提神）。",
+      "audio": null
+    },
+    {
+      "id": "L1-s6",
+      "role": "練習句",
+      "en": "Do you have any special hobbies?",
+      "zh": "你有什麼特別的嗜好嗎？",
+      "keywords": [
+        {
+          "word": "special",
+          "kk": "/ˈspɛʃəl/",
+          "zh": "特別的"
+        },
+        {
+          "word": "hobbies",
+          "kk": "/ˈhɑbɪz/",
+          "zh": "嗜好（複數）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好",
+        "詢問"
+      ],
+      "tips": "聊興趣時，多問 And you? 或 What about you? 讓對方也有機會分享，對話才能自然延續。",
+      "audio": null
+    },
+    {
+      "id": "L1-s7",
+      "role": "練習句",
+      "en": "How did you get interested in that?",
+      "zh": "你是怎麼對那個產生興趣的？",
+      "keywords": [
+        {
+          "word": "interested",
+          "kk": "/ˈɪntrɪstɪd/",
+          "zh": "感興趣的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "詢問對方從何時開始某嗜好，說 How did you get into...? 或 When did you start...?，語氣自然有親和力。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L1-w1",
+      "word": "hobby",
+      "kk": "/ˈhɑbi/",
+      "pos": "n.",
+      "zh": "嗜好，興趣",
+      "example_en": "My favorite hobby is gardening.",
+      "example_zh": "我最喜歡的興趣是種花種菜。"
+    },
+    {
+      "id": "L1-w2",
+      "word": "gardening",
+      "kk": "/ˈɡɑrdnɪŋ/",
+      "pos": "n.",
+      "zh": "園藝",
+      "example_en": "I spend my Saturday mornings gardening.",
+      "example_zh": "我週六早上都在做園藝。"
+    },
+    {
+      "id": "L1-w3",
+      "word": "photography",
+      "kk": "/fəˈtɑɡrəfi/",
+      "pos": "n.",
+      "zh": "攝影",
+      "example_en": "I'm learning photography from a friend.",
+      "example_zh": "我正在跟一位朋友學習攝影。"
+    },
+    {
+      "id": "L1-w4",
+      "word": "relaxing",
+      "kk": "/rɪˈlæksɪŋ/",
+      "pos": "adj.",
+      "zh": "放鬆的",
+      "example_en": "Taking a hot bath is very relaxing.",
+      "example_zh": "泡熱水澡非常放鬆。"
+    },
+    {
+      "id": "L1-w5",
+      "word": "free time",
+      "kk": "/fri taɪm/",
+      "pos": "n.",
+      "zh": "空閒時間",
+      "example_en": "What do you do in your free time?",
+      "example_zh": "你在空閒時間做什麼？"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L1-h1",
+      "title": "談興趣常用句型：I like... / I enjoy...",
+      "description": "I like... 和 I enjoy... 都可以用來說「我喜歡……」，後面可以加動名詞或名詞。",
+      "example_en": "I enjoy listening to music in the evening.",
+      "example_zh": "我喜歡在晚上聽音樂。"
+    },
+    {
+      "id": "L1-h2",
+      "title": "用 Do you...? 開啟話題",
+      "description": "想了解別人的興趣，可以用 Do you like...? 或 What do you like to do...? 來開啟對話。",
+      "example_en": "Do you like watching TV shows?",
+      "example_zh": "你喜歡看電視節目嗎？"
+    },
+    {
+      "id": "L1-h3",
+      "title": "用 I find... 表達感受",
+      "description": "I find + 名詞 + 形容詞 是一種表達你對某事感受的方式，比直接說 It is... 更個人化。",
+      "example_en": "I find hiking very healthy.",
+      "example_zh": "我覺得健行非常健康。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL1-mc-001",
+        "question": "下列哪一句英文的意思是「嗨，你平常有空的時候喜歡做什麼？」？",
+        "options": [
+          {
+            "en": "Hi, what do you like to do in your free time?",
+            "zh": "嗨，你平常有空的時候喜歡做什麼？"
+          },
+          {
+            "en": "I love gardening. It's very relaxing for me.",
+            "zh": "我喜歡園藝。這讓我非常放鬆。"
+          },
+          {
+            "en": "That's nice. I enjoy reading and taking a walk in the park.",
+            "zh": "那很好。我喜歡看書和在公園散步。"
+          },
+          {
+            "en": "Do you read books in English?",
+            "zh": "你看英文書嗎？"
+          }
+        ],
+        "answer": "Hi, what do you like to do in your free time?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL1-fi-001",
+        "question": "Hi, what do you like to do in your free ______?",
+        "answer": "time"
+      },
+      {
+        "id": "qL1-fi-002",
+        "question": "I love ______. It's very relaxing for me.",
+        "answer": "gardening"
+      },
+      {
+        "id": "qL1-fi-003",
+        "question": "That's nice. I ______ reading and taking a walk in the park.",
+        "answer": "enjoy"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL1-li-001",
+        "sentence_id": "L1-d1"
+      },
+      {
+        "id": "qL1-li-002",
+        "sentence_id": "L1-d3"
+      },
+      {
+        "id": "qL1-li-003",
+        "sentence_id": "L1-d5"
+      }
+    ]
+  }
+}

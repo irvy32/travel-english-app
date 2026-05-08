@@ -1,0 +1,420 @@
+{
+  "chapter_id": "L6",
+  "chapter_name": "醫療與緊急狀況",
+  "description": "身體不舒服或受傷，前往診所、醫院或藥局說明症狀。包含描述症狀與發生經過，簡單說明過去病史，向保險公司或醫護人員解釋情況。",
+  "sentences": [
+    {
+      "id": "L6-d1",
+      "role": "旅客",
+      "en": "Doctor, I've been having a persistent headache and feel nauseous since yesterday.",
+      "zh": "醫生，從昨天開始我就一直頭痛，而且覺得噁心想吐。",
+      "keywords": [
+        {
+          "word": "persistent",
+          "kk": "/pɚˈsɪstənt/",
+          "zh": "持續的，頑固的"
+        },
+        {
+          "word": "nauseous",
+          "kk": "/ˈnɔʃəs/",
+          "zh": "感到噁心的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "海外就醫時，清楚說明症狀和持續時間，如 I've had a fever for two days，幫助醫生更快做出診斷。",
+      "audio": null
+    },
+    {
+      "id": "L6-d2",
+      "role": "醫生",
+      "en": "I see. Have you taken any medication for it?",
+      "zh": "我明白了。你有吃任何藥嗎？",
+      "keywords": [
+        {
+          "word": "medication",
+          "kk": "/ˌmɛdɪˈkeɪʃən/",
+          "zh": "藥物"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療緊急"
+      ],
+      "tips": "就醫時清楚說明過敏史：I'm allergic to... 及目前用藥 I'm currently taking...，幫助醫生避免處方錯誤。",
+      "audio": null
+    },
+    {
+      "id": "L6-d3",
+      "role": "旅客",
+      "en": "I took some painkillers, but they didn't really help. I also feel a bit feverish.",
+      "zh": "我吃了一些止痛藥，但沒什麼用。我還覺得有點發燒。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "醫療緊急"
+      ],
+      "tips": "海外就醫時，清楚說明症狀和持續時間，如 I've had a fever for two days，幫助醫生更快做出診斷。",
+      "audio": null
+    },
+    {
+      "id": "L6-d4",
+      "role": "醫生",
+      "en": "Let me check your temperature and blood pressure. Do you have any allergies or existing medical conditions?",
+      "zh": "讓我量一下你的體溫和血壓。你有任何過敏或既有的健康問題嗎？",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "投訴"
+      ],
+      "tips": "海外就醫時，清楚說明症狀和持續時間，如 I've had a fever for two days，幫助醫生更快做出診斷。",
+      "audio": null
+    },
+    {
+      "id": "L6-d5",
+      "role": "旅客",
+      "en": "I'm allergic to penicillin. And I have high blood pressure, but it's under control with medication.",
+      "zh": "我對盤尼西林過敏。還有我有高血壓，但一直用藥物控制得很好。",
+      "keywords": [
+        {
+          "word": "allergic",
+          "kk": "/əˈlɜrdʒɪk/",
+          "zh": "過敏的"
+        },
+        {
+          "word": "medication",
+          "kk": "/ˌmɛdɪˈkeɪʃən/",
+          "zh": "藥物"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "醫療緊急"
+      ],
+      "tips": "就醫時清楚說明過敏史：I'm allergic to... 及目前用藥 I'm currently taking...，幫助醫生避免處方錯誤。",
+      "audio": null
+    },
+    {
+      "id": "L6-d6",
+      "role": "醫生",
+      "en": "Thank you. It sounds like it could be a mild infection. I'm going to prescribe you some antibiotics that are safe for you.",
+      "zh": "謝謝。聽起來可能是輕微感染。我開一些對你安全的抗生素給你。",
+      "keywords": [
+        {
+          "word": "infection",
+          "kk": "/ɪnˈfɛkʃən/",
+          "zh": "感染"
+        },
+        {
+          "word": "prescribe",
+          "kk": "/prɪˈskraɪb/",
+          "zh": "開（藥方）"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "海外就醫時，清楚說明症狀和持續時間，如 I've had a fever for two days，幫助醫生更快做出診斷。",
+      "audio": null
+    },
+    {
+      "id": "L6-d7",
+      "role": "旅客",
+      "en": "Will I be able to fly home in two days?",
+      "zh": "我兩天後還能飛回家嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "海外就醫時，清楚說明症狀和持續時間，如 I've had a fever for two days，幫助醫生更快做出診斷。",
+      "audio": null
+    },
+    {
+      "id": "L6-d8",
+      "role": "醫生",
+      "en": "You should be fine if you rest and stay hydrated. I'll also give you a note for your travel insurance.",
+      "zh": "如果你多休息、多喝水，應該沒問題。我也會給你一張證明，供旅遊保險使用。",
+      "keywords": [
+        {
+          "word": "insurance",
+          "kk": "/ɪnˈʃʊrəns/",
+          "zh": "保險"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "醫療緊急"
+      ],
+      "tips": "出發前確認旅遊保險的 coverage（保障範圍），就醫後保留所有收據，回國後再申請 reimbursement（理賠）。",
+      "audio": null
+    },
+    {
+      "id": "L6-s1",
+      "role": "練習句",
+      "en": "I think I sprained my ankle while walking.",
+      "zh": "我想我走路時扭傷了腳踝。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "海外就醫時，清楚說明症狀和持續時間，如 I've had a fever for two days，幫助醫生更快做出診斷。",
+      "audio": null
+    },
+    {
+      "id": "L6-s2",
+      "role": "練習句",
+      "en": "I have a rash on my arm that's very itchy.",
+      "zh": "我手臂上有一片很癢的皮疹。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "海外就醫時，清楚說明症狀和持續時間，如 I've had a fever for two days，幫助醫生更快做出診斷。",
+      "audio": null
+    },
+    {
+      "id": "L6-s3",
+      "role": "練習句",
+      "en": "The pain started suddenly last night.",
+      "zh": "疼痛是昨晚突然開始的。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "海外就醫時，清楚說明症狀和持續時間，如 I've had a fever for two days，幫助醫生更快做出診斷。",
+      "audio": null
+    },
+    {
+      "id": "L6-s4",
+      "role": "練習句",
+      "en": "I'm currently on medication for diabetes.",
+      "zh": "我目前正在服用糖尿病藥物。",
+      "keywords": [
+        {
+          "word": "medication",
+          "kk": "/ˌmɛdɪˈkeɪʃən/",
+          "zh": "藥物"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療緊急"
+      ],
+      "tips": "就醫時清楚說明過敏史：I'm allergic to... 及目前用藥 I'm currently taking...，幫助醫生避免處方錯誤。",
+      "audio": null
+    },
+    {
+      "id": "L6-s5",
+      "role": "練習句",
+      "en": "Is there a pharmacy that's open late nearby?",
+      "zh": "附近有營業到很晚的藥局嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "海外就醫時，清楚說明症狀和持續時間，如 I've had a fever for two days，幫助醫生更快做出診斷。",
+      "audio": null
+    },
+    {
+      "id": "L6-s6",
+      "role": "練習句",
+      "en": "I need a medical certificate for my insurance company.",
+      "zh": "我需要一份給保險公司的醫療證明。",
+      "keywords": [
+        {
+          "word": "insurance",
+          "kk": "/ɪnˈʃʊrəns/",
+          "zh": "保險"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療緊急"
+      ],
+      "tips": "海外就醫時，清楚說明症狀和持續時間，如 I've had a fever for two days，幫助醫生更快做出診斷。",
+      "audio": null
+    },
+    {
+      "id": "L6-s7",
+      "role": "練習句",
+      "en": "Could you explain the dosage instructions to me, please?",
+      "zh": "可以請您向我解釋用藥劑量說明嗎？",
+      "keywords": [
+        {
+          "word": "dosage",
+          "kk": "/ˈdoʊsɪdʒ/",
+          "zh": "劑量"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "長住租屋",
+        "禮貌用語",
+        "委婉請求"
+      ],
+      "tips": "提出要求時，Could you...? 或 Is it possible to...? 比直接命令（Fix this!）更禮貌，也更容易獲得正面回應。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L6-w1",
+      "word": "persistent",
+      "kk": "/pɚˈsɪstənt/",
+      "pos": "adj.",
+      "zh": "持續的，頑固的",
+      "example_en": "She has a persistent cough that won't go away.",
+      "example_zh": "她有一個持續不退的咳嗽。"
+    },
+    {
+      "id": "L6-w2",
+      "word": "nauseous",
+      "kk": "/ˈnɔʃəs/",
+      "pos": "adj.",
+      "zh": "感到噁心的",
+      "example_en": "The bumpy car ride made me feel nauseous.",
+      "example_zh": "顛簸的車程讓我覺得噁心。"
+    },
+    {
+      "id": "L6-w3",
+      "word": "allergy",
+      "kk": "/ˈælɚdʒi/",
+      "pos": "n.",
+      "zh": "過敏",
+      "example_en": "I have a severe allergy to nuts.",
+      "example_zh": "我對堅果有嚴重過敏。"
+    },
+    {
+      "id": "L6-w4",
+      "word": "infection",
+      "kk": "/ɪnˈfɛkʃən/",
+      "pos": "n.",
+      "zh": "感染",
+      "example_en": "The doctor said it's just a minor throat infection.",
+      "example_zh": "醫生說只是輕微的喉嚨感染。"
+    },
+    {
+      "id": "L6-w5",
+      "word": "prescribe",
+      "kk": "/prɪˈskraɪb/",
+      "pos": "v.",
+      "zh": "開（藥方）",
+      "example_en": "The doctor prescribed antibiotics and plenty of rest.",
+      "example_zh": "醫生開了抗生素並要求充分休息。"
+    },
+    {
+      "id": "L6-w6",
+      "word": "sprain",
+      "kk": "/spren/",
+      "pos": "v.",
+      "zh": "扭傷",
+      "example_en": "Be careful not to sprain your wrist.",
+      "example_zh": "小心不要扭傷手腕。"
+    },
+    {
+      "id": "L6-w7",
+      "word": "dosage",
+      "kk": "/ˈdoʊsɪdʒ/",
+      "pos": "n.",
+      "zh": "劑量",
+      "example_en": "What's the correct dosage for this medicine?",
+      "example_zh": "這種藥的正確劑量是多少？"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L6-h1",
+      "title": "描述症狀：部位、感覺、持續時間",
+      "description": "清晰地告訴醫生症狀發生的部位（如 chest, throat）、感覺（如 sharp pain, dull ache）以及持續了多久。",
+      "example_en": "I've had a dull ache in my lower back for three days.",
+      "example_zh": "我的下背部已經隱隱作痛三天了。"
+    },
+    {
+      "id": "L6-h2",
+      "title": "說明過敏史與慢性病",
+      "description": "這是看診時最重要的資訊之一，務必主動告知醫生你已知的過敏原（如 penicillin）和慢性病（如 hypertension）。",
+      "example_en": "I should mention that I'm allergic to sulfa drugs.",
+      "example_zh": "我應該說明我對磺胺類藥物過敏。"
+    },
+    {
+      "id": "L6-h3",
+      "title": "詢問用藥指示與保險文件",
+      "description": "拿到處方藥時，確認用法（frequency）、劑量（dosage）和注意事項（precautions）。同時記得索取醫療證明（medical certificate）以便保險理賠。",
+      "example_en": "Should I take this medication before or after meals?",
+      "example_zh": "我應該飯前還是飯後服用這種藥？"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL6-mc-001",
+        "question": "下列哪一句英文的意思是「醫生，從昨天開始我就一直頭痛，而且覺得噁心想吐。」？",
+        "options": [
+          {
+            "en": "Doctor, I've been having a persistent headache and feel nauseous since yesterday.",
+            "zh": "醫生，從昨天開始我就一直頭痛，而且覺得噁心想吐。"
+          },
+          {
+            "en": "I see. Have you taken any medication for it?",
+            "zh": "我明白了。你有吃任何藥嗎？"
+          },
+          {
+            "en": "I took some painkillers, but they didn't really help. I also feel a bit feverish.",
+            "zh": "我吃了一些止痛藥，但沒什麼用。我還覺得有點發燒。"
+          },
+          {
+            "en": "Let me check your temperature and blood pressure. Do you have any allergies or existing medical conditions?",
+            "zh": "讓我量一下你的體溫和血壓。你有任何過敏或既有的健康問題嗎？"
+          }
+        ],
+        "answer": "Doctor, I've been having a persistent headache and feel nauseous since yesterday."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL6-fi-001",
+        "question": "Doctor, I've been ______ a persistent headache and feel nauseous since yesterday.",
+        "answer": "having"
+      },
+      {
+        "id": "qL6-fi-002",
+        "question": "I see. Have you taken any ______ for it?",
+        "answer": "medication"
+      },
+      {
+        "id": "qL6-fi-003",
+        "question": "I took some ______, but they didn't really help. I also feel a bit feverish.",
+        "answer": "painkillers"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL6-li-001",
+        "sentence_id": "L6-d1"
+      },
+      {
+        "id": "qL6-li-002",
+        "sentence_id": "L6-d3"
+      },
+      {
+        "id": "qL6-li-003",
+        "sentence_id": "L6-d5"
+      }
+    ]
+  }
+}

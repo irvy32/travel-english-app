@@ -1,0 +1,473 @@
+{
+  "chapter_id": "L2",
+  "chapter_name": "運動與健康",
+  "description": "和朋友聊運動習慣與健康。包含：喜歡的運動（散步、游泳、瑜伽等）、運動頻率、簡單談保持健康的方式。",
+  "sentences": [
+    {
+      "id": "L2-d1",
+      "role": "朋友",
+      "en": "You look great. Do you exercise often?",
+      "zh": "你看起來氣色很好。你常運動嗎？",
+      "keywords": [
+        {
+          "word": "exercise",
+          "kk": "/ˈɛksɚˌsaɪz/",
+          "zh": "運動，鍛鍊"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "運動健康",
+        "詢問"
+      ],
+      "tips": "談運動習慣時，work out（健身）、exercise（運動）和 stay active（保持活動力）是最常用的三種說法。",
+      "audio": null
+    },
+    {
+      "id": "L2-d2",
+      "role": "本人",
+      "en": "Thank you. I go for a walk almost every morning.",
+      "zh": "謝謝。我幾乎每天早上都去散步。",
+      "keywords": [
+        {
+          "word": "walk",
+          "kk": "/wɔk/",
+          "zh": "走路；散步"
+        },
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "談運動習慣時，說 I try to exercise regularly 比 I exercise every day 更誠實也更貼近生活。",
+      "audio": null
+    },
+    {
+      "id": "L2-d3",
+      "role": "朋友",
+      "en": "That's a good habit. How long do you walk for?",
+      "zh": "那是個好習慣。你走多久？",
+      "keywords": [
+        {
+          "word": "habit",
+          "kk": "/ˈhæbɪt/",
+          "zh": "習慣"
+        },
+        {
+          "word": "walk",
+          "kk": "/wɔk/",
+          "zh": "走路；散步"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "談運動習慣時，說 I try to exercise regularly 比 I exercise every day 更誠實也更貼近生活。",
+      "audio": null
+    },
+    {
+      "id": "L2-d4",
+      "role": "本人",
+      "en": "About 30 minutes. Sometimes I do some stretching too.",
+      "zh": "大約30分鐘。有時候我也會做一些伸展運動。",
+      "keywords": [
+        {
+          "word": "stretching",
+          "kk": "/ˈstrɛtʃɪŋ/",
+          "zh": "伸展運動"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談運動習慣時，work out（健身）、exercise（運動）和 stay active（保持活動力）是最常用的三種說法。",
+      "audio": null
+    },
+    {
+      "id": "L2-d5",
+      "role": "朋友",
+      "en": "I try to swim twice a week. It's good for my back.",
+      "zh": "我試著每週游泳兩次。對我的背很好。",
+      "keywords": [
+        {
+          "word": "try",
+          "kk": "/traɪ/",
+          "zh": "嘗試"
+        },
+        {
+          "word": "week",
+          "kk": "/wik/",
+          "zh": "週"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談運動習慣時，說 I try to exercise regularly 比 I exercise every day 更誠實也更貼近生活。",
+      "audio": null
+    },
+    {
+      "id": "L2-d6",
+      "role": "本人",
+      "en": "Swimming is excellent exercise. I'm not a good swimmer.",
+      "zh": "游泳是非常好的運動。我不太會游泳。",
+      "keywords": [
+        {
+          "word": "exercise",
+          "kk": "/ˈɛksɚˌsaɪz/",
+          "zh": "運動，鍛鍊"
+        },
+        {
+          "word": "swimming",
+          "kk": "/ˈswɪmɪŋ/",
+          "zh": "游泳"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "運動健康"
+      ],
+      "tips": "談運動習慣時，work out（健身）、exercise（運動）和 stay active（保持活動力）是最常用的三種說法。",
+      "audio": null
+    },
+    {
+      "id": "L2-d7",
+      "role": "朋友",
+      "en": "Maybe we can try a yoga class together. It's good for flexibility.",
+      "zh": "也許我們可以一起試試瑜伽課。對身體柔軟度很好。",
+      "keywords": [
+        {
+          "word": "flexibility",
+          "kk": "/ˌflɛksəˈbɪlɪti/",
+          "zh": "柔軟度，靈活性"
+        },
+        {
+          "word": "try",
+          "kk": "/traɪ/",
+          "zh": "嘗試"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "運動健康",
+        "課程社團"
+      ],
+      "tips": "談運動習慣時，work out（健身）、exercise（運動）和 stay active（保持活動力）是最常用的三種說法。",
+      "audio": null
+    },
+    {
+      "id": "L2-d8",
+      "role": "本人",
+      "en": "That sounds like a nice idea. Let me know the time.",
+      "zh": "聽起來是個好主意。告訴我時間。",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        },
+        {
+          "word": "idea",
+          "kk": "/aɪˈdiə/",
+          "zh": "想法"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "提出計畫後說 Let me know if that works for you，給對方彈性回應，是禮貌邀約的重要結尾句。",
+      "audio": null
+    },
+    {
+      "id": "L2-s1",
+      "role": "練習句",
+      "en": "I walk for 20 minutes every day.",
+      "zh": "我每天走路20分鐘。",
+      "keywords": [
+        {
+          "word": "walk",
+          "kk": "/wɔk/",
+          "zh": "走路；散步"
+        },
+        {
+          "word": "day",
+          "kk": "/deɪ/",
+          "zh": "天；白天"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談運動習慣時，說 I try to exercise regularly 比 I exercise every day 更誠實也更貼近生活。",
+      "audio": null
+    },
+    {
+      "id": "L2-s2",
+      "role": "練習句",
+      "en": "Swimming is my favorite exercise.",
+      "zh": "游泳是我最喜歡的運動。",
+      "keywords": [
+        {
+          "word": "exercise",
+          "kk": "/ˈɛksɚˌsaɪz/",
+          "zh": "運動，鍛鍊"
+        },
+        {
+          "word": "swimming",
+          "kk": "/ˈswɪmɪŋ/",
+          "zh": "游泳"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "運動健康"
+      ],
+      "tips": "談運動習慣時，work out（健身）、exercise（運動）和 stay active（保持活動力）是最常用的三種說法。",
+      "audio": null
+    },
+    {
+      "id": "L2-s3",
+      "role": "練習句",
+      "en": "I do yoga to stay flexible.",
+      "zh": "我做瑜伽來保持身體柔軟。",
+      "keywords": [
+        {
+          "word": "yoga",
+          "kk": "/ˈjoʊɡə/",
+          "zh": "瑜伽"
+        },
+        {
+          "word": "flexible",
+          "kk": "/ˈflɛksɪbəl/",
+          "zh": "柔軟的；靈活的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "運動健康"
+      ],
+      "tips": "談運動習慣時，work out（健身）、exercise（運動）和 stay active（保持活動力）是最常用的三種說法。",
+      "audio": null
+    },
+    {
+      "id": "L2-s4",
+      "role": "練習句",
+      "en": "Exercise helps me sleep better.",
+      "zh": "運動幫助我睡得更好。",
+      "keywords": [
+        {
+          "word": "exercise",
+          "kk": "/ˈɛksɚˌsaɪz/",
+          "zh": "運動，鍛鍊"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "運動健康"
+      ],
+      "tips": "談運動習慣時，work out（健身）、exercise（運動）和 stay active（保持活動力）是最常用的三種說法。",
+      "audio": null
+    },
+    {
+      "id": "L2-s5",
+      "role": "練習句",
+      "en": "I try to eat more vegetables.",
+      "zh": "我試著多吃蔬菜。",
+      "keywords": [
+        {
+          "word": "try",
+          "kk": "/traɪ/",
+          "zh": "嘗試"
+        },
+        {
+          "word": "eat",
+          "kk": "/it/",
+          "zh": "吃"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談運動習慣時，說 I try to exercise regularly 比 I exercise every day 更誠實也更貼近生活。",
+      "audio": null
+    },
+    {
+      "id": "L2-s6",
+      "role": "練習句",
+      "en": "Drinking enough water is important.",
+      "zh": "喝足夠的水很重要。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談運動習慣時，說 I try to exercise regularly 比 I exercise every day 更誠實也更貼近生活。",
+      "audio": null
+    },
+    {
+      "id": "L2-s7",
+      "role": "練習句",
+      "en": "How do you stay healthy?",
+      "zh": "你是如何保持健康的？",
+      "keywords": [
+        {
+          "word": "healthy",
+          "kk": "/ˈhɛlθi/",
+          "zh": "健康的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "運動健康",
+        "詢問"
+      ],
+      "tips": "描述健康生活說 I try to eat healthy 或 I watch my diet，比直接說 I'm on a diet 更不帶負面意味。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L2-w1",
+      "word": "exercise",
+      "kk": "/ˈɛksɚˌsaɪz/",
+      "pos": "v./n.",
+      "zh": "運動，鍛鍊",
+      "example_en": "It's important to exercise regularly.",
+      "example_zh": "定期運動很重要。"
+    },
+    {
+      "id": "L2-w2",
+      "word": "stretching",
+      "kk": "/ˈstrɛtʃɪŋ/",
+      "pos": "n.",
+      "zh": "伸展運動",
+      "example_en": "I do some stretching before I walk.",
+      "example_zh": "我走路前會做一些伸展運動。"
+    },
+    {
+      "id": "L2-w3",
+      "word": "flexibility",
+      "kk": "/ˌflɛksəˈbɪlɪti/",
+      "pos": "n.",
+      "zh": "柔軟度，靈活性",
+      "example_en": "Yoga helps improve my flexibility.",
+      "example_zh": "瑜伽幫助改善我的柔軟度。"
+    },
+    {
+      "id": "L2-w4",
+      "word": "habit",
+      "kk": "/ˈhæbɪt/",
+      "pos": "n.",
+      "zh": "習慣",
+      "example_en": "Walking every day is a good habit.",
+      "example_zh": "每天走路是個好習慣。"
+    },
+    {
+      "id": "L2-w5",
+      "word": "healthy",
+      "kk": "/ˈhɛlθi/",
+      "pos": "adj.",
+      "zh": "健康的",
+      "example_en": "I try to eat healthy food.",
+      "example_zh": "我試著吃健康的食物。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L2-h1",
+      "title": "用頻率副詞談運動習慣",
+      "description": "表達做運動的頻率，可以用 always, usually, often, sometimes, never 等詞，放在動詞前面。",
+      "example_en": "I sometimes go swimming on the weekend.",
+      "example_zh": "我有時在週末去游泳。"
+    },
+    {
+      "id": "L2-h2",
+      "title": "說明運動的好處：It's good for...",
+      "description": "談論某項運動的益處時，可以用 It's good for... 後面接身體部位或健康目標。",
+      "example_en": "Walking is good for your heart.",
+      "example_zh": "走路對你的心臟有益。"
+    },
+    {
+      "id": "L2-h3",
+      "title": "提出一起運動的邀約",
+      "description": "想和對方一起運動，可以用 Maybe we can... together. 來提議，非常友善。",
+      "example_en": "Maybe we can go for a walk together sometime.",
+      "example_zh": "也許我們可以找個時間一起去散步。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL2-mc-001",
+        "question": "下列哪一句英文的意思是「你看起來氣色很好。你常運動嗎？」？",
+        "options": [
+          {
+            "en": "You look great. Do you exercise often?",
+            "zh": "你看起來氣色很好。你常運動嗎？"
+          },
+          {
+            "en": "Thank you. I go for a walk almost every morning.",
+            "zh": "謝謝。我幾乎每天早上都去散步。"
+          },
+          {
+            "en": "That's a good habit. How long do you walk for?",
+            "zh": "那是個好習慣。你走多久？"
+          },
+          {
+            "en": "About 30 minutes. Sometimes I do some stretching too.",
+            "zh": "大約30分鐘。有時候我也會做一些伸展運動。"
+          }
+        ],
+        "answer": "You look great. Do you exercise often?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL2-fi-001",
+        "question": "You ______ great. Do you exercise often?",
+        "answer": "look"
+      },
+      {
+        "id": "qL2-fi-002",
+        "question": "Thank you. I go for a ______ almost every morning.",
+        "answer": "walk"
+      },
+      {
+        "id": "qL2-fi-003",
+        "question": "That's a good ______. How long do you walk for?",
+        "answer": "habit"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL2-li-001",
+        "sentence_id": "L2-d1"
+      },
+      {
+        "id": "qL2-li-002",
+        "sentence_id": "L2-d3"
+      },
+      {
+        "id": "qL2-li-003",
+        "sentence_id": "L2-d5"
+      }
+    ]
+  }
+}

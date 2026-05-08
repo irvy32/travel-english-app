@@ -1,0 +1,494 @@
+{
+  "chapter_id": "L10",
+  "chapter_name": "餐廳點餐與超市購物",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "服務生",
+      "en": "Good evening. A table for two?",
+      "zh": "晚上好，兩位嗎？",
+      "keywords": [
+        {
+          "word": "evening",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "table",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "服務生",
+        "餐廳",
+        "超市",
+        "購物"
+      ],
+      "tips": "進入餐廳時，服務生常問人數，「A table for two?」是標準問句，直接回答「Yes, please.」即可。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "旅客",
+      "en": "Yes, please.",
+      "zh": "是的，麻煩了。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "超市",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「Yes, please.」是接受邀請或確認的標準回應，簡短有禮，適合多種服務場合。",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "服務生",
+      "en": "Here are the menus. Can I get you something to drink first?",
+      "zh": "這是菜單。我先幫您們拿點喝的嗎？",
+      "keywords": [
+        {
+          "word": "menu",
+          "kk": "/ˈmɛnju/",
+          "zh": "菜單"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "服務生",
+        "餐廳",
+        "超市",
+        "購物"
+      ],
+      "tips": "「Here are the menus.」是遞菜單時的說法，服務生常接著問飲料，可先說「Just water, please.」",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "旅客",
+      "en": "Two glasses of water, please.",
+      "zh": "請給我們兩杯水。",
+      "keywords": [
+        {
+          "word": "glasses",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "water",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "超市",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「Two glasses of water, please.」是為兩人點水的說法，數量加上容器名稱是最清楚的點飲方式。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "服務生",
+      "en": "Are you ready to order?",
+      "zh": "您們準備好點餐了嗎？",
+      "keywords": [
+        {
+          "word": "order",
+          "kk": "/ˈɔrdɚ/",
+          "zh": "點餐"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "服務生",
+        "餐廳",
+        "超市",
+        "購物"
+      ],
+      "tips": "「Are you ready to order?」是服務生詢問是否可以點餐，還沒決定可說「Not yet, please.」",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "旅客",
+      "en": "I'd like the grilled fish, please.",
+      "zh": "請給我烤魚。",
+      "keywords": [
+        {
+          "word": "grilled",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "超市",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「I'd like the grilled fish.」點餐時說菜名即可，grilled指烤的，了解常見烹飪方式有助於點餐。",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "旅客",
+      "en": "I'll have the pasta.",
+      "zh": "我要義大利麵。",
+      "keywords": [
+        {
+          "word": "pasta",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "超市",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「I'll have the pasta.」是點餐的另一種說法，「I'll have...」和「I'd like...」意思相近。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "服務生",
+      "en": "Would you like soup or salad with your meal?",
+      "zh": "您的餐點要附湯還是沙拉？",
+      "keywords": [
+        {
+          "word": "salad",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "服務生",
+        "餐廳",
+        "超市",
+        "購物"
+      ],
+      "tips": "「Would you like soup or salad?」詢問附餐選擇，是西式餐廳常見的套餐附加問題。",
+      "audio": null
+    },
+    {
+      "id": "d9",
+      "role": "旅客",
+      "en": "Salad, please.",
+      "zh": "請給我沙拉。",
+      "keywords": [
+        {
+          "word": "salad",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "超市",
+        "購物",
+        "旅客"
+      ],
+      "tips": "直接說食物名稱加上「please」即可回答附餐選擇，簡單清楚：「Salad, please.」",
+      "audio": null
+    },
+    {
+      "id": "d10",
+      "role": "旅客",
+      "en": "Can I have the bill, please?",
+      "zh": "請給我帳單好嗎？",
+      "keywords": [
+        {
+          "word": "bill",
+          "kk": "/bɪl/",
+          "zh": "帳單"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "超市",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「Can I have the bill, please?」是結帳的標準說法，英式英語也說「Can I have the check?」",
+      "audio": null
+    },
+    {
+      "id": "d11",
+      "role": "服務生",
+      "en": "Here you are. The total is 45 dollars.",
+      "zh": "給您。總共是45美元。",
+      "keywords": [
+        {
+          "word": "total",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "dollars",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "服務生",
+        "餐廳",
+        "超市",
+        "購物"
+      ],
+      "tips": "「Here you are.」遞帳單時使用，服務生會說出總金額，確認無誤再付款。",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "旅客",
+      "en": "Keep the change.",
+      "zh": "不用找了。",
+      "keywords": [
+        {
+          "word": "change",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "超市",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「Keep the change.」表示不用找零，是在給小費文化盛行的國家（如美國）常見的說法。",
+      "audio": null
+    },
+    {
+      "id": "d13",
+      "role": "旅客",
+      "en": "Excuse me, where can I find milk?",
+      "zh": "不好意思，請問牛奶在哪裡？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "超市",
+        "購物",
+        "旅客"
+      ],
+      "tips": "在超市找商品時，「Excuse me, where can I find...?」是向店員詢問位置的禮貌說法。",
+      "audio": null
+    },
+    {
+      "id": "d14",
+      "role": "店員",
+      "en": "In aisle 3, at the back.",
+      "zh": "在第三走道，後面。",
+      "keywords": [
+        {
+          "word": "aisle",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "店員",
+        "餐廳",
+        "超市",
+        "購物"
+      ],
+      "tips": "「In aisle 3, at the back.」指在第三走道後方，aisle是超市的走道，記住數字找到商品更快。",
+      "audio": null
+    },
+    {
+      "id": "d15",
+      "role": "旅客",
+      "en": "Is this bread on sale?",
+      "zh": "這個麵包有特價嗎？",
+      "keywords": [
+        {
+          "word": "bread",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "餐廳",
+        "超市",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「Is this...on sale?」詢問是否特價，on sale表示打折特賣，注意和for sale（出售）意思不同。",
+      "audio": null
+    },
+    {
+      "id": "d16",
+      "role": "店員",
+      "en": "Yes, it's buy one get one free today.",
+      "zh": "有的，今天是買一送一。",
+      "keywords": [
+        {
+          "word": "today",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "店員",
+        "餐廳",
+        "超市",
+        "購物"
+      ],
+      "tips": "「buy one get one free」是買一送一的說法，是超市和免稅店最常見的促銷活動之一。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL10-mc-001",
+        "question": "進餐廳，想要一張四人桌，應該說？",
+        "options": [
+          {
+            "en": "Table for four, please.",
+            "zh": "請給我們一張四人桌。"
+          },
+          {
+            "en": "Four tables, please.",
+            "zh": "請給我四張桌子。"
+          },
+          {
+            "en": "We are four people.",
+            "zh": "我們有四個人。"
+          },
+          {
+            "en": "I need four chairs.",
+            "zh": "我需要四張椅子。"
+          }
+        ],
+        "answer": "Table for four, please."
+      },
+      {
+        "id": "qL10-mc-002",
+        "question": "服務生問「Are you ready to order?」你還沒決定，應回答？",
+        "options": [
+          {
+            "en": "Yes, I'd like the steak.",
+            "zh": "好的，我要牛排。"
+          },
+          {
+            "en": "Not yet, please give us a moment.",
+            "zh": "還沒，請給我們一點時間。"
+          },
+          {
+            "en": "What do you have?",
+            "zh": "你們有什麼？"
+          },
+          {
+            "en": "I'll have water.",
+            "zh": "我要水。"
+          }
+        ],
+        "answer": "Not yet, please give us a moment."
+      },
+      {
+        "id": "qL10-mc-003",
+        "question": "「Keep the change.」這句話的意思是？",
+        "options": [
+          {
+            "en": "Please give me change.",
+            "zh": "請找零給我。"
+          },
+          {
+            "en": "No need to give me change / keep the tip.",
+            "zh": "不用找零了（意即給小費）。"
+          },
+          {
+            "en": "I will pay later.",
+            "zh": "我之後再付。"
+          },
+          {
+            "en": "The change is wrong.",
+            "zh": "找錯零錢了。"
+          }
+        ],
+        "answer": "No need to give me change / keep the tip."
+      },
+      {
+        "id": "qL10-mc-004",
+        "question": "在超市詢問麵包是否特價，應說？",
+        "options": [
+          {
+            "en": "Is this bread for sale?",
+            "zh": "這個麵包在賣嗎？"
+          },
+          {
+            "en": "Is this bread on sale?",
+            "zh": "這個麵包有特價嗎？"
+          },
+          {
+            "en": "Is this bread free?",
+            "zh": "這個麵包免費嗎？"
+          },
+          {
+            "en": "How old is this bread?",
+            "zh": "這個麵包有多舊？"
+          }
+        ],
+        "answer": "Is this bread on sale?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL10-fi-001",
+        "question": "Can I have the ______, please?（請給我帳單好嗎？）",
+        "answer": "bill"
+      },
+      {
+        "id": "qL10-fi-002",
+        "question": "What do you ______?（你有什麼推薦的嗎？）",
+        "answer": "recommend"
+      },
+      {
+        "id": "qL10-fi-003",
+        "question": "I'd like to pay ______.（我們想分開付帳。）",
+        "answer": "separately"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL10-li-001",
+        "sentence_id": "d2"
+      },
+      {
+        "id": "qL10-li-002",
+        "sentence_id": "d6"
+      },
+      {
+        "id": "qL10-li-003",
+        "sentence_id": "d13"
+      }
+    ]
+  }
+}

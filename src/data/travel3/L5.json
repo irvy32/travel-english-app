@@ -1,0 +1,406 @@
+{
+  "chapter_id": "L5",
+  "chapter_name": "登機與機上服務",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "空服員",
+      "en": "Welcome aboard. Your seat is 24A, on the left.",
+      "zh": "歡迎登機。您的座位是24A，在左邊。",
+      "keywords": [
+        {
+          "word": "aboard",
+          "kk": "/əˈbɔrd/",
+          "zh": "在飛機/船上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "空服員",
+        "登機",
+        "機上服務",
+        "機上"
+      ],
+      "tips": "「Welcome aboard.」是空服員歡迎旅客登機的標準用語，aboard表示在交通工具上。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "旅客",
+      "en": "Thank you. Can you help me with this bag?",
+      "zh": "謝謝。可以幫我放這個包包嗎？",
+      "keywords": [
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助、救命"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "登機",
+        "機上服務",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「Can you help me with...?」是禮貌請求幫助的句型，with後接需要協助的事物，語氣親切。",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "空服員",
+      "en": "Of course. I will put it in the overhead bin.",
+      "zh": "當然可以。我會把它放到上方的行李櫃。",
+      "keywords": [
+        {
+          "word": "overhead bin",
+          "kk": "/ˌovɚˈhɛd bɪn/",
+          "zh": "上方行李櫃"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "空服員",
+        "登機",
+        "機上服務",
+        "機上"
+      ],
+      "tips": "空服員協助放置行李時會說「I'll put it in the overhead bin.」，overhead bin指座位上方的行李櫃。",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "旅客",
+      "en": "Excuse me, could I have a blanket, please?",
+      "zh": "不好意思，可以給我一條毛毯嗎？",
+      "keywords": [
+        {
+          "word": "blanket",
+          "kk": "/ˈblæŋkɪt/",
+          "zh": "毛毯"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "登機",
+        "機上服務",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「Excuse me, could I have...?」是在飛機上向空服員要東西的標準句型，語氣有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "空服員",
+      "en": "Yes, I'll bring one for you.",
+      "zh": "好的，我拿一條給您。",
+      "keywords": [
+        {
+          "word": "bring",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "空服員",
+        "登機",
+        "機上服務",
+        "機上"
+      ],
+      "tips": "「I'll bring one for you.」表示空服員會親自拿來，是服務業常見的承諾回應方式。",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "空服員",
+      "en": "Would you like something to drink? We have coffee, tea, juice, and water.",
+      "zh": "您想喝點什麼嗎？我們有咖啡、茶、果汁和水。",
+      "keywords": [
+        {
+          "word": "something",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "drink",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "空服員",
+        "登機",
+        "機上服務",
+        "機上"
+      ],
+      "tips": "「Would you like something to drink?」是機上飲料服務的標準問句，記得選項通常有咖啡、茶、果汁和水。",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "旅客",
+      "en": "I'll have a cup of tea, please.",
+      "zh": "請給我一杯茶。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "登機",
+        "機上服務",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「I'll have a cup of tea.」是點飲料的標準說法，也可說「Can I have tea, please?」，語氣相同。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "空服員",
+      "en": "Here you are. The meal service will start soon.",
+      "zh": "請用。餐點服務很快就要開始了。",
+      "keywords": [
+        {
+          "word": "service",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "start",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "空服員",
+        "登機",
+        "機上服務",
+        "機上"
+      ],
+      "tips": "「Here you are.」遞送物品後，空服員常補充服務資訊，如「The meal service will start soon.」",
+      "audio": null
+    },
+    {
+      "id": "d9",
+      "role": "空服員",
+      "en": "We have chicken rice and pasta. Which one would you like?",
+      "zh": "我們有雞肉飯和義大利麵。您想要哪一種？",
+      "keywords": [
+        {
+          "word": "chicken",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "pasta",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "空服員",
+        "登機",
+        "機上服務",
+        "機上"
+      ],
+      "tips": "機上餐點通常有兩個選項，空服員會報出選項，選擇時直接說你想要的那個即可。",
+      "audio": null
+    },
+    {
+      "id": "d10",
+      "role": "旅客",
+      "en": "I'd like the chicken rice, please.",
+      "zh": "請給我雞肉飯。",
+      "keywords": [
+        {
+          "word": "chicken",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "登機",
+        "機上服務",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「I'd like the chicken rice, please.」點餐時語氣自然有禮，加上「please」顯示禮貌。",
+      "audio": null
+    },
+    {
+      "id": "d11",
+      "role": "旅客",
+      "en": "Excuse me, do you have arrival cards?",
+      "zh": "不好意思，你們有入境卡嗎？",
+      "keywords": [
+        {
+          "word": "arrival card",
+          "kk": "/əˈraɪvl kɑrd/",
+          "zh": "入境卡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "登機",
+        "機上服務",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「do you have...?」是詢問是否提供某物的常用句，在飛機上詢問入境卡、耳機等物品都適用。",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "空服員",
+      "en": "Yes, here you are. Please fill it out before landing.",
+      "zh": "有的，給您。請在降落前填寫好。",
+      "keywords": [
+        {
+          "word": "landing",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "空服員",
+        "登機",
+        "機上服務",
+        "機上"
+      ],
+      "tips": "「Please fill it out before landing.」提醒填寫入境卡，landing指降落，需在降落前完成填寫。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL5-mc-001",
+        "question": "登機時空服員歡迎你，會說？",
+        "options": [
+          {
+            "en": "Welcome aboard.",
+            "zh": "歡迎登機。"
+          },
+          {
+            "en": "Welcome home.",
+            "zh": "歡迎回家。"
+          },
+          {
+            "en": "Welcome to the hotel.",
+            "zh": "歡迎來到飯店。"
+          },
+          {
+            "en": "Welcome on the bus.",
+            "zh": "歡迎上公車。"
+          }
+        ],
+        "answer": "Welcome aboard."
+      },
+      {
+        "id": "qL5-mc-002",
+        "question": "在飛機上向空服員要一條毛毯，應該說？",
+        "options": [
+          {
+            "en": "Give me a blanket.",
+            "zh": "給我一條毛毯。"
+          },
+          {
+            "en": "Excuse me, could I have a blanket, please?",
+            "zh": "不好意思，可以給我一條毛毯嗎？"
+          },
+          {
+            "en": "I want blanket now.",
+            "zh": "我現在要毛毯。"
+          },
+          {
+            "en": "Where is my blanket?",
+            "zh": "我的毛毯在哪裡？"
+          }
+        ],
+        "answer": "Excuse me, could I have a blanket, please?"
+      },
+      {
+        "id": "qL5-mc-003",
+        "question": "「overhead bin」是指？",
+        "options": [
+          {
+            "en": "The seat in front of you",
+            "zh": "你前方的座位"
+          },
+          {
+            "en": "The storage bin above your seat",
+            "zh": "座位上方的行李櫃"
+          },
+          {
+            "en": "The area under your seat",
+            "zh": "座位下方的空間"
+          },
+          {
+            "en": "The emergency exit",
+            "zh": "緊急出口"
+          }
+        ],
+        "answer": "The storage bin above your seat"
+      },
+      {
+        "id": "qL5-mc-004",
+        "question": "空服員問你要雞肉飯還是義大利麵，你選雞肉飯，應回答？",
+        "options": [
+          {
+            "en": "I'd like the chicken rice, please.",
+            "zh": "請給我雞肉飯。"
+          },
+          {
+            "en": "Chicken rice is good.",
+            "zh": "雞肉飯不錯。"
+          },
+          {
+            "en": "No, I don't want pasta.",
+            "zh": "不，我不要義大利麵。"
+          },
+          {
+            "en": "What is chicken rice?",
+            "zh": "雞肉飯是什麼？"
+          }
+        ],
+        "answer": "I'd like the chicken rice, please."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL5-fi-001",
+        "question": "Excuse me, could I have a ______, please?（可以給我一條毛毯嗎？）",
+        "answer": "blanket"
+      },
+      {
+        "id": "qL5-fi-002",
+        "question": "I'll have a cup of ______, please.（請給我一杯茶。）",
+        "answer": "tea"
+      },
+      {
+        "id": "qL5-fi-003",
+        "question": "Please fill it out before ______.（請在降落前填寫好。）",
+        "answer": "landing"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL5-li-001",
+        "sentence_id": "d2"
+      },
+      {
+        "id": "qL5-li-002",
+        "sentence_id": "d7"
+      },
+      {
+        "id": "qL5-li-003",
+        "sentence_id": "d11"
+      }
+    ]
+  }
+}

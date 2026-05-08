@@ -1,0 +1,443 @@
+{
+  "chapter_id": "L2",
+  "chapter_name": "更改行程與預訂",
+  "description": "更改機票、飯店或旅遊行程預訂，說明原因、詢問是否有更改費用與差價。包含更改日期、時間、人數，詢問規定與退款方式。",
+  "sentences": [
+    {
+      "id": "L2-d1",
+      "role": "旅客",
+      "en": "Hello, I need to change the dates for my hotel reservation.",
+      "zh": "你好，我需要更改我的飯店預訂日期。",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "住宿",
+        "預訂"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    },
+    {
+      "id": "L2-d2",
+      "role": "訂房部人員",
+      "en": "Certainly, can I have your booking reference number, please?",
+      "zh": "當然可以，請提供您的訂房編號好嗎？",
+      "keywords": [
+        {
+          "word": "number",
+          "kk": "/ˈnʌmbər/",
+          "zh": "號碼"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "預訂",
+        "長住租屋",
+        "禮貌用語"
+      ],
+      "tips": "簽租約前，確認 utilities included?（水電費是否含在租金內）及 furnished?（是否含家具），以免入住後有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L2-d3",
+      "role": "旅客",
+      "en": "It's RZ4892. I booked for April 10th to 15th, but I need to postpone it to the 17th to 22nd.",
+      "zh": "編號是RZ4892。我原本預訂4月10日至15日，但我需要延期到17日至22日。",
+      "keywords": [
+        {
+          "word": "postpone",
+          "kk": "/poʊstˈpoʊn/",
+          "zh": "延期"
+        },
+        {
+          "word": "booked",
+          "kk": "/bʊkt/",
+          "zh": "預訂滿的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    },
+    {
+      "id": "L2-d4",
+      "role": "訂房部人員",
+      "en": "I've found your reservation. Let me check the availability for the new dates.",
+      "zh": "我找到您的預訂了。讓我查一下新日期的空房情況。",
+      "keywords": [
+        {
+          "word": "availability",
+          "kk": "/əˌveləˈbɪlɪti/",
+          "zh": "可獲得性，空位"
+        },
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzərˈveɪʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "預訂"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    },
+    {
+      "id": "L2-d5",
+      "role": "訂房部人員",
+      "en": "We have rooms available, but the rate is slightly higher in that period. There's also a change fee of 25 dollars.",
+      "zh": "我們有空房，但那段期間的房價稍微高一些。另外還有25美元的更改手續費。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "住宿"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    },
+    {
+      "id": "L2-d6",
+      "role": "旅客",
+      "en": "I see. What is the total difference in price, including the fee?",
+      "zh": "我明白了。包含手續費在內，總價差是多少？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    },
+    {
+      "id": "L2-d7",
+      "role": "訂房部人員",
+      "en": "The total additional cost would be 80 dollars. Would you like me to proceed with the change?",
+      "zh": "總共的額外費用是80美元。您希望我進行更改嗎？",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    },
+    {
+      "id": "L2-d8",
+      "role": "旅客",
+      "en": "Yes, please go ahead. My plans changed due to a family matter.",
+      "zh": "好的，請繼續。我的計畫因家庭事務而改變了。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "長住租屋",
+        "禮貌用語"
+      ],
+      "tips": "簽租約前，確認 utilities included?（水電費是否含在租金內）及 furnished?（是否含家具），以免入住後有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L2-s1",
+      "role": "練習句",
+      "en": "I'd like to modify my flight booking.",
+      "zh": "我想修改我的機票預訂。",
+      "keywords": [
+        {
+          "word": "modify",
+          "kk": "/ˈmɑdəˌfaɪ/",
+          "zh": "修改"
+        },
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "航班；飛行"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "預訂",
+        "委婉請求"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    },
+    {
+      "id": "L2-s2",
+      "role": "練習句",
+      "en": "Is there a penalty for changing the dates?",
+      "zh": "更改日期會有罰金嗎？",
+      "keywords": [
+        {
+          "word": "penalty",
+          "kk": "/ˈpɛnəlti/",
+          "zh": "罰金，罰款"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "更改行程"
+      ],
+      "tips": "訂票前務必確認 cancellation policy（取消政策），non-refundable 表示不可退款，flexible 票種較貴但可修改。",
+      "audio": null
+    },
+    {
+      "id": "L2-s3",
+      "role": "練習句",
+      "en": "What is your cancellation policy?",
+      "zh": "你們的取消規定是什麼？",
+      "keywords": [
+        {
+          "word": "cancellation",
+          "kk": "/ˌkænsəˈleɪʃən/",
+          "zh": "取消"
+        },
+        {
+          "word": "policy",
+          "kk": "/ˈpɑlɪsɪ/",
+          "zh": "政策"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "更改行程",
+        "預訂"
+      ],
+      "tips": "訂票前務必確認 cancellation policy（取消政策），non-refundable 表示不可退款，flexible 票種較貴但可修改。",
+      "audio": null
+    },
+    {
+      "id": "L2-s4",
+      "role": "練習句",
+      "en": "Can I get a partial refund if I cancel now?",
+      "zh": "如果我現在取消，可以獲得部分退款嗎？",
+      "keywords": [
+        {
+          "word": "refund",
+          "kk": "/ˈriˌfʌnd/",
+          "zh": "退款"
+        },
+        {
+          "word": "cancel",
+          "kk": "/ˈkænsəl/",
+          "zh": "取消"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "投訴",
+        "更改行程"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    },
+    {
+      "id": "L2-s5",
+      "role": "練習句",
+      "en": "The reason for the change is a medical emergency.",
+      "zh": "更改的原因是醫療急診。",
+      "keywords": [
+        {
+          "word": "emergency",
+          "kk": "/ɪˈmɜrdʒənsɪ/",
+          "zh": "緊急情況"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療緊急"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    },
+    {
+      "id": "L2-s6",
+      "role": "練習句",
+      "en": "Are there any seats available on an earlier flight?",
+      "zh": "有更早班機的空位嗎？",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "航班；飛行"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    },
+    {
+      "id": "L2-s7",
+      "role": "練習句",
+      "en": "I need to add one more person to the tour.",
+      "zh": "我需要為這個旅遊行程多加一個人。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "導覽詢問"
+      ],
+      "tips": "更改預訂前，先確認 cancellation policy（取消政策），了解是否有 penalty（罰款）或 deadline（截止日期）。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L2-w1",
+      "word": "modify",
+      "kk": "/ˈmɑdəˌfaɪ/",
+      "pos": "v.",
+      "zh": "修改",
+      "example_en": "You can modify your booking online up to 24 hours before departure.",
+      "example_zh": "您可以在出發前24小時線上修改預訂。"
+    },
+    {
+      "id": "L2-w2",
+      "word": "postpone",
+      "kk": "/poʊstˈpoʊn/",
+      "pos": "v.",
+      "zh": "延期",
+      "example_en": "We had to postpone our trip because of the bad weather.",
+      "example_zh": "因為天氣惡劣，我們不得不延期旅行。"
+    },
+    {
+      "id": "L2-w3",
+      "word": "penalty",
+      "kk": "/ˈpɛnəlti/",
+      "pos": "n.",
+      "zh": "罰金，罰款",
+      "example_en": "There is a penalty for late cancellation.",
+      "example_zh": "延遲取消會產生罰金。"
+    },
+    {
+      "id": "L2-w4",
+      "word": "refund",
+      "kk": "/ˈriˌfʌnd/",
+      "pos": "n.",
+      "zh": "退款",
+      "example_en": "They promised to give me a full refund.",
+      "example_zh": "他們承諾給我全額退款。"
+    },
+    {
+      "id": "L2-w5",
+      "word": "availability",
+      "kk": "/əˌveləˈbɪlɪti/",
+      "pos": "n.",
+      "zh": "可獲得性，空位",
+      "example_en": "I need to check the availability of flights on that day.",
+      "example_zh": "我需要查一下那天的航班空位情況。"
+    },
+    {
+      "id": "L2-w6",
+      "word": "booking reference",
+      "kk": "/ˈbʊkɪŋ ˈrɛfərəns/",
+      "pos": "n.",
+      "zh": "預訂編號",
+      "example_en": "Please have your booking reference ready when you call.",
+      "example_zh": "致電時請準備好您的預訂編號。"
+    },
+    {
+      "id": "L2-w7",
+      "word": "additional cost",
+      "kk": "/əˈdɪʃənl kɔst/",
+      "pos": "n.",
+      "zh": "額外費用",
+      "example_en": "Any additional costs will be clearly stated.",
+      "example_zh": "任何額外費用都會清楚說明。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L2-h1",
+      "title": "用 I'd like to modify... 或 I need to change... 開頭",
+      "description": "在提出更改預訂時，這是最常用且直接的開場白。modify 比 change 稍微正式一些。",
+      "example_en": "I'd like to modify the number of guests in my reservation.",
+      "example_zh": "我想修改我預訂中的住客人數。"
+    },
+    {
+      "id": "L2-h2",
+      "title": "詢問規定與費用：What is your policy on...? / Is there a fee for...?",
+      "description": "在同意更改前，務必詢問相關規定和可能產生的費用，避免意外支出。",
+      "example_en": "What is your policy on changing the return date?",
+      "example_zh": "你們更改回程日期的規定是什麼？"
+    },
+    {
+      "id": "L2-h3",
+      "title": "說明更改原因以爭取諒解",
+      "description": "主動、簡短地說明更改原因（如 family matter, health issue），有時能幫助對方提供更友善的解決方案。",
+      "example_en": "Unfortunately, I have to cancel because of an unexpected work commitment.",
+      "example_zh": "很不巧，由於臨時的工作任務，我必須取消。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL2-mc-001",
+        "question": "下列哪一句英文的意思是「你好，我需要更改我的飯店預訂日期。」？",
+        "options": [
+          {
+            "en": "Hello, I need to change the dates for my hotel reservation.",
+            "zh": "你好，我需要更改我的飯店預訂日期。"
+          },
+          {
+            "en": "Certainly, can I have your booking reference number, please?",
+            "zh": "當然可以，請提供您的訂房編號好嗎？"
+          },
+          {
+            "en": "It's RZ4892. I booked for April 10th to 15th, but I need to postpone it to the 17th to 22nd.",
+            "zh": "編號是RZ4892。我原本預訂4月10日至15日，但我需要延期到17日至22日。"
+          },
+          {
+            "en": "I've found your reservation. Let me check the availability for the new dates.",
+            "zh": "我找到您的預訂了。讓我查一下新日期的空房情況。"
+          }
+        ],
+        "answer": "Hello, I need to change the dates for my hotel reservation."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL2-fi-001",
+        "question": "Hello, I need to change the dates for my hotel ______.",
+        "answer": "reservation"
+      },
+      {
+        "id": "qL2-fi-002",
+        "question": "Certainly, can I have your booking reference ______, please?",
+        "answer": "number"
+      },
+      {
+        "id": "qL2-fi-003",
+        "question": "It's RZ4892. I ______ for April 10th to 15th, but I need to postpone it to the 17th to 22nd.",
+        "answer": "booked"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL2-li-001",
+        "sentence_id": "L2-d1"
+      },
+      {
+        "id": "qL2-li-002",
+        "sentence_id": "L2-d3"
+      },
+      {
+        "id": "qL2-li-003",
+        "sentence_id": "L2-d5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "chapter_id": "L3",
+  "chapter_name": "和導遊或櫃台深入詢問",
+  "description": "向導遊或櫃台詢問當地歷史背景、推薦景點與活動。包含詢問最佳參觀時間、交通方式與安全建議。",
+  "sentences": [
+    {
+      "id": "L3-d1",
+      "role": "旅客",
+      "en": "Excuse me, our guidebook mentions a local market that's not too crowded. Can you tell me more about it?",
+      "zh": "不好意思，我們的旅遊指南提到一個不會太擁擠的當地市場。你可以多告訴我一些嗎？",
+      "keywords": [
+        {
+          "word": "guidebook",
+          "kk": "/ˈɡaɪdˌbʊk/",
+          "zh": "旅遊指南"
+        },
+        {
+          "word": "local",
+          "kk": "/ˈloʊkəl/",
+          "zh": "當地的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "導覽詢問",
+        "當地文化"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-d2",
+      "role": "櫃台人員",
+      "en": "You must be referring to the Riverside Market. It's less touristy and opens only on weekend mornings.",
+      "zh": "您指的應該是河畔市場。它比較少觀光客，而且只在周末早上營業。",
+      "keywords": [
+        {
+          "word": "touristy",
+          "kk": "/ˈtʊrɪsti/",
+          "zh": "觀光客多的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "導覽詢問"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-d3",
+      "role": "旅客",
+      "en": "That sounds perfect. What's the best way to get there from the hotel?",
+      "zh": "聽起來很棒。從飯店到那裡的最佳方式是什麼？",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "住宿"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-d4",
+      "role": "櫃台人員",
+      "en": "I recommend taking the number 7 bus. It stops right outside and takes about 20 minutes.",
+      "zh": "我建議搭乘7號公車。它就停在市場外，大約需要20分鐘。",
+      "keywords": [
+        {
+          "word": "recommend",
+          "kk": "/ˌrɛkəˈmɛnd/",
+          "zh": "推薦"
+        },
+        {
+          "word": "number",
+          "kk": "/ˈnʌmbər/",
+          "zh": "號碼"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-d5",
+      "role": "旅客",
+      "en": "Is there anything we should be aware of, like pickpockets?",
+      "zh": "有什麼我們應該注意的嗎？比如扒手？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-d6",
+      "role": "櫃台人員",
+      "en": "It's generally safe, but as with any market, keep your valuables secure and be mindful of your surroundings.",
+      "zh": "那裡總體來說是安全的，但就像在任何市場一樣，請保管好貴重物品並注意周圍環境。",
+      "keywords": [
+        {
+          "word": "surroundings",
+          "kk": "/səˈraʊndɪŋz/",
+          "zh": "周圍環境"
+        },
+        {
+          "word": "valuables",
+          "kk": "/ˈvæljuəbəlz/",
+          "zh": "貴重物品"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "遺失物"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-d7",
+      "role": "旅客",
+      "en": "One more thing, are there any guided tours that explain the history of the old town?",
+      "zh": "還有一件事，有導覽團可以解說老城區的歷史嗎？",
+      "keywords": [
+        {
+          "word": "guided",
+          "kk": "/ˈɡaɪdɪd/",
+          "zh": "有導遊帶領的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "導覽詢問"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-d8",
+      "role": "櫃台人員",
+      "en": "Yes, the tourism office offers free walking tours at 10 AM and 2 PM daily. I can book a spot for you.",
+      "zh": "有的，旅遊服務中心每天上午10點和下午2點提供免費的步行導覽。我可以幫您預訂名額。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "導覽詢問"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-s1",
+      "role": "練習句",
+      "en": "Could you suggest some off-the-beaten-path attractions?",
+      "zh": "你可以推薦一些非主流的景點嗎？",
+      "keywords": [
+        {
+          "word": "suggest",
+          "kk": "/səˈdʒɛst/",
+          "zh": "建議"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "委婉請求"
+      ],
+      "tips": "提出要求時，Could you...? 或 Is it possible to...? 比直接命令（Fix this!）更禮貌，也更容易獲得正面回應。",
+      "audio": null
+    },
+    {
+      "id": "L3-s2",
+      "role": "練習句",
+      "en": "What is the historical significance of this building?",
+      "zh": "這棟建築物的歷史意義是什麼？",
+      "keywords": [
+        {
+          "word": "significance",
+          "kk": "/sɪɡˈnɪfɪkəns/",
+          "zh": "重要性，意義"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-s3",
+      "role": "練習句",
+      "en": "When is the best time of day to visit the museum to avoid crowds?",
+      "zh": "一天中什麼時候去參觀博物館最能避開人潮？",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-s4",
+      "role": "練習句",
+      "en": "Is this area safe to walk around in the evening?",
+      "zh": "這個區域晚上步行安全嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-s5",
+      "role": "練習句",
+      "en": "Are there any local festivals happening this week?",
+      "zh": "這週有什麼當地節慶活動嗎？",
+      "keywords": [
+        {
+          "word": "local",
+          "kk": "/ˈloʊkəl/",
+          "zh": "當地的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "當地文化"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-s6",
+      "role": "練習句",
+      "en": "How long should we plan to spend at the botanical gardens?",
+      "zh": "我們應該計劃在植物園待多久？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    },
+    {
+      "id": "L3-s7",
+      "role": "練習句",
+      "en": "Do you have a map of the public transportation routes?",
+      "zh": "你們有大眾運輸路線圖嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "向導遊或櫃台詢問時，準備好具體問題，說 I have a few questions about... 讓對方知道你需要較長的解說時間。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L3-w1",
+      "word": "guidebook",
+      "kk": "/ˈɡaɪdˌbʊk/",
+      "pos": "n.",
+      "zh": "旅遊指南",
+      "example_en": "The guidebook has a very useful section on local food.",
+      "example_zh": "這本旅遊指南有一個關於當地食物的實用章節。"
+    },
+    {
+      "id": "L3-w2",
+      "word": "touristy",
+      "kk": "/ˈtʊrɪsti/",
+      "pos": "adj.",
+      "zh": "觀光客多的",
+      "example_en": "Let's try to find a restaurant that's less touristy.",
+      "example_zh": "我們試著找一家觀光客少一點的餐廳吧。"
+    },
+    {
+      "id": "L3-w3",
+      "word": "off-the-beaten-path",
+      "kk": "/ɔf ðə ˈbitn pæθ/",
+      "pos": "adj.",
+      "zh": "非主流的，冷門的",
+      "example_en": "We prefer off-the-beaten-path destinations.",
+      "example_zh": "我們偏好非主流的旅遊目的地。"
+    },
+    {
+      "id": "L3-w4",
+      "word": "significance",
+      "kk": "/sɪɡˈnɪfɪkəns/",
+      "pos": "n.",
+      "zh": "重要性，意義",
+      "example_en": "Our guide explained the cultural significance of the temple.",
+      "example_zh": "我們的導遊解釋了這座寺廟的文化意義。"
+    },
+    {
+      "id": "L3-w5",
+      "word": "surroundings",
+      "kk": "/səˈraʊndɪŋz/",
+      "pos": "n.",
+      "zh": "周圍環境",
+      "example_en": "Always be aware of your surroundings in a new city.",
+      "example_zh": "在新城市裡，要時刻注意周圍環境。"
+    },
+    {
+      "id": "L3-w6",
+      "word": "guided tour",
+      "kk": "/ˈɡaɪdɪd tʊr/",
+      "pos": "n.",
+      "zh": "導覽團",
+      "example_en": "The guided tour of the palace was very informative.",
+      "example_zh": "宮殿的導覽團資訊非常豐富。"
+    },
+    {
+      "id": "L3-w7",
+      "word": "attraction",
+      "kk": "/əˈtrækʃən/",
+      "pos": "n.",
+      "zh": "景點，吸引人的事物",
+      "example_en": "The main attraction of the town is its ancient castle.",
+      "example_zh": "這個城鎮的主要景點是它的古堡。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L3-h1",
+      "title": "用 Could you suggest...? 或 Can you recommend...? 尋求建議",
+      "description": "向在地人、導遊或飯店人員尋求建議時，這是最自然、最有禮貌的開頭。",
+      "example_en": "Can you recommend a good place to watch the sunset?",
+      "example_zh": "你可以推薦一個看日落的好地方嗎？"
+    },
+    {
+      "id": "L3-h2",
+      "title": "詢問安全問題：Is it safe to...? / Should we be aware of...?",
+      "description": "在前往不熟悉的區域或活動前，詢問安全問題是明智之舉，表現出對自身安全的關注。",
+      "example_en": "Is it safe to take the metro at night?",
+      "example_zh": "晚上搭地鐵安全嗎？"
+    },
+    {
+      "id": "L3-h3",
+      "title": "詢問時間安排：How long should we plan...? / When is the best time...?",
+      "description": "有效規劃行程的關鍵，在於了解參觀所需時間以及最佳時段，避免浪費時間或錯過精華。",
+      "example_en": "How long should we plan for the hike to the waterfall?",
+      "example_zh": "我們應該計劃多久時間來健行到瀑布？"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL3-mc-001",
+        "question": "下列哪一句英文的意思是「不好意思，我們的旅遊指南提到一個不會太擁擠的當地市場。你可以多告訴我一些嗎？」？",
+        "options": [
+          {
+            "en": "Excuse me, our guidebook mentions a local market that's not too crowded. Can you tell me more about it?",
+            "zh": "不好意思，我們的旅遊指南提到一個不會太擁擠的當地市場。你可以多告訴我一些嗎？"
+          },
+          {
+            "en": "You must be referring to the Riverside Market. It's less touristy and opens only on weekend mornings.",
+            "zh": "您指的應該是河畔市場。它比較少觀光客，而且只在周末早上營業。"
+          },
+          {
+            "en": "That sounds perfect. What's the best way to get there from the hotel?",
+            "zh": "聽起來很棒。從飯店到那裡的最佳方式是什麼？"
+          },
+          {
+            "en": "I recommend taking the number 7 bus. It stops right outside and takes about 20 minutes.",
+            "zh": "我建議搭乘7號公車。它就停在市場外，大約需要20分鐘。"
+          }
+        ],
+        "answer": "Excuse me, our guidebook mentions a local market that's not too crowded. Can you tell me more about it?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL3-fi-001",
+        "question": "Excuse me, our guidebook mentions a ______ market that's not too crowded. Can you tell me more about it?",
+        "answer": "local"
+      },
+      {
+        "id": "qL3-fi-002",
+        "question": "You must be ______ to the Riverside Market. It's less touristy and opens only on weekend mornings.",
+        "answer": "referring"
+      },
+      {
+        "id": "qL3-fi-003",
+        "question": "That ______ perfect. What's the best way to get there from the hotel?",
+        "answer": "sounds"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL3-li-001",
+        "sentence_id": "L3-d1"
+      },
+      {
+        "id": "qL3-li-002",
+        "sentence_id": "L3-d3"
+      },
+      {
+        "id": "qL3-li-003",
+        "sentence_id": "L3-d5"
+      }
+    ]
+  }
+}

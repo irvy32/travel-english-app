@@ -1,0 +1,466 @@
+{
+  "chapter_id": "L8",
+  "chapter_name": "飲食與美食分享",
+  "description": "聊喜歡的食物、餐廳或家常菜。包含：描述菜色、口味、是否辣或甜，簡單談「家鄉味」。",
+  "sentences": [
+    {
+      "id": "L8-d1",
+      "role": "朋友",
+      "en": "What's your favorite type of food?",
+      "zh": "你最喜歡哪一類食物？",
+      "keywords": [
+        {
+          "word": "favorite",
+          "kk": "/ˈfeɪvərɪt/",
+          "zh": "最喜歡的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飲食美食"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-d2",
+      "role": "本人",
+      "en": "I love Taiwanese food. Beef noodle soup is my favorite.",
+      "zh": "我喜歡台灣菜。牛肉麵是我的最愛。",
+      "keywords": [
+        {
+          "word": "love",
+          "kk": "/lʌv/",
+          "zh": "愛；非常喜歡"
+        },
+        {
+          "word": "favorite",
+          "kk": "/ˈfeɪvərɪt/",
+          "zh": "最喜歡的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飲食美食"
+      ],
+      "tips": "表達喜好可用 I enjoy、I love、I like，後面接動名詞（-ing）或名詞，三者語意相近，enjoy 語氣最強烈。",
+      "audio": null
+    },
+    {
+      "id": "L8-d3",
+      "role": "朋友",
+      "en": "That sounds delicious. Is it spicy?",
+      "zh": "聽起來很美味。會辣嗎？",
+      "keywords": [
+        {
+          "word": "spicy",
+          "kk": "/ˈspaɪsi/",
+          "zh": "辣的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-d4",
+      "role": "本人",
+      "en": "It can be, but you can ask for less spice. It has a rich and savory flavor.",
+      "zh": "可能會，但你可以要求少辣。它的味道濃郁鹹香。",
+      "keywords": [
+        {
+          "word": "savory",
+          "kk": "/ˈsevəri/",
+          "zh": "鹹的，美味的（非甜食）"
+        },
+        {
+          "word": "flavor",
+          "kk": "/ˈflevɚ/",
+          "zh": "味道，風味"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "飲食美食"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-d5",
+      "role": "朋友",
+      "en": "I'd like to try it someday. Do you cook at home?",
+      "zh": "我想有一天試試看。你在家做飯嗎？",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        },
+        {
+          "word": "try",
+          "kk": "/traɪ/",
+          "zh": "嘗試"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-d6",
+      "role": "本人",
+      "en": "Yes, I often cook simple dishes. I make stir-fried vegetables and steamed fish.",
+      "zh": "是的，我常做簡單的菜。我會做炒青菜和清蒸魚。",
+      "keywords": [
+        {
+          "word": "cook",
+          "kk": "/kʊk/",
+          "zh": "做飯"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飲食美食"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-d7",
+      "role": "朋友",
+      "en": "That sounds very healthy. I'm not very good at cooking.",
+      "zh": "聽起來很健康。我不太會做飯。",
+      "keywords": [
+        {
+          "word": "healthy",
+          "kk": "/ˈhɛlθɪ/",
+          "zh": "健康的"
+        },
+        {
+          "word": "cooking",
+          "kk": "/ˈkʊkɪŋ/",
+          "zh": "烹飪"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好",
+        "運動健康"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-d8",
+      "role": "本人",
+      "en": "It's easy to learn. I can teach you a simple recipe.",
+      "zh": "很容易學。我可以教你一個簡單的食譜。",
+      "keywords": [
+        {
+          "word": "recipe",
+          "kk": "/ˈrɛsəpi/",
+          "zh": "食譜"
+        },
+        {
+          "word": "learn",
+          "kk": "/lɜrn/",
+          "zh": "學習"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飲食美食"
+      ],
+      "tips": "聊食譜時，What's in it?（裡面有什麼？）是問食材最自然的說法，比 What are the ingredients? 更口語。",
+      "audio": null
+    },
+    {
+      "id": "L8-s1",
+      "role": "練習句",
+      "en": "I love Italian pasta.",
+      "zh": "我喜歡義大利麵。",
+      "keywords": [
+        {
+          "word": "love",
+          "kk": "/lʌv/",
+          "zh": "愛；非常喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "表達喜好可用 I enjoy、I love、I like，後面接動名詞（-ing）或名詞，三者語意相近，enjoy 語氣最強烈。",
+      "audio": null
+    },
+    {
+      "id": "L8-s2",
+      "role": "練習句",
+      "en": "This cake is not too sweet. It's perfect.",
+      "zh": "這個蛋糕不會太甜。很完美。",
+      "keywords": [
+        {
+          "word": "sweet",
+          "kk": "/swit/",
+          "zh": "甜的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-s3",
+      "role": "練習句",
+      "en": "The soup has a light and fresh taste.",
+      "zh": "這湯有清淡新鮮的味道。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-s4",
+      "role": "練習句",
+      "en": "I miss the food from my hometown.",
+      "zh": "我想念我家鄉的食物。",
+      "keywords": [
+        {
+          "word": "hometown",
+          "kk": "/ˈhoʊmˌtaʊn/",
+          "zh": "家鄉"
+        },
+        {
+          "word": "miss",
+          "kk": "/mɪs/",
+          "zh": "想念"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飲食美食"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-s5",
+      "role": "練習句",
+      "en": "Do you like spicy food?",
+      "zh": "你喜歡辣的食物嗎？",
+      "keywords": [
+        {
+          "word": "spicy",
+          "kk": "/ˈspaɪsi/",
+          "zh": "辣的"
+        },
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飲食美食",
+        "詢問"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-s6",
+      "role": "練習句",
+      "en": "Can you recommend a good restaurant nearby?",
+      "zh": "你可以推薦附近一家好餐廳嗎？",
+      "keywords": [
+        {
+          "word": "recommend",
+          "kk": "/ˌrɛkəˈmɛnd/",
+          "zh": "推薦"
+        },
+        {
+          "word": "restaurant",
+          "kk": "/ˈrɛstərənt/",
+          "zh": "餐廳"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飲食美食"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    },
+    {
+      "id": "L8-s7",
+      "role": "練習句",
+      "en": "Cooking is a great way to relax.",
+      "zh": "做飯是放鬆的好方法。",
+      "keywords": [
+        {
+          "word": "cooking",
+          "kk": "/ˈkʊkɪŋ/",
+          "zh": "烹飪"
+        },
+        {
+          "word": "relax",
+          "kk": "/rɪˈlæks/",
+          "zh": "放鬆"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "興趣嗜好"
+      ],
+      "tips": "分享美食體驗時，描述味道（sweet、spicy、savory）和口感（crispy、tender）讓描述更具體。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L8-w1",
+      "word": "flavor",
+      "kk": "/ˈflevɚ/",
+      "pos": "n.",
+      "zh": "味道，風味",
+      "example_en": "This tea has a very special flavor.",
+      "example_zh": "這茶有一種非常特別的味道。"
+    },
+    {
+      "id": "L8-w2",
+      "word": "spicy",
+      "kk": "/ˈspaɪsi/",
+      "pos": "adj.",
+      "zh": "辣的",
+      "example_en": "I can't eat very spicy food.",
+      "example_zh": "我不能吃非常辣的食物。"
+    },
+    {
+      "id": "L8-w3",
+      "word": "savory",
+      "kk": "/ˈsevəri/",
+      "pos": "adj.",
+      "zh": "鹹的，美味的（非甜食）",
+      "example_en": "I prefer savory snacks over sweet ones.",
+      "example_zh": "比起甜點，我比較喜歡鹹的點心。"
+    },
+    {
+      "id": "L8-w4",
+      "word": "recipe",
+      "kk": "/ˈrɛsəpi/",
+      "pos": "n.",
+      "zh": "食譜",
+      "example_en": "I learned this recipe from my mother.",
+      "example_zh": "我從我母親那裡學到這個食譜。"
+    },
+    {
+      "id": "L8-w5",
+      "word": "hometown",
+      "kk": "/ˈhoʊmˌtaʊn/",
+      "pos": "n.",
+      "zh": "家鄉",
+      "example_en": "The food from my hometown is the best.",
+      "example_zh": "我家鄉的食物是最棒的。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L8-h1",
+      "title": "描述食物的味道",
+      "description": "分享你對食物的感受時，可以用簡單的形容詞，如 sweet, salty, spicy, sour, bitter, savory, light, rich。",
+      "example_en": "The soup is a little salty for me.",
+      "example_zh": "這湯對我來說有點鹹。"
+    },
+    {
+      "id": "L8-h2",
+      "title": "聊家鄉或懷念的食物",
+      "description": "I miss the food from... 是表達思鄉或懷念某地食物的自然說法，能引發共鳴。",
+      "example_en": "I miss the street food from Taipei.",
+      "example_zh": "我想念台北的街頭小吃。"
+    },
+    {
+      "id": "L8-h3",
+      "title": "提議教對方做菜",
+      "description": "如果對方對你的家鄉菜有興趣，可以用 I can teach you... 來分享，這是非常友善的互動。",
+      "example_en": "I can teach you how to make dumplings.",
+      "example_zh": "我可以教你怎麼包餃子。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL8-mc-001",
+        "question": "下列哪一句英文的意思是「你最喜歡哪一類食物？」？",
+        "options": [
+          {
+            "en": "What's your favorite type of food?",
+            "zh": "你最喜歡哪一類食物？"
+          },
+          {
+            "en": "I love Taiwanese food. Beef noodle soup is my favorite.",
+            "zh": "我喜歡台灣菜。牛肉麵是我的最愛。"
+          },
+          {
+            "en": "That sounds delicious. Is it spicy?",
+            "zh": "聽起來很美味。會辣嗎？"
+          },
+          {
+            "en": "It can be, but you can ask for less spice. It has a rich and savory flavor.",
+            "zh": "可能會，但你可以要求少辣。它的味道濃郁鹹香。"
+          }
+        ],
+        "answer": "What's your favorite type of food?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL8-fi-001",
+        "question": "What's your ______ type of food?",
+        "answer": "favorite"
+      },
+      {
+        "id": "qL8-fi-002",
+        "question": "I love Taiwanese ______. Beef noodle soup is my favorite.",
+        "answer": "food"
+      },
+      {
+        "id": "qL8-fi-003",
+        "question": "That ______ delicious. Is it spicy?",
+        "answer": "sounds"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL8-li-001",
+        "sentence_id": "L8-d1"
+      },
+      {
+        "id": "qL8-li-002",
+        "sentence_id": "L8-d3"
+      },
+      {
+        "id": "qL8-li-003",
+        "sentence_id": "L8-d5"
+      }
+    ]
+  }
+}

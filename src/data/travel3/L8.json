@@ -1,0 +1,417 @@
+{
+  "chapter_id": "L8",
+  "chapter_name": "飯店入住與退房",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "旅客",
+      "en": "Hello, I'd like to check in. My name is Wang.",
+      "zh": "你好，我想辦理入住，我姓王。",
+      "keywords": [
+        {
+          "word": "check in",
+          "kk": "/tʃɛk ɪn/",
+          "zh": "辦理登機/入住手續"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "入住退房",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "飯店入住時，「I'd like to check in.」是標準開場，報上姓名（name）或訂單號碼（booking number）。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "櫃台人員",
+      "en": "Good evening, Mr. Wang. May I see your passport, please?",
+      "zh": "王先生，晚上好。請讓我看看您的護照。",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "櫃台人員",
+        "飯店",
+        "入住退房",
+        "櫃台"
+      ],
+      "tips": "「Good evening, Mr./Ms...」是飯店人員的標準問候，使用姓氏加稱謂顯示專業服務。",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "旅客",
+      "en": "Here you are. I have a reservation for three nights.",
+      "zh": "請看。我預訂了三個晚上。",
+      "keywords": [
+        {
+          "word": "reservation",
+          "kk": "/ˌrɛzɚˈveʃən/",
+          "zh": "預訂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "入住退房",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「I have a reservation for...」說明預訂資訊，提供訂房天數有助於加快辦理速度。",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "櫃台人員",
+      "en": "Yes, I found it. Room 502, on the fifth floor. Here is your key card.",
+      "zh": "是的，找到了。五樓的502號房。這是您的房卡。",
+      "keywords": [
+        {
+          "word": "key card",
+          "kk": "/ki kɑrd/",
+          "zh": "房卡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "櫃台人員",
+        "飯店",
+        "入住退房",
+        "櫃台"
+      ],
+      "tips": "「I found it.」表示查到訂單，飯店人員通常會接著說房號和樓層，記得確認房卡是否正確。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "旅客",
+      "en": "Thank you. What time is breakfast?",
+      "zh": "謝謝。早餐是幾點？",
+      "keywords": [
+        {
+          "word": "breakfast",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "入住退房",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「What time is breakfast?」是最常見的入住後問題，了解早餐時間方便規劃隔天行程。",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "櫃台人員",
+      "en": "Breakfast is from 7 to 10 AM in the dining room on the first floor.",
+      "zh": "早餐是早上7點到10點，在一樓的餐廳。",
+      "keywords": [
+        {
+          "word": "breakfast",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "dining",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "櫃台人員",
+        "飯店",
+        "入住退房",
+        "櫃台"
+      ],
+      "tips": "早餐資訊通常包含時間和地點，「dining room on the first floor」指一樓餐廳。",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "旅客",
+      "en": "Does the hotel have a swimming pool?",
+      "zh": "飯店有游泳池嗎？",
+      "keywords": [
+        {
+          "word": "hotel",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "swimming",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "入住退房",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "詢問飯店設施時，「Does the hotel have...?」是標準問法，游泳池（swimming pool）是常被問到的設施。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "櫃台人員",
+      "en": "Yes, it's on the rooftop. It opens at 9 AM.",
+      "zh": "有的，在頂樓，早上9點開放。",
+      "keywords": [
+        {
+          "word": "rooftop",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "opens",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "櫃台人員",
+        "飯店",
+        "入住退房",
+        "櫃台"
+      ],
+      "tips": "了解設施開放時間（opens at...）有助於安排行程，rooftop指頂樓，是很受歡迎的設施位置。",
+      "audio": null
+    },
+    {
+      "id": "d9",
+      "role": "旅客",
+      "en": "I'd like to check out, please.",
+      "zh": "我想辦理退房。",
+      "keywords": [
+        {
+          "word": "check out",
+          "kk": "/tʃɛk aʊt/",
+          "zh": "辦理退房手續"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "入住退房",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "退房時說「I'd like to check out, please.」，記得歸還房卡（key card）並確認帳單明細。",
+      "audio": null
+    },
+    {
+      "id": "d10",
+      "role": "櫃台人員",
+      "en": "Certainly. Your room number, please?",
+      "zh": "好的，請問您的房號？",
+      "keywords": [
+        {
+          "word": "certainly",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "number",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "櫃台人員",
+        "飯店",
+        "入住退房",
+        "櫃台"
+      ],
+      "tips": "退房時工作人員需確認房號，「Your room number, please?」是標準確認語。",
+      "audio": null
+    },
+    {
+      "id": "d11",
+      "role": "旅客",
+      "en": "Room 502. Here is the key card.",
+      "zh": "502號房。這是房卡。",
+      "keywords": [
+        {
+          "word": "key card",
+          "kk": "/ki kɑrd/",
+          "zh": "房卡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飯店",
+        "入住退房",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "歸還房卡時，直接說房號並遞上房卡，是最有效率的退房方式。",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "櫃台人員",
+      "en": "Here is your bill. The total is 300 dollars. How would you like to pay?",
+      "zh": "這是您的帳單，總共是300美元。您想怎麼付款？",
+      "keywords": [
+        {
+          "word": "bill",
+          "kk": "/bɪl/",
+          "zh": "帳單"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "櫃台人員",
+        "飯店",
+        "入住退房",
+        "櫃台"
+      ],
+      "tips": "「How would you like to pay?」詢問付款方式，可回答「By credit card.」或「In cash.」",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL8-mc-001",
+        "question": "抵達飯店辦理入住，開場最合適的說法是？",
+        "options": [
+          {
+            "en": "Hello, I'd like to check in.",
+            "zh": "你好，我想辦理入住。"
+          },
+          {
+            "en": "I need a room now.",
+            "zh": "我現在需要一個房間。"
+          },
+          {
+            "en": "Give me a key.",
+            "zh": "給我一把鑰匙。"
+          },
+          {
+            "en": "I want to sleep here.",
+            "zh": "我要在這裡睡覺。"
+          }
+        ],
+        "answer": "Hello, I'd like to check in."
+      },
+      {
+        "id": "qL8-mc-002",
+        "question": "「I have a reservation for three nights.」這句話的意思是？",
+        "options": [
+          {
+            "en": "I want to stay for three nights.",
+            "zh": "我想住三個晚上。"
+          },
+          {
+            "en": "I have already booked a stay for three nights.",
+            "zh": "我已預訂了三個晚上的住宿。"
+          },
+          {
+            "en": "I reserved a table for three.",
+            "zh": "我預訂了三人桌。"
+          },
+          {
+            "en": "I want three rooms.",
+            "zh": "我要三個房間。"
+          }
+        ],
+        "answer": "I have already booked a stay for three nights."
+      },
+      {
+        "id": "qL8-mc-003",
+        "question": "退房時應該說？",
+        "options": [
+          {
+            "en": "I'd like to check in, please.",
+            "zh": "我想辦理入住。"
+          },
+          {
+            "en": "I'd like to check out, please.",
+            "zh": "我想辦理退房。"
+          },
+          {
+            "en": "I'd like to book a room.",
+            "zh": "我想預訂房間。"
+          },
+          {
+            "en": "I'd like to extend my stay.",
+            "zh": "我想延長住宿。"
+          }
+        ],
+        "answer": "I'd like to check out, please."
+      },
+      {
+        "id": "qL8-mc-004",
+        "question": "詢問飯店有沒有游泳池，應該說？",
+        "options": [
+          {
+            "en": "Where is the swimming pool?",
+            "zh": "游泳池在哪裡？"
+          },
+          {
+            "en": "Does the hotel have a swimming pool?",
+            "zh": "飯店有游泳池嗎？"
+          },
+          {
+            "en": "I want to swim.",
+            "zh": "我想游泳。"
+          },
+          {
+            "en": "Is the pool open?",
+            "zh": "游泳池開放了嗎？"
+          }
+        ],
+        "answer": "Does the hotel have a swimming pool?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL8-fi-001",
+        "question": "I have a ______ under the name Lee.（我用李的名字預訂了房間。）",
+        "answer": "reservation"
+      },
+      {
+        "id": "qL8-fi-002",
+        "question": "I'd like to ______ out, please.（我想辦理退房。）",
+        "answer": "check"
+      },
+      {
+        "id": "qL8-fi-003",
+        "question": "What is the Wi-Fi ______?（Wi-Fi密碼是什麼？）",
+        "answer": "password"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL8-li-001",
+        "sentence_id": "d1"
+      },
+      {
+        "id": "qL8-li-002",
+        "sentence_id": "d5"
+      },
+      {
+        "id": "qL8-li-003",
+        "sentence_id": "d9"
+      }
+    ]
+  }
+}

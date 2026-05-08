@@ -1,0 +1,431 @@
+{
+  "chapter_id": "L9",
+  "chapter_name": "問路與大眾交通",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "旅客",
+      "en": "Excuse me, I'm looking for the Central Park. Is it far from here?",
+      "zh": "不好意思，我在找中央公園。它離這裡遠嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "looking",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "問路",
+        "大眾交通",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「I'm looking for...」是找路或找地方時的開場句，比直接說地點更自然，讓對方知道你需要幫助。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "路人",
+      "en": "It's not far. Go straight for two blocks, then turn right. You'll see it.",
+      "zh": "不遠。直走兩個街區，然後右轉，你就會看到了。",
+      "keywords": [
+        {
+          "word": "straight",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "blocks",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "路人",
+        "問路",
+        "大眾交通",
+        "街道"
+      ],
+      "tips": "聽懂指路方向非常重要：straight（直走）、turn right（右轉）、turn left（左轉）、blocks（街區）。",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "旅客",
+      "en": "Thank you very much.",
+      "zh": "非常感謝。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "問路",
+        "大眾交通",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「Thank you very much.」比「Thank you.」更誠摯，對方花時間幫忙時，表達更多感謝更有禮貌。",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "旅客",
+      "en": "Excuse me, does this bus go to the Art Museum?",
+      "zh": "不好意思，請問這班公車去美術館嗎？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "museum",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "問路",
+        "大眾交通",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "搭公車前先確認路線，「does this bus go to...?」是最直接的確認方式，避免搭錯方向。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "司機",
+      "en": "Yes, it does. Get off at the third stop.",
+      "zh": "是的，它會到。在第三站下車。",
+      "keywords": [
+        {
+          "word": "third",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "司機",
+        "問路",
+        "大眾交通",
+        "交通"
+      ],
+      "tips": "「Get off at the third stop.」告知下車站數，搭乘時記得數站或使用手機地圖確認位置。",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "旅客",
+      "en": "How much is the fare?",
+      "zh": "車資多少錢？",
+      "keywords": [
+        {
+          "word": "fare",
+          "kk": "/fɛr/",
+          "zh": "車資、票價"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "問路",
+        "大眾交通",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「How much is the fare?」詢問車資，fare特指大眾交通的票價，購票前先問清楚避免不便。",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "司機",
+      "en": "Two dollars. Exact change, please.",
+      "zh": "兩美元。請準備好剛好的零錢。",
+      "keywords": [
+        {
+          "word": "dollars",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "exact",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "司機",
+        "問路",
+        "大眾交通",
+        "交通"
+      ],
+      "tips": "「Exact change」表示需要準備剛好的零錢，許多地方的公車不找零，出發前最好準備好零錢。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "旅客",
+      "en": "Where can I buy a one-day metro pass?",
+      "zh": "我在哪裡可以買地鐵一日券？",
+      "keywords": [
+        {
+          "word": "one-day",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "metro",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "問路",
+        "大眾交通",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「one-day metro pass」是地鐵一日券，適合觀光客頻繁搭乘，通常比單程票划算。",
+      "audio": null
+    },
+    {
+      "id": "d9",
+      "role": "站務人員",
+      "en": "You can buy it at the ticket office or the vending machine.",
+      "zh": "您可以在售票處或自動販賣機購買。",
+      "keywords": [
+        {
+          "word": "ticket",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "office",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "站務人員",
+        "問路",
+        "大眾交通",
+        "交通"
+      ],
+      "tips": "「ticket office」指人工售票處，「vending machine」指自動販賣機，兩者都能購票。",
+      "audio": null
+    },
+    {
+      "id": "d10",
+      "role": "旅客",
+      "en": "Which line should I take for the railway station?",
+      "zh": "去火車站我應該搭哪一條線？",
+      "keywords": [
+        {
+          "word": "railway",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "station",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "問路",
+        "大眾交通",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「Which line should I take?」詢問應該搭哪條線，地鐵線路通常以顏色或號碼命名。",
+      "audio": null
+    },
+    {
+      "id": "d11",
+      "role": "站務人員",
+      "en": "Take the Green Line, and get off at Central Station.",
+      "zh": "搭綠線，然後在中央車站下車。",
+      "keywords": [
+        {
+          "word": "green",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "central",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "站務人員",
+        "問路",
+        "大眾交通",
+        "交通"
+      ],
+      "tips": "「Take the Green Line」指搭綠線，記住顏色或名稱有助於快速找到正確的路線。",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "旅客",
+      "en": "Thank you for your help.",
+      "zh": "謝謝你的幫忙。",
+      "keywords": [
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助、救命"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "問路",
+        "大眾交通",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "感謝他人幫忙時，「Thank you for your help.」比單純的「Thank you.」更有誠意。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL9-mc-001",
+        "question": "問路時說「I'm looking for the Central Park.」最接近的中文是？",
+        "options": [
+          {
+            "en": "我在中央公園裡。",
+            "zh": ""
+          },
+          {
+            "en": "我在找中央公園。",
+            "zh": ""
+          },
+          {
+            "en": "我看著中央公園。",
+            "zh": ""
+          },
+          {
+            "en": "我去過中央公園。",
+            "zh": ""
+          }
+        ],
+        "answer": "我在找中央公園。"
+      },
+      {
+        "id": "qL9-mc-002",
+        "question": "搭公車前確認路線，以下哪句最正確？",
+        "options": [
+          {
+            "en": "Does this bus go to the Art Museum?",
+            "zh": "這班公車去美術館嗎？"
+          },
+          {
+            "en": "This bus must go to the museum.",
+            "zh": "這班公車一定去美術館。"
+          },
+          {
+            "en": "Art Museum is here.",
+            "zh": "美術館在這裡。"
+          },
+          {
+            "en": "I want museum bus.",
+            "zh": "我要去博物館的公車。"
+          }
+        ],
+        "answer": "Does this bus go to the Art Museum?"
+      },
+      {
+        "id": "qL9-mc-003",
+        "question": "「exact change」在公車情境中是指？",
+        "options": [
+          {
+            "en": "A credit card payment",
+            "zh": "信用卡付款"
+          },
+          {
+            "en": "The correct amount of coins, no change given",
+            "zh": "剛好的零錢，不找零"
+          },
+          {
+            "en": "A discount fare",
+            "zh": "優惠票價"
+          },
+          {
+            "en": "A receipt for the fare",
+            "zh": "車資收據"
+          }
+        ],
+        "answer": "The correct amount of coins, no change given"
+      },
+      {
+        "id": "qL9-mc-004",
+        "question": "詢問需不需要轉車，應該說？",
+        "options": [
+          {
+            "en": "Do I need to transfer?",
+            "zh": "我需要轉車嗎？"
+          },
+          {
+            "en": "Is there a transfer station?",
+            "zh": "有轉運站嗎？"
+          },
+          {
+            "en": "Where do I get off?",
+            "zh": "我在哪裡下車？"
+          },
+          {
+            "en": "Which line is this?",
+            "zh": "這是哪條線？"
+          }
+        ],
+        "answer": "Do I need to transfer?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL9-fi-001",
+        "question": "I'm ______ for the nearest post office.（我在找最近的郵局。）",
+        "answer": "looking"
+      },
+      {
+        "id": "qL9-fi-002",
+        "question": "How much is the ______?（車資多少錢？）",
+        "answer": "fare"
+      },
+      {
+        "id": "qL9-fi-003",
+        "question": "I'd like a one-day ______, please.（請給我一張一日券。）",
+        "answer": "pass"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL9-li-001",
+        "sentence_id": "d1"
+      },
+      {
+        "id": "qL9-li-002",
+        "sentence_id": "d4"
+      },
+      {
+        "id": "qL9-li-003",
+        "sentence_id": "d8"
+      }
+    ]
+  }
+}

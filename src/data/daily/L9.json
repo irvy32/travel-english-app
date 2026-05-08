@@ -1,0 +1,478 @@
+{
+  "chapter_id": "L9",
+  "chapter_name": "與鄰居互動",
+  "description": "與鄰居打招呼、借東西、邀請一起喝咖啡，或處理噪音、車位等小問題。包含：客氣表達請求與簡單道歉。",
+  "sentences": [
+    {
+      "id": "L9-d1",
+      "role": "本人",
+      "en": "Good morning, Mr. Johnson. How are you?",
+      "zh": "早安，強森先生。你好嗎？",
+      "keywords": [
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-d2",
+      "role": "鄰居",
+      "en": "Good morning, Mrs. Lin. I'm fine, thank you. And you?",
+      "zh": "早安，林太太。我很好，謝謝。你呢？",
+      "keywords": [
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-d3",
+      "role": "本人",
+      "en": "I'm good too. The weather is nice today.",
+      "zh": "我也很好。今天天氣不錯。",
+      "keywords": [
+        {
+          "word": "today",
+          "kk": "/təˈdeɪ/",
+          "zh": "今天"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-d4",
+      "role": "鄰居",
+      "en": "Yes, it is. Perfect for gardening.",
+      "zh": "是啊。很適合整理花園。",
+      "keywords": [
+        {
+          "word": "gardening",
+          "kk": "/ˈɡɑrdnɪŋ/",
+          "zh": "園藝"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-d5",
+      "role": "本人",
+      "en": "By the way, could I borrow a ladder? I need to change a light bulb.",
+      "zh": "對了，我可以借一個梯子嗎？我需要換一個燈泡。",
+      "keywords": [
+        {
+          "word": "borrow",
+          "kk": "/ˈbɑroʊ/",
+          "zh": "借用"
+        },
+        {
+          "word": "ladder",
+          "kk": "/ˈlædɚ/",
+          "zh": "梯子"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "鄰里互動"
+      ],
+      "tips": "「Could I...?」比「Can I...?」語氣更委婉正式，向對方請求許可時特別適合使用。",
+      "audio": null
+    },
+    {
+      "id": "L9-d6",
+      "role": "鄰居",
+      "en": "Sure, no problem. I'll bring it over later.",
+      "zh": "當然，沒問題。我等一下拿過去。",
+      "keywords": [
+        {
+          "word": "problem",
+          "kk": "/ˈprɑbləm/",
+          "zh": "問題"
+        },
+        {
+          "word": "bring",
+          "kk": "/brɪŋ/",
+          "zh": "帶來"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "電話"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-d7",
+      "role": "本人",
+      "en": "Thank you so much! Would you like to come over for coffee sometime?",
+      "zh": "非常感謝你！你改天想過來喝杯咖啡嗎？",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        },
+        {
+          "word": "come",
+          "kk": "/kʌm/",
+          "zh": "來"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行",
+        "禮貌用語"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-d8",
+      "role": "鄰居",
+      "en": "That sounds lovely. How about next Tuesday?",
+      "zh": "聽起來很棒。下星期二如何？",
+      "keywords": [
+        {
+          "word": "sounds",
+          "kk": "/saʊndz/",
+          "zh": "聽起來"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-s1",
+      "role": "練習句",
+      "en": "Hi, how are you today?",
+      "zh": "嗨，你今天好嗎？",
+      "keywords": [
+        {
+          "word": "today",
+          "kk": "/təˈdeɪ/",
+          "zh": "今天"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-s2",
+      "role": "練習句",
+      "en": "Nice to see you.",
+      "zh": "很高興見到你。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-s3",
+      "role": "練習句",
+      "en": "Could you please turn down the music?",
+      "zh": "可以請你把音樂關小聲一點嗎？",
+      "keywords": [
+        {
+          "word": "music",
+          "kk": "/ˈmjuzɪk/",
+          "zh": "音樂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "鄰里互動",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-s4",
+      "role": "練習句",
+      "en": "I'm sorry for the noise last night.",
+      "zh": "我很抱歉昨晚的噪音。",
+      "keywords": [
+        {
+          "word": "noise",
+          "kk": "/nɔɪz/",
+          "zh": "噪音"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "鄰里互動",
+        "禮貌用語"
+      ],
+      "tips": "打擾鄰居前說 Sorry to bother you，友善的開場能讓對話更順利。",
+      "audio": null
+    },
+    {
+      "id": "L9-s5",
+      "role": "練習句",
+      "en": "Is this your parking space?",
+      "zh": "這是你的停車位嗎？",
+      "keywords": [
+        {
+          "word": "parking",
+          "kk": "/ˈpɑrkɪŋ/",
+          "zh": "停車"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "鄰里互動"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-s6",
+      "role": "練習句",
+      "en": "Can I borrow some sugar?",
+      "zh": "我可以借一點糖嗎？",
+      "keywords": [
+        {
+          "word": "borrow",
+          "kk": "/ˈbɑroʊ/",
+          "zh": "借用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "鄰里互動"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-s7",
+      "role": "練習句",
+      "en": "Would you like to join us for dinner?",
+      "zh": "你想加入我們一起吃晚餐嗎？",
+      "keywords": [
+        {
+          "word": "join",
+          "kk": "/dʒɔɪn/",
+          "zh": "加入，參加"
+        },
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常作息",
+        "視訊會議",
+        "禮貌用語"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-s8",
+      "role": "練習句",
+      "en": "Thank you for your help.",
+      "zh": "謝謝你的幫忙。",
+      "keywords": [
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    },
+    {
+      "id": "L9-s9",
+      "role": "練習句",
+      "en": "Have a nice day!",
+      "zh": "祝你今天愉快！",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "與鄰居溝通保持友善語氣，直接溝通往往比投訴更能快速解決問題。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L9-w1",
+      "word": "borrow",
+      "kk": "/ˈbɑroʊ/",
+      "pos": "v.",
+      "zh": "借用",
+      "example_en": "Can I borrow your pen?",
+      "example_zh": "我可以借用你的筆嗎？"
+    },
+    {
+      "id": "L9-w2",
+      "word": "ladder",
+      "kk": "/ˈlædɚ/",
+      "pos": "n.",
+      "zh": "梯子",
+      "example_en": "He used a ladder to clean the windows.",
+      "example_zh": "他用梯子來擦窗戶。"
+    },
+    {
+      "id": "L9-w3",
+      "word": "turn down",
+      "kk": "/tɝn daʊn/",
+      "pos": "phr.",
+      "zh": "調低（音量）",
+      "example_en": "Please turn down the TV.",
+      "example_zh": "請把電視音量關小。"
+    },
+    {
+      "id": "L9-w4",
+      "word": "parking space",
+      "kk": "/ˈpɑrkɪŋ spes/",
+      "pos": "n.",
+      "zh": "停車位",
+      "example_en": "Someone took my parking space.",
+      "example_zh": "有人佔用了我的停車位。"
+    },
+    {
+      "id": "L9-w5",
+      "word": "join",
+      "kk": "/dʒɔɪn/",
+      "pos": "v.",
+      "zh": "加入，參加",
+      "example_en": "Would you like to join us?",
+      "example_zh": "你想加入我們嗎？"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L9-h1",
+      "title": "簡單打招呼與寒暄",
+      "description": "遇到鄰居時，簡單的 Good morning/afternoon. How are you? 是開啟對話的好方式。回答 I'm fine, thank you. And you?",
+      "example_en": "Good afternoon. Nice weather, isn't it?",
+      "example_zh": ""
+    },
+    {
+      "id": "L9-h2",
+      "title": "用 Could you please...? 禮貌請求",
+      "description": "想請鄰居幫忙或提出小要求（如關小音量）時，用 Could you please...? 非常客氣有禮。",
+      "example_en": "Could you please help me carry this box?",
+      "example_zh": ""
+    },
+    {
+      "id": "L9-h3",
+      "title": "用 I'm sorry for... 禮貌道歉",
+      "description": "如果不小心打擾到鄰居（如製造噪音），用 I'm sorry for...（我為...感到抱歉）來道歉，能維持良好關係。",
+      "example_en": "I'm sorry for my dog barking.",
+      "example_zh": ""
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL9-mc-001",
+        "question": "下列哪一句英文的意思是「早安，強森先生。你好嗎？」？",
+        "options": [
+          {
+            "en": "Good morning, Mr. Johnson. How are you?",
+            "zh": "早安，強森先生。你好嗎？"
+          },
+          {
+            "en": "Good morning, Mrs. Lin. I'm fine, thank you. And you?",
+            "zh": "早安，林太太。我很好，謝謝。你呢？"
+          },
+          {
+            "en": "I'm good too. The weather is nice today.",
+            "zh": "我也很好。今天天氣不錯。"
+          },
+          {
+            "en": "Yes, it is. Perfect for gardening.",
+            "zh": "是啊。很適合整理花園。"
+          }
+        ],
+        "answer": "Good morning, Mr. Johnson. How are you?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL9-fi-001",
+        "question": "Good ______, Mr. Johnson. How are you?",
+        "answer": "morning"
+      },
+      {
+        "id": "qL9-fi-002",
+        "question": "Good ______, Mrs. Lin. I'm fine, thank you. And you?",
+        "answer": "morning"
+      },
+      {
+        "id": "qL9-fi-003",
+        "question": "I'm good too. The ______ is nice today.",
+        "answer": "weather"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL9-li-001",
+        "sentence_id": "L9-d1"
+      },
+      {
+        "id": "qL9-li-002",
+        "sentence_id": "L9-d3"
+      },
+      {
+        "id": "qL9-li-003",
+        "sentence_id": "L9-d5"
+      }
+    ]
+  }
+}

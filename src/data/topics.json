@@ -1,26 +1,50 @@
 [
   {
-    "id": "travel",
-    "name": "旅遊英文",
+    "id": "travel1",
+    "name": "初級旅遊英文(一)",
     "icon": "✈️",
-    "chaptersPath": "travel",
+    "chaptersPath": "travel1",
     "totalChapters": 14,
     "available": true
   },
   {
-    "id": "airport",
+    "id": "travel2",
     "name": "初級旅遊英文(二)",
     "icon": "🛫",
-    "chaptersPath": "airport",
+    "chaptersPath": "travel2",
     "totalChapters": 31,
     "available": true
   },
   {
+    "id": "travel3",
+    "name": "初級旅遊英文(三)",
+    "icon": "🛩️",
+    "chaptersPath": "travel3",
+    "totalChapters": 11,
+    "available": true
+  },
+  {
+    "id": "travel4",
+    "name": "中級旅遊英文",
+    "icon": "🌍",
+    "chaptersPath": "travel4",
+    "totalChapters": 10,
+    "available": true
+  },
+  {
+    "id": "daily",
+    "name": "日常生活英文",
+    "icon": "🏠",
+    "chaptersPath": "daily",
+    "totalChapters": 10,
+    "available": true
+  },
+  {
     "id": "social",
-    "name": "社交英文",
+    "name": "社交興趣英文",
     "icon": "🤝",
     "chaptersPath": "social",
-    "totalChapters": 0,
-    "available": false
+    "totalChapters": 10,
+    "available": true
   }
 ]

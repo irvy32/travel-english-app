@@ -1,0 +1,452 @@
+{
+  "chapter_id": "L7",
+  "chapter_name": "電影與音樂",
+  "description": "聊天時談喜歡的電影、影集或音樂。包含：表達喜歡哪一種類型、推薦一部電影或一首歌、簡單說明原因。",
+  "sentences": [
+    {
+      "id": "L7-d1",
+      "role": "朋友",
+      "en": "Do you like watching movies?",
+      "zh": "你喜歡看電影嗎？",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "電影",
+        "詢問"
+      ],
+      "tips": "聊電影時，分享一個最印象深刻的場景，比單純說「好看」更能引發共鳴。",
+      "audio": null
+    },
+    {
+      "id": "L7-d2",
+      "role": "本人",
+      "en": "Yes, I do. I especially like comedies and historical dramas.",
+      "zh": "是的，我喜歡。我特別喜歡喜劇片和歷史劇。",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "聊電影時，分享一個最印象深刻的場景，比單純說「好看」更能引發共鳴。",
+      "audio": null
+    },
+    {
+      "id": "L7-d3",
+      "role": "朋友",
+      "en": "Have you seen that new drama about Queen Elizabeth?",
+      "zh": "你看過那部關於伊莉莎白女王的新劇嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "聊電影時，Have you seen...? 用現在完成式詢問有無看過；Did you see...? 則指特定時間點看的。",
+      "audio": null
+    },
+    {
+      "id": "L7-d4",
+      "role": "本人",
+      "en": "Not yet. Is it good?",
+      "zh": "還沒。好看嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "聊電影時，分享一個最印象深刻的場景，比單純說「好看」更能引發共鳴。",
+      "audio": null
+    },
+    {
+      "id": "L7-d5",
+      "role": "朋友",
+      "en": "I think it's excellent. The story is very interesting.",
+      "zh": "我覺得非常棒。故事非常有趣。",
+      "keywords": [
+        {
+          "word": "story",
+          "kk": "/ˈstɔrɪ/",
+          "zh": "故事"
+        },
+        {
+          "word": "interesting",
+          "kk": "/ˈɪntrɪstɪŋ/",
+          "zh": "有趣的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "表達看法"
+      ],
+      "tips": "「I find + 名詞 + 形容詞」比直接說 It is... 更有個人色彩，如 I find hiking very refreshing（我覺得健行很提神）。",
+      "audio": null
+    },
+    {
+      "id": "L7-d6",
+      "role": "本人",
+      "en": "I'll put it on my watchlist. What kind of music do you listen to?",
+      "zh": "我會把它加到我的待看清單。你聽什麼樣的音樂？",
+      "keywords": [
+        {
+          "word": "watchlist",
+          "kk": "/ˈwɑtʃˌlɪst/",
+          "zh": "待看清單"
+        },
+        {
+          "word": "kind",
+          "kk": "/kaɪnd/",
+          "zh": "友善的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "電影",
+        "音樂",
+        "詢問"
+      ],
+      "tips": "詢問喜好類型說 What kind of music do you like? 或 What genre of movies do you enjoy?，語氣自然開放。",
+      "audio": null
+    },
+    {
+      "id": "L7-d7",
+      "role": "朋友",
+      "en": "I enjoy old jazz and classical music. It helps me relax.",
+      "zh": "我喜歡老爵士樂和古典音樂。這能幫助我放鬆。",
+      "keywords": [
+        {
+          "word": "enjoy",
+          "kk": "/ɪnˈdʒɔɪ/",
+          "zh": "享受；喜歡"
+        },
+        {
+          "word": "jazz",
+          "kk": "/dʒæz/",
+          "zh": "爵士樂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "課程社團",
+        "音樂"
+      ],
+      "tips": "表達喜好可用 I enjoy、I love、I like，後面接動名詞（-ing）或名詞，三者語意相近，enjoy 語氣最強烈。",
+      "audio": null
+    },
+    {
+      "id": "L7-d8",
+      "role": "本人",
+      "en": "Me too. Sometimes I listen to music while I cook.",
+      "zh": "我也是。有時候我做飯時會聽音樂。",
+      "keywords": [
+        {
+          "word": "listen",
+          "kk": "/ˈlɪsən/",
+          "zh": "聆聽"
+        },
+        {
+          "word": "music",
+          "kk": "/ˈmjuzɪk/",
+          "zh": "音樂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "音樂"
+      ],
+      "tips": "聊電影時，分享一個最印象深刻的場景，比單純說「好看」更能引發共鳴。",
+      "audio": null
+    },
+    {
+      "id": "L7-s1",
+      "role": "練習句",
+      "en": "I'm a big fan of sci-fi movies.",
+      "zh": "我是科幻電影的忠實粉絲。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "電影"
+      ],
+      "tips": "聊電影時，分享一個最印象深刻的場景，比單純說「好看」更能引發共鳴。",
+      "audio": null
+    },
+    {
+      "id": "L7-s2",
+      "role": "練習句",
+      "en": "What's your favorite movie?",
+      "zh": "你最喜歡的電影是什麼？",
+      "keywords": [
+        {
+          "word": "favorite",
+          "kk": "/ˈfeɪvərɪt/",
+          "zh": "最喜歡的"
+        },
+        {
+          "word": "movie",
+          "kk": "/ˈmuvɪ/",
+          "zh": "電影"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "電影"
+      ],
+      "tips": "聊電影時，分享一個最印象深刻的場景，比單純說「好看」更能引發共鳴。",
+      "audio": null
+    },
+    {
+      "id": "L7-s3",
+      "role": "練習句",
+      "en": "The soundtrack of that film is beautiful.",
+      "zh": "那部電影的配樂很美。",
+      "keywords": [
+        {
+          "word": "soundtrack",
+          "kk": "/ˈsaʊndˌtræk/",
+          "zh": "電影配樂，原聲帶"
+        },
+        {
+          "word": "film",
+          "kk": "/fɪlm/",
+          "zh": "電影；影片"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "電影"
+      ],
+      "tips": "聊電影時，分享一個最印象深刻的場景，比單純說「好看」更能引發共鳴。",
+      "audio": null
+    },
+    {
+      "id": "L7-s4",
+      "role": "練習句",
+      "en": "I listen to pop music in the car.",
+      "zh": "我在車上聽流行音樂。",
+      "keywords": [
+        {
+          "word": "listen",
+          "kk": "/ˈlɪsən/",
+          "zh": "聆聽"
+        },
+        {
+          "word": "pop",
+          "kk": "/pɑp/",
+          "zh": "流行音樂"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "音樂"
+      ],
+      "tips": "介紹音樂類型時，classical（古典）、jazz（爵士）、pop（流行）、R&B、rock（搖滾）是最常被討論的類別。",
+      "audio": null
+    },
+    {
+      "id": "L7-s5",
+      "role": "練習句",
+      "en": "Can you recommend a good TV series?",
+      "zh": "你可以推薦一部好看的電視劇嗎？",
+      "keywords": [
+        {
+          "word": "recommend",
+          "kk": "/ˌrɛkəˈmɛnd/",
+          "zh": "推薦"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "聊電影時，分享一個最印象深刻的場景，比單純說「好看」更能引發共鳴。",
+      "audio": null
+    },
+    {
+      "id": "L7-s6",
+      "role": "練習句",
+      "en": "I find classical music very calming.",
+      "zh": "我覺得古典音樂非常平靜。",
+      "keywords": [
+        {
+          "word": "find",
+          "kk": "/faɪnd/",
+          "zh": "發現；找到"
+        },
+        {
+          "word": "classical",
+          "kk": "/ˈklæsɪkəl/",
+          "zh": "古典的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "課程社團",
+        "音樂",
+        "表達看法"
+      ],
+      "tips": "「I find + 名詞 + 形容詞」比直接說 It is... 更有個人色彩，如 I find hiking very refreshing（我覺得健行很提神）。",
+      "audio": null
+    },
+    {
+      "id": "L7-s7",
+      "role": "練習句",
+      "en": "Let's watch it together sometime.",
+      "zh": "我們找個時間一起看吧。",
+      "keywords": [
+        {
+          "word": "watch",
+          "kk": "/wɑtʃ/",
+          "zh": "觀看；手錶"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "電影"
+      ],
+      "tips": "聊電影時，分享一個最印象深刻的場景，比單純說「好看」更能引發共鳴。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L7-w1",
+      "word": "comedy",
+      "kk": "/ˈkɑmədi/",
+      "pos": "n.",
+      "zh": "喜劇",
+      "example_en": "We watched a comedy last night and laughed a lot.",
+      "example_zh": "我們昨晚看了一部喜劇，笑得很開心。"
+    },
+    {
+      "id": "L7-w2",
+      "word": "historical drama",
+      "kk": "/hɪsˈtɔrɪkl ˈdrɑmə/",
+      "pos": "n.",
+      "zh": "歷史劇",
+      "example_en": "She loves watching historical dramas.",
+      "example_zh": "她喜歡看歷史劇。"
+    },
+    {
+      "id": "L7-w3",
+      "word": "watchlist",
+      "kk": "/ˈwɑtʃˌlɪst/",
+      "pos": "n.",
+      "zh": "待看清單",
+      "example_en": "I have a long watchlist of movies.",
+      "example_zh": "我有一長串電影待看清單。"
+    },
+    {
+      "id": "L7-w4",
+      "word": "soundtrack",
+      "kk": "/ˈsaʊndˌtræk/",
+      "pos": "n.",
+      "zh": "電影配樂，原聲帶",
+      "example_en": "I bought the soundtrack of that movie.",
+      "example_zh": "我買了那部電影的原聲帶。"
+    },
+    {
+      "id": "L7-w5",
+      "word": "recommend",
+      "kk": "/ˌrɛkəˈmɛnd/",
+      "pos": "v.",
+      "zh": "推薦",
+      "example_en": "Can you recommend a good book?",
+      "example_zh": "你可以推薦一本好書嗎？"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L7-h1",
+      "title": "談論電影／音樂類型",
+      "description": "表達你喜歡哪種類型，可以用 I like... / I'm a fan of...。常見類型有 comedy, drama, action, sci-fi, jazz, classical。",
+      "example_en": "I like action movies because they are exciting.",
+      "example_zh": "我喜歡動作片，因為它們很刺激。"
+    },
+    {
+      "id": "L7-h2",
+      "title": "請對方推薦",
+      "description": "如果你在尋找新的電影或音樂，可以用 Can you recommend...? 來請教對方，這也是一個很好的話題。",
+      "example_en": "Can you recommend a song I might like?",
+      "example_zh": "你可以推薦一首我可能會喜歡的歌嗎？"
+    },
+    {
+      "id": "L7-h3",
+      "title": "簡單說明喜歡的原因",
+      "description": "分享你為什麼喜歡某部電影或音樂，用簡單的形容詞，如 interesting, relaxing, exciting, beautiful。",
+      "example_en": "I like that song because it makes me happy.",
+      "example_zh": "我喜歡那首歌，因為它讓我開心。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL7-mc-001",
+        "question": "下列哪一句英文的意思是「你喜歡看電影嗎？」？",
+        "options": [
+          {
+            "en": "Do you like watching movies?",
+            "zh": "你喜歡看電影嗎？"
+          },
+          {
+            "en": "Yes, I do. I especially like comedies and historical dramas.",
+            "zh": "是的，我喜歡。我特別喜歡喜劇片和歷史劇。"
+          },
+          {
+            "en": "Have you seen that new drama about Queen Elizabeth?",
+            "zh": "你看過那部關於伊莉莎白女王的新劇嗎？"
+          },
+          {
+            "en": "Not yet. Is it good?",
+            "zh": "還沒。好看嗎？"
+          }
+        ],
+        "answer": "Do you like watching movies?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL7-fi-001",
+        "question": "Do you like ______ movies?",
+        "answer": "watching"
+      },
+      {
+        "id": "qL7-fi-002",
+        "question": "Yes, I do. I ______ like comedies and historical dramas.",
+        "answer": "especially"
+      },
+      {
+        "id": "qL7-fi-003",
+        "question": "Have you ______ that new drama about Queen Elizabeth?",
+        "answer": "seen"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL7-li-001",
+        "sentence_id": "L7-d1"
+      },
+      {
+        "id": "qL7-li-002",
+        "sentence_id": "L7-d3"
+      },
+      {
+        "id": "qL7-li-003",
+        "sentence_id": "L7-d5"
+      }
+    ]
+  }
+}

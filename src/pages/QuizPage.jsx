@@ -2,55 +2,119 @@ import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import TopNav from '../components/TopNav'
 import BottomNav from '../components/BottomNav'
+import topicsData from '../data/topics.json'
 
-const CHAPTERS = [
-  { id: '01', name: '出國前準備', file: '01_Preparation' },
-  { id: '02', name: '機場報到', file: '02_Airport_Checkin' },
-  { id: '03', name: '安檢與登機口', file: '03_Security_and_Gate' },
-  { id: '04', name: '機上對話', file: '04_Inflight_Conversation' },
-  { id: '05', name: '入境通關', file: '05_Immigration' },
-  { id: '06', name: '機場交通', file: '06_Airport_Transportation' },
-  { id: '07', name: '飯店入住', file: '07_Hotel_Checkin' },
-  { id: '08', name: '外出用餐', file: '08_Dining_Out' },
-  { id: '09', name: '購物退稅', file: '09_Shopping_and_Tax_Refund' },
-  { id: '10', name: '問路導航', file: '10_Directions_and_Navigation' },
-  { id: '11', name: '觀光行程', file: '11_Sightseeing_and_Tours' },
-  { id: '12', name: '租車', file: '12_Car_Rental' },
-  { id: '13', name: '緊急狀況', file: '13_Emergencies' },
-  { id: '14', name: '回程班機', file: '14_Return_Flight' },
-]
+const GLOB_MAP = {
+  travel1: import.meta.glob('../data/travel1/*.json'),
+  travel2: import.meta.glob('../data/travel2/*.json'),
+  travel3: import.meta.glob('../data/travel3/*.json'),
+  travel4: import.meta.glob('../data/travel4/*.json'),
+  daily:   import.meta.glob('../data/daily/*.json'),
+  social:  import.meta.glob('../data/social/*.json'),
+}
+
+function sortById(a, b) {
+  const aId = String(a.chapter_id)
+  const bId = String(b.chapter_id)
+  const aMatch = aId.match(/^([A-Za-z]*)(\d+)(.*)$/)
+  const bMatch = bId.match(/^([A-Za-z]*)(\d+)(.*)$/)
+  if (aMatch && bMatch) {
+    if (aMatch[1] !== bMatch[1]) return aMatch[1].localeCompare(bMatch[1])
+    const diff = parseInt(aMatch[2]) - parseInt(bMatch[2])
+    if (diff !== 0) return diff
+    return aMatch[3].localeCompare(bMatch[3])
+  }
+  return aId.localeCompare(bId)
+}
 
 export default function QuizPage() {
   const navigate = useNavigate()
+  const lastTopicId = localStorage.getItem('lastTopicId') || 'travel1'
+  const [selectedTopicId, setSelectedTopicId] = useState(lastTopicId)
+  const [chapters, setChapters] = useState([])
+  const [loading, setLoading] = useState(false)
+
+  const loadChapters = async (topicId) => {
+    setLoading(true)
+    setChapters([])
+    const modules = GLOB_MAP[topicId] ?? {}
+    const loaded = []
+    await Promise.all(
+      Object.keys(modules).map(async (key) => {
+        const mod = await modules[key]()
+        if (mod.default) loaded.push(mod.default)
+      })
+    )
+    loaded.sort(sortById)
+    setChapters(loaded)
+    setLoading(false)
+  }
+
+  useEffect(() => { loadChapters(selectedTopicId) }, [selectedTopicId])
+
+  const handleSelectTopic = (topicId) => {
+    setSelectedTopicId(topicId)
+    loadChapters(topicId)
+  }
+
   return (
     <div className="min-h-screen bg-[#FAF7F2]">
-      <TopNav topicName="測驗" chapterName=""
+      <TopNav
+        topicName="測驗"
+        chapterName=""
         onHome={() => navigate('/')}
-        onTopic={() => navigate('/travel')} />
+        onTopic={() => navigate(`/${localStorage.getItem('lastTopicId') || 'travel1'}`)}
+      />
       <div className="max-w-2xl mx-auto px-4 py-4">
+
+        {/* 課程選擇器 */}
+        <div className="grid grid-cols-2 gap-2 pb-2 mb-4">
+          {topicsData.filter(t => t.available).map(topic => (
+            <button
+              key={topic.id}
+              onClick={() => handleSelectTopic(topic.id)}
+              className={`w-full px-3 py-1.5 rounded-full text-sm font-medium text-left ${
+                selectedTopicId === topic.id
+                  ? 'bg-[#0EA5A0] text-white'
+                  : 'bg-gray-100 text-gray-600'
+              }`}
+            >
+              {topic.icon} {topic.name}
+            </button>
+          ))}
+        </div>
+
         <h2 className="text-xl font-bold text-[#0F1F3D] mb-4">選擇章節開始測驗</h2>
-        {CHAPTERS.map((ch, idx) => (
-          <div key={ch.id}
-            onClick={() => navigate(`/travel/${ch.file}?tab=quiz`)}
-            className="flex items-center bg-white border rounded-xl p-4 mb-3
-                       shadow-sm cursor-pointer hover:border-[#0EA5A0] transition-colors">
-            <div className="w-10 h-10 rounded-full bg-[#0F1F3D] text-white
-                           flex items-center justify-center font-bold mr-4 flex-shrink-0">
-              {idx + 1}
+
+        {loading ? (
+          <p className="text-center text-gray-400 py-8">載入中...</p>
+        ) : (
+          chapters.map((ch, idx) => (
+            <div
+              key={ch.chapter_id}
+              onClick={() => navigate(`/${selectedTopicId}/${ch.chapter_id}?tab=quiz`)}
+              className="flex items-center bg-white border rounded-xl p-4 mb-3 shadow-sm cursor-pointer hover:border-[#0EA5A0] transition-colors"
+            >
+              <div className="w-10 h-10 rounded-full bg-[#0F1F3D] text-white flex items-center justify-center font-bold mr-4 flex-shrink-0">
+                {idx + 1}
+              </div>
+              <div className="flex-1">
+                <p className="font-medium text-[#0F1F3D]">{ch.chapter_name}</p>
+              </div>
+              <span className="text-gray-400">›</span>
             </div>
-            <div className="flex-1">
-              <p className="font-medium text-[#0F1F3D]">{ch.name}</p>
-            </div>
-            <span className="text-gray-400">›</span>
-          </div>
-        ))}
+          ))
+        )}
       </div>
-      <BottomNav currentPage="quiz"
+
+      <BottomNav
+        currentPage="quiz"
         onNavigate={(page) => {
-          if (page === 'home') navigate('/travel')
+          if (page === 'home') navigate(`/${localStorage.getItem('lastTopicId') || 'travel1'}`)
           if (page === 'review') navigate('/review')
           if (page === 'settings') navigate('/settings')
-        }} />
+        }}
+      />
     </div>
   )
 }

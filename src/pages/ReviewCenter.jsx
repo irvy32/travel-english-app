@@ -4,19 +4,24 @@ import TopNav from '../components/TopNav'
 import BottomNav from '../components/BottomNav'
 import { useFavorites } from '../hooks/useFavorites'
 import * as storage from '../services/storage'
+import topicsData from '../data/topics.json'
 
 export default function ReviewCenter() {
   const navigate = useNavigate()
   const [activeTab, setActiveTab] = useState('favorites')
   
-  const { favorites, removeFavorite } = useFavorites('travel')
+  const lastTopicId = localStorage.getItem('lastTopicId') || 'travel1'
+  const currentTopic = topicsData.find(t => t.id === lastTopicId) || topicsData[0]
+  const [selectedTopicId, setSelectedTopicId] = useState(lastTopicId)
+  
+  const { favorites, removeFavorite } = useFavorites(selectedTopicId)
   const [wrongItems, setWrongItems] = useState(
-    () => storage.getWrongBank('travel')
+    () => storage.getWrongBank(selectedTopicId)
   )
   const [wrongAnswers, setWrongAnswers] = useState({})
 
   const refreshWrong = () => {
-    setWrongItems(storage.getWrongBank('travel'))
+    setWrongItems(storage.getWrongBank(selectedTopicId))
   }
 
   const handlePlay = (text) => {
@@ -35,14 +40,14 @@ export default function ReviewCenter() {
     const userAns = wrongAnswers[item.id] ?? ''
     const correct = userAns.trim().toLowerCase() === 
                     item.correctAnswer.trim().toLowerCase()
-    storage.updateStreak('travel', item.id, correct)
+    storage.updateStreak(selectedTopicId, item.id, correct)
     refreshWrong()
     setWrongAnswers(prev => ({ ...prev, [item.id]: '' }))
   }
 
   const handleRemoveWrong = (item) => {
     if (window.confirm('確定要移除這題嗎？')) {
-      storage.removeWrongItem('travel', item.id)
+      storage.removeWrongItem(selectedTopicId, item.id)
       refreshWrong()
     }
   }
@@ -53,7 +58,7 @@ export default function ReviewCenter() {
         topicName="複習中心"
         chapterName=""
         onHome={() => navigate('/')}
-        onTopic={() => navigate('/travel')}
+        onTopic={() => navigate(`/${localStorage.getItem('lastTopicId') || 'travel1'}`)}
       />
 
       <div className="max-w-2xl mx-auto px-4 py-4">
@@ -79,6 +84,26 @@ export default function ReviewCenter() {
           >
             📕 錯題本
           </button>
+        </div>
+
+        {/* 課程選擇器 */}
+        <div className="grid grid-cols-2 gap-2 pb-2 mb-4">
+          {topicsData.filter(t => t.available).map(topic => (
+            <button
+              key={topic.id}
+              onClick={() => {
+                setSelectedTopicId(topic.id)
+                setWrongItems(storage.getWrongBank(topic.id))
+              }}
+              className={`w-full px-3 py-1.5 rounded-full text-sm font-medium text-left ${
+                selectedTopicId === topic.id
+                  ? 'bg-[#0EA5A0] text-white'
+                  : 'bg-gray-100 text-gray-600'
+              }`}
+            >
+              {topic.icon} {topic.name}
+            </button>
+          ))}
         </div>
 
         {/* 收藏夾內容 */}
@@ -198,7 +223,7 @@ export default function ReviewCenter() {
       <BottomNav
         currentPage="review"
         onNavigate={(page) => {
-          if (page === 'home') navigate('/travel')
+          if (page === 'home') navigate(`/${localStorage.getItem('lastTopicId') || 'travel1'}`)
           if (page === 'quiz') navigate('/quiz')
           if (page === 'settings') navigate('/settings')
         }}

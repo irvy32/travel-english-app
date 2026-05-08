@@ -1,0 +1,440 @@
+{
+  "chapter_id": "L9",
+  "chapter_name": "家人與孫子話題",
+  "description": "和朋友分享自己的家庭與孫子近況。包含：介紹孩子與孫子、簡單說孫子幾歲、喜歡做什麼、最近有趣的事情。",
+  "sentences": [
+    {
+      "id": "L9-d1",
+      "role": "朋友",
+      "en": "How is your family?",
+      "zh": "你的家人好嗎？",
+      "keywords": [
+        {
+          "word": "family",
+          "kk": "/ˈfæməlɪ/",
+          "zh": "家人"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-d2",
+      "role": "本人",
+      "en": "They are all doing well, thank you. My son and his family live in Chicago.",
+      "zh": "他們都很好，謝謝你。我兒子和他的家人住在芝加哥。",
+      "keywords": [
+        {
+          "word": "family",
+          "kk": "/ˈfæməlɪ/",
+          "zh": "家人"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-d3",
+      "role": "朋友",
+      "en": "Do you have any grandchildren?",
+      "zh": "你有孫子孫女嗎？",
+      "keywords": [
+        {
+          "word": "grandchildren",
+          "kk": "/ˈɡræntʃɪldrən/",
+          "zh": "孫子女（複數）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家人孫子",
+        "詢問"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-d4",
+      "role": "本人",
+      "en": "Yes, I have two grandsons. They are 5 and 7 years old.",
+      "zh": "有的，我有兩個孫子。他們一個五歲，一個七歲。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "家人孫子"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-d5",
+      "role": "朋友",
+      "en": "That's lovely. What do they like to do?",
+      "zh": "真好。他們喜歡做什麼？",
+      "keywords": [
+        {
+          "word": "lovely",
+          "kk": "/ˈlʌvlɪ/",
+          "zh": "可愛的；美好的"
+        },
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-d6",
+      "role": "本人",
+      "en": "They love playing soccer and video games. We video call every weekend.",
+      "zh": "他們喜歡踢足球和玩電動遊戲。我們每週末都會視訊通話。",
+      "keywords": [
+        {
+          "word": "love",
+          "kk": "/lʌv/",
+          "zh": "愛；非常喜歡"
+        },
+        {
+          "word": "video",
+          "kk": "/ˈvɪdɪoʊ/",
+          "zh": "影片"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-d7",
+      "role": "朋友",
+      "en": "Technology is great for keeping in touch. Do you see them often?",
+      "zh": "科技對於保持聯繫來說很棒。你常見到他們嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-d8",
+      "role": "本人",
+      "en": "I visit them twice a year. Last time we went to the zoo together.",
+      "zh": "我每年去看他們兩次。上次我們還一起去動物園。",
+      "keywords": [
+        {
+          "word": "visit",
+          "kk": "/ˈvɪzɪt/",
+          "zh": "拜訪；參觀"
+        },
+        {
+          "word": "year",
+          "kk": "/jɪr/",
+          "zh": "年"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-s1",
+      "role": "練習句",
+      "en": "I have three children.",
+      "zh": "我有三個孩子。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-s2",
+      "role": "練習句",
+      "en": "My daughter is a doctor.",
+      "zh": "我女兒是醫生。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-s3",
+      "role": "練習句",
+      "en": "My grandson just started kindergarten.",
+      "zh": "我的孫子剛上幼稚園。",
+      "keywords": [
+        {
+          "word": "kindergarten",
+          "kk": "/ˈkɪndɚˌɡɑrtn/",
+          "zh": "幼稚園"
+        },
+        {
+          "word": "grandson",
+          "kk": "/ˈɡrænsʌn/",
+          "zh": "孫子"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家人孫子"
+      ],
+      "tips": "談論孫子女時，grandkids 是 grandchildren 的口語說法，聊天時使用更自然親切。",
+      "audio": null
+    },
+    {
+      "id": "L9-s4",
+      "role": "練習句",
+      "en": "They love to draw and paint.",
+      "zh": "他們喜歡畫畫。",
+      "keywords": [
+        {
+          "word": "love",
+          "kk": "/lʌv/",
+          "zh": "愛；非常喜歡"
+        },
+        {
+          "word": "draw",
+          "kk": "/drɔ/",
+          "zh": "畫"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-s5",
+      "role": "練習句",
+      "en": "We had a family gathering last month.",
+      "zh": "我們上個月有家庭聚會。",
+      "keywords": [
+        {
+          "word": "gathering",
+          "kk": "/ˈɡæðərɪŋ/",
+          "zh": "聚會"
+        },
+        {
+          "word": "family",
+          "kk": "/ˈfæməlɪ/",
+          "zh": "家人"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "聚會邀約"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-s6",
+      "role": "練習句",
+      "en": "It's always noisy when the grandchildren visit.",
+      "zh": "孫子孫女來訪時總是很熱鬧。",
+      "keywords": [
+        {
+          "word": "grandchildren",
+          "kk": "/ˈɡræntʃɪldrən/",
+          "zh": "孫子女（複數）"
+        },
+        {
+          "word": "visit",
+          "kk": "/ˈvɪzɪt/",
+          "zh": "拜訪；參觀"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家人孫子"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    },
+    {
+      "id": "L9-s7",
+      "role": "練習句",
+      "en": "Family is the most important thing to me.",
+      "zh": "家庭對我來說是最重要的。",
+      "keywords": [
+        {
+          "word": "family",
+          "kk": "/ˈfæməlɪ/",
+          "zh": "家人"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "談孫子女時，They grow up so fast 是最能引發共鳴的一句話，幾乎所有長輩都有同感。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L9-w1",
+      "word": "grandchild",
+      "kk": "/ˈɡrænˌtʃaɪld/",
+      "pos": "n.",
+      "zh": "孫子，孫女",
+      "example_en": "My first grandchild was born last year.",
+      "example_zh": "我的第一個孫子去年出生了。"
+    },
+    {
+      "id": "L9-w2",
+      "word": "video call",
+      "kk": "/ˈvɪdioʊ kɔl/",
+      "pos": "n.",
+      "zh": "視訊通話",
+      "example_en": "I make a video call with my family every Sunday.",
+      "example_zh": "我每週日和我的家人視訊通話。"
+    },
+    {
+      "id": "L9-w3",
+      "word": "keep in touch",
+      "kk": "/kip ɪn tʌtʃ/",
+      "pos": "phr.",
+      "zh": "保持聯繫",
+      "example_en": "We keep in touch through email.",
+      "example_zh": "我們透過電子郵件保持聯繫。"
+    },
+    {
+      "id": "L9-w4",
+      "word": "kindergarten",
+      "kk": "/ˈkɪndɚˌɡɑrtn/",
+      "pos": "n.",
+      "zh": "幼稚園",
+      "example_en": "My granddaughter goes to kindergarten.",
+      "example_zh": "我的孫女上幼稚園。"
+    },
+    {
+      "id": "L9-w5",
+      "word": "gathering",
+      "kk": "/ˈɡæðərɪŋ/",
+      "pos": "n.",
+      "zh": "聚會",
+      "example_en": "We have a family gathering at Christmas.",
+      "example_zh": "我們在聖誕節有家庭聚會。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L9-h1",
+      "title": "介紹家庭成員",
+      "description": "聊天時簡單介紹家人，可以從孩子（children）和孫子（grandchildren）開始，說明他們的年紀或職業。",
+      "example_en": "I have two sons. One is an engineer, and the other is a teacher.",
+      "example_zh": "我有兩個兒子。一個是工程師，另一個是老師。"
+    },
+    {
+      "id": "L9-h2",
+      "title": "分享孫子的趣事",
+      "description": "談到孫子時，可以分享他們可愛或有趣的舉動，例如最近學會了什麼、喜歡什麼活動。",
+      "example_en": "My granddaughter learned to ride a bike last week.",
+      "example_zh": "我的孫女上週學會了騎腳踏車。"
+    },
+    {
+      "id": "L9-h3",
+      "title": "表達對家庭的感受",
+      "description": "在聊天結尾，可以用一句話總結你對家庭的看法，如 Family is very important. 或 I'm very proud of them.",
+      "example_en": "I feel very lucky to have such a wonderful family.",
+      "example_zh": "我很幸運能有這麼美好的家庭。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL9-mc-001",
+        "question": "下列哪一句英文的意思是「你的家人好嗎？」？",
+        "options": [
+          {
+            "en": "How is your family?",
+            "zh": "你的家人好嗎？"
+          },
+          {
+            "en": "They are all doing well, thank you. My son and his family live in Chicago.",
+            "zh": "他們都很好，謝謝你。我兒子和他的家人住在芝加哥。"
+          },
+          {
+            "en": "Do you have any grandchildren?",
+            "zh": "你有孫子孫女嗎？"
+          },
+          {
+            "en": "Yes, I have two grandsons. They are 5 and 7 years old.",
+            "zh": "有的，我有兩個孫子。他們一個五歲，一個七歲。"
+          }
+        ],
+        "answer": "How is your family?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL9-fi-001",
+        "question": "How is your ______?",
+        "answer": "family"
+      },
+      {
+        "id": "qL9-fi-002",
+        "question": "They are all ______ well, thank you. My son and his family live in Chicago.",
+        "answer": "doing"
+      },
+      {
+        "id": "qL9-fi-003",
+        "question": "Do you have any ______?",
+        "answer": "grandchildren"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL9-li-001",
+        "sentence_id": "L9-d1"
+      },
+      {
+        "id": "qL9-li-002",
+        "sentence_id": "L9-d3"
+      },
+      {
+        "id": "qL9-li-003",
+        "sentence_id": "L9-d5"
+      }
+    ]
+  }
+}

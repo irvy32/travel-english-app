@@ -1,0 +1,404 @@
+{
+  "chapter_id": "L4",
+  "chapter_name": "候機與免稅購物",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "旅客",
+      "en": "Excuse me, where is Gate B12?",
+      "zh": "不好意思，請問B12登機門在哪裡？",
+      "keywords": [
+        {
+          "word": "excuse",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "候機",
+        "免稅店",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「Excuse me,」是向陌生人搭話的禮貌開場白，在機場等公共場所問路時必備的起始語。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "機場人員",
+      "en": "Go straight, then turn left. It's next to the coffee shop.",
+      "zh": "直走，然後左轉。它就在咖啡店旁邊。",
+      "keywords": [
+        {
+          "word": "straight",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "coffee",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場人員",
+        "候機",
+        "免稅店",
+        "購物"
+      ],
+      "tips": "指路時常用「Go straight（直走）」「Turn left/right（左/右轉）」，聽懂這類方向指示非常重要。",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "旅客",
+      "en": "Thank you.",
+      "zh": "謝謝。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "候機",
+        "免稅店",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「Thank you.」是最基本的感謝語，在服務場合中要養成習慣，有助於建立良好互動。",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "廣播",
+      "en": "Attention please. Flight AB123 to London is delayed by 30 minutes.",
+      "zh": "請注意，飛往倫敦的AB123班機延誤30分鐘。",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "班機"
+        },
+        {
+          "word": "delayed",
+          "kk": "/dɪˈled/",
+          "zh": "延誤的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "廣播",
+        "候機",
+        "免稅店",
+        "購物"
+      ],
+      "tips": "機場廣播通常用固定格式：「Attention please. Flight XX is delayed by XX minutes.」記得多聽幾次。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "旅客",
+      "en": "Oh, our flight is delayed. Let's look around the duty-free shop.",
+      "zh": "喔，我們的班機延誤了。我們逛逛免稅店吧。",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "班機"
+        },
+        {
+          "word": "delayed",
+          "kk": "/dɪˈled/",
+          "zh": "延誤的"
+        },
+        {
+          "word": "duty-free",
+          "kk": "/ˈduti ˈfri/",
+          "zh": "免稅的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "候機",
+        "免稅店",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「Let's look around...」是邀請同伴一起做某事，語氣輕鬆友善，候機時逛免稅店是常見消遣。",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "店員",
+      "en": "Welcome. Can I help you find anything?",
+      "zh": "歡迎光臨。需要我幫您找什麼嗎？",
+      "keywords": [
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助、救命"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "店員",
+        "候機",
+        "免稅店",
+        "購物"
+      ],
+      "tips": "店員的「Can I help you find anything?」是標準歡迎語，不需要幫忙時可回答「Just looking, thanks.」",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "旅客",
+      "en": "I'm just looking, thank you. How much is this perfume?",
+      "zh": "我只是看看，謝謝。這瓶香水多少錢？",
+      "keywords": [
+        {
+          "word": "looking",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "perfume",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "候機",
+        "免稅店",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「I'm just looking, thank you.」是婉拒協助的禮貌說法，讓店員知道你只是瀏覽，不需要推銷。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "店員",
+      "en": "It's 75 dollars.",
+      "zh": "75美元。",
+      "keywords": [
+        {
+          "word": "dollars",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "店員",
+        "候機",
+        "免稅店",
+        "購物"
+      ],
+      "tips": "報價時只說數字和貨幣單位，例如「75 dollars.」，是最簡潔清楚的回應方式。",
+      "audio": null
+    },
+    {
+      "id": "d9",
+      "role": "旅客",
+      "en": "Do you have any discounts?",
+      "zh": "有折扣嗎？",
+      "keywords": [
+        {
+          "word": "discount",
+          "kk": "/ˈdɪskaʊnt/",
+          "zh": "折扣"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "候機",
+        "免稅店",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「Do you have any discounts?」是詢問優惠的通用說法，也可以問「Is there any promotion?」",
+      "audio": null
+    },
+    {
+      "id": "d10",
+      "role": "店員",
+      "en": "Yes, if you buy two, you get 10% off.",
+      "zh": "有的，如果您買兩瓶，可以打九折。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "店員",
+        "候機",
+        "免稅店",
+        "購物"
+      ],
+      "tips": "「buy two, get 10% off」是常見促銷方式，10% off表示打九折，20% off表示打八折。",
+      "audio": null
+    },
+    {
+      "id": "d11",
+      "role": "旅客",
+      "en": "I'll take one bottle, please.",
+      "zh": "請給我一瓶。",
+      "keywords": [
+        {
+          "word": "bottle",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "候機",
+        "免稅店",
+        "購物",
+        "旅客"
+      ],
+      "tips": "「I'll take one bottle.」是決定購買的口語說法，take在購物情境中等於「buy」。",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "店員",
+      "en": "OK. Cash or card?",
+      "zh": "好的。付現還是刷卡？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "店員",
+        "候機",
+        "免稅店",
+        "購物"
+      ],
+      "tips": "「Cash or card?」是收銀台最常聽到的問句，分別回答「Cash」或「Card」即可。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL4-mc-001",
+        "question": "班機延誤時，廣播最可能用哪個詞？",
+        "options": [
+          {
+            "en": "on time",
+            "zh": "準時"
+          },
+          {
+            "en": "delayed",
+            "zh": "延誤"
+          },
+          {
+            "en": "cancelled",
+            "zh": "取消"
+          },
+          {
+            "en": "boarding",
+            "zh": "登機中"
+          }
+        ],
+        "answer": "delayed"
+      },
+      {
+        "id": "qL4-mc-002",
+        "question": "在免稅店詢問折扣，以下哪句最正確？",
+        "options": [
+          {
+            "en": "Do you have any discounts?",
+            "zh": "你們有折扣嗎？"
+          },
+          {
+            "en": "How many discounts do you have?",
+            "zh": "你們有幾個折扣？"
+          },
+          {
+            "en": "Give me discount please.",
+            "zh": "請給我折扣。"
+          },
+          {
+            "en": "Where is discount?",
+            "zh": "折扣在哪？"
+          }
+        ],
+        "answer": "Do you have any discounts?"
+      },
+      {
+        "id": "qL4-mc-003",
+        "question": "「I'm just looking, thank you.」這句話的意思是？",
+        "options": [
+          {
+            "en": "I want to buy everything.",
+            "zh": "我想買所有東西。"
+          },
+          {
+            "en": "I am only browsing, no help needed.",
+            "zh": "我只是瀏覽，不需要協助。"
+          },
+          {
+            "en": "I am looking for the exit.",
+            "zh": "我在找出口。"
+          },
+          {
+            "en": "I am looking for a specific item.",
+            "zh": "我在找特定商品。"
+          }
+        ],
+        "answer": "I am only browsing, no help needed."
+      },
+      {
+        "id": "qL4-mc-004",
+        "question": "購物時決定購買「我要買這個」，可以說？",
+        "options": [
+          {
+            "en": "I look at this.",
+            "zh": "我看這個。"
+          },
+          {
+            "en": "I'll take this one.",
+            "zh": "我要買這個。"
+          },
+          {
+            "en": "I have this one.",
+            "zh": "我有這個。"
+          },
+          {
+            "en": "This is mine.",
+            "zh": "這是我的。"
+          }
+        ],
+        "answer": "I'll take this one."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL4-fi-001",
+        "question": "Is my flight ______ time?（我的班機準時嗎？）",
+        "answer": "on"
+      },
+      {
+        "id": "qL4-fi-002",
+        "question": "I'd like to pay by ______ card.（我想用信用卡付款。）",
+        "answer": "credit"
+      },
+      {
+        "id": "qL4-fi-003",
+        "question": "How much is ______?（這個多少錢？）",
+        "answer": "this"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL4-li-001",
+        "sentence_id": "d1"
+      },
+      {
+        "id": "qL4-li-002",
+        "sentence_id": "d7"
+      },
+      {
+        "id": "qL4-li-003",
+        "sentence_id": "d9"
+      }
+    ]
+  }
+}

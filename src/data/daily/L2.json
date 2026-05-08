@@ -1,0 +1,484 @@
+{
+  "chapter_id": "L2",
+  "chapter_name": "每日作息與家務",
+  "description": "描述一天的生活，例如幾點起床、做哪些家事、休閒活動。包含：打掃、煮飯、散步、看電視、陪孫子等簡單活動。",
+  "sentences": [
+    {
+      "id": "L2-d1",
+      "role": "朋友",
+      "en": "Hi, how was your day?",
+      "zh": "嗨，你今天過得怎麼樣？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-d2",
+      "role": "本人",
+      "en": "It was good. I got up at 7 o'clock.",
+      "zh": "很好。我七點起床。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-d3",
+      "role": "朋友",
+      "en": "What did you do after that?",
+      "zh": "之後你做了什麼？",
+      "keywords": [
+        {
+          "word": "after",
+          "kk": "/ˈæftər/",
+          "zh": "之後"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-d4",
+      "role": "本人",
+      "en": "I made breakfast for my family. Then I cleaned the living room.",
+      "zh": "我為家人做了早餐。然後我打掃了客廳。",
+      "keywords": [
+        {
+          "word": "breakfast",
+          "kk": "/ˈbrɛkfəst/",
+          "zh": "早餐"
+        },
+        {
+          "word": "family",
+          "kk": "/ˈfæməlɪ/",
+          "zh": "家人"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭",
+        "日常作息"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-d5",
+      "role": "朋友",
+      "en": "Do you do housework every day?",
+      "zh": "你每天做家事嗎？",
+      "keywords": [
+        {
+          "word": "housework",
+          "kk": "/ˈhaʊsˌwɝk/",
+          "zh": "家務"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "描述習慣用頻率副詞：always 總是、usually 通常、often 常常、sometimes 有時，放在 be 動詞後或一般動詞前。",
+      "audio": null
+    },
+    {
+      "id": "L2-d6",
+      "role": "本人",
+      "en": "Yes, a little bit every day. In the afternoon, I went for a walk in the park.",
+      "zh": "是的，每天做一點。下午，我去公園散步了。",
+      "keywords": [
+        {
+          "word": "walk",
+          "kk": "/wɔk/",
+          "zh": "散步；走路"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "描述習慣用頻率副詞：always 總是、usually 通常、often 常常、sometimes 有時，放在 be 動詞後或一般動詞前。",
+      "audio": null
+    },
+    {
+      "id": "L2-d7",
+      "role": "朋友",
+      "en": "That's nice. Did you watch TV later?",
+      "zh": "那很好。你後來看電視了嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-d8",
+      "role": "本人",
+      "en": "Yes, I watched the news. My grandchildren visited me in the evening. We played games.",
+      "zh": "是的，我看了新聞。我的孫子孫女晚上來看我。我們玩了遊戲。",
+      "keywords": [
+        {
+          "word": "grandchildren",
+          "kk": "/ˈɡrænˌtʃɪldrən/",
+          "zh": "孫子孫女（複數）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-d9",
+      "role": "朋友",
+      "en": "That sounds like a very nice day.",
+      "zh": "聽起來是非常美好的一天。",
+      "keywords": [
+        {
+          "word": "sounds",
+          "kk": "/saʊndz/",
+          "zh": "聽起來"
+        },
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-s1",
+      "role": "練習句",
+      "en": "I usually get up at 6:30.",
+      "zh": "我通常六點半起床。",
+      "keywords": [
+        {
+          "word": "usually",
+          "kk": "/ˈjuʒuəli/",
+          "zh": "通常"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "描述習慣用頻率副詞：always 總是、usually 通常、often 常常、sometimes 有時，放在 be 動詞後或一般動詞前。",
+      "audio": null
+    },
+    {
+      "id": "L2-s2",
+      "role": "練習句",
+      "en": "I make coffee in the morning.",
+      "zh": "我早上煮咖啡。",
+      "keywords": [
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-s3",
+      "role": "練習句",
+      "en": "I clean the house every week.",
+      "zh": "我每週打掃房子。",
+      "keywords": [
+        {
+          "word": "clean",
+          "kk": "/klin/",
+          "zh": "打掃；乾淨"
+        },
+        {
+          "word": "house",
+          "kk": "/haʊs/",
+          "zh": "房子"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常作息"
+      ],
+      "tips": "描述家務時，sweep（掃）、mop（拖）、vacuum（吸）三個動詞對應不同清潔工具，注意區分。",
+      "audio": null
+    },
+    {
+      "id": "L2-s4",
+      "role": "練習句",
+      "en": "I like to walk in the morning.",
+      "zh": "我喜歡早上散步。",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        },
+        {
+          "word": "walk",
+          "kk": "/wɔk/",
+          "zh": "散步；走路"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "說休閒習慣時，I like to take walks 比 I like walking 更口語自然，兩者意思相同。",
+      "audio": null
+    },
+    {
+      "id": "L2-s5",
+      "role": "練習句",
+      "en": "I cook dinner for my family.",
+      "zh": "我為家人做晚餐。",
+      "keywords": [
+        {
+          "word": "cook",
+          "kk": "/kʊk/",
+          "zh": "做飯"
+        },
+        {
+          "word": "dinner",
+          "kk": "/ˈdɪnər/",
+          "zh": "晚餐"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭",
+        "日常作息"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-s6",
+      "role": "練習句",
+      "en": "Sometimes I go to the supermarket.",
+      "zh": "有時候我去超市。",
+      "keywords": [
+        {
+          "word": "sometimes",
+          "kk": "/ˈsʌmˌtaɪmz/",
+          "zh": "有時候"
+        },
+        {
+          "word": "supermarket",
+          "kk": "/ˈsupərˌmɑrkɪt/",
+          "zh": "超市"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-s7",
+      "role": "練習句",
+      "en": "I watch TV in the evening.",
+      "zh": "我晚上看電視。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    },
+    {
+      "id": "L2-s8",
+      "role": "練習句",
+      "en": "I read books before bed.",
+      "zh": "我睡覺前看書。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "預約說 make an appointment，也可說 book an appointment，兩者語意相同可互換。",
+      "audio": null
+    },
+    {
+      "id": "L2-s9",
+      "role": "練習句",
+      "en": "I go to bed at 10 p.m.",
+      "zh": "我晚上十點睡覺。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "描述日常作息，加上 in the morning、after dinner 等時間副詞，句子會更完整自然。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L2-w1",
+      "word": "housework",
+      "kk": "/ˈhaʊsˌwɝk/",
+      "pos": "n.",
+      "zh": "家務",
+      "example_en": "I do housework in the morning.",
+      "example_zh": "我早上做家務。"
+    },
+    {
+      "id": "L2-w2",
+      "word": "make breakfast",
+      "kk": "/mek ˈbrɛkfəst/",
+      "pos": "phr.",
+      "zh": "做早餐",
+      "example_en": "She makes breakfast for her husband.",
+      "example_zh": "她為她的先生做早餐。"
+    },
+    {
+      "id": "L2-w3",
+      "word": "go for a walk",
+      "kk": "/ɡo fɔr ə wɔk/",
+      "pos": "phr.",
+      "zh": "去散步",
+      "example_en": "Let's go for a walk after dinner.",
+      "example_zh": "我們晚餐後去散步吧。"
+    },
+    {
+      "id": "L2-w4",
+      "word": "grandchildren",
+      "kk": "/ˈɡrænˌtʃɪldrən/",
+      "pos": "n.",
+      "zh": "孫子孫女（複數）",
+      "example_en": "My grandchildren are very cute.",
+      "example_zh": "我的孫子孫女非常可愛。"
+    },
+    {
+      "id": "L2-w5",
+      "word": "usually",
+      "kk": "/ˈjuʒuəli/",
+      "pos": "adv.",
+      "zh": "通常",
+      "example_en": "I usually drink tea, not coffee.",
+      "example_zh": "我通常喝茶，不喝咖啡。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L2-h1",
+      "title": "用時間順序描述一天：First... / Then... / After that...",
+      "description": "描述一天活動時，可以用 First（首先）、Then（然後）、After that（之後）來讓敘述更清楚。",
+      "example_en": "First, I have breakfast. Then, I clean the kitchen.",
+      "example_zh": "首先，我吃早餐。然後，我打掃廚房。"
+    },
+    {
+      "id": "L2-h2",
+      "title": "用 I usually... 表達習慣",
+      "description": "要表達經常或習慣做的事，可以在句子前面加上 I usually...（我通常...）。",
+      "example_en": "I usually go to bed early.",
+      "example_zh": "我通常很早睡覺。"
+    },
+    {
+      "id": "L2-h3",
+      "title": "用簡單過去式說今天做的事",
+      "description": "要說今天已經完成的事，可以用動詞的過去式，如 got up, made, cleaned, watched。",
+      "example_en": "I washed the car this morning.",
+      "example_zh": "我今天早上洗了車。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL2-mc-001",
+        "question": "下列哪一句英文的意思是「嗨，你今天過得怎麼樣？」？",
+        "options": [
+          {
+            "en": "Hi, how was your day?",
+            "zh": "嗨，你今天過得怎麼樣？"
+          },
+          {
+            "en": "It was good. I got up at 7 o'clock.",
+            "zh": "很好。我七點起床。"
+          },
+          {
+            "en": "What did you do after that?",
+            "zh": "之後你做了什麼？"
+          },
+          {
+            "en": "I made breakfast for my family. Then I cleaned the living room.",
+            "zh": "我為家人做了早餐。然後我打掃了客廳。"
+          }
+        ],
+        "answer": "Hi, how was your day?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL2-fi-001",
+        "question": "It was good. I got up at 7 ______.",
+        "answer": "o'clock"
+      },
+      {
+        "id": "qL2-fi-002",
+        "question": "What did you do ______ that?",
+        "answer": "after"
+      },
+      {
+        "id": "qL2-fi-003",
+        "question": "I ______ breakfast for my family. Then I cleaned the living room.",
+        "answer": "made"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL2-li-001",
+        "sentence_id": "L2-d1"
+      },
+      {
+        "id": "qL2-li-002",
+        "sentence_id": "L2-d3"
+      },
+      {
+        "id": "qL2-li-003",
+        "sentence_id": "L2-d5"
+      }
+    ]
+  }
+}

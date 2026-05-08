@@ -1,0 +1,516 @@
+{
+  "chapter_id": "L1",
+  "chapter_name": "自我介紹與家庭",
+  "description": "在日常聊天中，能簡單用英文介紹自己、家人和基本背景，例如來自哪裡、住哪裡、做什麼。",
+  "sentences": [
+    {
+      "id": "L1-d1",
+      "role": "本人",
+      "en": "Hello, I'm Mei-Ling. I'm from Taiwan.",
+      "zh": "你好，我是美玲。我來自台灣。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "自我介紹"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-d2",
+      "role": "鄰居",
+      "en": "Nice to meet you, Mei-Ling. I'm Linda. Where in Taiwan are you from?",
+      "zh": "很高興認識你，美玲。我是琳達。你來自台灣哪裡？",
+      "keywords": [
+        {
+          "word": "meet",
+          "kk": "/mit/",
+          "zh": "認識；見面"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "自我介紹",
+        "詢問"
+      ],
+      "tips": "初次見面說 Nice to meet you，再次碰面說 Nice to see you again，兩者意思不同別混用。",
+      "audio": null
+    },
+    {
+      "id": "L1-d3",
+      "role": "本人",
+      "en": "I'm from Taipei. It's a big city.",
+      "zh": "我來自台北。那是一個大城市。",
+      "keywords": [
+        {
+          "word": "big",
+          "kk": "/bɪɡ/",
+          "zh": "大的"
+        },
+        {
+          "word": "city",
+          "kk": "/ˈsɪtɪ/",
+          "zh": "城市"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "自我介紹"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-d4",
+      "role": "鄰居",
+      "en": "Do you live here alone?",
+      "zh": "你一個人住在這裡嗎？",
+      "keywords": [
+        {
+          "word": "alone",
+          "kk": "/əˈloʊn/",
+          "zh": "獨自地"
+        },
+        {
+          "word": "live",
+          "kk": "/lɪv/",
+          "zh": "居住"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-d5",
+      "role": "本人",
+      "en": "No, I live with my husband and my son. My son works nearby.",
+      "zh": "不是，我和我先生、兒子住在一起。我兒子在附近工作。",
+      "keywords": [
+        {
+          "word": "nearby",
+          "kk": "/ˌnɪrˈbaɪ/",
+          "zh": "在附近"
+        },
+        {
+          "word": "live",
+          "kk": "/lɪv/",
+          "zh": "居住"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-d6",
+      "role": "鄰居",
+      "en": "That's nice. What do you like to do?",
+      "zh": "那很好。你喜歡做什麼？",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-d7",
+      "role": "本人",
+      "en": "I like gardening. And I like to cook for my family.",
+      "zh": "我喜歡園藝。我也喜歡為家人做飯。",
+      "keywords": [
+        {
+          "word": "gardening",
+          "kk": "/ˈɡɑrdnɪŋ/",
+          "zh": "園藝"
+        },
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-d8",
+      "role": "鄰居",
+      "en": "We have a community garden. You should come see it.",
+      "zh": "我們有一個社區花園。你應該來看看。",
+      "keywords": [
+        {
+          "word": "community",
+          "kk": "/kəˈmjunɪti/",
+          "zh": "社區，社群"
+        },
+        {
+          "word": "garden",
+          "kk": "/ˈɡɑrdən/",
+          "zh": "花園"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-d9",
+      "role": "本人",
+      "en": "That sounds wonderful. I would like that.",
+      "zh": "聽起來很棒。我很樂意。",
+      "keywords": [
+        {
+          "word": "sounds",
+          "kk": "/saʊndz/",
+          "zh": "聽起來"
+        },
+        {
+          "word": "wonderful",
+          "kk": "/ˈwʌndərfəl/",
+          "zh": "很棒的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-s1",
+      "role": "練習句",
+      "en": "My name is David.",
+      "zh": "我的名字是大衛。",
+      "keywords": [
+        {
+          "word": "name",
+          "kk": "/neɪm/",
+          "zh": "名字"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "自我介紹"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-s2",
+      "role": "練習句",
+      "en": "I am from Taiwan.",
+      "zh": "我來自台灣。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-s3",
+      "role": "練習句",
+      "en": "I live in this neighborhood.",
+      "zh": "我住在這個社區。",
+      "keywords": [
+        {
+          "word": "neighborhood",
+          "kk": "/ˈnebɚˌhʊd/",
+          "zh": "社區，街坊"
+        },
+        {
+          "word": "live",
+          "kk": "/lɪv/",
+          "zh": "居住"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "自我介紹",
+        "鄰里互動"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-s4",
+      "role": "練習句",
+      "en": "I live with my family.",
+      "zh": "我和我的家人住在一起。",
+      "keywords": [
+        {
+          "word": "live",
+          "kk": "/lɪv/",
+          "zh": "居住"
+        },
+        {
+          "word": "family",
+          "kk": "/ˈfæməlɪ/",
+          "zh": "家人"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-s5",
+      "role": "練習句",
+      "en": "I have two children.",
+      "zh": "我有兩個孩子。",
+      "keywords": [
+        {
+          "word": "children",
+          "kk": "/ˈtʃɪldrən/",
+          "zh": "孩子們"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-s6",
+      "role": "練習句",
+      "en": "My daughter lives in New York.",
+      "zh": "我的女兒住在紐約。",
+      "keywords": [
+        {
+          "word": "daughter",
+          "kk": "/ˈdɔtər/",
+          "zh": "女兒"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭"
+      ],
+      "tips": "自我介紹時，說清楚姓名、來自哪裡、現在住哪裡，三句話就能建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L1-s7",
+      "role": "練習句",
+      "en": "I was a teacher before.",
+      "zh": "我以前是老師。",
+      "keywords": [
+        {
+          "word": "teacher",
+          "kk": "/ˈtitʃər/",
+          "zh": "老師"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭"
+      ],
+      "tips": "描述過去的職業或狀態，用 I used to be... 或 I was a... before，自然表達人生經歷。",
+      "audio": null
+    },
+    {
+      "id": "L1-s8",
+      "role": "練習句",
+      "en": "I like to take walks.",
+      "zh": "我喜歡散步。",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        },
+        {
+          "word": "take",
+          "kk": "/teɪk/",
+          "zh": "拿；帶走"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "說休閒習慣時，I like to take walks 比 I like walking 更口語自然，兩者意思相同。",
+      "audio": null
+    },
+    {
+      "id": "L1-s9",
+      "role": "練習句",
+      "en": "It's nice to meet you.",
+      "zh": "很高興認識你。",
+      "keywords": [
+        {
+          "word": "meet",
+          "kk": "/mit/",
+          "zh": "認識；見面"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "自我介紹"
+      ],
+      "tips": "初次見面說 Nice to meet you，再次碰面說 Nice to see you again，兩者意思不同別混用。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L1-w1",
+      "word": "neighborhood",
+      "kk": "/ˈnebɚˌhʊd/",
+      "pos": "n.",
+      "zh": "社區，街坊",
+      "example_en": "This is a quiet neighborhood.",
+      "example_zh": "這是一個安靜的社區。"
+    },
+    {
+      "id": "L1-w2",
+      "word": "gardening",
+      "kk": "/ˈɡɑrdnɪŋ/",
+      "pos": "n.",
+      "zh": "園藝",
+      "example_en": "My hobby is gardening.",
+      "example_zh": "我的嗜好是園藝。"
+    },
+    {
+      "id": "L1-w3",
+      "word": "community",
+      "kk": "/kəˈmjunɪti/",
+      "pos": "n.",
+      "zh": "社區，社群",
+      "example_en": "We have a friendly community.",
+      "example_zh": "我們有一個友善的社區。"
+    },
+    {
+      "id": "L1-w4",
+      "word": "nearby",
+      "kk": "/ˌnɪrˈbaɪ/",
+      "pos": "adv.",
+      "zh": "在附近",
+      "example_en": "My son lives nearby.",
+      "example_zh": "我的兒子住在附近。"
+    },
+    {
+      "id": "L1-w5",
+      "word": "alone",
+      "kk": "/əˈloʊn/",
+      "pos": "adv.",
+      "zh": "獨自地",
+      "example_en": "She lives alone.",
+      "example_zh": "她一個人住。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L1-h1",
+      "title": "簡單介紹自己的句型：I’m from... / I live in...",
+      "description": "介紹自己時常用 I’m from + 地點 表示「我來自哪裡」，I live in + 地點 表示「我住在某地」。",
+      "example_en": "I’m from Taiwan, and I live in Toronto now.",
+      "example_zh": "我來自台灣，現在住在多倫多。"
+    },
+    {
+      "id": "L1-h2",
+      "title": "用 Do you...? 開頭的簡單問句",
+      "description": "Do you...? 是最常用來問對方基本情況的問句，後面接動詞原形。",
+      "example_en": "Do you like cooking?",
+      "example_zh": "你喜歡做飯嗎？"
+    },
+    {
+      "id": "L1-h3",
+      "title": "用 I like to... / I like... 表達喜好",
+      "description": "表達喜歡做某事，可以用 I like to + 動詞原形，或 I like + 動詞-ing。",
+      "example_en": "I like to read books. / I like reading books.",
+      "example_zh": "我喜歡看書。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL1-mc-001",
+        "question": "下列哪一句英文的意思是「你好，我是美玲。我來自台灣。」？",
+        "options": [
+          {
+            "en": "Hello, I'm Mei-Ling. I'm from Taiwan.",
+            "zh": "你好，我是美玲。我來自台灣。"
+          },
+          {
+            "en": "Nice to meet you, Mei-Ling. I'm Linda. Where in Taiwan are you from?",
+            "zh": "很高興認識你，美玲。我是琳達。你來自台灣哪裡？"
+          },
+          {
+            "en": "I'm from Taipei. It's a big city.",
+            "zh": "我來自台北。那是一個大城市。"
+          },
+          {
+            "en": "Do you live here alone?",
+            "zh": "你一個人住在這裡嗎？"
+          }
+        ],
+        "answer": "Hello, I'm Mei-Ling. I'm from Taiwan."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL1-fi-001",
+        "question": "Hello, I'm Mei-______. I'm from Taiwan.",
+        "answer": "ling"
+      },
+      {
+        "id": "qL1-fi-002",
+        "question": "Nice to ______ you, Mei-Ling. I'm Linda. Where in Taiwan are you from?",
+        "answer": "meet"
+      },
+      {
+        "id": "qL1-fi-003",
+        "question": "I'm from Taipei. It's a big ______.",
+        "answer": "city"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL1-li-001",
+        "sentence_id": "L1-d1"
+      },
+      {
+        "id": "qL1-li-002",
+        "sentence_id": "L1-d3"
+      },
+      {
+        "id": "qL1-li-003",
+        "sentence_id": "L1-d5"
+      }
+    ]
+  }
+}

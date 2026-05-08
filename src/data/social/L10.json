@@ -1,0 +1,446 @@
+{
+  "chapter_id": "L10",
+  "chapter_name": "輕鬆聊天：天氣、新聞與小事",
+  "description": "日常閒聊時談天氣、最近新聞或生活小事。包含：開場寒暄（今天天氣如何）、對新聞的簡單看法、避免太敏感的政治或宗教話題。",
+  "sentences": [
+    {
+      "id": "L10-d1",
+      "role": "本人",
+      "en": "Good morning! Lovely weather we're having today, isn't it?",
+      "zh": "早安！今天天氣真好，不是嗎？",
+      "keywords": [
+        {
+          "word": "weather",
+          "kk": "/ˈwɛðɚ/",
+          "zh": "天氣"
+        },
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "天氣"
+      ],
+      "tips": "天氣小話題是打破沉默的最佳工具，特別是在等待或初次見面的場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L10-d2",
+      "role": "朋友",
+      "en": "It certainly is. Much better than the rainy days last week.",
+      "zh": "確實是。比上週的雨天好多了。",
+      "keywords": [
+        {
+          "word": "rainy",
+          "kk": "/ˈreɪnɪ/",
+          "zh": "下雨的"
+        },
+        {
+          "word": "week",
+          "kk": "/wik/",
+          "zh": "週"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "天氣"
+      ],
+      "tips": "天氣小話題是打破沉默的最佳工具，特別是在等待或初次見面的場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L10-d3",
+      "role": "本人",
+      "en": "I'm planning to go to the park later. Did you hear about the new community center opening?",
+      "zh": "我打算晚點去公園。你聽說新的社區中心要開幕了嗎？",
+      "keywords": [
+        {
+          "word": "hear",
+          "kk": "/hɪr/",
+          "zh": "聽到"
+        },
+        {
+          "word": "community",
+          "kk": "/kəˈmjunɪtɪ/",
+          "zh": "社區；社群"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "天氣小話題是打破沉默的最佳工具，特別是在等待或初次見面的場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L10-d4",
+      "role": "朋友",
+      "en": "Yes, I read about it in the local newspaper. It sounds like a great place for activities.",
+      "zh": "是的，我在本地報紙上看到了。聽起來是個舉辦活動的好地方。",
+      "keywords": [
+        {
+          "word": "read",
+          "kk": "/rid/",
+          "zh": "閱讀"
+        },
+        {
+          "word": "local",
+          "kk": "/ˈloʊkəl/",
+          "zh": "當地的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "新聞時事"
+      ],
+      "tips": "天氣小話題是打破沉默的最佳工具，特別是在等待或初次見面的場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L10-d5",
+      "role": "本人",
+      "en": "I think so too. Maybe we can check it out together sometime.",
+      "zh": "我也這麼想。也許我們可以找個時間一起去看看。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "表達看法"
+      ],
+      "tips": "「I find + 名詞 + 形容詞」比直接說 It is... 更有個人色彩，如 I find hiking very refreshing（我覺得健行很提神）。",
+      "audio": null
+    },
+    {
+      "id": "L10-d6",
+      "role": "朋友",
+      "en": "Good idea. By the way, my neighbor's cat had kittens. They are adorable.",
+      "zh": "好主意。對了，我鄰居的貓生了小貓。它們非常可愛。",
+      "keywords": [
+        {
+          "word": "adorable",
+          "kk": "/əˈdɔrəbl/",
+          "zh": "可愛的"
+        },
+        {
+          "word": "idea",
+          "kk": "/aɪˈdiə/",
+          "zh": "想法"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "轉換話題時，By the way... 或 That reminds me... 是最自然的過渡語，讓對話流暢不突兀。",
+      "audio": null
+    },
+    {
+      "id": "L10-d7",
+      "role": "本人",
+      "en": "Oh, how nice! I love small animals.",
+      "zh": "喔，真好！我喜歡小動物。",
+      "keywords": [
+        {
+          "word": "love",
+          "kk": "/lʌv/",
+          "zh": "愛；非常喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "表達喜好可用 I enjoy、I love、I like，後面接動名詞（-ing）或名詞，三者語意相近，enjoy 語氣最強烈。",
+      "audio": null
+    },
+    {
+      "id": "L10-s1",
+      "role": "練習句",
+      "en": "It's quite warm today.",
+      "zh": "今天相當暖和。",
+      "keywords": [
+        {
+          "word": "today",
+          "kk": "/təˈdeɪ/",
+          "zh": "今天"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "天氣小話題是打破沉默的最佳工具，特別是在等待或初次見面的場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L10-s2",
+      "role": "練習句",
+      "en": "I hope the nice weather continues.",
+      "zh": "我希望好天氣能持續。",
+      "keywords": [
+        {
+          "word": "weather",
+          "kk": "/ˈwɛðɚ/",
+          "zh": "天氣"
+        },
+        {
+          "word": "hope",
+          "kk": "/hoʊp/",
+          "zh": "希望"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "天氣"
+      ],
+      "tips": "天氣小話題是打破沉默的最佳工具，特別是在等待或初次見面的場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L10-s3",
+      "role": "練習句",
+      "en": "Did you see the news about the flower festival?",
+      "zh": "你看到關於花卉節的新聞了嗎？",
+      "keywords": [
+        {
+          "word": "news",
+          "kk": "/njuz/",
+          "zh": "新聞"
+        },
+        {
+          "word": "flower",
+          "kk": "/ˈflaʊər/",
+          "zh": "花"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "新聞時事"
+      ],
+      "tips": "天氣小話題是打破沉默的最佳工具，特別是在等待或初次見面的場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L10-s4",
+      "role": "練習句",
+      "en": "I think it's a positive development.",
+      "zh": "我認為這是個正面的發展。",
+      "keywords": [
+        {
+          "word": "positive",
+          "kk": "/ˈpɑzətɪv/",
+          "zh": "正面的，積極的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "表達看法"
+      ],
+      "tips": "「I find + 名詞 + 形容詞」比直接說 It is... 更有個人色彩，如 I find hiking very refreshing（我覺得健行很提神）。",
+      "audio": null
+    },
+    {
+      "id": "L10-s5",
+      "role": "練習句",
+      "en": "My garden is starting to bloom.",
+      "zh": "我的花園開始開花了。",
+      "keywords": [
+        {
+          "word": "bloom",
+          "kk": "/blum/",
+          "zh": "開花"
+        },
+        {
+          "word": "garden",
+          "kk": "/ˈɡɑrdən/",
+          "zh": "花園"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "天氣小話題是打破沉默的最佳工具，特別是在等待或初次見面的場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L10-s6",
+      "role": "練習句",
+      "en": "Let's hope for a sunny weekend.",
+      "zh": "讓我們期待一個晴朗的週末吧。",
+      "keywords": [
+        {
+          "word": "hope",
+          "kk": "/hoʊp/",
+          "zh": "希望"
+        },
+        {
+          "word": "sunny",
+          "kk": "/ˈsʌnɪ/",
+          "zh": "晴朗的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "天氣"
+      ],
+      "tips": "天氣小話題是打破沉默的最佳工具，特別是在等待或初次見面的場合非常實用。",
+      "audio": null
+    },
+    {
+      "id": "L10-s7",
+      "role": "練習句",
+      "en": "It's always nice to chat with you.",
+      "zh": "和你聊天總是很愉快。",
+      "keywords": [
+        {
+          "word": "chat",
+          "kk": "/tʃæt/",
+          "zh": "聊天"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "天氣小話題是打破沉默的最佳工具，特別是在等待或初次見面的場合非常實用。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L10-w1",
+      "word": "weather",
+      "kk": "/ˈwɛðɚ/",
+      "pos": "n.",
+      "zh": "天氣",
+      "example_en": "The weather forecast says it will rain tomorrow.",
+      "example_zh": "天氣預報說明天下雨。"
+    },
+    {
+      "id": "L10-w2",
+      "word": "community center",
+      "kk": "/kəˈmjunəti ˈsɛntɚ/",
+      "pos": "n.",
+      "zh": "社區中心",
+      "example_en": "We play badminton at the community center.",
+      "example_zh": "我們在社區中心打羽毛球。"
+    },
+    {
+      "id": "L10-w3",
+      "word": "adorable",
+      "kk": "/əˈdɔrəbl/",
+      "pos": "adj.",
+      "zh": "可愛的",
+      "example_en": "Your puppy is absolutely adorable.",
+      "example_zh": "你的小狗非常可愛。"
+    },
+    {
+      "id": "L10-w4",
+      "word": "bloom",
+      "kk": "/blum/",
+      "pos": "v.",
+      "zh": "開花",
+      "example_en": "The cherry trees are starting to bloom.",
+      "example_zh": "櫻桃樹開始開花了。"
+    },
+    {
+      "id": "L10-w5",
+      "word": "positive",
+      "kk": "/ˈpɑzətɪv/",
+      "pos": "adj.",
+      "zh": "正面的，積極的",
+      "example_en": "That's a very positive thing for our neighborhood.",
+      "example_zh": "那對我們社區來說是一件非常正面的事。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L10-h1",
+      "title": "從天氣開始輕鬆對話",
+      "description": "談論天氣 (weather) 是最安全、最常見的開場白。可以用 Lovely weather... 或 It's quite... 來開啟對話。",
+      "example_en": "It's a bit chilly today, isn't it?",
+      "example_zh": "今天有點涼，不是嗎？"
+    },
+    {
+      "id": "L10-h2",
+      "title": "分享當地或中性新聞",
+      "description": "聊聊社區裡的新設施、節慶活動或正面新聞，是很好的話題，避免爭議性內容。",
+      "example_en": "Did you hear they are planting more trees in the park?",
+      "example_zh": "你聽說他們要在公園種更多樹了嗎？"
+    },
+    {
+      "id": "L10-h3",
+      "title": "結束對話的禮貌說法",
+      "description": "在輕鬆聊天結束時，可以表達愉快的心情，並期待下次見面。",
+      "example_en": "It's been nice talking to you. See you next time!",
+      "example_zh": "和你聊天很愉快。下次見！"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL10-mc-001",
+        "question": "下列哪一句英文的意思是「早安！今天天氣真好，不是嗎？」？",
+        "options": [
+          {
+            "en": "Good morning! Lovely weather we're having today, isn't it?",
+            "zh": "早安！今天天氣真好，不是嗎？"
+          },
+          {
+            "en": "It certainly is. Much better than the rainy days last week.",
+            "zh": "確實是。比上週的雨天好多了。"
+          },
+          {
+            "en": "I'm planning to go to the park later. Did you hear about the new community center opening?",
+            "zh": "我打算晚點去公園。你聽說新的社區中心要開幕了嗎？"
+          },
+          {
+            "en": "Yes, I read about it in the local newspaper. It sounds like a great place for activities.",
+            "zh": "是的，我在本地報紙上看到了。聽起來是個舉辦活動的好地方。"
+          }
+        ],
+        "answer": "Good morning! Lovely weather we're having today, isn't it?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL10-fi-001",
+        "question": "Good ______! Lovely weather we're having today, isn't it?",
+        "answer": "morning"
+      },
+      {
+        "id": "qL10-fi-002",
+        "question": "It ______ is. Much better than the rainy days last week.",
+        "answer": "certainly"
+      },
+      {
+        "id": "qL10-fi-003",
+        "question": "I'm ______ to go to the park later. Did you hear about the new community center opening?",
+        "answer": "planning"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL10-li-001",
+        "sentence_id": "L10-d1"
+      },
+      {
+        "id": "qL10-li-002",
+        "sentence_id": "L10-d3"
+      },
+      {
+        "id": "qL10-li-003",
+        "sentence_id": "L10-d5"
+      }
+    ]
+  }
+}

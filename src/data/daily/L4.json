@@ -1,0 +1,537 @@
+{
+  "chapter_id": "L4",
+  "chapter_name": "外帶與外送",
+  "description": "打電話或用 App 點餐外帶／外送。包含：確認餐點、數量、地址、送達時間、備註（少鹽、不要太辣等）。",
+  "sentences": [
+    {
+      "id": "L4-d1",
+      "role": "本人",
+      "en": "Hello, I'd like to order some food for delivery.",
+      "zh": "你好，我想點一些食物外送。",
+      "keywords": [
+        {
+          "word": "order",
+          "kk": "/ˈɔrdɚ/",
+          "zh": "點餐，訂購"
+        },
+        {
+          "word": "delivery",
+          "kk": "/dɪˈlɪvəri/",
+          "zh": "外送，遞送"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "外帶外送",
+        "禮貌用語"
+      ],
+      "tips": "「I'd like to...」比「I want to...」更有禮貌，是口語中最常用的委婉請求句型。",
+      "audio": null
+    },
+    {
+      "id": "L4-d2",
+      "role": "餐廳人員",
+      "en": "Certainly. What would you like to order?",
+      "zh": "好的。您想要點什麼？",
+      "keywords": [
+        {
+          "word": "order",
+          "kk": "/ˈɔrdɚ/",
+          "zh": "點餐，訂購"
+        },
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "外帶外送",
+        "禮貌用語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-d3",
+      "role": "本人",
+      "en": "I'd like two orders of chicken fried rice and one egg drop soup.",
+      "zh": "我想要兩份雞肉炒飯和一份蛋花湯。",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "外帶外送",
+        "禮貌用語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-d4",
+      "role": "餐廳人員",
+      "en": "Okay. Anything else?",
+      "zh": "好的。還要其他的嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-d5",
+      "role": "本人",
+      "en": "No, that's all. Please make the rice less salty.",
+      "zh": "不用了，就這些。請把飯做得少鹽一點。",
+      "keywords": [
+        {
+          "word": "salty",
+          "kk": "/ˈsɔlti/",
+          "zh": "鹹的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-d6",
+      "role": "餐廳人員",
+      "en": "Sure. What's your address, please?",
+      "zh": "沒問題。請問您的地址是？",
+      "keywords": [
+        {
+          "word": "address",
+          "kk": "/ˈædrɛs/",
+          "zh": "地址"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-d7",
+      "role": "本人",
+      "en": "123 Maple Street, apartment 5B.",
+      "zh": "楓葉街123號，5B公寓。",
+      "keywords": [
+        {
+          "word": "street",
+          "kk": "/strit/",
+          "zh": "街道"
+        },
+        {
+          "word": "apartment",
+          "kk": "/əˈpɑrtmənt/",
+          "zh": "公寓"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-d8",
+      "role": "餐廳人員",
+      "en": "And your phone number?",
+      "zh": "您的電話號碼是？",
+      "keywords": [
+        {
+          "word": "phone",
+          "kk": "/foʊn/",
+          "zh": "電話"
+        },
+        {
+          "word": "number",
+          "kk": "/ˈnʌmbər/",
+          "zh": "號碼"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-d9",
+      "role": "本人",
+      "en": "It's 555-1234.",
+      "zh": "555-1234。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-d10",
+      "role": "餐廳人員",
+      "en": "Thank you. Your food will arrive in about 40 minutes.",
+      "zh": "謝謝您。您的餐點大約40分鐘後送達。",
+      "keywords": [
+        {
+          "word": "food",
+          "kk": "/fud/",
+          "zh": "食物"
+        },
+        {
+          "word": "minutes",
+          "kk": "/ˈmɪnɪts/",
+          "zh": "分鐘"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-s1",
+      "role": "練習句",
+      "en": "I want to order takeout.",
+      "zh": "我想點外帶。",
+      "keywords": [
+        {
+          "word": "order",
+          "kk": "/ˈɔrdɚ/",
+          "zh": "點餐，訂購"
+        },
+        {
+          "word": "takeout",
+          "kk": "/ˈtekˌaʊt/",
+          "zh": "外帶"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "外帶外送"
+      ],
+      "tips": "外帶點餐說 to go 或 takeout，內用說 for here，兩個說法都很常用。",
+      "audio": null
+    },
+    {
+      "id": "L4-s2",
+      "role": "練習句",
+      "en": "Can I have the menu, please?",
+      "zh": "可以給我看一下菜單嗎？",
+      "keywords": [
+        {
+          "word": "menu",
+          "kk": "/ˈmɛnju/",
+          "zh": "菜單"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "外帶外送",
+        "禮貌用語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-s3",
+      "role": "練習句",
+      "en": "I'd like one beef noodle soup.",
+      "zh": "我想要一碗牛肉麵。",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-s4",
+      "role": "練習句",
+      "en": "Please don't make it too spicy.",
+      "zh": "請不要做得太辣。",
+      "keywords": [
+        {
+          "word": "spicy",
+          "kk": "/ˈspaɪsi/",
+          "zh": "辣的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "外帶外送",
+        "禮貌用語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-s5",
+      "role": "練習句",
+      "en": "What is your delivery time?",
+      "zh": "你們外送時間是多久？",
+      "keywords": [
+        {
+          "word": "delivery",
+          "kk": "/dɪˈlɪvəri/",
+          "zh": "外送，遞送"
+        },
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "時間"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "外帶外送",
+        "詢問"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-s6",
+      "role": "練習句",
+      "en": "Is there a delivery fee?",
+      "zh": "有外送費嗎？",
+      "keywords": [
+        {
+          "word": "delivery",
+          "kk": "/dɪˈlɪvəri/",
+          "zh": "外送，遞送"
+        },
+        {
+          "word": "fee",
+          "kk": "/fi/",
+          "zh": "費用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "外帶外送",
+        "銀行",
+        "詢問"
+      ],
+      "tips": "「Do you have...?」詢問對方是否有某物，是日常生活中最萬用的問句之一。",
+      "audio": null
+    },
+    {
+      "id": "L4-s7",
+      "role": "練習句",
+      "en": "Can you bring it to the door?",
+      "zh": "可以送到門口嗎？",
+      "keywords": [
+        {
+          "word": "bring",
+          "kk": "/brɪŋ/",
+          "zh": "帶來"
+        },
+        {
+          "word": "door",
+          "kk": "/dɔr/",
+          "zh": "門"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "電話",
+        "詢問"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-s8",
+      "role": "練習句",
+      "en": "I will pay by cash.",
+      "zh": "我會用現金付款。",
+      "keywords": [
+        {
+          "word": "cash",
+          "kk": "/kæʃ/",
+          "zh": "現金"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    },
+    {
+      "id": "L4-s9",
+      "role": "練習句",
+      "en": "Thank you. See you soon.",
+      "zh": "謝謝。待會兒見。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "點餐說清楚數量與特殊需求（如 No spice, please），避免拿到錯誤的餐點。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L4-w1",
+      "word": "delivery",
+      "kk": "/dɪˈlɪvəri/",
+      "pos": "n.",
+      "zh": "外送，遞送",
+      "example_en": "Do you offer free delivery?",
+      "example_zh": "你們提供免費外送嗎？"
+    },
+    {
+      "id": "L4-w2",
+      "word": "takeout",
+      "kk": "/ˈtekˌaʊt/",
+      "pos": "n.",
+      "zh": "外帶",
+      "example_en": "I'll get takeout for dinner tonight.",
+      "example_zh": "我今晚晚餐要買外帶。"
+    },
+    {
+      "id": "L4-w3",
+      "word": "order",
+      "kk": "/ˈɔrdɚ/",
+      "pos": "v.",
+      "zh": "點餐，訂購",
+      "example_en": "I want to order pizza.",
+      "example_zh": "我想點披薩。"
+    },
+    {
+      "id": "L4-w4",
+      "word": "salty",
+      "kk": "/ˈsɔlti/",
+      "pos": "adj.",
+      "zh": "鹹的",
+      "example_en": "This soup is too salty.",
+      "example_zh": "這湯太鹹了。"
+    },
+    {
+      "id": "L4-w5",
+      "word": "spicy",
+      "kk": "/ˈspaɪsi/",
+      "pos": "adj.",
+      "zh": "辣的",
+      "example_en": "I can't eat spicy food.",
+      "example_zh": "我不能吃辣的食物。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L4-h1",
+      "title": "點餐開頭：I'd like to order... for delivery/takeout.",
+      "description": "打電話訂餐時，用這個開頭最清楚。說 for delivery 是外送，for takeout 是外帶。",
+      "example_en": "I'd like to order a sandwich for takeout.",
+      "example_zh": "我想點一個三明治外帶。"
+    },
+    {
+      "id": "L4-h2",
+      "title": "用 Please make it... 提出特殊要求",
+      "description": "如果有特殊要求（如少鹽、不辣），可以在點餐後用 Please make it... 來表達。",
+      "example_en": "Please make it less oily.",
+      "example_zh": "請做得少油一點。"
+    },
+    {
+      "id": "L4-h3",
+      "title": "提供地址和電話",
+      "description": "外送時，對方會詢問地址 (address) 和電話號碼 (phone number)。準備好這兩個資訊。",
+      "example_en": "My address is 10 Park Road. My phone is 555-6789.",
+      "example_zh": "我的地址是公園路10號。我的電話是555-6789。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL4-mc-001",
+        "question": "下列哪一句英文的意思是「你好，我想點一些食物外送。」？",
+        "options": [
+          {
+            "en": "Hello, I'd like to order some food for delivery.",
+            "zh": "你好，我想點一些食物外送。"
+          },
+          {
+            "en": "Certainly. What would you like to order?",
+            "zh": "好的。您想要點什麼？"
+          },
+          {
+            "en": "I'd like two orders of chicken fried rice and one egg drop soup.",
+            "zh": "我想要兩份雞肉炒飯和一份蛋花湯。"
+          },
+          {
+            "en": "Okay. Anything else?",
+            "zh": "好的。還要其他的嗎？"
+          }
+        ],
+        "answer": "Hello, I'd like to order some food for delivery."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL4-fi-001",
+        "question": "Hello, I'd ______ to order some food for delivery.",
+        "answer": "like"
+      },
+      {
+        "id": "qL4-fi-002",
+        "question": "Certainly. What would you ______ to order?",
+        "answer": "like"
+      },
+      {
+        "id": "qL4-fi-003",
+        "question": "I'd ______ two orders of chicken fried rice and one egg drop soup.",
+        "answer": "like"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL4-li-001",
+        "sentence_id": "L4-d1"
+      },
+      {
+        "id": "qL4-li-002",
+        "sentence_id": "L4-d3"
+      },
+      {
+        "id": "qL4-li-003",
+        "sentence_id": "L4-d5"
+      }
+    ]
+  }
+}

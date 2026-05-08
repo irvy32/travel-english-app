@@ -1,0 +1,424 @@
+{
+  "chapter_id": "L10",
+  "chapter_name": "進階旅遊綜合情境",
+  "description": "綜合運用前面單元，描述一整天的旅遊行程，包含遇到的小狀況或醫療/緊急情境。包含向朋友或家人描述經歷、說明問題如何解決，表達心得。",
+  "sentences": [
+    {
+      "id": "L10-d1",
+      "role": "旅客",
+      "en": "You won't believe the day we had yesterday! We planned to visit the castle and then take a boat tour.",
+      "zh": "你肯定不敢相信我們昨天經歷了什麼！我們計畫去參觀城堡，然後搭船遊河。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "導覽詢問"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-d2",
+      "role": "朋友",
+      "en": "Sounds like a great plan. Did it go well?",
+      "zh": "聽起來是個好計畫。順利嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-d3",
+      "role": "旅客",
+      "en": "Well, it started off perfectly. The castle tour was fascinating. But on our way to the pier, my wife tripped and hurt her ankle.",
+      "zh": "嗯，一開始非常順利。城堡導覽很吸引人。但在我們去碼頭的路上，我太太絆倒並扭傷了腳踝。",
+      "keywords": [
+        {
+          "word": "fascinating",
+          "kk": "/ˈfæsəˌnetɪŋ/",
+          "zh": "迷人的，極有吸引力的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "導覽詢問"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-d4",
+      "role": "朋友",
+      "en": "Oh no! What did you do?",
+      "zh": "喔不！你們怎麼辦？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-d5",
+      "role": "旅客",
+      "en": "Luckily, a passerby helped us call a taxi to the nearest clinic. The doctor examined her and said it was just a mild sprain.",
+      "zh": "幸好，一位路人幫我們叫了計程車去最近的診所。醫生檢查後說只是輕微扭傷。",
+      "keywords": [
+        {
+          "word": "passerby",
+          "kk": "/ˈpæsɚˈbaɪ/",
+          "zh": "路人"
+        },
+        {
+          "word": "clinic",
+          "kk": "/ˈklɪnɪk/",
+          "zh": "診所"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "醫療緊急"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-d6",
+      "role": "朋友",
+      "en": "That's a relief. Did you miss the boat tour?",
+      "zh": "那真是鬆了一口氣。你們錯過船遊了嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "導覽詢問"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-d7",
+      "role": "旅客",
+      "en": "We did, but the tour company was very understanding. When I explained the medical situation, they offered us a full refund or a reschedule for today.",
+      "zh": "錯過了，但旅遊公司非常通情達理。我解釋了醫療狀況後，他們提供我們全額退款或改到今天。",
+      "keywords": [
+        {
+          "word": "understanding",
+          "kk": "/ˌʌndɚˈstændɪŋ/",
+          "zh": "通情達理的，體諒的"
+        },
+        {
+          "word": "situation",
+          "kk": "/ˌsɪtʃuˈeɪʃən/",
+          "zh": "情況"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "投訴",
+        "更改行程",
+        "導覽詢問"
+      ],
+      "tips": "更改行程說 I'd like to reschedule 或 modify my reservation，並準備好訂單號碼以加快處理速度。",
+      "audio": null
+    },
+    {
+      "id": "L10-d8",
+      "role": "旅客",
+      "en": "So, we're actually heading to the boat tour in an hour. It just goes to show, it's important to stay calm and communicate clearly when things go wrong.",
+      "zh": "所以，我們一小時後真的要去搭船遊河了。這正好說明，出問題時保持冷靜並清晰溝通是很重要的。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "導覽詢問"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-s1",
+      "role": "練習句",
+      "en": "Our flight was overbooked, so we were offered a later flight with compensation.",
+      "zh": "我們的班機超賣了，所以航空公司提供我們較晚的班機並給予補償。",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "航班；飛行"
+        },
+        {
+          "word": "compensation",
+          "kk": "/ˌkɑmpənˈseɪʃən/",
+          "zh": "補償"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿",
+        "投訴"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-s2",
+      "role": "練習句",
+      "en": "We got completely lost in the old town, but a friendly local showed us the way.",
+      "zh": "我們在老城區完全迷路了，但一位友善的當地人給我們指了路。",
+      "keywords": [
+        {
+          "word": "lost",
+          "kk": "/lɔst/",
+          "zh": "遺失的"
+        },
+        {
+          "word": "local",
+          "kk": "/ˈloʊkəl/",
+          "zh": "當地的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "當地文化",
+        "遺失物"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-s3",
+      "role": "練習句",
+      "en": "The key lesson I learned is to always have travel insurance.",
+      "zh": "我學到的關鍵教訓是，一定要有旅遊保險。",
+      "keywords": [
+        {
+          "word": "insurance",
+          "kk": "/ɪnˈʃʊrəns/",
+          "zh": "保險"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "醫療緊急"
+      ],
+      "tips": "出發前確認旅遊保險的 coverage（保障範圍），就醫後保留所有收據，回國後再申請 reimbursement（理賠）。",
+      "audio": null
+    },
+    {
+      "id": "L10-s4",
+      "role": "練習句",
+      "en": "Despite the hiccups, we managed to see everything we wanted.",
+      "zh": "儘管有些小狀況，我們還是設法看到了所有想看的東西。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-s5",
+      "role": "練習句",
+      "en": "I had to negotiate with the taxi driver because the meter wasn't working.",
+      "zh": "我不得不和計程車司機議價，因為計價器壞了。",
+      "keywords": [
+        {
+          "word": "negotiate",
+          "kk": "/nɪˈɡoʊʃɪˌeɪt/",
+          "zh": "協商"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "商務旅行"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    },
+    {
+      "id": "L10-s6",
+      "role": "練習句",
+      "en": "The whole experience taught me to be more flexible when traveling.",
+      "zh": "整個經歷教會我旅行時要更靈活應變。",
+      "keywords": [
+        {
+          "word": "flexible",
+          "kk": "/ˈflɛksəbl/",
+          "zh": "靈活的，有彈性的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "更改行程"
+      ],
+      "tips": "訂票前務必確認 cancellation policy（取消政策），non-refundable 表示不可退款，flexible 票種較貴但可修改。",
+      "audio": null
+    },
+    {
+      "id": "L10-s7",
+      "role": "練習句",
+      "en": "Looking back, it was an adventure we'll never forget.",
+      "zh": "回顧起來，這是一段我們永遠不會忘記的冒險。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "旅遊英文達到進階程度，就能在突發狀況下保持冷靜，用精準語言解決問題，讓旅行更順暢自在。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L10-w1",
+      "word": "fascinating",
+      "kk": "/ˈfæsəˌnetɪŋ/",
+      "pos": "adj.",
+      "zh": "迷人的，極有吸引力的",
+      "example_en": "The history of this place is absolutely fascinating.",
+      "example_zh": "這個地方的歷史絕對迷人。"
+    },
+    {
+      "id": "L10-w2",
+      "word": "trip",
+      "kk": "/trɪp/",
+      "pos": "v.",
+      "zh": "絆倒",
+      "example_en": "Be careful not to trip on the uneven pavement.",
+      "example_zh": "小心別在不平的人行道上絆倒。"
+    },
+    {
+      "id": "L10-w3",
+      "word": "passerby",
+      "kk": "/ˈpæsɚˈbaɪ/",
+      "pos": "n.",
+      "zh": "路人",
+      "example_en": "A kind passerby helped me pick up my dropped groceries.",
+      "example_zh": "一位好心的路人幫我撿起掉落的雜貨。"
+    },
+    {
+      "id": "L10-w4",
+      "word": "understanding",
+      "kk": "/ˌʌndɚˈstændɪŋ/",
+      "pos": "adj.",
+      "zh": "通情達理的，體諒的",
+      "example_en": "The hotel manager was very understanding about our late arrival.",
+      "example_zh": "飯店經理對我們遲到非常體諒。"
+    },
+    {
+      "id": "L10-w5",
+      "word": "overbook",
+      "kk": "/ˌoʊvɚˈbʊk/",
+      "pos": "v.",
+      "zh": "超額預訂",
+      "example_en": "The airline often overbooks flights during the holiday season.",
+      "example_zh": "航空公司在旅遊旺季常常超賣機位。"
+    },
+    {
+      "id": "L10-w6",
+      "word": "hiccup",
+      "kk": "/ˈhɪkʌp/",
+      "pos": "n.",
+      "zh": "小問題，小狀況",
+      "example_en": "We had a few minor hiccups, but the trip was wonderful.",
+      "example_zh": "我們遇到一些小狀況，但旅行非常棒。"
+    },
+    {
+      "id": "L10-w7",
+      "word": "flexible",
+      "kk": "/ˈflɛksəbl/",
+      "pos": "adj.",
+      "zh": "靈活的，有彈性的",
+      "example_en": "You need to be flexible when plans change unexpectedly.",
+      "example_zh": "當計畫意外改變時，你需要靈活應變。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L10-h1",
+      "title": "敘述事件順序：It started off... / Then... / After that... / Finally...",
+      "description": "向他人描述一段複雜經歷時，使用這些時間連接詞可以讓敘事更有條理，聽者更容易理解來龍去脈。",
+      "example_en": "It started off raining, then the sun came out, and after that we had a beautiful afternoon.",
+      "example_zh": "一開始下雨，然後太陽出來了，之後我們度過了一個美好的下午。"
+    },
+    {
+      "id": "L10-h2",
+      "title": "表達問題如何解決：Luckily... / Fortunately... / In the end...",
+      "description": "在講述遇到困難後，用這些詞來引出問題如何被解決或情況如何好轉，能傳遞積極的訊息。",
+      "example_en": "Fortunately, the concierge spoke good English and was able to help us.",
+      "example_zh": "幸運的是，禮賓人員英語說得很好，能夠幫助我們。"
+    },
+    {
+      "id": "L10-h3",
+      "title": "總結心得與學到的教訓：The key lesson is... / It just goes to show...",
+      "description": "在故事結尾總結從經歷中學到的東西或心得，能讓分享更有深度，也是很好的談話收尾方式。",
+      "example_en": "The key lesson is to always double-check your reservations.",
+      "example_zh": "關鍵的教訓是，一定要再次確認你的預訂。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL10-mc-001",
+        "question": "下列哪一句英文的意思是「你肯定不敢相信我們昨天經歷了什麼！我們計畫去參觀城堡，然後搭船遊河。」？",
+        "options": [
+          {
+            "en": "You won't believe the day we had yesterday! We planned to visit the castle and then take a boat tour.",
+            "zh": "你肯定不敢相信我們昨天經歷了什麼！我們計畫去參觀城堡，然後搭船遊河。"
+          },
+          {
+            "en": "Sounds like a great plan. Did it go well?",
+            "zh": "聽起來是個好計畫。順利嗎？"
+          },
+          {
+            "en": "Well, it started off perfectly. The castle tour was fascinating. But on our way to the pier, my wife tripped and hurt her ankle.",
+            "zh": "嗯，一開始非常順利。城堡導覽很吸引人。但在我們去碼頭的路上，我太太絆倒並扭傷了腳踝。"
+          },
+          {
+            "en": "Oh no! What did you do?",
+            "zh": "喔不！你們怎麼辦？"
+          }
+        ],
+        "answer": "You won't believe the day we had yesterday! We planned to visit the castle and then take a boat tour."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL10-fi-001",
+        "question": "You won't ______ the day we had yesterday! We planned to visit the castle and then take a boat tour.",
+        "answer": "believe"
+      },
+      {
+        "id": "qL10-fi-002",
+        "question": "Well, it ______ off perfectly. The castle tour was fascinating. But on our way to the pier, my wife tripped and hurt her ankle.",
+        "answer": "started"
+      },
+      {
+        "id": "qL10-fi-003",
+        "question": "Luckily, a passerby helped us call a taxi to the nearest ______. The doctor examined her and said it was just a mild sprain.",
+        "answer": "clinic"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL10-li-001",
+        "sentence_id": "L10-d1"
+      },
+      {
+        "id": "qL10-li-002",
+        "sentence_id": "L10-d3"
+      },
+      {
+        "id": "qL10-li-003",
+        "sentence_id": "L10-d5"
+      }
+    ]
+  }
+}

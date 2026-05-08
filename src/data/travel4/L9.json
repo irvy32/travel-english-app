@@ -1,0 +1,449 @@
+{
+  "chapter_id": "L9",
+  "chapter_name": "評價與建議",
+  "description": "向飯店或餐廳提供正面或負面回饋，或在網路上留下評價。包含禮貌地說出滿意與不滿意的地方，提出具體建議。",
+  "sentences": [
+    {
+      "id": "L9-d1",
+      "role": "旅客",
+      "en": "Hello, I'd like to provide some feedback about our stay.",
+      "zh": "你好，我想對我們的住宿提供一些回饋。",
+      "keywords": [
+        {
+          "word": "feedback",
+          "kk": "/ˈfidˌbæk/",
+          "zh": "回饋，意見"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "評價建議",
+        "委婉請求"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-d2",
+      "role": "飯店經理",
+      "en": "Of course, we always welcome feedback. How was your experience?",
+      "zh": "當然，我們總是歡迎回饋。您的住宿體驗如何？",
+      "keywords": [
+        {
+          "word": "feedback",
+          "kk": "/ˈfidˌbæk/",
+          "zh": "回饋，意見"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "評價建議"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-d3",
+      "role": "旅客",
+      "en": "Overall, we enjoyed our time here. The staff were exceptionally helpful and friendly.",
+      "zh": "整體來說，我們在這裡住得很愉快。員工特別樂於助人且友善。",
+      "keywords": [
+        {
+          "word": "exceptionally",
+          "kk": "/ɪkˈsɛpʃənəli/",
+          "zh": "特別地，異常地"
+        },
+        {
+          "word": "overall",
+          "kk": "/ˌoʊvərˈɔl/",
+          "zh": "整體的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "評價建議"
+      ],
+      "tips": "總結評價時，Overall... 或 All things considered... 是自然的轉折語，引導出你的整體結論。",
+      "audio": null
+    },
+    {
+      "id": "L9-d4",
+      "role": "飯店經理",
+      "en": "Thank you, that's wonderful to hear.",
+      "zh": "謝謝您，聽到您這麼說真是太好了。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-d5",
+      "role": "旅客",
+      "en": "However, we did have one issue. The Wi-Fi in our room was very weak and unstable.",
+      "zh": "不過，我們確實遇到一個問題。我們房間的Wi-Fi訊號非常弱且不穩定。",
+      "keywords": [
+        {
+          "word": "unstable",
+          "kk": "/ʌnˈstebl/",
+          "zh": "不穩定的"
+        },
+        {
+          "word": "issue",
+          "kk": "/ˈɪʃu/",
+          "zh": "問題；議題"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-d6",
+      "role": "飯店經理",
+      "en": "I apologize for that. We are aware of the spotty coverage on the east wing and are planning an upgrade next month.",
+      "zh": "我為此向您致歉。我們知道東側的網路訊號不穩定，計劃下個月進行升級。",
+      "keywords": [
+        {
+          "word": "coverage",
+          "kk": "/ˈkʌvərɪdʒ/",
+          "zh": "覆蓋範圍，訊號"
+        },
+        {
+          "word": "apologize",
+          "kk": "/əˈpɑlədʒaɪz/",
+          "zh": "道歉"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿",
+        "投訴"
+      ],
+      "tips": "出發前確認旅遊保險的 coverage（保障範圍），就醫後保留所有收據，回國後再申請 reimbursement（理賠）。",
+      "audio": null
+    },
+    {
+      "id": "L9-d7",
+      "role": "旅客",
+      "en": "I'm glad to hear that. My suggestion would be to inform future guests about this in advance, or perhaps offer a mobile hotspot as a temporary solution.",
+      "zh": "很高興聽到這個消息。我的建議是提前告知未來的客人這個狀況，或者也許可以提供行動熱點作為暫時的解決方案。",
+      "keywords": [
+        {
+          "word": "suggestion",
+          "kk": "/səɡˈdʒɛstʃən/",
+          "zh": "建議"
+        },
+        {
+          "word": "solution",
+          "kk": "/səˈluʃən/",
+          "zh": "解決方案"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-d8",
+      "role": "飯店經理",
+      "en": "That's an excellent suggestion. Thank you for bringing it to our attention and for your kind words about the staff.",
+      "zh": "這是一個很好的建議。謝謝您提醒我們注意，也謝謝您對員工的讚美。",
+      "keywords": [
+        {
+          "word": "suggestion",
+          "kk": "/səɡˈdʒɛstʃən/",
+          "zh": "建議"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "表達理解"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-s1",
+      "role": "練習句",
+      "en": "I wanted to compliment the chef on an excellent meal.",
+      "zh": "我想稱讚廚師準備了一頓出色的餐點。",
+      "keywords": [
+        {
+          "word": "compliment",
+          "kk": "/ˈkɑmpləmənt/",
+          "zh": "稱讚，恭維"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-s2",
+      "role": "練習句",
+      "en": "The check-in process was smooth and efficient.",
+      "zh": "入住手續流程順暢且有效率。",
+      "keywords": [
+        {
+          "word": "efficient",
+          "kk": "/ɪˈfɪʃənt/",
+          "zh": "有效率的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-s3",
+      "role": "練習句",
+      "en": "On the downside, the room was not as clean as we had hoped.",
+      "zh": "缺點是，房間沒有我們希望的那麼乾淨。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "住宿"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-s4",
+      "role": "練習句",
+      "en": "The service at the restaurant was rather slow last night.",
+      "zh": "昨晚餐廳的服務相當緩慢。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-s5",
+      "role": "練習句",
+      "en": "I think the signage in the hotel could be improved.",
+      "zh": "我認為飯店的指示標誌可以改善。",
+      "keywords": [
+        {
+          "word": "signage",
+          "kk": "/ˈsaɪnɪdʒ/",
+          "zh": "指示標誌系統"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "住宿"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-s6",
+      "role": "練習句",
+      "en": "I would definitely recommend this place to friends.",
+      "zh": "我一定會把這個地方推薦給朋友。",
+      "keywords": [
+        {
+          "word": "recommend",
+          "kk": "/ˌrɛkəˈmɛnd/",
+          "zh": "推薦"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    },
+    {
+      "id": "L9-s7",
+      "role": "練習句",
+      "en": "For future guests, I suggest booking a room facing the garden.",
+      "zh": "給未來的客人一個建議，我建議預訂面對花園的房間。",
+      "keywords": [
+        {
+          "word": "suggest",
+          "kk": "/səˈdʒɛst/",
+          "zh": "建議"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "住宿",
+        "預訂"
+      ],
+      "tips": "撰寫旅遊評價時，具體描述體驗細節比只給星級評分更有參考價值，也更能幫助後來的旅客。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L9-w1",
+      "word": "feedback",
+      "kk": "/ˈfidˌbæk/",
+      "pos": "n.",
+      "zh": "回饋，意見",
+      "example_en": "We value customer feedback to improve our services.",
+      "example_zh": "我們重視客戶回饋以改進我們的服務。"
+    },
+    {
+      "id": "L9-w2",
+      "word": "exceptionally",
+      "kk": "/ɪkˈsɛpʃənəli/",
+      "pos": "adv.",
+      "zh": "特別地，異常地",
+      "example_en": "The tour guide was exceptionally knowledgeable.",
+      "example_zh": "那位導遊的知識特別豐富。"
+    },
+    {
+      "id": "L9-w3",
+      "word": "unstable",
+      "kk": "/ʌnˈstebl/",
+      "pos": "adj.",
+      "zh": "不穩定的",
+      "example_en": "The internet connection has been unstable all morning.",
+      "example_zh": "網路連接整個早上都不穩定。"
+    },
+    {
+      "id": "L9-w4",
+      "word": "coverage",
+      "kk": "/ˈkʌvərɪdʒ/",
+      "pos": "n.",
+      "zh": "覆蓋範圍，訊號",
+      "example_en": "Mobile phone coverage is poor in the mountains.",
+      "example_zh": "山區的手機訊號很差。"
+    },
+    {
+      "id": "L9-w5",
+      "word": "suggestion",
+      "kk": "/səɡˈdʒɛstʃən/",
+      "pos": "n.",
+      "zh": "建議",
+      "example_en": "Do you have any suggestions for improvement?",
+      "example_zh": "您有什麼改進的建議嗎？"
+    },
+    {
+      "id": "L9-w6",
+      "word": "compliment",
+      "kk": "/ˈkɑmpləmənt/",
+      "pos": "v./n.",
+      "zh": "稱讚，恭維",
+      "example_en": "I must compliment you on your excellent service.",
+      "example_zh": "我必須稱讚您出色的服務。"
+    },
+    {
+      "id": "L9-w7",
+      "word": "signage",
+      "kk": "/ˈsaɪnɪdʒ/",
+      "pos": "n.",
+      "zh": "指示標誌系統",
+      "example_en": "Clear signage would help guests find the conference room.",
+      "example_zh": "清晰的指示標誌能幫助客人找到會議室。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L9-h1",
+      "title": "先肯定，再提出改進點（三明治回饋法）",
+      "description": "給予回饋時，先說正面評價，再提出具體的改進點，最後可以再以正面的鼓勵結束。這樣對方更容易接受。",
+      "example_en": "We loved the location and the breakfast. However, the room was a bit warm at night. Overall, we had a pleasant stay.",
+      "example_zh": "我們很喜歡地點和早餐。不過，房間晚上有點熱。整體來說，我們住得很愉快。"
+    },
+    {
+      "id": "L9-h2",
+      "title": "用具體的事實描述問題，而非情緒性指責",
+      "description": "描述問題時，聚焦在具體事實（如「水龍頭漏水」、「等了40分鐘」），而不是使用情緒化的形容詞（如「糟透了」），更有助於解決問題。",
+      "example_en": "The hot water in the shower ran out after about five minutes.",
+      "example_zh": "淋浴的熱水大約五分鐘後就用完了。"
+    },
+    {
+      "id": "L9-h3",
+      "title": "提出建設性建議：My suggestion would be to...",
+      "description": "如果你有具體的改進想法，用 My suggestion would be to... 或 It might be helpful to... 來提出，展現出你是真心希望對方改善。",
+      "example_en": "My suggestion would be to have more vegetarian options on the menu.",
+      "example_zh": "我的建議是菜單上可以有更多素食選擇。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL9-mc-001",
+        "question": "下列哪一句英文的意思是「你好，我想對我們的住宿提供一些回饋。」？",
+        "options": [
+          {
+            "en": "Hello, I'd like to provide some feedback about our stay.",
+            "zh": "你好，我想對我們的住宿提供一些回饋。"
+          },
+          {
+            "en": "Of course, we always welcome feedback. How was your experience?",
+            "zh": "當然，我們總是歡迎回饋。您的住宿體驗如何？"
+          },
+          {
+            "en": "Overall, we enjoyed our time here. The staff were exceptionally helpful and friendly.",
+            "zh": "整體來說，我們在這裡住得很愉快。員工特別樂於助人且友善。"
+          },
+          {
+            "en": "Thank you, that's wonderful to hear.",
+            "zh": "謝謝您，聽到您這麼說真是太好了。"
+          }
+        ],
+        "answer": "Hello, I'd like to provide some feedback about our stay."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL9-fi-001",
+        "question": "Hello, I'd like to provide some ______ about our stay.",
+        "answer": "feedback"
+      },
+      {
+        "id": "qL9-fi-002",
+        "question": "Of course, we always welcome ______. How was your experience?",
+        "answer": "feedback"
+      },
+      {
+        "id": "qL9-fi-003",
+        "question": "______, we enjoyed our time here. The staff were exceptionally helpful and friendly.",
+        "answer": "overall"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL9-li-001",
+        "sentence_id": "L9-d1"
+      },
+      {
+        "id": "qL9-li-002",
+        "sentence_id": "L9-d3"
+      },
+      {
+        "id": "qL9-li-003",
+        "sentence_id": "L9-d5"
+      }
+    ]
+  }
+}

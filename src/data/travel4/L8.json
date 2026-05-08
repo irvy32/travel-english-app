@@ -1,0 +1,426 @@
+{
+  "chapter_id": "L8",
+  "chapter_name": "長住／短租住宿溝通",
+  "description": "長住飯店或短租公寓時，與房東或管理員溝通。包含詢問租約條件、押金、水電與清潔規定，討論居家設備問題。",
+  "sentences": [
+    {
+      "id": "L8-d1",
+      "role": "房客",
+      "en": "Hi, I'm interested in renting your apartment for a month. Could you clarify what's included in the monthly rate?",
+      "zh": "嗨，我有興趣租您的公寓一個月。可以請您說明月租金包含哪些項目嗎？",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "禮貌用語",
+        "委婉請求"
+      ],
+      "tips": "提出要求時，Could you...? 或 Is it possible to...? 比直接命令（Fix this!）更禮貌，也更容易獲得正面回應。",
+      "audio": null
+    },
+    {
+      "id": "L8-d2",
+      "role": "房東",
+      "en": "Certainly. The rate includes all utilities—electricity, water, gas, and high-speed internet.",
+      "zh": "當然。租金包含所有水電瓦斯費——電、水、瓦斯和高速網路。",
+      "keywords": [
+        {
+          "word": "utilities",
+          "kk": "/juˈtɪlɪtiz/",
+          "zh": "水電瓦斯等公共事業費用"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "長住租屋",
+        "禮貌用語"
+      ],
+      "tips": "長期租屋前，親自參觀並確認附近生活機能，如超市、交通等，以確保日常生活的便利性。",
+      "audio": null
+    },
+    {
+      "id": "L8-d3",
+      "role": "房客",
+      "en": "That's good. What about the security deposit and cleaning arrangements?",
+      "zh": "那很好。那押金和清潔安排呢？",
+      "keywords": [
+        {
+          "word": "deposit",
+          "kk": "/dɪˈpɑzɪt/",
+          "zh": "押金；訂金"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "預訂",
+        "長住租屋"
+      ],
+      "tips": "簽租約前，確認 utilities included?（水電費是否含在租金內）及 furnished?（是否含家具），以免入住後有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-d4",
+      "role": "房東",
+      "en": "We require a security deposit equal to one month's rent, refundable after check-out if there's no damage. Cleaning is done weekly, included in the rent.",
+      "zh": "我們要求押金等同一個月租金，退房時若無損壞即可退還。每週會有清潔服務，包含在租金內。",
+      "keywords": [
+        {
+          "word": "deposit",
+          "kk": "/dɪˈpɑzɪt/",
+          "zh": "押金；訂金"
+        },
+        {
+          "word": "refundable",
+          "kk": "/rɪˈfʌndəbəl/",
+          "zh": "可退款的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "投訴",
+        "預訂",
+        "長住租屋"
+      ],
+      "tips": "簽租約前，確認 utilities included?（水電費是否含在租金內）及 furnished?（是否含家具），以免入住後有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-d5",
+      "role": "房客",
+      "en": "Perfect. The listing mentioned the kitchen is fully equipped. Does it have an oven?",
+      "zh": "很好。房源介紹中提到廚房設備齊全，有烤箱嗎？",
+      "keywords": [
+        {
+          "word": "equipped",
+          "kk": "/ɪˈkwɪpt/",
+          "zh": "配備齊全的"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "長期租屋前，親自參觀並確認附近生活機能，如超市、交通等，以確保日常生活的便利性。",
+      "audio": null
+    },
+    {
+      "id": "L8-d6",
+      "role": "房東",
+      "en": "Yes, it has a built-in oven and a microwave. All pots, pans, and cutlery are provided.",
+      "zh": "有的，有一個嵌入式烤箱和微波爐。所有鍋具、平底鍋和餐具都有提供。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "長期租屋前，親自參觀並確認附近生活機能，如超市、交通等，以確保日常生活的便利性。",
+      "audio": null
+    },
+    {
+      "id": "L8-d7",
+      "role": "房客",
+      "en": "One last question: what's the procedure if something breaks down, like the washing machine?",
+      "zh": "最後一個問題：如果東西壞了，比如洗衣機，處理程序是什麼？",
+      "keywords": [
+        {
+          "word": "procedure",
+          "kk": "/prəˈsidʒɚ/",
+          "zh": "程序，步驟"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "長期租屋前，親自參觀並確認附近生活機能，如超市、交通等，以確保日常生活的便利性。",
+      "audio": null
+    },
+    {
+      "id": "L8-d8",
+      "role": "房東",
+      "en": "You can contact me directly, and I'll arrange for repair within 24 hours. There's a contact list with emergency numbers in the apartment.",
+      "zh": "您可以直接聯繫我，我會在24小時內安排維修。公寓裡有一份緊急聯絡電話清單。",
+      "keywords": [
+        {
+          "word": "arrange",
+          "kk": "/əˈreɪndʒ/",
+          "zh": "安排"
+        },
+        {
+          "word": "emergency",
+          "kk": "/ɪˈmɜrdʒənsɪ/",
+          "zh": "緊急情況"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "醫療緊急"
+      ],
+      "tips": "長期租屋前，親自參觀並確認附近生活機能，如超市、交通等，以確保日常生活的便利性。",
+      "audio": null
+    },
+    {
+      "id": "L8-s1",
+      "role": "練習句",
+      "en": "Is the apartment available for a three-month lease?",
+      "zh": "這間公寓可以簽三個月的租約嗎？",
+      "keywords": [
+        {
+          "word": "lease",
+          "kk": "/lis/",
+          "zh": "租約"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "長住租屋"
+      ],
+      "tips": "簽租約前，確認 utilities included?（水電費是否含在租金內）及 furnished?（是否含家具），以免入住後有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L8-s2",
+      "role": "練習句",
+      "en": "Are pets allowed in the property?",
+      "zh": "這個物業允許寵物嗎？",
+      "keywords": [
+        {
+          "word": "property",
+          "kk": "/ˈprɑpɚti/",
+          "zh": "財產，房地產"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "長期租屋前，親自參觀並確認附近生活機能，如超市、交通等，以確保日常生活的便利性。",
+      "audio": null
+    },
+    {
+      "id": "L8-s3",
+      "role": "練習句",
+      "en": "Who is responsible for minor repairs?",
+      "zh": "小修繕由誰負責？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "長期租屋前，親自參觀並確認附近生活機能，如超市、交通等，以確保日常生活的便利性。",
+      "audio": null
+    },
+    {
+      "id": "L8-s4",
+      "role": "練習句",
+      "en": "How do we pay for the electricity bill?",
+      "zh": "我們如何支付電費？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "長期租屋前，親自參觀並確認附近生活機能，如超市、交通等，以確保日常生活的便利性。",
+      "audio": null
+    },
+    {
+      "id": "L8-s5",
+      "role": "練習句",
+      "en": "Is there a parking space included?",
+      "zh": "有包含停車位嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "長期租屋前，親自參觀並確認附近生活機能，如超市、交通等，以確保日常生活的便利性。",
+      "audio": null
+    },
+    {
+      "id": "L8-s6",
+      "role": "練習句",
+      "en": "Could you send me a copy of the rental agreement?",
+      "zh": "可以寄一份租賃合約的副本給我嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語",
+        "委婉請求"
+      ],
+      "tips": "提出要求時，Could you...? 或 Is it possible to...? 比直接命令（Fix this!）更禮貌，也更容易獲得正面回應。",
+      "audio": null
+    },
+    {
+      "id": "L8-s7",
+      "role": "練習句",
+      "en": "What is the check-in procedure on the first day?",
+      "zh": "第一天的入住程序是什麼？",
+      "keywords": [
+        {
+          "word": "procedure",
+          "kk": "/prəˈsidʒɚ/",
+          "zh": "程序，步驟"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "長期租屋前，親自參觀並確認附近生活機能，如超市、交通等，以確保日常生活的便利性。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L8-w1",
+      "word": "utilities",
+      "kk": "/juˈtɪlɪtiz/",
+      "pos": "n.",
+      "zh": "水電瓦斯等公共事業費用",
+      "example_en": "The rent is $1200, not including utilities.",
+      "example_zh": "租金是1200美元，不含水電瓦斯費。"
+    },
+    {
+      "id": "L8-w2",
+      "word": "security deposit",
+      "kk": "/sɪˈkjʊrɪti dɪˈpɑzɪt/",
+      "pos": "n.",
+      "zh": "押金，保證金",
+      "example_en": "You'll get your security deposit back when you move out.",
+      "example_zh": "您搬走時會拿回押金。"
+    },
+    {
+      "id": "L8-w3",
+      "word": "lease",
+      "kk": "/lis/",
+      "pos": "n.",
+      "zh": "租約",
+      "example_en": "We signed a one-year lease for the apartment.",
+      "example_zh": "我們簽了一年的公寓租約。"
+    },
+    {
+      "id": "L8-w4",
+      "word": "property",
+      "kk": "/ˈprɑpɚti/",
+      "pos": "n.",
+      "zh": "財產，房地產",
+      "example_en": "The property is located in a quiet neighborhood.",
+      "example_zh": "這處房產位於一個安靜的社區。"
+    },
+    {
+      "id": "L8-w5",
+      "word": "equipped",
+      "kk": "/ɪˈkwɪpt/",
+      "pos": "adj.",
+      "zh": "配備齊全的",
+      "example_en": "The kitchen is fully equipped with modern appliances.",
+      "example_zh": "廚房配備了齊全的現代化家電。"
+    },
+    {
+      "id": "L8-w6",
+      "word": "procedure",
+      "kk": "/prəˈsidʒɚ/",
+      "pos": "n.",
+      "zh": "程序，步驟",
+      "example_en": "The check-out procedure is quite simple.",
+      "example_zh": "退房程序相當簡單。"
+    },
+    {
+      "id": "L8-w7",
+      "word": "rental agreement",
+      "kk": "/ˈrɛntl əˈɡrimənt/",
+      "pos": "n.",
+      "zh": "租賃合約",
+      "example_en": "Please read the rental agreement carefully before signing.",
+      "example_zh": "簽名前請仔細閱讀租賃合約。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L8-h1",
+      "title": "詢問費用包含項目：What's included in the rent?",
+      "description": "在決定租房前，務必問清楚租金包含哪些費用（如水電、網路、清潔費），避免後續產生意外支出。",
+      "example_en": "What's included in the rent? Are council taxes included?",
+      "example_zh": "租金包含哪些項目？市政稅包含在內嗎？"
+    },
+    {
+      "id": "L8-h2",
+      "title": "確認規則與責任：Are pets allowed? / Who is responsible for...?",
+      "description": "了解物業的具體規則（如寵物、吸菸）和各項事務的責任歸屬（如維修、付帳單），是順利長住的關鍵。",
+      "example_en": "Who is responsible for maintaining the garden?",
+      "example_zh": "由誰負責維護花園？"
+    },
+    {
+      "id": "L8-h3",
+      "title": "討論合約與程序：Can I see the agreement? / What's the procedure?",
+      "description": "在簽署任何文件前，要求先看合約內容，並了解入住、退房及緊急狀況的處理程序，保障自身權益。",
+      "example_en": "Could you explain the early termination procedure in the contract?",
+      "example_zh": "可以請您解釋一下合約中的提前終止程序嗎？"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL8-mc-001",
+        "question": "下列哪一句英文的意思是「嗨，我有興趣租您的公寓一個月。可以請您說明月租金包含哪些項目嗎？」？",
+        "options": [
+          {
+            "en": "Hi, I'm interested in renting your apartment for a month. Could you clarify what's included in the monthly rate?",
+            "zh": "嗨，我有興趣租您的公寓一個月。可以請您說明月租金包含哪些項目嗎？"
+          },
+          {
+            "en": "Certainly. The rate includes all utilities—electricity, water, gas, and high-speed internet.",
+            "zh": "當然。租金包含所有水電瓦斯費——電、水、瓦斯和高速網路。"
+          },
+          {
+            "en": "That's good. What about the security deposit and cleaning arrangements?",
+            "zh": "那很好。那押金和清潔安排呢？"
+          },
+          {
+            "en": "We require a security deposit equal to one month's rent, refundable after check-out if there's no damage. Cleaning is done weekly, included in the rent.",
+            "zh": "我們要求押金等同一個月租金，退房時若無損壞即可退還。每週會有清潔服務，包含在租金內。"
+          }
+        ],
+        "answer": "Hi, I'm interested in renting your apartment for a month. Could you clarify what's included in the monthly rate?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL8-fi-001",
+        "question": "Hi, I'm ______ in renting your apartment for a month. Could you clarify what's included in the monthly rate?",
+        "answer": "interested"
+      },
+      {
+        "id": "qL8-fi-002",
+        "question": "Certainly. The rate includes all ______—electricity, water, gas, and high-speed internet.",
+        "answer": "utilities"
+      },
+      {
+        "id": "qL8-fi-003",
+        "question": "That's good. What about the security ______ and cleaning arrangements?",
+        "answer": "deposit"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL8-li-001",
+        "sentence_id": "L8-d1"
+      },
+      {
+        "id": "qL8-li-002",
+        "sentence_id": "L8-d3"
+      },
+      {
+        "id": "qL8-li-003",
+        "sentence_id": "L8-d5"
+      }
+    ]
+  }
+}

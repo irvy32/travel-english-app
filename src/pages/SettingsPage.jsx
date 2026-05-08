@@ -38,7 +38,7 @@ export default function SettingsPage() {
         topicName="設定"
         chapterName=""
         onHome={() => navigate('/')}
-        onTopic={() => navigate('/travel')}
+        onTopic={() => navigate(`/${localStorage.getItem('lastTopicId') || 'travel1'}`)}
       />
 
       <div className="px-4 py-6 max-w-2xl mx-auto">
@@ -164,7 +164,7 @@ export default function SettingsPage() {
       <BottomNav
         currentPage="settings"
         onNavigate={(page) => {
-          if (page === 'home') navigate('/travel')
+          if (page === 'home') navigate(`/${localStorage.getItem('lastTopicId') || 'travel1'}`)
           if (page === 'quiz') navigate('/quiz')
           if (page === 'review') navigate('/review')
           if (page === 'settings') navigate('/settings')

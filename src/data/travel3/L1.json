@@ -1,0 +1,329 @@
+{
+  "chapter_id": "L1",
+  "chapter_name": "出國準備與去機場",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "旅客",
+      "en": "Hello, I'd like to book a taxi to the airport for tomorrow morning.",
+      "zh": "你好，我想預約明天早上去機場的計程車。",
+      "keywords": [
+        {
+          "word": "book",
+          "kk": "/bʊk/",
+          "zh": "預約、訂購"
+        },
+        {
+          "word": "taxi",
+          "kk": "/ˈtæksi/",
+          "zh": "計程車"
+        },
+        {
+          "word": "airport",
+          "kk": "/ˈɛrˌpɔrt/",
+          "zh": "機場"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "出發準備",
+        "機場",
+        "交通",
+        "旅客"
+      ],
+      "tips": "「I'd like to...」是有禮貌的請求句型，預約服務時比「I want to...」更得體，常用於訂車、訂房等場合。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "司機",
+      "en": "Sure. What time do you need the taxi?",
+      "zh": "好的，您需要計程車幾點到？",
+      "keywords": [
+        {
+          "word": "taxi",
+          "kk": "/ˈtæksi/",
+          "zh": "計程車"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "司機",
+        "出發準備",
+        "機場",
+        "交通"
+      ],
+      "tips": "詢問時間時用「What time...?」，回答時直接說時間即可，例如「At 7 AM.」",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "旅客",
+      "en": "My flight is at 11:00 AM. I should arrive at 8:00 AM.",
+      "zh": "我的班機是上午11點，我應該在上午8點抵達。",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "班機"
+        },
+        {
+          "word": "arrive",
+          "kk": "/əˈraɪv/",
+          "zh": "抵達"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "出發準備",
+        "機場",
+        "交通",
+        "旅客"
+      ],
+      "tips": "說明班機時間時，可以加上「I should arrive at...」表示計畫中的抵達時間，讓對方更清楚安排。",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "司機",
+      "en": "I will pick you up at 7:00 AM. What is your address?",
+      "zh": "我會在早上7點接您。您的地址是？",
+      "keywords": [
+        {
+          "word": "address",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "司機",
+        "出發準備",
+        "機場",
+        "交通"
+      ],
+      "tips": "計程車司機確認上車時間時，記得同時告知地址，對話中「What is your address?」是很常見的跟進問句。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "旅客",
+      "en": "123 Park Street. How much will it cost?",
+      "zh": "公園街123號。費用是多少？",
+      "keywords": [
+        {
+          "word": "street",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "出發準備",
+        "機場",
+        "交通",
+        "旅客"
+      ],
+      "tips": "詢問費用時，「How much will it cost?」語氣自然，也可直接問「How much is it?」。",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "司機",
+      "en": "It will be about 40 dollars.",
+      "zh": "大約是40美元。",
+      "keywords": [
+        {
+          "word": "dollars",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "司機",
+        "出發準備",
+        "機場",
+        "交通"
+      ],
+      "tips": "「about」在此表示大約，是口語中常用的模糊說法，例如「about 40 dollars」表示「大約40美元」。",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "旅客",
+      "en": "I packed my passport, boarding pass, and some cash.",
+      "zh": "我打包了我的護照、登機證和一些現金。",
+      "keywords": [
+        {
+          "word": "boarding pass",
+          "kk": "/ˈbɔrdɪŋ pæs/",
+          "zh": "登機證"
+        },
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "出發準備",
+        "機場",
+        "交通",
+        "旅客"
+      ],
+      "tips": "「packed」是「pack（打包）」的過去式，出發前打包行李時常用到，注意護照和登機證要隨身攜帶。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "家人",
+      "en": "Don't forget to check your flight status online.",
+      "zh": "別忘了上網檢查你的班機狀態。",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "班機"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家人",
+        "出發準備",
+        "機場",
+        "交通"
+      ],
+      "tips": "「Don't forget to...」是提醒別人做某事的常用句型，語氣親切但有提示作用，家人或朋友間常用。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL1-mc-001",
+        "question": "想預約計程車去機場，下列哪句英文最正確？",
+        "options": [
+          {
+            "en": "I'd like to book a taxi to the airport.",
+            "zh": "我想預約一輛去機場的計程車。"
+          },
+          {
+            "en": "I want booking a taxi at airport.",
+            "zh": "我想在機場預約計程車。"
+          },
+          {
+            "en": "I need taxi go airport.",
+            "zh": "我需要計程車去機場。"
+          },
+          {
+            "en": "Can I have taxi for airport?",
+            "zh": "我可以要一輛去機場的計程車嗎？"
+          }
+        ],
+        "answer": "I'd like to book a taxi to the airport."
+      },
+      {
+        "id": "qL1-mc-002",
+        "question": "「boarding pass」的中文意思是什麼？",
+        "options": [
+          {
+            "en": "Passport",
+            "zh": "護照"
+          },
+          {
+            "en": "Boarding pass",
+            "zh": "登機證"
+          },
+          {
+            "en": "Suitcase",
+            "zh": "行李箱"
+          },
+          {
+            "en": "Flight ticket",
+            "zh": "機票"
+          }
+        ],
+        "answer": "Boarding pass"
+      },
+      {
+        "id": "qL1-mc-003",
+        "question": "「Don't forget to check your flight status online.」誰最可能說這句話？",
+        "options": [
+          {
+            "en": "A taxi driver",
+            "zh": "計程車司機"
+          },
+          {
+            "en": "A family member",
+            "zh": "家人"
+          },
+          {
+            "en": "An airport officer",
+            "zh": "機場人員"
+          },
+          {
+            "en": "A flight attendant",
+            "zh": "空服員"
+          }
+        ],
+        "answer": "A family member"
+      },
+      {
+        "id": "qL1-mc-004",
+        "question": "「I should arrive at 8:00 AM.」中 should 的意思是？",
+        "options": [
+          {
+            "en": "must",
+            "zh": "必須"
+          },
+          {
+            "en": "plan to / should",
+            "zh": "應該、計畫"
+          },
+          {
+            "en": "want to",
+            "zh": "想要"
+          },
+          {
+            "en": "cannot",
+            "zh": "不能"
+          }
+        ],
+        "answer": "plan to / should"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL1-fi-001",
+        "question": "I'd like to ______ a taxi to the airport.（我想預約計程車。）",
+        "answer": "book"
+      },
+      {
+        "id": "qL1-fi-002",
+        "question": "I ______ my boarding pass.（我列印了我的登機證。）",
+        "answer": "printed"
+      },
+      {
+        "id": "qL1-fi-003",
+        "question": "My flight ______ in three hours.（我的班機三小時後起飛。）",
+        "answer": "leaves"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL1-li-001",
+        "sentence_id": "d1"
+      },
+      {
+        "id": "qL1-li-002",
+        "sentence_id": "d3"
+      },
+      {
+        "id": "qL1-li-003",
+        "sentence_id": "d7"
+      }
+    ]
+  }
+}

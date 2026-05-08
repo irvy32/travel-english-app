@@ -1,0 +1,426 @@
+{
+  "chapter_id": "L4",
+  "chapter_name": "朋友聚會與邀約",
+  "description": "邀請朋友喝咖啡、吃飯或一起參加活動。包含：提出邀約、確認時間地點、回覆邀約（接受或婉拒）。",
+  "sentences": [
+    {
+      "id": "L4-d1",
+      "role": "本人",
+      "en": "Hi, are you free this Saturday?",
+      "zh": "嗨，你這星期六有空嗎？",
+      "keywords": [
+        {
+          "word": "free",
+          "kk": "/fri/",
+          "zh": "空閒的；免費"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "邀請朋友時，Are you free on...? 或 Would you like to join us? 語氣友善不強迫，是最常用的邀約句型。",
+      "audio": null
+    },
+    {
+      "id": "L4-d2",
+      "role": "朋友",
+      "en": "I think so. What's up?",
+      "zh": "我想有。怎麼了？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "表達看法"
+      ],
+      "tips": "「I find + 名詞 + 形容詞」比直接說 It is... 更有個人色彩，如 I find hiking very refreshing（我覺得健行很提神）。",
+      "audio": null
+    },
+    {
+      "id": "L4-d3",
+      "role": "本人",
+      "en": "Would you like to have lunch with me?",
+      "zh": "你想和我一起吃午餐嗎？",
+      "keywords": [
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "邀請朋友時，Are you free on...? 或 Would you like to join us? 語氣友善不強迫，是最常用的邀約句型。",
+      "audio": null
+    },
+    {
+      "id": "L4-d4",
+      "role": "朋友",
+      "en": "That sounds nice. What time?",
+      "zh": "聽起來不錯。幾點？",
+      "keywords": [
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "時間"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "邀約朋友時，提供幾個時間選項（Option A or B?）讓對方更容易做決定。",
+      "audio": null
+    },
+    {
+      "id": "L4-d5",
+      "role": "本人",
+      "en": "Is 12:30 okay for you?",
+      "zh": "十二點半你可以嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "邀約朋友時，提供幾個時間選項（Option A or B?）讓對方更容易做決定。",
+      "audio": null
+    },
+    {
+      "id": "L4-d6",
+      "role": "朋友",
+      "en": "Yes, that works. Where should we meet?",
+      "zh": "可以，沒問題。我們應該在哪裡見面？",
+      "keywords": [
+        {
+          "word": "meet",
+          "kk": "/mit/",
+          "zh": "見面；認識"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "邀約朋友時，提供幾個時間選項（Option A or B?）讓對方更容易做決定。",
+      "audio": null
+    },
+    {
+      "id": "L4-d7",
+      "role": "本人",
+      "en": "How about the Italian restaurant on Main Street?",
+      "zh": "主街上的那家義大利餐廳怎麼樣？",
+      "keywords": [
+        {
+          "word": "restaurant",
+          "kk": "/ˈrɛstərənt/",
+          "zh": "餐廳"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "飲食美食"
+      ],
+      "tips": "提出計畫後說 Let me know if that works for you，給對方彈性回應，是禮貌邀約的重要結尾句。",
+      "audio": null
+    },
+    {
+      "id": "L4-d8",
+      "role": "朋友",
+      "en": "Perfect. See you there at 12:30.",
+      "zh": "太好了。十二點半那裡見。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "邀約朋友時，提供幾個時間選項（Option A or B?）讓對方更容易做決定。",
+      "audio": null
+    },
+    {
+      "id": "L4-d9",
+      "role": "本人",
+      "en": "Great! Looking forward to it.",
+      "zh": "太好了！我很期待。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "邀約朋友時，提供幾個時間選項（Option A or B?）讓對方更容易做決定。",
+      "audio": null
+    },
+    {
+      "id": "L4-s1",
+      "role": "練習句",
+      "en": "Would you like to join me for coffee?",
+      "zh": "你想和我一起喝咖啡嗎？",
+      "keywords": [
+        {
+          "word": "join",
+          "kk": "/dʒɔɪn/",
+          "zh": "加入，參加"
+        },
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "按讚；喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "課程社團",
+        "禮貌用語"
+      ],
+      "tips": "邀請朋友時，Are you free on...? 或 Would you like to join us? 語氣友善不強迫，是最常用的邀約句型。",
+      "audio": null
+    },
+    {
+      "id": "L4-s2",
+      "role": "練習句",
+      "en": "Are you available next Tuesday?",
+      "zh": "你下星期二有空嗎？",
+      "keywords": [
+        {
+          "word": "available",
+          "kk": "/əˈveləbl/",
+          "zh": "有空的，可用的"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "聚會邀約"
+      ],
+      "tips": "邀請朋友時，Are you free on...? 或 Would you like to join us? 語氣友善不強迫，是最常用的邀約句型。",
+      "audio": null
+    },
+    {
+      "id": "L4-s3",
+      "role": "練習句",
+      "en": "How about meeting at the park?",
+      "zh": "在公園見面怎麼樣？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "提出計畫後說 Let me know if that works for you，給對方彈性回應，是禮貌邀約的重要結尾句。",
+      "audio": null
+    },
+    {
+      "id": "L4-s4",
+      "role": "練習句",
+      "en": "I'd love to, but I have other plans.",
+      "zh": "我很樂意，但我有其他計畫。",
+      "keywords": [
+        {
+          "word": "love",
+          "kk": "/lʌv/",
+          "zh": "愛；非常喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "邀約朋友時，提供幾個時間選項（Option A or B?）讓對方更容易做決定。",
+      "audio": null
+    },
+    {
+      "id": "L4-s5",
+      "role": "練習句",
+      "en": "Maybe we can do it another time.",
+      "zh": "也許我們可以改天再約。",
+      "keywords": [
+        {
+          "word": "time",
+          "kk": "/taɪm/",
+          "zh": "時間"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "邀約朋友時，提供幾個時間選項（Option A or B?）讓對方更容易做決定。",
+      "audio": null
+    },
+    {
+      "id": "L4-s6",
+      "role": "練習句",
+      "en": "Let's meet at 2 p.m. at the cafe.",
+      "zh": "我們下午兩點在咖啡館見吧。",
+      "keywords": [
+        {
+          "word": "meet",
+          "kk": "/mit/",
+          "zh": "見面；認識"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "社交英文",
+        "生活口語"
+      ],
+      "tips": "邀約朋友時，提供幾個時間選項（Option A or B?）讓對方更容易做決定。",
+      "audio": null
+    },
+    {
+      "id": "L4-s7",
+      "role": "練習句",
+      "en": "Thank you for the invitation.",
+      "zh": "謝謝你的邀請。",
+      "keywords": [
+        {
+          "word": "invitation",
+          "kk": "/ˌɪnvəˈteɪʃən/",
+          "zh": "邀請"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "聚會邀約",
+        "禮貌用語"
+      ],
+      "tips": "邀約朋友時，提供幾個時間選項（Option A or B?）讓對方更容易做決定。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L4-w1",
+      "word": "available",
+      "kk": "/əˈveləbl/",
+      "pos": "adj.",
+      "zh": "有空的，可用的",
+      "example_en": "Are you available this weekend?",
+      "example_zh": "你這個週末有空嗎？"
+    },
+    {
+      "id": "L4-w2",
+      "word": "join",
+      "kk": "/dʒɔɪn/",
+      "pos": "v.",
+      "zh": "加入，參加",
+      "example_en": "Would you like to join us for dinner?",
+      "example_zh": "你想加入我們一起吃晚餐嗎？"
+    },
+    {
+      "id": "L4-w3",
+      "word": "invitation",
+      "kk": "/ˌɪnvəˈteɪʃən/",
+      "pos": "n.",
+      "zh": "邀請",
+      "example_en": "Thank you for the lovely invitation.",
+      "example_zh": "謝謝你親切的邀請。"
+    },
+    {
+      "id": "L4-w4",
+      "word": "plan",
+      "kk": "/plæn/",
+      "pos": "n.",
+      "zh": "計畫",
+      "example_en": "I already have plans for that day.",
+      "example_zh": "我那天已經有計畫了。"
+    },
+    {
+      "id": "L4-w5",
+      "word": "look forward to",
+      "kk": "/lʊk ˈfɔrwɚd tu/",
+      "pos": "phr.",
+      "zh": "期待",
+      "example_en": "I look forward to seeing you.",
+      "example_zh": "我期待見到你。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L4-h1",
+      "title": "提出邀約：Would you like to...?",
+      "description": "這是最有禮貌、最常用的邀約方式。後面直接接想一起做的事，如 have lunch, go for a walk。",
+      "example_en": "Would you like to go to a movie with me?",
+      "example_zh": "你想和我去看場電影嗎？"
+    },
+    {
+      "id": "L4-h2",
+      "title": "確認時間與地點",
+      "description": "對方接受邀約後，要具體確認時間 (What time? / Is ... okay?) 和地點 (Where should we meet? / How about...?)",
+      "example_en": "Is 3 p.m. okay? How about meeting at the library?",
+      "example_zh": "下午三點可以嗎？在圖書館見面如何？"
+    },
+    {
+      "id": "L4-h3",
+      "title": "禮貌地婉拒邀約",
+      "description": "如果無法參加，可以先表示感謝和樂意 (I'd love to)，再用 but... 委婉說明原因。",
+      "example_en": "I'd love to, but I have a doctor's appointment that day.",
+      "example_zh": "我很樂意，但我那天有醫生的預約。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL4-mc-001",
+        "question": "下列哪一句英文的意思是「嗨，你這星期六有空嗎？」？",
+        "options": [
+          {
+            "en": "Hi, are you free this Saturday?",
+            "zh": "嗨，你這星期六有空嗎？"
+          },
+          {
+            "en": "I think so. What's up?",
+            "zh": "我想有。怎麼了？"
+          },
+          {
+            "en": "Would you like to have lunch with me?",
+            "zh": "你想和我一起吃午餐嗎？"
+          },
+          {
+            "en": "That sounds nice. What time?",
+            "zh": "聽起來不錯。幾點？"
+          }
+        ],
+        "answer": "Hi, are you free this Saturday?"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL4-fi-001",
+        "question": "Hi, are you free this ______?",
+        "answer": "saturday"
+      },
+      {
+        "id": "qL4-fi-002",
+        "question": "I think so. ______ up?",
+        "answer": "what's"
+      },
+      {
+        "id": "qL4-fi-003",
+        "question": "Would you like to have ______ with me?",
+        "answer": "lunch"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL4-li-001",
+        "sentence_id": "L4-d1"
+      },
+      {
+        "id": "qL4-li-002",
+        "sentence_id": "L4-d3"
+      },
+      {
+        "id": "qL4-li-003",
+        "sentence_id": "L4-d5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "chapter_id": "L7",
+  "chapter_name": "機場交通",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "旅客",
+      "en": "Excuse me, how can I get to the city center?",
+      "zh": "不好意思，請問我怎麼去市中心？",
+      "keywords": [
+        {
+          "word": "city center",
+          "kk": "/ˈsɪti ˈsɛntɚ/",
+          "zh": "市中心"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場交通",
+        "大眾運輸",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「How can I get to...?」是詢問交通方式的萬用句，比「Where is...?」多了詢問方法的意思。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "服務台人員",
+      "en": "You can take the airport express train, a bus, or a taxi.",
+      "zh": "您可以搭乘機場快線、公車或計程車。",
+      "keywords": [
+        {
+          "word": "taxi",
+          "kk": "/ˈtæksi/",
+          "zh": "計程車"
+        },
+        {
+          "word": "airport",
+          "kk": "/ˈɛrˌpɔrt/",
+          "zh": "機場"
+        },
+        {
+          "word": "airport express",
+          "kk": "/ˈɛrˌpɔrt ɪkˈsprɛs/",
+          "zh": "機場快線"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "服務台人員",
+        "機場交通",
+        "大眾運輸",
+        "機場"
+      ],
+      "tips": "機場到市區通常有多種交通方式，服務台人員會列出選項，可進一步詢問時間和費用。",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "旅客",
+      "en": "Which one is the fastest?",
+      "zh": "哪一個最快？",
+      "keywords": [
+        {
+          "word": "fastest",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場交通",
+        "大眾運輸",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「Which one is the fastest?」詢問最快的選項，是時間有限時的實用問句，語氣直接明確。",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "服務台人員",
+      "en": "The airport express train is the fastest. It takes about 25 minutes.",
+      "zh": "機場快線最快，大約需要25分鐘。",
+      "keywords": [
+        {
+          "word": "airport",
+          "kk": "/ˈɛrˌpɔrt/",
+          "zh": "機場"
+        },
+        {
+          "word": "airport express",
+          "kk": "/ˈɛrˌpɔrt ɪkˈsprɛs/",
+          "zh": "機場快線"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "服務台人員",
+        "機場交通",
+        "大眾運輸",
+        "機場"
+      ],
+      "tips": "機場快線通常是最快的選擇，了解路程時間有助於規劃行程，避免趕不上預約或會議。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "旅客",
+      "en": "Where can I buy a ticket?",
+      "zh": "我在哪裡可以買票？",
+      "keywords": [
+        {
+          "word": "ticket",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場交通",
+        "大眾運輸",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「Where can I buy a ticket?」詢問購票地點，is常接地點，也可問「Where is the ticket counter?」",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "服務台人員",
+      "en": "There is a ticket machine over there.",
+      "zh": "那邊有售票機。",
+      "keywords": [
+        {
+          "word": "ticket",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "machine",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "服務台人員",
+        "機場交通",
+        "大眾運輸",
+        "機場"
+      ],
+      "tips": "售票機（ticket machine）通常有多國語言介面，遇到困難可按服務鍵請求協助。",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "旅客",
+      "en": "Thank you. Which stop is for Central Station?",
+      "zh": "謝謝。哪一站是中央車站？",
+      "keywords": [
+        {
+          "word": "central",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "station",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場交通",
+        "大眾運輸",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "詢問目的地站名時，「Which stop is for...?」比「Where is...?」更精確，適合搭乘大眾運輸時使用。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "服務台人員",
+      "en": "The train goes directly to Central Station. You don't need to change.",
+      "zh": "這班列車直達中央車站，您不需要轉車。",
+      "keywords": [
+        {
+          "word": "train",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "directly",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "服務台人員",
+        "機場交通",
+        "大眾運輸",
+        "機場"
+      ],
+      "tips": "「directly」表示直達不需轉車，「You don't need to change.」也是很常聽到的好消息。",
+      "audio": null
+    },
+    {
+      "id": "d9",
+      "role": "旅客",
+      "en": "Where is the taxi stand?",
+      "zh": "計程車招呼站在哪裡？",
+      "keywords": [
+        {
+          "word": "taxi",
+          "kk": "/ˈtæksi/",
+          "zh": "計程車"
+        },
+        {
+          "word": "taxi stand",
+          "kk": "/ˈtæksi stænd/",
+          "zh": "計程車招呼站"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場交通",
+        "大眾運輸",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "「Where is the taxi stand?」詢問計程車站位置，機場通常在出境大廳外設有計程車招呼站。",
+      "audio": null
+    },
+    {
+      "id": "d10",
+      "role": "服務台人員",
+      "en": "Go out door number 3, and you will see it.",
+      "zh": "從3號門出去，您就會看到了。",
+      "keywords": [
+        {
+          "word": "number",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "服務台人員",
+        "機場交通",
+        "大眾運輸",
+        "機場"
+      ],
+      "tips": "指路時「Go out door number 3」搭配門號，是機場常用的定向說明方式，非常具體清楚。",
+      "audio": null
+    },
+    {
+      "id": "d11",
+      "role": "旅客",
+      "en": "To the Hilton Hotel, please.",
+      "zh": "麻煩到希爾頓飯店。",
+      "keywords": [
+        {
+          "word": "hilton",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "hotel",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場交通",
+        "大眾運輸",
+        "旅客",
+        "口語表達"
+      ],
+      "tips": "搭計程車時，直接說「To [目的地], please.」是最簡潔的指示，司機通常能立即理解。",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "司機",
+      "en": "OK. That will be about 40 dollars.",
+      "zh": "好的。車資大約是40美元。",
+      "keywords": [
+        {
+          "word": "dollars",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "司機",
+        "機場交通",
+        "大眾運輸",
+        "交通"
+      ],
+      "tips": "「That will be about...」是預估費用的說法，「about」表示大約，實際費用可能因路況有所不同。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL7-mc-001",
+        "question": "詢問如何去市中心，哪句最正確？",
+        "options": [
+          {
+            "en": "Where is the city center?",
+            "zh": "市中心在哪裡？"
+          },
+          {
+            "en": "How can I get to the city center?",
+            "zh": "我怎麼去市中心？"
+          },
+          {
+            "en": "Take me to city center.",
+            "zh": "帶我去市中心。"
+          },
+          {
+            "en": "I want city center.",
+            "zh": "我要市中心。"
+          }
+        ],
+        "answer": "How can I get to the city center?"
+      },
+      {
+        "id": "qL7-mc-002",
+        "question": "「airport express train」是指？",
+        "options": [
+          {
+            "en": "A slow train to the airport",
+            "zh": "慢速的機場火車"
+          },
+          {
+            "en": "A fast train connecting the airport to the city",
+            "zh": "連接機場與市區的快線火車"
+          },
+          {
+            "en": "An express bus to the airport",
+            "zh": "機場快速公車"
+          },
+          {
+            "en": "A taxi service at the airport",
+            "zh": "機場計程車服務"
+          }
+        ],
+        "answer": "A fast train connecting the airport to the city"
+      },
+      {
+        "id": "qL7-mc-003",
+        "question": "搭計程車去飯店，應該說？",
+        "options": [
+          {
+            "en": "I want the Hilton Hotel.",
+            "zh": "我要希爾頓飯店。"
+          },
+          {
+            "en": "To the Hilton Hotel, please.",
+            "zh": "麻煩到希爾頓飯店。"
+          },
+          {
+            "en": "Hilton Hotel now.",
+            "zh": "現在去希爾頓飯店。"
+          },
+          {
+            "en": "Drive to Hilton fast.",
+            "zh": "快點開車去希爾頓。"
+          }
+        ],
+        "answer": "To the Hilton Hotel, please."
+      },
+      {
+        "id": "qL7-mc-004",
+        "question": "「one-way ticket」的意思是？",
+        "options": [
+          {
+            "en": "A round-trip ticket",
+            "zh": "來回票"
+          },
+          {
+            "en": "A ticket valid for one day",
+            "zh": "一日有效票"
+          },
+          {
+            "en": "A ticket for a single journey",
+            "zh": "單程票"
+          },
+          {
+            "en": "A group ticket",
+            "zh": "團體票"
+          }
+        ],
+        "answer": "A ticket for a single journey"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL7-fi-001",
+        "question": "Where can I ______ a ticket?（我在哪裡可以買票？）",
+        "answer": "buy"
+      },
+      {
+        "id": "qL7-fi-002",
+        "question": "I need a one-______ ticket.（我需要一張單程票。）",
+        "answer": "way"
+      },
+      {
+        "id": "qL7-fi-003",
+        "question": "How long is the ______?（車程要多久？）",
+        "answer": "ride"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL7-li-001",
+        "sentence_id": "d1"
+      },
+      {
+        "id": "qL7-li-002",
+        "sentence_id": "d5"
+      },
+      {
+        "id": "qL7-li-003",
+        "sentence_id": "d11"
+      }
+    ]
+  }
+}

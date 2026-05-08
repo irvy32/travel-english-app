@@ -1,0 +1,410 @@
+{
+  "chapter_id": "L7",
+  "chapter_name": "商務性旅遊基本對話",
+  "description": "簡單的商務拜訪、會前寒暄、交換名片與安排會議時間。包含自我介紹職位、說明來訪目的、確認會議地點與時間。",
+  "sentences": [
+    {
+      "id": "L7-d1",
+      "role": "訪客",
+      "en": "Good morning, I have a 10 o'clock appointment with Mr. Smith from the Sales Department.",
+      "zh": "早安，我和銷售部的史密斯先生約了10點鐘見面。",
+      "keywords": [
+        {
+          "word": "appointment",
+          "kk": "/əˈpɔɪntmənt/",
+          "zh": "約會，預約"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "商務旅行"
+      ],
+      "tips": "商務旅行中，準時出席並事先閱讀議程，能展現對對方時間的尊重，有助建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L7-d2",
+      "role": "接待員",
+      "en": "Good morning. May I have your name and company, please?",
+      "zh": "早安。請問您的姓名和公司是？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "長住租屋",
+        "禮貌用語",
+        "委婉請求"
+      ],
+      "tips": "簽租約前，確認 utilities included?（水電費是否含在租金內）及 furnished?（是否含家具），以免入住後有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L7-d3",
+      "role": "訪客",
+      "en": "I'm David Chen from Global Tech, based in Taipei.",
+      "zh": "我是大衛·陳，來自台北的環球科技公司。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "商務旅行中，準時出席並事先閱讀議程，能展現對對方時間的尊重，有助建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L7-d4",
+      "role": "接待員",
+      "en": "Thank you, Mr. Chen. Please take a seat. I'll let Mr. Smith know you've arrived.",
+      "zh": "謝謝您，陳先生。請稍坐。我會通知史密斯先生您已經到了。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "長住租屋",
+        "禮貌用語"
+      ],
+      "tips": "簽租約前，確認 utilities included?（水電費是否含在租金內）及 furnished?（是否含家具），以免入住後有爭議。",
+      "audio": null
+    },
+    {
+      "id": "L7-d5",
+      "role": "訪客",
+      "en": "Nice to meet you, Mr. Smith. Thank you for taking the time to see me.",
+      "zh": "很高興認識您，史密斯先生。謝謝您抽空與我會面。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "表達理解"
+      ],
+      "tips": "商務旅行中，準時出席並事先閱讀議程，能展現對對方時間的尊重，有助建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L7-d6",
+      "role": "史密斯先生",
+      "en": "The pleasure is mine. I've heard good things about your company's latest products.",
+      "zh": "這是我的榮幸。我聽說貴公司最新產品的評價很好。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "商務旅行中，準時出席並事先閱讀議程，能展現對對方時間的尊重，有助建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L7-d7",
+      "role": "訪客",
+      "en": "Here is my business card. The purpose of my visit is to introduce our new service package.",
+      "zh": "這是我的名片。我此次來訪的目的是介紹我們的新服務方案。",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "商務旅行"
+      ],
+      "tips": "會議後記得 follow up（後續追蹤），可說 I'll send you the proposal by email，展現專業度。",
+      "audio": null
+    },
+    {
+      "id": "L7-d8",
+      "role": "史密斯先生",
+      "en": "Great. Let's proceed to the meeting room. My colleague, Ms. Brown, will be joining us in a moment.",
+      "zh": "很好。我們到會議室去吧。我的同事布朗女士稍後會加入我們。",
+      "keywords": [
+        {
+          "word": "colleague",
+          "kk": "/ˈkɑlig/",
+          "zh": "同事"
+        }
+      ],
+      "level": "B1",
+      "tags": [
+        "住宿",
+        "商務旅行"
+      ],
+      "tips": "商務旅行前，確認對方的 agenda（議程）並準備好個人名片，初次見面握手並說 Nice to meet you 是基本禮儀。",
+      "audio": null
+    },
+    {
+      "id": "L7-s1",
+      "role": "練習句",
+      "en": "I'm here to discuss a potential partnership.",
+      "zh": "我來這裡是討論潛在的合作夥伴關係。",
+      "keywords": [
+        {
+          "word": "potential",
+          "kk": "/pəˈtɛnʃəl/",
+          "zh": "潛在的"
+        },
+        {
+          "word": "partnership",
+          "kk": "/ˈpɑrtnɚˌʃɪp/",
+          "zh": "合作夥伴關係"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "商務旅行中，準時出席並事先閱讀議程，能展現對對方時間的尊重，有助建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L7-s2",
+      "role": "練習句",
+      "en": "Let me give you a brief overview of our company.",
+      "zh": "讓我為您簡要介紹一下我們公司。",
+      "keywords": [
+        {
+          "word": "overview",
+          "kk": "/ˈoʊvɚˌvju/",
+          "zh": "概述，總覽"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "商務旅行中，準時出席並事先閱讀議程，能展現對對方時間的尊重，有助建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L7-s3",
+      "role": "練習句",
+      "en": "Could we schedule a follow-up meeting next week?",
+      "zh": "我們可以安排下週開一次後續會議嗎？",
+      "keywords": [
+        {
+          "word": "schedule",
+          "kk": "/ˈskɛdʒul/",
+          "zh": "安排，排定"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "商務旅行"
+      ],
+      "tips": "商務旅行前，確認對方的 agenda（議程）並準備好個人名片，初次見面握手並說 Nice to meet you 是基本禮儀。",
+      "audio": null
+    },
+    {
+      "id": "L7-s4",
+      "role": "練習句",
+      "en": "What's the best way to contact you after I return to my office?",
+      "zh": "我回到辦公室後，用什麼方式聯繫您最好？",
+      "keywords": [],
+      "level": "B1",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "商務旅行中，準時出席並事先閱讀議程，能展現對對方時間的尊重，有助建立良好的第一印象。",
+      "audio": null
+    },
+    {
+      "id": "L7-s5",
+      "role": "練習句",
+      "en": "I'll prepare a proposal and send it to you by email.",
+      "zh": "我會準備一份提案，用電子郵件發送給您。",
+      "keywords": [
+        {
+          "word": "proposal",
+          "kk": "/prəˈpoʊzl/",
+          "zh": "提案，建議"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "商務旅行"
+      ],
+      "tips": "會議後記得 follow up（後續追蹤），可說 I'll send you the proposal by email，展現專業度。",
+      "audio": null
+    },
+    {
+      "id": "L7-s6",
+      "role": "練習句",
+      "en": "Is there a convenient time for a conference call with your team?",
+      "zh": "和您的團隊進行電話會議，什麼時間比較方便？",
+      "keywords": [
+        {
+          "word": "convenient",
+          "kk": "/kənˈvinjənt/",
+          "zh": "方便的"
+        },
+        {
+          "word": "conference",
+          "kk": "/ˈkɑnfərəns/",
+          "zh": "會議"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "商務旅行"
+      ],
+      "tips": "商務旅行前，確認對方的 agenda（議程）並準備好個人名片，初次見面握手並說 Nice to meet you 是基本禮儀。",
+      "audio": null
+    },
+    {
+      "id": "L7-s7",
+      "role": "練習句",
+      "en": "I look forward to working with you.",
+      "zh": "我期待與您合作。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "進階旅遊",
+        "英語溝通"
+      ],
+      "tips": "商務旅行中，準時出席並事先閱讀議程，能展現對對方時間的尊重，有助建立良好的第一印象。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L7-w1",
+      "word": "appointment",
+      "kk": "/əˈpɔɪntmənt/",
+      "pos": "n.",
+      "zh": "約會，預約",
+      "example_en": "I made an appointment with the client for Tuesday.",
+      "example_zh": "我和客戶約了星期二見面。"
+    },
+    {
+      "id": "L7-w2",
+      "word": "potential",
+      "kk": "/pəˈtɛnʃəl/",
+      "pos": "adj.",
+      "zh": "潛在的",
+      "example_en": "We see great potential in this market.",
+      "example_zh": "我們認為這個市場有很大的潛力。"
+    },
+    {
+      "id": "L7-w3",
+      "word": "partnership",
+      "kk": "/ˈpɑrtnɚˌʃɪp/",
+      "pos": "n.",
+      "zh": "合作夥伴關係",
+      "example_en": "We are exploring a new partnership with a German firm.",
+      "example_zh": "我們正在探索與一家德國公司的新合作關係。"
+    },
+    {
+      "id": "L7-w4",
+      "word": "overview",
+      "kk": "/ˈoʊvɚˌvju/",
+      "pos": "n.",
+      "zh": "概述，總覽",
+      "example_en": "He gave us an overview of the project timeline.",
+      "example_zh": "他向我們概述了專案的時間表。"
+    },
+    {
+      "id": "L7-w5",
+      "word": "schedule",
+      "kk": "/ˈskɛdʒul/",
+      "pos": "v.",
+      "zh": "安排，排定",
+      "example_en": "Let's schedule a call for Friday afternoon.",
+      "example_zh": "我們安排星期五下午通個電話吧。"
+    },
+    {
+      "id": "L7-w6",
+      "word": "proposal",
+      "kk": "/prəˈpoʊzl/",
+      "pos": "n.",
+      "zh": "提案，建議",
+      "example_en": "We will review your proposal carefully.",
+      "example_zh": "我們會仔細審閱您的提案。"
+    },
+    {
+      "id": "L7-w7",
+      "word": "conference call",
+      "kk": "/ˈkɑnfərəns kɔl/",
+      "pos": "n.",
+      "zh": "電話會議",
+      "example_en": "We have a weekly conference call with our overseas colleagues.",
+      "example_zh": "我們每週和海外同事進行一次電話會議。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L7-h1",
+      "title": "自我介紹：姓名、公司、職位、來訪目的",
+      "description": "在商務場合，初次見面時應清晰、簡潔地說明自己的基本資訊和來訪目的，建立專業形象。",
+      "example_en": "My name is Lisa Wang. I'm the Marketing Manager from Sunrise Corp, and I'm here to present our new campaign ideas.",
+      "example_zh": "我是王麗莎。我是日出公司的行銷經理，我來這裡是為了介紹我們的新廣告企劃構想。"
+    },
+    {
+      "id": "L7-h2",
+      "title": "交換名片與後續聯繫",
+      "description": "交換名片是商務禮儀的一部分。收到名片後可稍作端詳，並提及後續聯繫方式，展現尊重與專業。",
+      "example_en": "Thank you for your card. I'll be sure to follow up with an email next week.",
+      "example_zh": "謝謝您的名片。我下週一定會發電子郵件給您做後續聯繫。"
+    },
+    {
+      "id": "L7-h3",
+      "title": "用 I look forward to... 表達期待",
+      "description": "在會面結束時，用這個句型表達對未來合作或再次見面的期待，是專業且有禮貌的結束語。",
+      "example_en": "I look forward to hearing your feedback.",
+      "example_zh": "我期待聽到您的回饋。"
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL7-mc-001",
+        "question": "下列哪一句英文的意思是「早安，我和銷售部的史密斯先生約了10點鐘見面。」？",
+        "options": [
+          {
+            "en": "Good morning, I have a 10 o'clock appointment with Mr. Smith from the Sales Department.",
+            "zh": "早安，我和銷售部的史密斯先生約了10點鐘見面。"
+          },
+          {
+            "en": "Good morning. May I have your name and company, please?",
+            "zh": "早安。請問您的姓名和公司是？"
+          },
+          {
+            "en": "I'm David Chen from Global Tech, based in Taipei.",
+            "zh": "我是大衛·陳，來自台北的環球科技公司。"
+          },
+          {
+            "en": "Thank you, Mr. Chen. Please take a seat. I'll let Mr. Smith know you've arrived.",
+            "zh": "謝謝您，陳先生。請稍坐。我會通知史密斯先生您已經到了。"
+          }
+        ],
+        "answer": "Good morning, I have a 10 o'clock appointment with Mr. Smith from the Sales Department."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL7-fi-001",
+        "question": "Good morning, I have a 10 o'clock ______ with Mr. Smith from the Sales Department.",
+        "answer": "appointment"
+      },
+      {
+        "id": "qL7-fi-002",
+        "question": "Good ______. May I have your name and company, please?",
+        "answer": "morning"
+      },
+      {
+        "id": "qL7-fi-003",
+        "question": "I'm David Chen from Global Tech, ______ in Taipei.",
+        "answer": "based"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL7-li-001",
+        "sentence_id": "L7-d1"
+      },
+      {
+        "id": "qL7-li-002",
+        "sentence_id": "L7-d3"
+      },
+      {
+        "id": "qL7-li-003",
+        "sentence_id": "L7-d5"
+      }
+    ]
+  }
+}

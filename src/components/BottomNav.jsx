@@ -9,7 +9,7 @@ const NAV_ITEMS = [
 
 export default function BottomNav({ currentPage = 'home', onNavigate = noop }) {
   return (
-    <nav className="sticky bottom-0 z-50 h-14 border-t border-gray-200 bg-white md:hidden">
+    <nav className="sticky bottom-0 z-50 h-14 border-t border-gray-200 bg-white">
       <div className="grid h-full grid-cols-4">
         {NAV_ITEMS.map((item) => {
           const isActive = currentPage === item.key

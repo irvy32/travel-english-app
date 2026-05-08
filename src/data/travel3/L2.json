@@ -1,0 +1,405 @@
+{
+  "chapter_id": "L2",
+  "chapter_name": "機場報到與托運行李",
+  "sentences": [
+    {
+      "id": "d1",
+      "role": "旅客",
+      "en": "Good morning. I'm here to check in for my flight to London.",
+      "zh": "早安，我來辦理飛往倫敦的登機手續。",
+      "keywords": [
+        {
+          "word": "flight",
+          "kk": "/flaɪt/",
+          "zh": "班機"
+        },
+        {
+          "word": "check in",
+          "kk": "/tʃɛk ɪn/",
+          "zh": "辦理登機/入住手續"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "報到",
+        "行李",
+        "旅客"
+      ],
+      "tips": "辦理登機手續時，「I'm here to check in for my flight to...」是最完整的開場句，清楚說明目的地。",
+      "audio": null
+    },
+    {
+      "id": "d2",
+      "role": "地勤人員",
+      "en": "Good morning. May I see your passport and ticket, please?",
+      "zh": "早安，請讓我看看您的護照和機票。",
+      "keywords": [
+        {
+          "word": "passport",
+          "kk": "/ˈpæsˌpɔrt/",
+          "zh": "護照"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "地勤人員",
+        "機場",
+        "報到",
+        "行李"
+      ],
+      "tips": "「May I see...?」是有禮貌的請求句型，比「Show me...」更得體，常見於機場及官方服務場合。",
+      "audio": null
+    },
+    {
+      "id": "d3",
+      "role": "旅客",
+      "en": "Here you are.",
+      "zh": "請看。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "報到",
+        "行李",
+        "旅客"
+      ],
+      "tips": "「Here you are.」是遞交物品時最常用的說法，語氣自然禮貌，也可以說「Here it is.」",
+      "audio": null
+    },
+    {
+      "id": "d4",
+      "role": "地勤人員",
+      "en": "How many bags are you checking in?",
+      "zh": "您要托運幾件行李？",
+      "keywords": [
+        {
+          "word": "checking",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "地勤人員",
+        "機場",
+        "報到",
+        "行李"
+      ],
+      "tips": "「How many bags are you checking in?」詢問托運件數，注意用「How many」配合可數名詞。",
+      "audio": null
+    },
+    {
+      "id": "d5",
+      "role": "旅客",
+      "en": "Just this one suitcase.",
+      "zh": "只有這個行李箱。",
+      "keywords": [
+        {
+          "word": "suitcase",
+          "kk": "/ˈsutˌkes/",
+          "zh": "行李箱"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "報到",
+        "行李",
+        "旅客"
+      ],
+      "tips": "「Just this one...」是「只有這一個」的口語說法，簡潔有力，適合在辦理手續時快速回應。",
+      "audio": null
+    },
+    {
+      "id": "d6",
+      "role": "地勤人員",
+      "en": "Please put it on the scale. ... It's 25 kilograms. It's 5 kilos over the limit.",
+      "zh": "請放到磅秤上。... 25公斤，超重5公斤。",
+      "keywords": [
+        {
+          "word": "scale",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        },
+        {
+          "word": "kilograms",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "地勤人員",
+        "機場",
+        "報到",
+        "行李"
+      ],
+      "tips": "行李超重時，地勤人員會先告知重量，再說超過多少公斤（kilos over the limit），記得提前確認行李重量。",
+      "audio": null
+    },
+    {
+      "id": "d7",
+      "role": "旅客",
+      "en": "Oh, what should I do?",
+      "zh": "哦，我該怎麼辦？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "報到",
+        "行李",
+        "旅客"
+      ],
+      "tips": "「What should I do?」是詢問建議的常用句，語氣帶有不知所措，適合遇到問題時使用。",
+      "audio": null
+    },
+    {
+      "id": "d8",
+      "role": "地勤人員",
+      "en": "You can pay an extra fee, or take some things out for your carry-on.",
+      "zh": "您可以支付額外費用，或是拿出一些東西放進隨身行李。",
+      "keywords": [
+        {
+          "word": "carry-on",
+          "kk": "/ˈkærɪ ɑn/",
+          "zh": "隨身行李"
+        },
+        {
+          "word": "extra fee",
+          "kk": "/ˈɛkstrə fi/",
+          "zh": "額外費用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "地勤人員",
+        "機場",
+        "報到",
+        "行李"
+      ],
+      "tips": "面對超重行李，工作人員通常提供付費或減少行李兩個選項，可以用「Or」連接兩個建議。",
+      "audio": null
+    },
+    {
+      "id": "d9",
+      "role": "旅客",
+      "en": "I will take some things out.",
+      "zh": "我拿一些東西出來好了。",
+      "keywords": [
+        {
+          "word": "things",
+          "kk": "/--/",
+          "zh": "（重要單字）"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "報到",
+        "行李",
+        "旅客"
+      ],
+      "tips": "「I will take some things out.」表示主動選擇減少行李，語氣積極，展現解決問題的態度。",
+      "audio": null
+    },
+    {
+      "id": "d10",
+      "role": "地勤人員",
+      "en": "Ok. Would you like a window seat or an aisle seat?",
+      "zh": "好的。您想要靠窗的座位還是靠走道的座位？",
+      "keywords": [
+        {
+          "word": "window seat",
+          "kk": "/ˈwɪndoʊ sit/",
+          "zh": "靠窗座位"
+        },
+        {
+          "word": "aisle seat",
+          "kk": "/aɪl sit/",
+          "zh": "靠走道座位"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "地勤人員",
+        "機場",
+        "報到",
+        "行李"
+      ],
+      "tips": "「Would you like...?」是提供選擇的禮貌問句，比「Do you want...?」更正式，常見於機場服務。",
+      "audio": null
+    },
+    {
+      "id": "d11",
+      "role": "旅客",
+      "en": "A window seat, please.",
+      "zh": "請給我靠窗的座位。",
+      "keywords": [
+        {
+          "word": "window seat",
+          "kk": "/ˈwɪndoʊ sit/",
+          "zh": "靠窗座位"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "機場",
+        "報到",
+        "行李",
+        "旅客"
+      ],
+      "tips": "選擇座位時，「please」放在句尾表達禮貌請求，是標準的服務用語回應方式。",
+      "audio": null
+    },
+    {
+      "id": "d12",
+      "role": "地勤人員",
+      "en": "Here is your boarding pass. Your gate is B12.",
+      "zh": "這是您的登機證。您的登機門是B12。",
+      "keywords": [
+        {
+          "word": "boarding pass",
+          "kk": "/ˈbɔrdɪŋ pæs/",
+          "zh": "登機證"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "地勤人員",
+        "機場",
+        "報到",
+        "行李"
+      ],
+      "tips": "拿到登機證後記下登機門號碼（gate）和登機時間，避免在大型機場迷路或趕不上登機。",
+      "audio": null
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL2-mc-001",
+        "question": "辦理登機報到手續英文怎麼說？",
+        "options": [
+          {
+            "en": "check out",
+            "zh": "退房"
+          },
+          {
+            "en": "check in",
+            "zh": "辦理報到"
+          },
+          {
+            "en": "board",
+            "zh": "登機"
+          },
+          {
+            "en": "land",
+            "zh": "降落"
+          }
+        ],
+        "answer": "check in"
+      },
+      {
+        "id": "qL2-mc-002",
+        "question": "行李超重時，地勤人員最可能說？",
+        "options": [
+          {
+            "en": "Your bag is too heavy for the plane.",
+            "zh": "你的行李對飛機太重了。"
+          },
+          {
+            "en": "It's 5 kilos over the limit.",
+            "zh": "超重5公斤。"
+          },
+          {
+            "en": "You need a bigger bag.",
+            "zh": "你需要更大的包。"
+          },
+          {
+            "en": "Please leave your bag here.",
+            "zh": "請把行李留在這裡。"
+          }
+        ],
+        "answer": "It's 5 kilos over the limit."
+      },
+      {
+        "id": "qL2-mc-003",
+        "question": "「aisle seat」的中文是？",
+        "options": [
+          {
+            "en": "靠窗座位",
+            "zh": "window seat"
+          },
+          {
+            "en": "靠走道座位",
+            "zh": "aisle seat"
+          },
+          {
+            "en": "中間座位",
+            "zh": "middle seat"
+          },
+          {
+            "en": "出口座位",
+            "zh": "exit seat"
+          }
+        ],
+        "answer": "靠走道座位"
+      },
+      {
+        "id": "qL2-mc-004",
+        "question": "「Would you like a window seat or an aisle seat?」這句話的目的是？",
+        "options": [
+          {
+            "en": "To ask about your bag",
+            "zh": "詢問行李"
+          },
+          {
+            "en": "To offer a seat choice",
+            "zh": "提供座位選擇"
+          },
+          {
+            "en": "To check your ticket",
+            "zh": "確認機票"
+          },
+          {
+            "en": "To ask your destination",
+            "zh": "詢問目的地"
+          }
+        ],
+        "answer": "To offer a seat choice"
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL2-fi-001",
+        "question": "I need to check ______ for my flight.（我需要辦理登機手續。）",
+        "answer": "in"
+      },
+      {
+        "id": "qL2-fi-002",
+        "question": "Is my bag ______?（我的行李超重了嗎？）",
+        "answer": "overweight"
+      },
+      {
+        "id": "qL2-fi-003",
+        "question": "I ______ a window seat.（我比較喜歡靠窗的座位。）",
+        "answer": "prefer"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL2-li-001",
+        "sentence_id": "d1"
+      },
+      {
+        "id": "qL2-li-002",
+        "sentence_id": "d5"
+      },
+      {
+        "id": "qL2-li-003",
+        "sentence_id": "d11"
+      }
+    ]
+  }
+}

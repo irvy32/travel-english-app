@@ -1,0 +1,496 @@
+{
+  "chapter_id": "L6",
+  "chapter_name": "銀行與郵局基本業務",
+  "description": "到銀行或郵局辦理簡單業務。包含：開戶、提款、存款、匯款、寄包裹、寄掛號信，詢問手續費。",
+  "sentences": [
+    {
+      "id": "L6-d1",
+      "role": "本人",
+      "en": "Good morning. I'd like to open a bank account.",
+      "zh": "早安。我想開一個銀行帳戶。",
+      "keywords": [
+        {
+          "word": "account",
+          "kk": "/əˈkaʊnt/",
+          "zh": "帳戶"
+        },
+        {
+          "word": "morning",
+          "kk": "/ˈmɔrnɪŋ/",
+          "zh": "早上"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行",
+        "禮貌用語"
+      ],
+      "tips": "「I'd like to...」比「I want to...」更有禮貌，是口語中最常用的委婉請求句型。",
+      "audio": null
+    },
+    {
+      "id": "L6-d2",
+      "role": "行員",
+      "en": "Certainly. Do you have your passport with you?",
+      "zh": "好的。您帶護照了嗎？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "詢問"
+      ],
+      "tips": "「Do you have...?」詢問對方是否有某物，是日常生活中最萬用的問句之一。",
+      "audio": null
+    },
+    {
+      "id": "L6-d3",
+      "role": "本人",
+      "en": "Yes, here it is.",
+      "zh": "有的，在這裡。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "日常英文",
+        "生活口語"
+      ],
+      "tips": "銀行辦業務遇到不懂的術語，說 Could you explain that? 請對方再說明一次。",
+      "audio": null
+    },
+    {
+      "id": "L6-d4",
+      "role": "行員",
+      "en": "Thank you. What type of account do you need?",
+      "zh": "謝謝。您需要哪一種帳戶？",
+      "keywords": [
+        {
+          "word": "account",
+          "kk": "/əˈkaʊnt/",
+          "zh": "帳戶"
+        },
+        {
+          "word": "need",
+          "kk": "/nid/",
+          "zh": "需要"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行",
+        "禮貌用語",
+        "詢問"
+      ],
+      "tips": "銀行辦業務遇到不懂的術語，說 Could you explain that? 請對方再說明一次。",
+      "audio": null
+    },
+    {
+      "id": "L6-d5",
+      "role": "本人",
+      "en": "I need a savings account.",
+      "zh": "我需要一個儲蓄帳戶。",
+      "keywords": [
+        {
+          "word": "account",
+          "kk": "/əˈkaʊnt/",
+          "zh": "帳戶"
+        },
+        {
+          "word": "need",
+          "kk": "/nid/",
+          "zh": "需要"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行"
+      ],
+      "tips": "銀行辦業務遇到不懂的術語，說 Could you explain that? 請對方再說明一次。",
+      "audio": null
+    },
+    {
+      "id": "L6-d6",
+      "role": "行員",
+      "en": "Alright. Please fill out this form.",
+      "zh": "好的。請填寫這張表格。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "銀行辦業務遇到不懂的術語，說 Could you explain that? 請對方再說明一次。",
+      "audio": null
+    },
+    {
+      "id": "L6-d7",
+      "role": "本人",
+      "en": "I also want to deposit some cash.",
+      "zh": "我還想存一些現金。",
+      "keywords": [
+        {
+          "word": "deposit",
+          "kk": "/dɪˈpɑzɪt/",
+          "zh": "存款，存入"
+        },
+        {
+          "word": "want",
+          "kk": "/wɑnt/",
+          "zh": "想要"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行"
+      ],
+      "tips": "銀行業務前準備好帳號與證件，查詢餘額說 What's my balance? 或 Can I check my balance?",
+      "audio": null
+    },
+    {
+      "id": "L6-d8",
+      "role": "行員",
+      "en": "How much would you like to deposit?",
+      "zh": "您想存多少錢？",
+      "keywords": [
+        {
+          "word": "deposit",
+          "kk": "/dɪˈpɑzɪt/",
+          "zh": "存款，存入"
+        },
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行",
+        "禮貌用語"
+      ],
+      "tips": "問價格用 How much，問可數數量用 How many，兩者用法不同，需要注意區分。",
+      "audio": null
+    },
+    {
+      "id": "L6-d9",
+      "role": "本人",
+      "en": "Five hundred dollars, please.",
+      "zh": "請存五百美元。",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "銀行辦業務遇到不懂的術語，說 Could you explain that? 請對方再說明一次。",
+      "audio": null
+    },
+    {
+      "id": "L6-s1",
+      "role": "練習句",
+      "en": "I want to withdraw some money.",
+      "zh": "我想領一些錢。",
+      "keywords": [
+        {
+          "word": "withdraw",
+          "kk": "/wɪðˈdrɔ/",
+          "zh": "提款"
+        },
+        {
+          "word": "want",
+          "kk": "/wɑnt/",
+          "zh": "想要"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行"
+      ],
+      "tips": "銀行業務前準備好帳號與證件，查詢餘額說 What's my balance? 或 Can I check my balance?",
+      "audio": null
+    },
+    {
+      "id": "L6-s2",
+      "role": "練習句",
+      "en": "Can I see my balance?",
+      "zh": "我可以看一下我的餘額嗎？",
+      "keywords": [
+        {
+          "word": "balance",
+          "kk": "/ˈbæləns/",
+          "zh": "餘額"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行"
+      ],
+      "tips": "銀行業務前準備好帳號與證件，查詢餘額說 What's my balance? 或 Can I check my balance?",
+      "audio": null
+    },
+    {
+      "id": "L6-s3",
+      "role": "練習句",
+      "en": "I need to send money to my son.",
+      "zh": "我需要匯錢給我兒子。",
+      "keywords": [
+        {
+          "word": "need",
+          "kk": "/nid/",
+          "zh": "需要"
+        },
+        {
+          "word": "send",
+          "kk": "/sɛnd/",
+          "zh": "寄送"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "家庭",
+        "郵局"
+      ],
+      "tips": "銀行辦業務遇到不懂的術語，說 Could you explain that? 請對方再說明一次。",
+      "audio": null
+    },
+    {
+      "id": "L6-s4",
+      "role": "練習句",
+      "en": "What is the fee for this?",
+      "zh": "這個的手續費是多少？",
+      "keywords": [
+        {
+          "word": "fee",
+          "kk": "/fi/",
+          "zh": "費用"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "銀行",
+        "詢問"
+      ],
+      "tips": "銀行辦業務遇到不懂的術語，說 Could you explain that? 請對方再說明一次。",
+      "audio": null
+    },
+    {
+      "id": "L6-s5",
+      "role": "練習句",
+      "en": "I'd like to send this package to Taiwan.",
+      "zh": "我想寄這個包裹到台灣。",
+      "keywords": [
+        {
+          "word": "package",
+          "kk": "/ˈpækɪdʒ/",
+          "zh": "包裹"
+        },
+        {
+          "word": "like",
+          "kk": "/laɪk/",
+          "zh": "喜歡"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "郵局",
+        "禮貌用語"
+      ],
+      "tips": "「I'd like to...」比「I want to...」更有禮貌，是口語中最常用的委婉請求句型。",
+      "audio": null
+    },
+    {
+      "id": "L6-s6",
+      "role": "練習句",
+      "en": "How much is the postage?",
+      "zh": "郵資多少錢？",
+      "keywords": [],
+      "level": "A2",
+      "tags": [
+        "郵局"
+      ],
+      "tips": "問價格用 How much，問可數數量用 How many，兩者用法不同，需要注意區分。",
+      "audio": null
+    },
+    {
+      "id": "L6-s7",
+      "role": "練習句",
+      "en": "I want to buy some stamps.",
+      "zh": "我想買一些郵票。",
+      "keywords": [
+        {
+          "word": "want",
+          "kk": "/wɑnt/",
+          "zh": "想要"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物",
+        "郵局"
+      ],
+      "tips": "銀行辦業務遇到不懂的術語，說 Could you explain that? 請對方再說明一次。",
+      "audio": null
+    },
+    {
+      "id": "L6-s8",
+      "role": "練習句",
+      "en": "Can I have a receipt?",
+      "zh": "可以給我收據嗎？",
+      "keywords": [
+        {
+          "word": "receipt",
+          "kk": "/rɪˈsit/",
+          "zh": "收據"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "購物"
+      ],
+      "tips": "銀行辦業務遇到不懂的術語，說 Could you explain that? 請對方再說明一次。",
+      "audio": null
+    },
+    {
+      "id": "L6-s9",
+      "role": "練習句",
+      "en": "Thank you for your help.",
+      "zh": "謝謝你的幫忙。",
+      "keywords": [
+        {
+          "word": "help",
+          "kk": "/hɛlp/",
+          "zh": "幫助"
+        }
+      ],
+      "level": "A2",
+      "tags": [
+        "禮貌用語"
+      ],
+      "tips": "銀行辦業務遇到不懂的術語，說 Could you explain that? 請對方再說明一次。",
+      "audio": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "L6-w1",
+      "word": "account",
+      "kk": "/əˈkaʊnt/",
+      "pos": "n.",
+      "zh": "帳戶",
+      "example_en": "I have a bank account here.",
+      "example_zh": "我在這裡有一個銀行帳戶。"
+    },
+    {
+      "id": "L6-w2",
+      "word": "deposit",
+      "kk": "/dɪˈpɑzɪt/",
+      "pos": "v.",
+      "zh": "存款，存入",
+      "example_en": "I need to deposit this check.",
+      "example_zh": "我需要存入這張支票。"
+    },
+    {
+      "id": "L6-w3",
+      "word": "withdraw",
+      "kk": "/wɪðˈdrɔ/",
+      "pos": "v.",
+      "zh": "提款",
+      "example_en": "I want to withdraw $100.",
+      "example_zh": "我想提領100美元。"
+    },
+    {
+      "id": "L6-w4",
+      "word": "balance",
+      "kk": "/ˈbæləns/",
+      "pos": "n.",
+      "zh": "餘額",
+      "example_en": "What's my current balance?",
+      "example_zh": "我目前的餘額是多少？"
+    },
+    {
+      "id": "L6-w5",
+      "word": "package",
+      "kk": "/ˈpækɪdʒ/",
+      "pos": "n.",
+      "zh": "包裹",
+      "example_en": "This package is for my friend.",
+      "example_zh": "這個包裹是要寄給我朋友的。"
+    }
+  ],
+  "grammar_highlights": [
+    {
+      "id": "L6-h1",
+      "title": "表達需求：I'd like to... 或 I want to...",
+      "description": "在銀行或郵局辦理業務時，用 I'd like to...（我想要...）開頭，比較有禮貌。",
+      "example_en": "I'd like to send a letter to Japan.",
+      "example_zh": "我想寄一封信到日本。"
+    },
+    {
+      "id": "L6-h2",
+      "title": "詢問費用：What is the fee? 或 How much is the postage?",
+      "description": "進行交易前，記得詢問手續費（fee）或郵資（postage），避免結帳時才發現太貴。",
+      "example_en": "How much is the fee for a wire transfer?",
+      "example_zh": "電匯的手續費是多少？"
+    },
+    {
+      "id": "L6-h3",
+      "title": "準備好證件與資料",
+      "description": "在國外辦銀行業務通常需要護照（passport）和地址證明（proof of address），最好事先準備好。",
+      "example_en": "I have my passport and my driver's license.",
+      "example_zh": ""
+    }
+  ],
+  "quiz": {
+    "multiple_choice": [
+      {
+        "id": "qL6-mc-001",
+        "question": "下列哪一句英文的意思是「早安。我想開一個銀行帳戶。」？",
+        "options": [
+          {
+            "en": "Good morning. I'd like to open a bank account.",
+            "zh": "早安。我想開一個銀行帳戶。"
+          },
+          {
+            "en": "Certainly. Do you have your passport with you?",
+            "zh": "好的。您帶護照了嗎？"
+          },
+          {
+            "en": "Yes, here it is.",
+            "zh": "有的，在這裡。"
+          },
+          {
+            "en": "Thank you. What type of account do you need?",
+            "zh": "謝謝。您需要哪一種帳戶？"
+          }
+        ],
+        "answer": "Good morning. I'd like to open a bank account."
+      }
+    ],
+    "fill_in": [
+      {
+        "id": "qL6-fi-001",
+        "question": "Good ______. I'd like to open a bank account.",
+        "answer": "morning"
+      },
+      {
+        "id": "qL6-fi-002",
+        "question": "Certainly. Do you have your ______ with you?",
+        "answer": "passport"
+      },
+      {
+        "id": "qL6-fi-003",
+        "question": "Thank you. What ______ of account do you need?",
+        "answer": "type"
+      }
+    ],
+    "listening": [
+      {
+        "id": "qL6-li-001",
+        "sentence_id": "L6-d1"
+      },
+      {
+        "id": "qL6-li-002",
+        "sentence_id": "L6-d3"
+      },
+      {
+        "id": "qL6-li-003",
+        "sentence_id": "L6-d5"
+      }
+    ]
+  }
+}
