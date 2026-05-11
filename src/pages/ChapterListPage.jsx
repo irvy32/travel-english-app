@@ -41,7 +41,6 @@ export default function ChapterListPage() {
       const modules = GLOB_MAP[topicId] ?? {}
       const entries = Object.entries(modules)
 
-      // 同時載入資料和保留檔名
       const loaded = await Promise.all(
         entries.map(async ([path, loader]) => {
           const mod = await loader()
@@ -52,9 +51,7 @@ export default function ChapterListPage() {
         })
       )
 
-      // 用 chapter_id 排序
       loaded.sort((a, b) => sortById(a.data, b.data))
-
       setChapters(loaded)
       setLoading(false)
     }
@@ -74,7 +71,8 @@ export default function ChapterListPage() {
       <div className="max-w-2xl mx-auto px-4 py-4">
         <h2 className="text-xl font-bold text-[#0F1F3D] mb-4">選擇章節</h2>
         {chapters.map(({ data: chapter, filename }, idx) => {
-          const learned = storage.getProgress(topicId, chapter.chapter_id)
+          // 用 filename 讀進度，與導航路徑一致
+          const learned = storage.getProgress(topicId, filename)
           const total = chapter.sentences?.length ?? 0
           const progress = total > 0 ? Math.round(learned.length / total * 100) : 0
           return (
